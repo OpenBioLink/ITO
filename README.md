@@ -1,2 +1,2 @@
-# ITM
-Intelligence Task Mapping Framework
+# Intelligence Task Mapping Framework (ITM)
+
