@@ -1,105 +1,178 @@
-@prefix : <https://ai-strategies.org/ontology/> .
-@prefix dc: <http://purl.org/dc/elements/1.1/> .
-@prefix obo: <http://purl.obolibrary.org/obo/> .
-@prefix owl: <http://www.w3.org/2002/07/owl#> .
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix xml: <http://www.w3.org/XML/1998/namespace> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-@prefix doap: <http://usefulinc.com/ns/doap#> .
-@prefix edam: <http://purl.obolibrary.org/obo/edam#> .
-@prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix oboInOwl: <http://www.geneontology.org/formats/oboInOwl#> .
-@prefix edamontology: <http://edamontology.org/> .
-@base <https://ai-strategies.org/ontology/> .
-
-<https://ai-strategies.org/ontology/> rdf:type owl:Ontology ;
-                                       owl:imports <http://edamontology.org> .
-
-#################################################################
-#    Annotation properties
-#################################################################
-
-###  https://ai-strategies.org/ontology/Web_reference
-:Web_reference rdf:type owl:AnnotationProperty ;
-               rdfs:label "Web reference" ;
-               rdfs:subPropertyOf foaf:page .
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://ai-strategies.org/ontology/"
+     xml:base="https://ai-strategies.org/ontology/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:doap="http://usefulinc.com/ns/doap#"
+     xmlns:edam="http://purl.obolibrary.org/obo/edam#"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
+     xmlns:edamontology="http://edamontology.org/">
+    <owl:Ontology rdf:about="https://ai-strategies.org/ontology/">
+        <owl:imports rdf:resource="http://edamontology.org"/>
+    </owl:Ontology>
+    
 
 
-#################################################################
-#    Object Properties
-#################################################################
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
 
-###  https://ai-strategies.org/ontology/has_metric
-:has_metric rdf:type owl:ObjectProperty ;
-            rdfs:label "has metric" .
-
-
-###  https://ai-strategies.org/ontology/has_part
-:has_part rdf:type owl:ObjectProperty ;
-          rdfs:label "has part" .
+    
 
 
-#################################################################
-#    Classes
-#################################################################
+    <!-- https://ai-strategies.org/ontology/Web_reference -->
 
-###  http://edamontology.org/data_0006
-edamontology:data_0006 rdfs:subClassOf :Data .
-
-
-###  http://edamontology.org/format_1915
-edamontology:format_1915 rdfs:subClassOf :Format .
+    <owl:AnnotationProperty rdf:about="https://ai-strategies.org/ontology/Web_reference">
+        <rdfs:label>Web reference</rdfs:label>
+        <rdfs:subPropertyOf rdf:resource="http://xmlns.com/foaf/0.1/page"/>
+    </owl:AnnotationProperty>
+    
 
 
-###  http://edamontology.org/operation_0004
-edamontology:operation_0004 rdfs:subClassOf :Task .
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
 
 
-###  http://edamontology.org/topic_0003
-edamontology:topic_0003 rdfs:subClassOf :Topic .
+    <!-- https://ai-strategies.org/ontology/has_metric -->
+
+    <owl:ObjectProperty rdf:about="https://ai-strategies.org/ontology/has_metric">
+        <rdfs:label>has metric</rdfs:label>
+    </owl:ObjectProperty>
+    
 
 
-###  https://ai-strategies.org/ontology/Benchmark
-:Benchmark rdf:type owl:Class ;
-           rdfs:label "Benchmark" .
+    <!-- https://ai-strategies.org/ontology/has_part -->
+
+    <owl:ObjectProperty rdf:about="https://ai-strategies.org/ontology/has_part">
+        <rdfs:label>has part</rdfs:label>
+    </owl:ObjectProperty>
+    
 
 
-###  https://ai-strategies.org/ontology/Data
-:Data rdf:type owl:Class .
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
 
 
-###  https://ai-strategies.org/ontology/Format
-:Format rdf:type owl:Class .
+    <!-- http://edamontology.org/data_0006 -->
+
+    <rdf:Description rdf:about="http://edamontology.org/data_0006">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/Data"/>
+    </rdf:Description>
+    
 
 
-###  https://ai-strategies.org/ontology/Metric
-:Metric rdf:type owl:Class ;
-        rdfs:label "Metric" .
+    <!-- http://edamontology.org/format_1915 -->
+
+    <rdf:Description rdf:about="http://edamontology.org/format_1915">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/Format"/>
+    </rdf:Description>
+    
 
 
-###  https://ai-strategies.org/ontology/Task
-:Task rdf:type owl:Class ;
-      rdfs:label "Task" .
+    <!-- http://edamontology.org/operation_0004 -->
+
+    <rdf:Description rdf:about="http://edamontology.org/operation_0004">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/Task"/>
+    </rdf:Description>
+    
 
 
-###  https://ai-strategies.org/ontology/Topic
-:Topic rdf:type owl:Class .
+    <!-- http://edamontology.org/topic_0003 -->
+
+    <rdf:Description rdf:about="http://edamontology.org/topic_0003">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/Topic"/>
+    </rdf:Description>
+    
 
 
-#################################################################
-#    General axioms
-#################################################################
+    <!-- https://ai-strategies.org/ontology/Benchmark -->
 
-[ rdf:type owl:AllDisjointClasses ;
-  owl:members ( edamontology:data_0006
-                edamontology:format_1915
-                edamontology:operation_0004
-                edamontology:topic_0003
-                owl:DeprecatedClass
-                :Metric
-              )
-] .
+    <owl:Class rdf:about="https://ai-strategies.org/ontology/Benchmark">
+        <rdfs:label>Benchmark</rdfs:label>
+    </owl:Class>
+    
 
 
-###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
+    <!-- https://ai-strategies.org/ontology/Data -->
+
+    <owl:Class rdf:about="https://ai-strategies.org/ontology/Data"/>
+    
+
+
+    <!-- https://ai-strategies.org/ontology/Format -->
+
+    <owl:Class rdf:about="https://ai-strategies.org/ontology/Format"/>
+    
+
+
+    <!-- https://ai-strategies.org/ontology/Metric -->
+
+    <owl:Class rdf:about="https://ai-strategies.org/ontology/Metric">
+        <rdfs:label>Metric</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://ai-strategies.org/ontology/Task -->
+
+    <owl:Class rdf:about="https://ai-strategies.org/ontology/Task">
+        <rdfs:label>Task</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://ai-strategies.org/ontology/Topic -->
+
+    <owl:Class rdf:about="https://ai-strategies.org/ontology/Topic"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://edamontology.org/data_0006"/>
+            <rdf:Description rdf:about="http://edamontology.org/format_1915"/>
+            <rdf:Description rdf:about="http://edamontology.org/operation_0004"/>
+            <rdf:Description rdf:about="http://edamontology.org/topic_0003"/>
+            <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#DeprecatedClass"/>
+            <rdf:Description rdf:about="https://ai-strategies.org/ontology/Metric"/>
+        </owl:members>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
