@@ -14,7 +14,7 @@
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
      xmlns:edamontology="http://edamontology.org/">
     <owl:Ontology rdf:about="https://ai-strategies.org/ontology/">
-        <owl:imports rdf:resource="http://edamontology.org"/>
+        <owl:imports rdf:resource="http://edamontology.org/EDAM_1.24.owl"/>
     </owl:Ontology>
     
 
