@@ -56,6 +56,30 @@
     
 
 
+    <!-- http://edamontology.org/has_input -->
+
+    <rdf:Description rdf:about="http://edamontology.org/has_input">
+        <rdfs:subPropertyOf rdf:resource="https://ai-strategies.org/ontology/ITO_01525"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://edamontology.org/has_output -->
+
+    <rdf:Description rdf:about="http://edamontology.org/has_output">
+        <rdfs:subPropertyOf rdf:resource="https://ai-strategies.org/ontology/ITO_01525"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://ai-strategies.org/ontology/ITO_01525 -->
+
+    <owl:ObjectProperty rdf:about="https://ai-strategies.org/ontology/ITO_01525">
+        <rdfs:label xml:lang="de">involves data</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
     <!-- https://ai-strategies.org/ontology/has_metric -->
 
     <owl:ObjectProperty rdf:about="https://ai-strategies.org/ontology/has_metric">
@@ -291,9 +315,8 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00115">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/Task"/>
-        <edamontology:is_refactor_candidate rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</edamontology:is_refactor_candidate>
-        <edamontology:refactor_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</edamontology:refactor_comment>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Methodology</rdfs:label>
+        <edamontology:refactor_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Find better label (was &quot;Methodology&quot; in PapersWithCode data)</edamontology:refactor_comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fundamental AI task</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Methodology</papers_with_code_id>
     </owl:Class>
     
@@ -455,7 +478,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00131">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/Task"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Time Series</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Time Series task</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Time Series</papers_with_code_id>
     </owl:Class>
     
@@ -515,6 +538,12 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00137">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/Task"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://ai-strategies.org/ontology/ITO_01525"/>
+                <owl:someValuesFrom rdf:resource="https://ai-strategies.org/ontology/ITO_01526"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Graph task</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Graphs</papers_with_code_id>
     </owl:Class>
@@ -555,6 +584,12 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00141">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/Task"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://ai-strategies.org/ontology/ITO_01525"/>
+                <owl:someValuesFrom rdf:resource="http://edamontology.org/data_2526"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Natural Language Processing</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Natural Language Processing</papers_with_code_id>
     </owl:Class>
@@ -565,7 +600,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00142">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00137"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">graph construction</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Graph Construction</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">graph construction</papers_with_code_id>
     </owl:Class>
     
@@ -676,9 +711,8 @@
     <!-- https://ai-strategies.org/ontology/ITO_00153 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00153">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00115"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EEG</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EEG task</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EEG</papers_with_code_id>
     </owl:Class>
     
@@ -1204,6 +1238,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00205">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00177"/>
+        <edamontology:refactor_comment>Equal to &quot;Face Generation&quot; class?</edamontology:refactor_comment>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Face Hallucination</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Face Hallucination</papers_with_code_id>
     </owl:Class>
@@ -1285,7 +1320,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00213">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00101"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Autonomous Vehicles</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Autonomous Vehicle task</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Autonomous Vehicles</papers_with_code_id>
     </owl:Class>
     
@@ -1305,8 +1340,8 @@
     <!-- https://ai-strategies.org/ontology/ITO_00215 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00215">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00101"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00214"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01213"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Motion Forecasting</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Motion Forecasting</papers_with_code_id>
     </owl:Class>
@@ -1437,6 +1472,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00228">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00213"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01213"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D Car Instance Understanding</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D Car Instance Understanding</papers_with_code_id>
     </owl:Class>
@@ -1640,6 +1676,7 @@
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00248">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00101"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00115"/>
+        <edamontology:refactor_comment>Not only a vision task</edamontology:refactor_comment>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Domain Adaptation</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Domain Adaptation</papers_with_code_id>
     </owl:Class>
@@ -1689,8 +1726,8 @@
     <!-- https://ai-strategies.org/ontology/ITO_00253 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00253">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/Task"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Speech</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00145"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Speech task</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Speech</papers_with_code_id>
     </owl:Class>
     
@@ -1800,7 +1837,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00264">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00141"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dialogue</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dialog task</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dialogue</papers_with_code_id>
     </owl:Class>
     
@@ -1811,7 +1848,7 @@
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00265">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00264"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00530"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dialogue Generation</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dialog Generation</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dialogue Generation</papers_with_code_id>
     </owl:Class>
     
@@ -1821,7 +1858,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00266">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00264"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dialogue State Tracking</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dialog State Tracking</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dialogue State Tracking</papers_with_code_id>
     </owl:Class>
     
@@ -1841,7 +1878,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00268">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00264"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Task-Oriented Dialogue Systems</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Task-Oriented Dialog Systems</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Task-Oriented Dialogue Systems</papers_with_code_id>
     </owl:Class>
     
@@ -1861,7 +1898,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00270">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00264"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dialogue Management</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dialog Management</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dialogue Management</papers_with_code_id>
     </owl:Class>
     
@@ -1871,7 +1908,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00271">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00264"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dialogue Understanding</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dialog Understanding</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dialogue Understanding</papers_with_code_id>
     </owl:Class>
     
@@ -1891,7 +1928,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00273">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00264"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Goal-Oriented Dialogue Systems</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Goal-Oriented Dialog Systems</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Goal-Oriented Dialogue Systems</papers_with_code_id>
     </owl:Class>
     
@@ -1901,7 +1938,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00274">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00264"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Task-Completion Dialogue Policy Learning</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Task-Completion Dialog Policy Learning</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Task-Completion Dialogue Policy Learning</papers_with_code_id>
     </owl:Class>
     
@@ -1911,7 +1948,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00275">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00264"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dialogue Interpretation</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dialog Interpretation</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dialogue Interpretation</papers_with_code_id>
     </owl:Class>
     
@@ -1921,7 +1958,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00276">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00264"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dialogue Act Classification</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dialog Act Classification</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dialogue Act Classification</papers_with_code_id>
     </owl:Class>
     
@@ -2072,8 +2109,8 @@
     <!-- https://ai-strategies.org/ontology/ITO_00291 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00291">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/Task"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Music</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01532"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Music task</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Music</papers_with_code_id>
     </owl:Class>
     
@@ -2576,6 +2613,7 @@
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00341">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00101"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00478"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medical Image Segmentation</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medical Image Segmentation</papers_with_code_id>
     </owl:Class>
@@ -2735,7 +2773,7 @@
     <!-- https://ai-strategies.org/ontology/ITO_00357 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00357">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00341"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00356"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Skin Cancer Segmentation</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Skin Cancer Segmentation</papers_with_code_id>
     </owl:Class>
@@ -2746,7 +2784,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00358">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00341"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Infant Brain Mri Segmentation</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Infant Brain MRI Segmentation</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Infant Brain Mri Segmentation</papers_with_code_id>
     </owl:Class>
     
@@ -2776,7 +2814,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00361">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00341"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brain Lesion Segmentation From Mri</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brain Lesion Segmentation From MRI</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brain Lesion Segmentation From Mri</papers_with_code_id>
     </owl:Class>
     
@@ -2836,6 +2874,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00367">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00366"/>
+        <edamontology:refactor_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not really a subclass of &quot;Pulmonary Vessel Segmentation&quot;</edamontology:refactor_comment>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pulmonary Artery–Vein Classification</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pulmonary Artery–Vein Classification</papers_with_code_id>
     </owl:Class>
@@ -3710,7 +3749,6 @@
     <!-- https://ai-strategies.org/ontology/ITO_00453 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00453">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00482"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00745"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Temporal Action Localization</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Temporal Action Localization</papers_with_code_id>
@@ -3763,6 +3801,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00458">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00101"/>
+        <edamontology:refactor_comment>Needs more specific label. &quot;Forgery detection&quot;?</edamontology:refactor_comment>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forgery</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forgery</papers_with_code_id>
     </owl:Class>
@@ -3782,7 +3821,7 @@
     <!-- https://ai-strategies.org/ontology/ITO_00460 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00460">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/Task"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01524"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Anomaly Detection</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Anomaly Detection</papers_with_code_id>
     </owl:Class>
@@ -3896,7 +3935,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00471">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00101"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">computational manga</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computational Manga</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">computational manga</papers_with_code_id>
     </owl:Class>
     
@@ -3906,7 +3945,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00472">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00471"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">panel extraction</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panel Extraction</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">panel extraction</papers_with_code_id>
     </owl:Class>
     
@@ -3917,6 +3956,7 @@
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00473">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00101"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01262"/>
+        <edamontology:refactor_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This is a subclass of &apos;Vision Task&apos; but should be broader. Also not sure if it should be a subclass of &quot;Meta-Learning&quot;</edamontology:refactor_comment>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Few-Shot Learning</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Few-Shot Learning</papers_with_code_id>
     </owl:Class>
@@ -3961,6 +4001,7 @@
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00473"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cross-Domain Few-Shot</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cross-Domain Few-Shot</papers_with_code_id>
+        <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cross-domain few-shot learning</papers_with_code_id>
     </owl:Class>
     
 
@@ -3968,9 +4009,8 @@
     <!-- https://ai-strategies.org/ontology/ITO_00478 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00478">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00477"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cross-domain few-shot learning</rdfs:label>
-        <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cross-domain few-shot learning</papers_with_code_id>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/Task"/>
+        <rdfs:label xml:lang="de">Segmentation task</rdfs:label>
     </owl:Class>
     
 
@@ -4009,7 +4049,6 @@
     <!-- https://ai-strategies.org/ontology/ITO_00482 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00482">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00101"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00115"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zero-Shot Learning</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zero-Shot Learning</papers_with_code_id>
@@ -4323,7 +4362,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00513">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00113"/>
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00141"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01516"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gender Bias Detection</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gender Bias Detection</papers_with_code_id>
     </owl:Class>
@@ -4460,22 +4499,13 @@
     
 
 
-    <!-- https://ai-strategies.org/ontology/ITO_00527 -->
-
-    <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00527">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00528"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Knowledge Base-duplicate</rdfs:label>
-        <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Knowledge Base-duplicate</papers_with_code_id>
-    </owl:Class>
-    
-
-
     <!-- https://ai-strategies.org/ontology/ITO_00528 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00528">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/Task"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Knowledge base task</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Knowledge Base</papers_with_code_id>
+        <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Knowledge Base-duplicate</papers_with_code_id>
     </owl:Class>
     
 
@@ -4483,7 +4513,7 @@
     <!-- https://ai-strategies.org/ontology/ITO_00529 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00529">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00527"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00528"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Knowledge Base Completion</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Knowledge Base Completion</papers_with_code_id>
     </owl:Class>
@@ -4494,6 +4524,12 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00530">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00141"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://edamontology.org/has_output"/>
+                <owl:someValuesFrom rdf:resource="http://edamontology.org/data_2526"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Text Generation</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Text Generation</papers_with_code_id>
     </owl:Class>
@@ -4664,7 +4700,6 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00547">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00101"/>
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00485"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Activity Recognition</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Activity Recognition</papers_with_code_id>
     </owl:Class>
@@ -4734,7 +4769,7 @@
     <!-- https://ai-strategies.org/ontology/ITO_00554 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00554">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00547"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00113"/>
         <edamontology:refactor_comment>can a &apos;generation&apos; class be subclass of a &apos;recognition&apos; class?</edamontology:refactor_comment>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Human Action Generation</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Human action generation</papers_with_code_id>
@@ -4846,8 +4881,6 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00565">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00115"/>
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00137"/>
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00141"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Representation Learning</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Representation Learning</papers_with_code_id>
     </owl:Class>
@@ -4858,7 +4891,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00566">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00565"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Word Embeddings</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Learning or Applying Word Embeddings</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Word Embeddings</papers_with_code_id>
     </owl:Class>
     
@@ -4868,6 +4901,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00567">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00566"/>
+        <edamontology:refactor_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Redundant with superclass?</edamontology:refactor_comment>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Learning Word Embeddings</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Learning Word Embeddings</papers_with_code_id>
     </owl:Class>
@@ -4878,7 +4912,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00568">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00566"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multilingual Word Embeddings</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multilingual Word Embedding</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multilingual Word Embeddings</papers_with_code_id>
     </owl:Class>
     
@@ -4900,15 +4934,6 @@
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00569"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Knowledge Graph Embedding</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Knowledge Graph Embedding</papers_with_code_id>
-    </owl:Class>
-    
-
-
-    <!-- https://ai-strategies.org/ontology/ITO_00571 -->
-
-    <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00571">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00569"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Knowledge Graph Embeddings</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Knowledge Graph Embeddings</papers_with_code_id>
     </owl:Class>
     
@@ -4948,18 +4973,9 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00575">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00565"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sentence Embeddings</rdfs:label>
-        <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sentence Embeddings</papers_with_code_id>
-    </owl:Class>
-    
-
-
-    <!-- https://ai-strategies.org/ontology/ITO_00576 -->
-
-    <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00576">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00575"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sentence Embedding</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sentence Embedding</papers_with_code_id>
+        <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sentence Embeddings</papers_with_code_id>
     </owl:Class>
     
 
@@ -4998,6 +5014,7 @@
     <!-- https://ai-strategies.org/ontology/ITO_00580 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00580">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00575"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sentence Embeddings For Biomedical Texts</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sentence Embeddings For Biomedical Texts</papers_with_code_id>
@@ -5029,6 +5046,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00583">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00582"/>
+        <edamontology:refactor_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Refers to specific dataset</edamontology:refactor_comment>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unsupervised MNIST</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unsupervised MNIST</papers_with_code_id>
     </owl:Class>
@@ -5069,6 +5087,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00587">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00565"/>
+        <edamontology:refactor_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ambiguous label / redundant with other tasks?</edamontology:refactor_comment>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Learning Representation On Graph</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Learning Representation On Graph</papers_with_code_id>
     </owl:Class>
@@ -5168,6 +5187,7 @@
     <!-- https://ai-strategies.org/ontology/ITO_00597 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00597">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00101"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00506"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Visual Reasoning</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Visual Reasoning</papers_with_code_id>
@@ -5199,7 +5219,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00600">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/Task"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robots</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robotics task</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robots</papers_with_code_id>
     </owl:Class>
     
@@ -5499,7 +5519,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00630">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00629"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Semantic Similarity</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Semantic Similarity Estimation</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Semantic Similarity</papers_with_code_id>
     </owl:Class>
     
@@ -5850,7 +5870,6 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00665">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00113"/>
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00528"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Malware Classification</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Malware Classification</papers_with_code_id>
     </owl:Class>
@@ -6061,7 +6080,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00686">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00685"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">One-class classifier</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">One-Class Classifier</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">One-class classifier</papers_with_code_id>
     </owl:Class>
     
@@ -6071,7 +6090,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00687">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00685"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">outlier ensembles</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Outlier Ensembles</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">outlier ensembles</papers_with_code_id>
     </owl:Class>
     
@@ -6323,7 +6342,10 @@
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00712">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00101"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00115"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00478"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00600"/>
+        <edamontology:refactor_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Too many superclasses
+What exactly makes a segmentation task &apos;semantic&apos; -- classifying segments?</edamontology:refactor_comment>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Semantic Segmentation</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Semantic Segmentation</papers_with_code_id>
     </owl:Class>
@@ -6333,7 +6355,7 @@
     <!-- https://ai-strategies.org/ontology/ITO_00713 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00713">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00712"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00115"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transfer Learning</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transfer Learning</papers_with_code_id>
     </owl:Class>
@@ -6394,6 +6416,7 @@
     <!-- https://ai-strategies.org/ontology/ITO_00719 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00719">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00717"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00718"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Real-Time 3D Semantic Segmentation</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Real-Time 3D Semantic Segmentation</papers_with_code_id>
@@ -6405,7 +6428,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00720">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00718"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">furniture segmentation</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Furniture Segmentation</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">furniture segmentation</papers_with_code_id>
     </owl:Class>
     
@@ -6505,7 +6528,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00730">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00712"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">indoor scene understanding</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Indoor Scene Understanding</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">indoor scene understanding</papers_with_code_id>
     </owl:Class>
     
@@ -6606,6 +6629,7 @@
     <!-- https://ai-strategies.org/ontology/ITO_00740 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00740">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00252"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00737"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Speech Emotion Recognition</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Speech Emotion Recognition</papers_with_code_id>
@@ -6626,6 +6650,7 @@
     <!-- https://ai-strategies.org/ontology/ITO_00742 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00742">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00407"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00737"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Video Emotion Recognition</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Video Emotion Recognition</papers_with_code_id>
@@ -6890,6 +6915,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00768">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00767"/>
+        <edamontology:refactor_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Perhas this should be the superclass of &quot;Grammatical Error Correction&quot;, rather than the subclass</edamontology:refactor_comment>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grammatical Error Detection</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grammatical Error Detection</papers_with_code_id>
     </owl:Class>
@@ -7144,7 +7170,7 @@
     <!-- https://ai-strategies.org/ontology/ITO_00793 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00793">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00141"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00264"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dialog Act Classification</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dialog Act Classification</papers_with_code_id>
     </owl:Class>
@@ -7434,9 +7460,8 @@
     <!-- https://ai-strategies.org/ontology/ITO_00822 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00822">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00115"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Electrocardiography (ECG)</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Electrocardiography (ECG) task</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Electrocardiography (ECG)</papers_with_code_id>
     </owl:Class>
     
@@ -7629,6 +7654,7 @@
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00101"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00113"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Remote Sensing</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://en.wikipedia.org/wiki/Remote_sensing"/>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Remote Sensing</papers_with_code_id>
     </owl:Class>
     
@@ -7940,6 +7966,7 @@
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00872">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00101"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00873"/>
+        <edamontology:refactor_comment>Playing games or also autonomous driving?</edamontology:refactor_comment>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Continuous Control</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Continuous Control</papers_with_code_id>
     </owl:Class>
@@ -8835,7 +8862,7 @@
     <!-- https://ai-strategies.org/ontology/ITO_00961 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00961">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00115"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00982"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01150"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multi-Label Text Classification</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multi-Label Text Classification</papers_with_code_id>
@@ -8907,7 +8934,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00968">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00141"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cross-Lingual</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cross-Lingual task</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cross-Lingual</papers_with_code_id>
     </owl:Class>
     
@@ -9318,9 +9345,7 @@
     <!-- https://ai-strategies.org/ontology/ITO_01009 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01009">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00101"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00115"/>
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00141"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Data Augmentation</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Data Augmentation</papers_with_code_id>
     </owl:Class>
@@ -9330,6 +9355,7 @@
     <!-- https://ai-strategies.org/ontology/ITO_01010 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01010">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00101"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01009"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Image Augmentation</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Image Augmentation</papers_with_code_id>
@@ -9340,6 +9366,7 @@
     <!-- https://ai-strategies.org/ontology/ITO_01011 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01011">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00141"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01009"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Text Augmentation</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Text Augmentation</papers_with_code_id>
@@ -9472,6 +9499,7 @@
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01024">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00101"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Motion Capture</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://en.wikipedia.org/wiki/Motion_capture"/>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Motion Capture</papers_with_code_id>
     </owl:Class>
     
@@ -9621,6 +9649,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01039">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00101"/>
+        <edamontology:refactor_comment>Perhaps not only a vision task</edamontology:refactor_comment>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Denoising</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Denoising</papers_with_code_id>
     </owl:Class>
@@ -9712,7 +9741,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01048">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00141"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Amr Parsing</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Abstract Meaning Representation (AMR) Parsing</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Amr Parsing</papers_with_code_id>
     </owl:Class>
     
@@ -10053,7 +10082,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01082">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01088"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Atari Games</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Playing Atari Games</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Atari Games</papers_with_code_id>
     </owl:Class>
     
@@ -10063,7 +10092,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01083">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01082"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montezuma&apos;s Revenge</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Playing Montezuma&apos;s Revenge</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montezuma&apos;s Revenge</papers_with_code_id>
     </owl:Class>
     
@@ -10093,7 +10122,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01086">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00485"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sql Chatbots</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SQL Chatbots</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sql Chatbots</papers_with_code_id>
     </owl:Class>
     
@@ -10113,7 +10142,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01088">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00873"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Video Games</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Playing Video Games</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Video Games</papers_with_code_id>
     </owl:Class>
     
@@ -10123,7 +10152,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01089">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01088"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Real-Time Strategy Games</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Playing Real-Time Strategy Games</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Real-Time Strategy Games</papers_with_code_id>
     </owl:Class>
     
@@ -10133,7 +10162,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01090">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01089"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Starcraft</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Playing Starcraft</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Starcraft</papers_with_code_id>
     </owl:Class>
     
@@ -10143,7 +10172,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01091">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01089"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Starcraft II</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Playing Starcraft II</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Starcraft II</papers_with_code_id>
     </owl:Class>
     
@@ -10174,7 +10203,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01094">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01088"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SNES Games</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Playing SNES Games</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SNES Games</papers_with_code_id>
     </owl:Class>
     
@@ -10184,7 +10213,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01095">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01088"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dota 2</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Playing Dota 2</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dota 2</papers_with_code_id>
     </owl:Class>
     
@@ -10194,7 +10223,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01096">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01088"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">League of Legends</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Playing League of Legends</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">League of Legends</papers_with_code_id>
     </owl:Class>
     
@@ -10294,6 +10323,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01106">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01105"/>
+        <edamontology:refactor_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Correct superclass?</edamontology:refactor_comment>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Drone navigation</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Drone navigation</papers_with_code_id>
     </owl:Class>
@@ -10304,6 +10334,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01107">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01105"/>
+        <edamontology:refactor_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Correct superclass?</edamontology:refactor_comment>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Drone-view target localization</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Drone-view target localization</papers_with_code_id>
     </owl:Class>
@@ -10425,7 +10456,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01119">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00873"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Game of Football</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Playing Game of Football</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Game of Football</papers_with_code_id>
     </owl:Class>
     
@@ -10737,6 +10768,7 @@
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01150">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00141"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Text Classification</rdfs:label>
+        <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hierarchical Text Classification of Blurbs (GermEval 2019)</papers_with_code_id>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Text Classification</papers_with_code_id>
     </owl:Class>
     
@@ -10798,16 +10830,6 @@
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01150"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cross-Domain Text Classification</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cross-Domain Text Classification</papers_with_code_id>
-    </owl:Class>
-    
-
-
-    <!-- https://ai-strategies.org/ontology/ITO_01157 -->
-
-    <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01157">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01150"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hierarchical Text Classification of Blurbs (GermEval 2019)</rdfs:label>
-        <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hierarchical Text Classification of Blurbs (GermEval 2019)</papers_with_code_id>
     </owl:Class>
     
 
@@ -10967,7 +10989,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01173">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00141"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Joint NER and Classification</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Joint Named Entity Recognition and Classification</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Joint NER and Classification</papers_with_code_id>
     </owl:Class>
     
@@ -11166,8 +11188,8 @@
     <!-- https://ai-strategies.org/ontology/ITO_01193 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01193">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00115"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computed Tomography (CT)</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computed Tomography (CT) task</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computed Tomography (CT)</papers_with_code_id>
     </owl:Class>
     
@@ -11176,8 +11198,9 @@
     <!-- https://ai-strategies.org/ontology/ITO_01194 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01194">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00101"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01193"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stroke Classification</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stroke Classification from CT data</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stroke Classification</papers_with_code_id>
     </owl:Class>
     
@@ -11237,7 +11260,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01200">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00137"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hypergraph embedding</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hypergraph Embedding</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hypergraph embedding</papers_with_code_id>
     </owl:Class>
     
@@ -11247,7 +11270,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01201">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01200"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hyperedge classification</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hyperedge Classification</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hyperedge classification</papers_with_code_id>
     </owl:Class>
     
@@ -11277,6 +11300,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01204">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00115"/>
+        <edamontology:refactor_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Add subclasses about interpretability?</edamontology:refactor_comment>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Interpretable Machine Learning</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Interpretable Machine Learning</papers_with_code_id>
     </owl:Class>
@@ -11406,7 +11430,6 @@
     <!-- https://ai-strategies.org/ontology/ITO_01217 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01217">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00600"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01213"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D Shape Generation</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D Shape Generation</papers_with_code_id>
@@ -11417,6 +11440,7 @@
     <!-- https://ai-strategies.org/ontology/ITO_01218 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01218">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00600"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01217"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gesture Generation</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gesture Generation</papers_with_code_id>
@@ -11768,6 +11792,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01253">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00600"/>
+        <edamontology:refactor_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Might not only be a robotics task</edamontology:refactor_comment>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Safe Exploration</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Safe Exploration</papers_with_code_id>
     </owl:Class>
@@ -11818,7 +11843,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01258">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01279"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Game of Chess</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Playing Game of Chess</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Game of Chess</papers_with_code_id>
     </owl:Class>
     
@@ -11828,7 +11853,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01259">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01279"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Game of Go</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Playing Game of Go</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Game of Go</papers_with_code_id>
     </owl:Class>
     
@@ -11838,7 +11863,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01260">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01279"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Game of Shogi</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Playing Game of Shogi</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Game of Shogi</papers_with_code_id>
     </owl:Class>
     
@@ -11848,7 +11873,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01261">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00115"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multi-agent Reinforcement Learning</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multi-Agent Reinforcement Learning</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multi-agent Reinforcement Learning</papers_with_code_id>
     </owl:Class>
     
@@ -11868,7 +11893,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01263">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01262"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">few-shot regression</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Few-Shot Regression</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">few-shot regression</papers_with_code_id>
     </owl:Class>
     
@@ -11928,7 +11953,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01269">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00115"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Policy Gradient Methods</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Policy Gradient Method</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Policy Gradient Methods</papers_with_code_id>
     </owl:Class>
     
@@ -11938,7 +11963,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01270">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01282"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Game of Poker</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Playing Game of Poker</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Game of Poker</papers_with_code_id>
     </owl:Class>
     
@@ -12028,7 +12053,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01279">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00873"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Board Games</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Playing Board Games</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Board Games</papers_with_code_id>
     </owl:Class>
     
@@ -12058,7 +12083,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01282">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00873"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Card Games</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Playing Card Game</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Card Games</papers_with_code_id>
     </owl:Class>
     
@@ -12068,7 +12093,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01283">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01282"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Game of Hanabi</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Playing Game of Hanabi</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Game of Hanabi</papers_with_code_id>
     </owl:Class>
     
@@ -12288,7 +12313,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01305">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00600"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Legged Robots</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Legged Robot tasks</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Legged Robots</papers_with_code_id>
     </owl:Class>
     
@@ -12398,7 +12423,8 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01316">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00115"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Entity Embeddings</rdfs:label>
+        <edamontology:refactor_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Make superclass of other embedding classes?</edamontology:refactor_comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Entity Embedding</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Entity Embeddings</papers_with_code_id>
     </owl:Class>
     
@@ -12418,7 +12444,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01318">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00137"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">graph partitioning</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Graph Partitioning</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">graph partitioning</papers_with_code_id>
     </owl:Class>
     
@@ -12627,7 +12653,7 @@
     <!-- https://ai-strategies.org/ontology/ITO_01339 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01339">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00101"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00473"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Few-Shot Semantic Segmentation</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Few-Shot Semantic Segmentation</papers_with_code_id>
     </owl:Class>
@@ -12797,6 +12823,7 @@
     <!-- https://ai-strategies.org/ontology/ITO_01356 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01356">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01355"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medical question pair similarity computation</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medical question pair similarity computation</papers_with_code_id>
@@ -13299,6 +13326,7 @@
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01406">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00101"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Metamerism</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://en.wikipedia.org/wiki/Motion_capture"/>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Metamerism</papers_with_code_id>
     </owl:Class>
     
@@ -13438,7 +13466,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01420">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00141"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">incongruity detection</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Incongruity Detection</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">incongruity detection</papers_with_code_id>
     </owl:Class>
     
@@ -13458,7 +13486,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01422">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00873"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Game of Suduko</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Playing Game of Suduko</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Game of Suduko</papers_with_code_id>
     </owl:Class>
     
@@ -13488,7 +13516,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01425">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00485"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Text-To-Sql</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Text-To-SQL</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Text-To-Sql</papers_with_code_id>
     </owl:Class>
     
@@ -13498,7 +13526,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01426">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00101"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Image-To-Gps Verification</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Image-To-GPS Verification</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Image-To-Gps Verification</papers_with_code_id>
     </owl:Class>
     
@@ -13568,7 +13596,8 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01433">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00141"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CCG Supertagging</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Combinatory Categorical Grammar (CCG) Supertagging</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://en.wikipedia.org/wiki/Combinatory_categorial_grammar"/>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CCG Supertagging</papers_with_code_id>
     </owl:Class>
     
@@ -13888,7 +13917,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01465">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00137"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hypergraph partitioning</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hypergraph Partitioning</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hypergraph partitioning</papers_with_code_id>
     </owl:Class>
     
@@ -13938,7 +13967,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01470">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00873"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Game of Cricket</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Playing Game of Cricket</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Game of Cricket</papers_with_code_id>
     </owl:Class>
     
@@ -13978,7 +14007,8 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01474">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00528"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cross-lingual sememe prediction</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cross-lingual Sememe Prediction</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://en.wikipedia.org/wiki/Sememe"/>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cross-lingual sememe prediction</papers_with_code_id>
     </owl:Class>
     
@@ -14019,6 +14049,7 @@
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01478">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00113"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01479"/>
+        <edamontology:refactor_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This refers to a dataset, not a task</edamontology:refactor_comment>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MD17 dataset</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MD17 dataset</papers_with_code_id>
     </owl:Class>
@@ -14421,7 +14452,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01518">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00101"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Landmine</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Landmine detection</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Landmine</papers_with_code_id>
     </owl:Class>
     
@@ -14473,6 +14504,107 @@
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00141"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Meme Classification</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Meme Classification</papers_with_code_id>
+    </owl:Class>
+    
+
+
+    <!-- https://ai-strategies.org/ontology/ITO_01524 -->
+
+    <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01524">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/Task"/>
+        <edamontology:refactor_comment>Add subclasses</edamontology:refactor_comment>
+        <rdfs:label>Classification or Detection</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://ai-strategies.org/ontology/ITO_01526 -->
+
+    <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01526">
+        <rdfs:subClassOf rdf:resource="http://edamontology.org/data_0006"/>
+        <edamontology:refactor_comment>Add definition, add more subclasses?</edamontology:refactor_comment>
+        <rdfs:label>Graph</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://ai-strategies.org/ontology/ITO_01527 -->
+
+    <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01527">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01526"/>
+        <owl:disjointWith rdf:resource="https://ai-strategies.org/ontology/ITO_01528"/>
+        <oboInOwl:hasDefinition>A graph in which the edges are having a designated direction.</oboInOwl:hasDefinition>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Directed graph</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://ai-strategies.org/ontology/ITO_01528 -->
+
+    <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01528">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01526"/>
+        <oboInOwl:hasDefinition>A graph in which the edges do not have a designated direction.</oboInOwl:hasDefinition>
+        <rdfs:label>Undirected graph</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://ai-strategies.org/ontology/ITO_01529 -->
+
+    <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01529">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01526"/>
+        <owl:disjointWith rdf:resource="https://ai-strategies.org/ontology/ITO_01530"/>
+        <oboInOwl:hasDefinition>A graph with several different types of nodes and/or edges.</oboInOwl:hasDefinition>
+        <rdfs:label>Heterogeneous graph</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://ai-strategies.org/ontology/ITO_01530 -->
+
+    <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01530">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01526"/>
+        <oboInOwl:hasDefinition>A graph with only a single type of nodes and edges, respectively.</oboInOwl:hasDefinition>
+        <rdfs:label>Homogeneous graph</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://ai-strategies.org/ontology/ITO_01531 -->
+
+    <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01531">
+        <rdfs:subClassOf rdf:resource="http://edamontology.org/data_0006"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://ai-strategies.org/ontology/has_part"/>
+                <owl:someValuesFrom rdf:resource="http://edamontology.org/data_2968"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label>Video</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://ai-strategies.org/ontology/ITO_01532 -->
+
+    <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01532">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/Task"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://edamontology.org/has_topic"/>
+                <owl:someValuesFrom rdf:resource="https://ai-strategies.org/ontology/ITO_01533"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label>Artistic task</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://ai-strategies.org/ontology/ITO_01533 -->
+
+    <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01533">
+        <rdfs:subClassOf rdf:resource="http://edamontology.org/topic_0003"/>
+        <rdfs:label>Arts</rdfs:label>
     </owl:Class>
     
 
