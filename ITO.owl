@@ -428,7 +428,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00126">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/Task"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medical task</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biomedical task</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medical</papers_with_code_id>
     </owl:Class>
     
@@ -630,6 +630,12 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00145">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/Task"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://ai-strategies.org/ontology/ITO_01525"/>
+                <owl:someValuesFrom rdf:resource="https://ai-strategies.org/ontology/ITO_01536"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Audio task</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Audio</papers_with_code_id>
     </owl:Class>
@@ -712,7 +718,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00153">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EEG task</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Electroencephalogram (EEG) task</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EEG</papers_with_code_id>
     </owl:Class>
     
@@ -741,8 +747,8 @@
     <!-- https://ai-strategies.org/ontology/ITO_00156 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00156">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">X-Ray</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01537"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">X-Ray Imaging task</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">X-Ray</papers_with_code_id>
     </owl:Class>
     
@@ -822,7 +828,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00164">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cancer</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cancer Task</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cancer</papers_with_code_id>
     </owl:Class>
     
@@ -842,6 +848,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00166">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00164"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01537"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Skin Cancer Classification</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Skin Cancer Classification</papers_with_code_id>
     </owl:Class>
@@ -912,6 +919,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00173">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00164"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00571"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Colon Cancer Detection In Confocal Laser Microscopy Images</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Colon Cancer Detection In Confocal Laser Microscopy Images</papers_with_code_id>
     </owl:Class>
@@ -2611,9 +2619,8 @@
     <!-- https://ai-strategies.org/ontology/ITO_00341 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00341">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00101"/>
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00478"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01537"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medical Image Segmentation</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medical Image Segmentation</papers_with_code_id>
     </owl:Class>
@@ -4272,7 +4279,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00504">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Length-of-Stay prediction</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Length-of-Stay Prediction</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Length-of-Stay prediction</papers_with_code_id>
     </owl:Class>
     
@@ -4495,6 +4502,15 @@
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00309"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D Multi-person Pose Estimation (absolute)</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D Multi-person Pose Estimation (absolute)</papers_with_code_id>
+    </owl:Class>
+    
+
+
+    <!-- https://ai-strategies.org/ontology/ITO_00527 -->
+
+    <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00527">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01537"/>
+        <rdfs:label>Magnetic Resonance Imaging (MRI) task</rdfs:label>
     </owl:Class>
     
 
@@ -4939,6 +4955,15 @@
     
 
 
+    <!-- https://ai-strategies.org/ontology/ITO_00571 -->
+
+    <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00571">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01537"/>
+        <rdfs:label>Microscopy task</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- https://ai-strategies.org/ontology/ITO_00572 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00572">
@@ -4976,6 +5001,16 @@
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sentence Embedding</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sentence Embedding</papers_with_code_id>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sentence Embeddings</papers_with_code_id>
+    </owl:Class>
+    
+
+
+    <!-- https://ai-strategies.org/ontology/ITO_00576 -->
+
+    <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00576">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00141"/>
+        <rdfs:label>Biomedical NLP task</rdfs:label>
     </owl:Class>
     
 
@@ -5249,7 +5284,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00603">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00141"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chinese</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chinese Language Task</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chinese</papers_with_code_id>
     </owl:Class>
     
@@ -5309,7 +5344,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00609">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sleep Quality</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sleep Quality Task</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sleep Quality</papers_with_code_id>
     </owl:Class>
     
@@ -5688,7 +5723,7 @@
     <!-- https://ai-strategies.org/ontology/ITO_00647 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00647">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01537"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diabetic Retinopathy Detection</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diabetic Retinopathy Detection</papers_with_code_id>
     </owl:Class>
@@ -5730,7 +5765,9 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00651">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Patient Outcomes</rdfs:label>
+        <edamontology:refactor_comment>Uncertain if this should be a class in it&apos;s own
+Subclass of disease trajectory prediction?</edamontology:refactor_comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Patient Outcomes Task</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Patient Outcomes</papers_with_code_id>
     </owl:Class>
     
@@ -5750,7 +5787,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00653">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00651"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Outcome Prediction In Multimodal Mri</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Outcome Prediction In Multimodal MRI</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Outcome Prediction In Multimodal Mri</papers_with_code_id>
     </owl:Class>
     
@@ -5759,8 +5796,8 @@
     <!-- https://ai-strategies.org/ontology/ITO_00654 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00654">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mammogram</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01537"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mammogram task</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mammogram</papers_with_code_id>
     </owl:Class>
     
@@ -5799,7 +5836,7 @@
     <!-- https://ai-strategies.org/ontology/ITO_00658 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00658">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00822"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ECG Risk Stratification</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ecg Risk Stratification</papers_with_code_id>
     </owl:Class>
@@ -5810,7 +5847,7 @@
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00659">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Atrial Fibrillation</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Atrial Fibrillation Task</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Atrial Fibrillation</papers_with_code_id>
     </owl:Class>
     
@@ -6330,8 +6367,8 @@
     <!-- https://ai-strategies.org/ontology/ITO_00711 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00711">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medical Relation Extraction</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00576"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biomedical Relation Extraction</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medical Relation Extraction</papers_with_code_id>
     </owl:Class>
     
@@ -7513,6 +7550,7 @@ What exactly makes a segmentation task &apos;semantic&apos; -- classifying segme
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00826"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Photoplethysmography (PPG)</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://en.wikipedia.org/wiki/Photoplethysmogram"/>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Photoplethysmography (PPG)</papers_with_code_id>
     </owl:Class>
     
@@ -7522,6 +7560,7 @@ What exactly makes a segmentation task &apos;semantic&apos; -- classifying segme
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00828">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00827"/>
+        <edamontology:refactor_comment>Label too broad to be subclass of PPG</edamontology:refactor_comment>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Heart rate estimation</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Heart rate estimation</papers_with_code_id>
     </owl:Class>
@@ -7532,6 +7571,7 @@ What exactly makes a segmentation task &apos;semantic&apos; -- classifying segme
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00829">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00827"/>
+        <edamontology:refactor_comment>Label to broad to be subclass of PPG</edamontology:refactor_comment>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blood pressure estimation</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blood pressure estimation</papers_with_code_id>
     </owl:Class>
@@ -7542,7 +7582,7 @@ What exactly makes a segmentation task &apos;semantic&apos; -- classifying segme
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00830">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00822"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Myocardial infarction detection</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Myocardial Infarction Detection</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Myocardial infarction detection</papers_with_code_id>
     </owl:Class>
     
@@ -7562,7 +7602,7 @@ What exactly makes a segmentation task &apos;semantic&apos; -- classifying segme
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00832">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00822"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ventricular fibrillation detection</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ventricular Fibrillation Detection</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ventricular fibrillation detection</papers_with_code_id>
     </owl:Class>
     
@@ -8842,7 +8882,7 @@ What exactly makes a segmentation task &apos;semantic&apos; -- classifying segme
     <!-- https://ai-strategies.org/ontology/ITO_00959 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_00959">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00576"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multi-Label Classification Of Biomedical Texts</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multi-Label Classification Of Biomedical Texts</papers_with_code_id>
     </owl:Class>
@@ -9528,8 +9568,8 @@ What exactly makes a segmentation task &apos;semantic&apos; -- classifying segme
     <!-- https://ai-strategies.org/ontology/ITO_01027 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01027">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Motion Correction In Multishot Mri</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00527"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Motion Correction In Multishot MRI</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Motion Correction In Multishot Mri</papers_with_code_id>
     </owl:Class>
     
@@ -9618,7 +9658,7 @@ What exactly makes a segmentation task &apos;semantic&apos; -- classifying segme
     <!-- https://ai-strategies.org/ontology/ITO_01036 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01036">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00527"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magnetic Resonance Fingerprinting</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magnetic Resonance Fingerprinting</papers_with_code_id>
     </owl:Class>
@@ -9638,8 +9678,8 @@ What exactly makes a segmentation task &apos;semantic&apos; -- classifying segme
     <!-- https://ai-strategies.org/ontology/ITO_01038 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01038">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Eeg Decoding</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00153"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EEG Decoding</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Eeg Decoding</papers_with_code_id>
     </owl:Class>
     
@@ -10515,7 +10555,7 @@ What exactly makes a segmentation task &apos;semantic&apos; -- classifying segme
     <!-- https://ai-strategies.org/ontology/ITO_01125 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01125">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01193"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Metal Artifact Reduction</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Metal Artifact Reduction</papers_with_code_id>
     </owl:Class>
@@ -11158,8 +11198,8 @@ What exactly makes a segmentation task &apos;semantic&apos; -- classifying segme
     <!-- https://ai-strategies.org/ontology/ITO_01190 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01190">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ultrasound</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01537"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ultrasound Imaging task</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ultrasound</papers_with_code_id>
     </owl:Class>
     
@@ -11188,7 +11228,7 @@ What exactly makes a segmentation task &apos;semantic&apos; -- classifying segme
     <!-- https://ai-strategies.org/ontology/ITO_01193 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01193">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01537"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computed Tomography (CT) task</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computed Tomography (CT)</papers_with_code_id>
     </owl:Class>
@@ -11209,8 +11249,9 @@ What exactly makes a segmentation task &apos;semantic&apos; -- classifying segme
     <!-- https://ai-strategies.org/ontology/ITO_01195 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01195">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01537"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medical Image Registration</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://en.wikipedia.org/wiki/Image_registration"/>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medical Image Registration</papers_with_code_id>
     </owl:Class>
     
@@ -11220,7 +11261,8 @@ What exactly makes a segmentation task &apos;semantic&apos; -- classifying segme
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01196">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01195"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BIRL</rdfs:label>
+        <edamontology:refactor_comment>Refers to a benchmark</edamontology:refactor_comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BIRL: Benchmark on Image Registration methods with Landmark validations</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BIRL</papers_with_code_id>
     </owl:Class>
     
@@ -12162,7 +12204,7 @@ What exactly makes a segmentation task &apos;semantic&apos; -- classifying segme
     <!-- https://ai-strategies.org/ontology/ITO_01290 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01290">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01537"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medical Super-Resolution</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medical Super-Resolution</papers_with_code_id>
     </owl:Class>
@@ -12172,7 +12214,7 @@ What exactly makes a segmentation task &apos;semantic&apos; -- classifying segme
     <!-- https://ai-strategies.org/ontology/ITO_01291 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01291">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00527"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Skull Stripping</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Skull Stripping</papers_with_code_id>
     </owl:Class>
@@ -12413,7 +12455,7 @@ What exactly makes a segmentation task &apos;semantic&apos; -- classifying segme
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01315">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Seizure prediction</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Seizure Prediction</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Seizure prediction</papers_with_code_id>
     </owl:Class>
     
@@ -12823,7 +12865,7 @@ What exactly makes a segmentation task &apos;semantic&apos; -- classifying segme
     <!-- https://ai-strategies.org/ontology/ITO_01356 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01356">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00576"/>
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01355"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medical question pair similarity computation</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medical question pair similarity computation</papers_with_code_id>
@@ -13756,7 +13798,7 @@ What exactly makes a segmentation task &apos;semantic&apos; -- classifying segme
     <!-- https://ai-strategies.org/ontology/ITO_01449 -->
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01449">
-        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01537"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medical Image Generation</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medical Image Generation</papers_with_code_id>
     </owl:Class>
@@ -14172,7 +14214,7 @@ What exactly makes a segmentation task &apos;semantic&apos; -- classifying segme
 
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01490">
         <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00528"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RDF Dataset Discovery</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resouce Description Framework (RDF) Dataset Discovery</rdfs:label>
         <papers_with_code_id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RDF Dataset Discovery</papers_with_code_id>
     </owl:Class>
     
@@ -14605,6 +14647,77 @@ What exactly makes a segmentation task &apos;semantic&apos; -- classifying segme
     <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01533">
         <rdfs:subClassOf rdf:resource="http://edamontology.org/topic_0003"/>
         <rdfs:label>Arts</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://ai-strategies.org/ontology/ITO_01535 -->
+
+    <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01535">
+        <rdfs:subClassOf rdf:resource="http://edamontology.org/data_0006"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://ai-strategies.org/ontology/ITO_01525"/>
+                <owl:someValuesFrom rdf:resource="https://ai-strategies.org/ontology/ITO_01535"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <edamontology:refactor_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Add definition</edamontology:refactor_comment>
+        <rdfs:label>Computer code</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://ai-strategies.org/ontology/ITO_01536 -->
+
+    <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01536">
+        <rdfs:subClassOf rdf:resource="http://edamontology.org/data_0006"/>
+        <rdfs:label>Audio data</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://ai-strategies.org/ontology/ITO_01537 -->
+
+    <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01537">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00101"/>
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00126"/>
+        <rdfs:label>Biomedical Vision Task</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://ai-strategies.org/ontology/ITO_01538 -->
+
+    <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01538">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_00115"/>
+        <rdfs:label>Logical Reasoning Task</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://ai-strategies.org/ontology/ITO_01539 -->
+
+    <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01539">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01538"/>
+        <rdfs:label>Induction</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://ai-strategies.org/ontology/ITO_01540 -->
+
+    <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01540">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01538"/>
+        <rdfs:label>Deduction</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://ai-strategies.org/ontology/ITO_01541 -->
+
+    <owl:Class rdf:about="https://ai-strategies.org/ontology/ITO_01541">
+        <rdfs:subClassOf rdf:resource="https://ai-strategies.org/ontology/ITO_01538"/>
+        <rdfs:label>Abduction</rdfs:label>
     </owl:Class>
     
 
