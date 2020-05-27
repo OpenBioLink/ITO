@@ -1,6 +1,6 @@
-# Introducing the Intelligence Task Ontology (ITO)
+# Introducing the Intelligence Task Ontology (ITO) (Artificial Intelligence Ontology)
 
-The Intelligence Task Ontology (ITO) provides a comprehensive map of machine intelligence tasks, as well as broader human intelligence or hybrid human/machine intelligence tasks.
+The Intelligence Task Ontology (ITO) provides a comprehensive map of artificial intelligence tasks, as well as broader human intelligence or hybrid human/machine intelligence tasks.
 
 You can [browse ITO online at BioPortal](https://bioportal.bioontology.org/ontologies/ITO/?p=classes&conceptid=https%3A%2F%2Fai-strategies.org%2Fontology%2FProcess).
 
