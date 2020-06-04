@@ -6,6 +6,11 @@ You can [browse ITO online at BioPortal](https://bioportal.bioontology.org/ontol
 
 See also https://ai-strategies.org
 
+### Examples
+ITO aims to provide a richly structured hierarchy of processes, algorithms, types of data and performance metrics.
+
+![MRI Example Hierarchy](/media/example-hierarchy-1-detail-with-score.PNG)
+
 ### Licensing
 
 The ontology file is distributed under a [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license.
