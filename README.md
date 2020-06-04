@@ -7,9 +7,19 @@ You can [browse ITO online at BioPortal](https://bioportal.bioontology.org/ontol
 See also https://ai-strategies.org
 
 ### Examples
-ITO aims to provide a richly structured hierarchy of processes, algorithms, types of data and performance metrics.
+ITO aims to provide a richly structured hierarchy of processes, algorithms, data and performance metrics. Data on thousands of AI benchmark results have been imported from [Papers With Code](https://paperswithcode.com/) and are further curated.
+
+An example of a benchmark result embedded in an ontological hierarchy:
 
 ![MRI Example Hierarchy](/media/example-hierarchy-1-detail-with-score.PNG)
+
+Exploring the class hierarchy:
+
+> ![Class hierarchy screen capture](media/screencapture-class-hierarchy-in-webprotege.gif)
+
+Exploring the hierarchy of perfomance measures:
+
+> ![Property hierarchy screen capture](media/screencapture-property-hierarchy-in-webprotege.gif)
 
 ### Licensing
 
