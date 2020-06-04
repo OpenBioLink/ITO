@@ -1,4 +1,5 @@
-# Introducing the Intelligence Task Ontology (ITO)-- an Artificial Intelligence Ontology
+# Introducing the Intelligence Task Ontology (ITO)
+## A comprehensive model of artificial intelligence and its applications
 
 The Intelligence Task Ontology (ITO) provides a comprehensive map of artificial intelligence tasks, as well as broader human intelligence or hybrid human/machine intelligence tasks.
 
@@ -21,6 +22,11 @@ Exploring the hierarchy of perfomance measures:
 
 > ![Property hierarchy screen capture](media/screencapture-property-hierarchy-in-webprotege.gif)
 
+
+### Current status
+
+The ontology and associated resources are still under intense development. If you have questions or are interested in collaborations, please contact us!
+
 ### Licensing
 
 The ontology file is distributed under a [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license.
@@ -31,6 +37,10 @@ ITO includes data from the EDAM ontology. The EDAM ontology is licensed under a 
 
 We offer ITO and related resources as-is and make no representations or warranties of any kind concerning the resources, express, implied, statutory or otherwise, including without limitation warranties of title, merchantability, fitness for a particular purpose, non infringement, or the absence of latent or other defects, accuracy, or the present or absence of errors, whether or not discoverable, all to the greatest extent permissible under applicable law.
 
+### Contact
+
+[Samwald research group](https://samwald.info/) @ Section for Artificial Intelligence and Decision Support, Medical University of Vienna
+matthias.samwald (at) meduniwien.ac.at
 
 
 
