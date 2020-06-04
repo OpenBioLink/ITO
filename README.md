@@ -46,5 +46,7 @@ We offer ITO and related resources as-is and make no representations or warranti
 [Samwald research group](https://samwald.info/) @ Section for Artificial Intelligence and Decision Support, Medical University of Vienna
 matthias.samwald (at) meduniwien.ac.at
 
+![Samwald research group logo](/media/samwald-research-group-logo.PNG)
+
 
 
