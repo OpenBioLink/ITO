@@ -29,7 +29,7 @@ The ontology and associated resources are still under intense development. If yo
 
 ### Using ITO
 
-The ITO model is made available as an OWL (Web Ontology Language) file. You can use the [Protege ontology editor](https://protege.stanford.edu/) to explore and edit the ontology. You can use a wide variety of frameworks for OWL, RDF and the SPARQL graph query language to access and query the ontology. We recommend using the (Owlready2)[https://pythonhosted.org/Owlready2/] Python library. We will soon release notebooks demonstrating the use of Owlready2 and SPARQL with ITO.
+The ITO model is made available as an OWL (Web Ontology Language) file. You can use the [Protege ontology editor](https://protege.stanford.edu/) to explore and edit the ontology. You can use a wide variety of frameworks for OWL, RDF and the SPARQL graph query language to access and query the ontology. We recommend using the [Owlready2](https://pythonhosted.org/Owlready2/) Python library. We will soon release notebooks demonstrating the use of Owlready2 and SPARQL with ITO.
 
 ### Licensing
 
