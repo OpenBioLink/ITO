@@ -7,7 +7,7 @@ A pre-print of the paper has been published on arXiv: [insert arXiv URL]
 
 ### Notebooks
 
-The Jupyter notebook ['ITO metrics - queries and statistics']((https://github.com/OpenBioLink/ITO/blob/master/notebooks/performance_metrics_analysis/ITO metrics - queries and statistics.ipynb)) contains
+The Jupyter notebook ['ITO metrics - queries and statistics'](https://github.com/OpenBioLink/ITO/blob/master/notebooks/performance_metrics_analysis/ITO%20metrics%20-%20queries%20and%20statistics.ipynb) contains
 the SPARQL queries to generate statistics on performance metrics based on ITO and the Python code for analysing the raw data.
 
 ### Additional files
