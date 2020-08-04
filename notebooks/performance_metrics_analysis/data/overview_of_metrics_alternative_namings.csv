@@ -1,0 +1,36 @@
+Metric,Alternative names
+Recall,"Sensitivity, True Positive Rate (TPR)"
+Precision,"Positive Predictive Value (PPV), True Positive Accuracy (TPA)"
+Markedness,"deltaP, KappaM"
+Informedness,"Bookmaker informedness (BM), KappaI, Youden's J statistic, Youden's index"
+Intersection over union,Jaccard index
+Jaccard index,Intersection over union
+Youden's J statistic,"Informedness, Bookmaker informedness (BM), KappaI,Youden's index"
+Youden's index,"Informedness, Bookmaker informedness (BM), KappaI, Youden's J statistic"
+F1 score,"Positive Specific Agreement, Sørensen–Dice coefficient"
+Sensitivity,"Recall, True Positive Rate (TPR)"
+Sørensen–Dice coefficient,F1 score
+Specificity,True Negative Rate (TNR)
+True Negative Rate (TNR),Specificity
+deltaP,Markedness
+Bookmaker informedness (BM),Informedness
+Positive Predictive Value (PPV),"Precision, True Positive Accuracy (TPA)"
+True Positive Accuracy (TPA),"Precision, Positive Predictive Value (PPV)"
+True Positive Rate (TPR),"Recall, Sensitivity"
+Positive Specific Agreement,F1
+KappaM,Markedness
+KappaI,Informedness
+Matthews correlation coefficient (MCC),Karl Pearson's phi
+Karl Pearson's phi,Matthews correlation coefficient (MCC)
+Fowlkes–Mallows index (FM),Gmean / G-mean
+Gmean / G-mean,Fowlkes–Mallows index (FM)
+C-Statistic,"ROC Area under the curve (ROC-AUC), Concordance, C-index"
+C-index,"C-Statistic, ROC Area under the curve (ROC-AUC), Concordance,"
+ROC Area under the curve (ROC-AUC),"C-Statistic, Concordance"
+Concordance,"Area under the curve (AUC), C-Statistic"
+Frechet distance,Wasserstein-2 distance
+Wasserstein-2 distance,Frechet distance
+Kullback–Leibler divergence,Relative entropy
+Relative entropy,Kullback–Leibler divergence
+L1,"Least absolute deviations (LAD), Least absolute errors (LAE), Least absolute value (LAV), Least absolute residual (LAR), Sum of absolute deviations"
+L2,Least Square Errors (LS)

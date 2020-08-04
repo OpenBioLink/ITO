@@ -1,0 +1,189 @@
+performance_measure_label,performance_measure,benchmark_process_individual_in_subproperty_count
+Accuracy,https://ai-strategies.org/ontology/ITO_01157,11769
+Score,https://ai-strategies.org/ontology/ITO_08816,3752
+Precision,https://ai-strategies.org/ontology/ITO_04547,3345
+F-measure NEW,http://webprotege.stanford.edu/RtXXF5ckIuUQOaG50H8xcO,2115
+Peak signal-to-noise ratio,https://ai-strategies.org/ontology/ITO_00016,944
+Intersection over Union,https://ai-strategies.org/ontology/ITO_00024,921
+Structural similarity index,https://ai-strategies.org/ontology/ITO_00045,685
+Hits-at-k,https://ai-strategies.org/ontology/ITO_00002,553
+Exact match,https://ai-strategies.org/ontology/ITO_01569,465
+R-at-K,https://ai-strategies.org/ontology/ITO_00082,427
+BLEU score,https://ai-strategies.org/ontology/ITO_00008,401
+Resource requirements,https://ai-strategies.org/ontology/ITO_01572,360
+Number of parameters,https://ai-strategies.org/ontology/ITO_01582,346
+"Area under curve (AUC), unspecified",https://ai-strategies.org/ontology/ITO_00006,308
+Recall,https://ai-strategies.org/ontology/ITO_00011,308
+Frechet Inception Distance,https://ai-strategies.org/ontology/ITO_01570,297
+Rank,https://ai-strategies.org/ontology/ITO_01542,292
+Percentage of correct keypoints,https://ai-strategies.org/ontology/ITO_00015,291
+Percentage error,https://ai-strategies.org/ontology/ITO_04342,278
+Undetermined,https://ai-strategies.org/ontology/ITO_00089,271
+ROUGE metric,https://ai-strategies.org/ontology/ITO_00004,269
+Mean absolute error,https://ai-strategies.org/ontology/ITO_00013,253
+Mean reciprocal rank,https://ai-strategies.org/ontology/ITO_00044,199
+Perplexity,https://ai-strategies.org/ontology/ITO_09019,184
+Average Path Length,https://ai-strategies.org/ontology/ITO_00028,181
+Mean-Per-Joint-Position-Error,https://ai-strategies.org/ontology/ITO_00054,161
+Error rate,https://ai-strategies.org/ontology/ITO_03401,152
+Inception Score,https://ai-strategies.org/ontology/ITO_00075,143
+Root mean square deviation,https://ai-strategies.org/ontology/ITO_00009,138
+Normalized mutual information,https://ai-strategies.org/ontology/ITO_01546,125
+Normalized mean error,https://ai-strategies.org/ontology/ITO_01555,115
+Average 3D Error,https://ai-strategies.org/ontology/ITO_03645,114
+P-at-K,https://ai-strategies.org/ontology/ITO_00081,113
+Normalized Discounted Cumulative Gain,https://ai-strategies.org/ontology/ITO_00022,113
+Error,https://ai-strategies.org/ontology/ITO_10601,98
+Panoptic quality,https://ai-strategies.org/ontology/ITO_00087,96
+True accept rate,https://ai-strategies.org/ontology/ITO_00084,94
+Frames per second,https://ai-strategies.org/ontology/ITO_00043,83
+Mean squared error,https://ai-strategies.org/ontology/ITO_00010,81
+Bit per character,https://ai-strategies.org/ontology/ITO_00036,73
+ROC AUC,https://ai-strategies.org/ontology/ITO_00005,66
+Expected average overlap,https://ai-strategies.org/ontology/ITO_01571,66
+Mean rank,https://ai-strategies.org/ontology/ITO_01585,61
+Word Error Rate,https://ai-strategies.org/ontology/ITO_00066,56
+Time,https://ai-strategies.org/ontology/ITO_00007,54
+Negative log-likelihood,https://ai-strategies.org/ontology/ITO_01549,52
+Mean Opinion Score,https://ai-strategies.org/ontology/ITO_16498,48
+Average End-point Error,https://ai-strategies.org/ontology/ITO_00023,44
+3D percentage of correct keypoints,https://ai-strategies.org/ontology/ITO_00032,42
+Miss rate,https://ai-strategies.org/ontology/ITO_01584,42
+METEOR,https://ai-strategies.org/ontology/ITO_08346,39
+Logarithmic loss,https://ai-strategies.org/ontology/ITO_00080,38
+Reasonable Miss Rate,https://ai-strategies.org/ontology/ITO_03778,36
+Mean Error Rate,https://ai-strategies.org/ontology/ITO_03394,33
+Average 3D distance of model points,https://ai-strategies.org/ontology/ITO_00071,32
+Pearson Correlation,https://ai-strategies.org/ontology/ITO_03765,31
+Medium Human-Normalized Score,https://ai-strategies.org/ontology/ITO_12544,29
+Relative root mean square deviation,https://ai-strategies.org/ontology/ITO_01598,28
+Absolute relative error,https://ai-strategies.org/ontology/ITO_00079,26
+Signal-to-distortion ratio,https://ai-strategies.org/ontology/ITO_00064,25
+Kernel Inception Distance,https://ai-strategies.org/ontology/ITO_03917,24
+Floating Point Operations Per Second,https://ai-strategies.org/ontology/ITO_00040,23
+Consensus-based Image Description Evaluation,https://ai-strategies.org/ontology/ITO_00047,23
+Learned perceptual similarity metric,https://ai-strategies.org/ontology/ITO_00061,22
+AR-AN,http://webprotege.stanford.edu/RCLAVoQwZ4jXQqA6DW3G5QE,21
+Mean Reconstruction Error (mm),https://ai-strategies.org/ontology/ITO_04870,20
+PR AUC,http://webprotege.stanford.edu/R750a3ZQUlKd04TtEOnAp0s,18
+Mean 3D joint position error,https://ai-strategies.org/ontology/ITO_00067,18
+Log-Spectral Distance,https://ai-strategies.org/ontology/ITO_03075,18
+Diversity,https://ai-strategies.org/ontology/ITO_04109,18
+NIST,https://ai-strategies.org/ontology/ITO_09084,18
+User rating,https://ai-strategies.org/ontology/ITO_01577,17
+Genuine Acceptance Rate,https://ai-strategies.org/ontology/ITO_00019,16
+Hit Ratio-at-K,https://ai-strategies.org/ontology/ITO_01568,16
+Mean per joint position error after Procrustes Alignment,https://ai-strategies.org/ontology/ITO_01547,16
+Image quality,https://ai-strategies.org/ontology/ITO_01579,16
+Color peak signal-to-noise ratio,https://ai-strategies.org/ontology/ITO_00042,15
+Unlabeled attachment score,https://ai-strategies.org/ontology/ITO_00058,15
+Spearman Correlation,https://ai-strategies.org/ontology/ITO_09916,15
+Labeled attachment score,https://ai-strategies.org/ontology/ITO_00055,14
+Classification Error,https://ai-strategies.org/ontology/ITO_04043,14
+Log-likelihood,https://ai-strategies.org/ontology/ITO_16285,14
+Kullback–Leibler divergence,https://ai-strategies.org/ontology/ITO_00052,13
+Bits per dimension,https://ai-strategies.org/ontology/ITO_00098,13
+L2,https://ai-strategies.org/ontology/ITO_15899,13
+Average Distance Error,https://ai-strategies.org/ontology/ITO_00034,12
+Average Run Length,https://ai-strategies.org/ontology/ITO_00033,12
+Bits per byte,https://ai-strategies.org/ontology/ITO_05885,11
+Angular Error,https://ai-strategies.org/ontology/ITO_13289,10
+Average Treatment Effect Error,https://ai-strategies.org/ontology/ITO_15752,10
+MOVIE index,https://ai-strategies.org/ontology/ITO_01589,10
+Scale-invariant signal-to-distortion ratio,https://ai-strategies.org/ontology/ITO_00065,9
+NAB score,https://ai-strategies.org/ontology/ITO_07449,9
+L1,https://ai-strategies.org/ontology/ITO_17245,9
+Failure rate,https://ai-strategies.org/ontology/ITO_01592,9
+Compression rate,https://ai-strategies.org/ontology/ITO_01588,9
+Success rate weighted by path length,https://ai-strategies.org/ontology/ITO_01578,9
+Feature Similarity Index,https://ai-strategies.org/ontology/ITO_00050,8
+nuScenes detection score,https://ai-strategies.org/ontology/ITO_00049,8
+Intensive Care After Thrombolysis Score,https://ai-strategies.org/ontology/ITO_00069,8
+Hausdorff distance,https://ai-strategies.org/ontology/ITO_00041,8
+Part-of-speech,https://ai-strategies.org/ontology/ITO_01561,8
+Modularity,https://ai-strategies.org/ontology/ITO_12676,8
+Negative evidence lower bound,https://ai-strategies.org/ontology/ITO_01557,8
+LMD,https://ai-strategies.org/ontology/ITO_03488,7
+FPR-at-K,https://ai-strategies.org/ontology/ITO_01562,7
+Variation of information,https://ai-strategies.org/ontology/ITO_00086,6
+Damerau–Levenshtein distance,https://ai-strategies.org/ontology/ITO_00060,6
+Adjusted Rand Index,https://ai-strategies.org/ontology/ITO_00026,6
+Mean performance under corruption,https://ai-strategies.org/ontology/ITO_00088,6
+Relative Performance under Corruption,https://ai-strategies.org/ontology/ITO_00094,6
+Interpolation Error,https://ai-strategies.org/ontology/ITO_07233,6
+Median relative target registration error,https://ai-strategies.org/ontology/ITO_00029,6
+Maximum mean discrepancy,https://ai-strategies.org/ontology/ITO_00062,5
+Path Length,https://ai-strategies.org/ontology/ITO_05090,5
+Step Change (10^−3),https://ai-strategies.org/ontology/ITO_05092,5
+Path Difference,https://ai-strategies.org/ontology/ITO_05093,5
+Player Distance,https://ai-strategies.org/ontology/ITO_05094,5
+Model Entropy,https://ai-strategies.org/ontology/ITO_05708,5
+SceneFID,https://ai-strategies.org/ontology/ITO_06007,5
+GLEU,https://ai-strategies.org/ontology/ITO_11127,5
+ADDS AUC,https://ai-strategies.org/ontology/ITO_11477,5
+Test error,https://ai-strategies.org/ontology/ITO_17265,5
+Out of bound error,https://ai-strategies.org/ontology/ITO_01583,5
+Milliseconds per frame,https://ai-strategies.org/ontology/ITO_01596,5
+Bits per sub-pixel,https://ai-strategies.org/ontology/ITO_00085,4
+Coverage,https://ai-strategies.org/ontology/ITO_00097,4
+Universal POS tag set,https://ai-strategies.org/ontology/ITO_01534,4
+Volume similarity,https://ai-strategies.org/ontology/ITO_01566,4
+Mean target overlap ratio,https://ai-strategies.org/ontology/ITO_15853,4
+ELO Rating,https://ai-strategies.org/ontology/ITO_15930,4
+Negative Jacobian determinant,https://ai-strategies.org/ontology/ITO_01550,4
+Semantic object accuracy,https://ai-strategies.org/ontology/ITO_01576,4
+Mean corruption error,https://ai-strategies.org/ontology/ITO_00048,3
+Value of Information,https://ai-strategies.org/ontology/ITO_00059,3
+Sequence error,https://ai-strategies.org/ontology/ITO_02402,3
+Human-targeted translation error rate,https://ai-strategies.org/ontology/ITO_01563,3
+Mean surface distance,https://ai-strategies.org/ontology/ITO_01551,3
+Mean magnitude of the gradients of the determinant of the Jacobian,https://ai-strategies.org/ontology/ITO_01548,3
+Underwater image quality measure,https://ai-strategies.org/ontology/ITO_00053,2
+Reprojection error,https://ai-strategies.org/ontology/ITO_00073,2
+Energy above hull,https://ai-strategies.org/ontology/ITO_00083,2
+Perceptual Evaluation of Speech Quality,https://ai-strategies.org/ontology/ITO_00078,2
+Precision at equal recall rate,https://ai-strategies.org/ontology/ITO_00046,2
+Three-pixel-error,https://ai-strategies.org/ontology/ITO_00090,2
+Interest,https://ai-strategies.org/ontology/ITO_00092,2
+Relevance,https://ai-strategies.org/ontology/ITO_00093,2
+RSim,https://ai-strategies.org/ontology/ITO_00099,2
+Visual surface similarity,https://ai-strategies.org/ontology/ITO_00344,2
+Rand index,https://ai-strategies.org/ontology/ITO_01484,2
+Median Relighting Error,https://ai-strategies.org/ontology/ITO_08974,2
+Temporal awareness,https://ai-strategies.org/ontology/ITO_10135,2
+SPICE,https://ai-strategies.org/ontology/ITO_12516,2
+Average Success Rate,https://ai-strategies.org/ontology/ITO_15942,2
+Cumulative regret,https://ai-strategies.org/ontology/ITO_16799,2
+Edit Distance,https://ai-strategies.org/ontology/ITO_17076,2
+Sparsity,https://ai-strategies.org/ontology/ITO_17187,2
+Diacritic Error Rate,https://ai-strategies.org/ontology/ITO_17255,2
+Human Equivalence Score,https://ai-strategies.org/ontology/ITO_00037,2
+R-Precision-at-K,https://ai-strategies.org/ontology/ITO_01556,2
+Detection score,https://ai-strategies.org/ontology/ITO_01587,2
+Weighted average precision,https://ai-strategies.org/ontology/ITO_01575,2
+Frechet ResNet Distance,https://ai-strategies.org/ontology/ITO_01593,2
+Mean average distance,https://ai-strategies.org/ontology/ITO_01597,2
+Integrated root mean-square deviation,https://ai-strategies.org/ontology/ITO_01599,2
+Final Displacement Error,https://ai-strategies.org/ontology/ITO_00051,1
+Cross View Ground Truth Consistency Error,https://ai-strategies.org/ontology/ITO_00076,1
+Ground Truth Error,https://ai-strategies.org/ontology/ITO_00077,1
+Vertex-to-vertex metric,https://ai-strategies.org/ontology/ITO_00068,1
+Specificity,https://ai-strategies.org/ontology/ITO_00074,1
+Average Transaction Value,https://ai-strategies.org/ontology/ITO_00035,1
+Average classification error rate,https://ai-strategies.org/ontology/ITO_00025,1
+Breakeven Point,https://ai-strategies.org/ontology/ITO_00021,1
+Final agent reward,https://ai-strategies.org/ontology/ITO_00091,1
+Average daily returns,https://ai-strategies.org/ontology/ITO_02554,1
+Mean Angle Error,https://ai-strategies.org/ontology/ITO_04157,1
+Phoneme Error Rate,https://ai-strategies.org/ontology/ITO_04638,1
+Warping Error,https://ai-strategies.org/ontology/ITO_05493,1
+CREMI Score,https://ai-strategies.org/ontology/ITO_05631,1
+Procrustes alignment,https://ai-strategies.org/ontology/ITO_01564,1
+Orientation error,https://ai-strategies.org/ontology/ITO_01545,1
+Translation error,https://ai-strategies.org/ontology/ITO_01544,1
+BPE Perplexity,https://ai-strategies.org/ontology/ITO_10156,1
+Consistency,https://ai-strategies.org/ontology/ITO_15741,1
+Chamfer Distance,https://ai-strategies.org/ontology/ITO_15903,1
+MACE,https://ai-strategies.org/ontology/ITO_15994,1
+R-squared,https://ai-strategies.org/ontology/ITO_01554,1
+Distractor error,https://ai-strategies.org/ontology/ITO_01590,1

@@ -1,0 +1,185 @@
+performance_measure_label;associated_task_type_1
+Accuracy;Classification
+Score;Game Playing
+Precision;Classification
+F-measure;Classification
+Peak signal-to-noise ratio;Computer vision
+Intersection over Union;Classification
+Structural similarity index;Computer vision
+Hits-at-k;Classification
+Exact match;Natural language processing
+R-at-K;Classification
+BLEU score;Natural language processing
+Resource requirements;Other
+Area under curve (AUC), unspecified;Classification
+Recall;Classification
+Frechet Inception Distance;Computer vision
+Percentage of correct keypoints;Classification
+Percentage error;Regression
+Undetermined;N/A
+ROUGE metric;Natural language processing
+Mean absolute error;Regression
+Mean reciprocal rank;Ranking
+Perplexity;Natural language processing
+Mean-Per-Joint-Position-Error;Other
+Error rate;Classification
+Inception Score;Computer vision
+Root mean square deviation;Regression
+Normalized mutual information;Clustering
+Normalized mean error;Regression
+Average 3D Error;Other
+P-at-K;Classification
+Normalized Discounted Cumulative Gain;Ranking
+Error;Classification
+Panoptic quality;Classification
+True accept rate;Classification
+Frames per second;Other
+Mean squared error;Regression
+Bit per character;Natural language processing
+ROC AUC;Classification
+Expected average overlap;Computer vision
+Mean rank;Ranking
+Word Error Rate;Natural language processing
+Time;Other
+Negative log-likelihood;Classification
+Mean Opinion Score;Other
+Average End-point Error;Computer vision
+3D percentage of correct keypoints;Computer vision
+Miss rate;Computer vision
+METEOR;Natural language processing
+Logarithmic loss;Classification
+Reasonable Miss Rate;Computer vision
+Mean Error Rate;Classification
+Average 3D distance of model points;Computer vision
+Pearson Correlation;Other
+Medium Human-Normalized Score;Game Playing
+Relative root mean square deviation;Regression
+Absolute relative error;Regression
+Signal-to-distortion ratio;Other
+Kernel Inception Distance;Computer vision
+Floating Point Operations Per Second;Other
+Consensus-based Image Description Evaluation;Natural language processing
+Learned perceptual similarity metric;Computer vision
+AR-AN;Computer vision
+Mean Reconstruction Error (mm);Other
+PR AUC;Classification
+Mean 3D joint position error;Computer vision
+Log-Spectral Distance;Natural language processing
+Diversity;Computer vision
+NIST;Natural language processing
+User rating;Other
+Genuine Acceptance Rate;Classification
+Mean per joint position error after Procrustes Alignment;Computer vision
+Hit Ratio-at-K;Ranking
+Image quality;Computer vision
+Unlabeled attachment score;Natural language processing
+Color peak signal-to-noise ratio;Computer vision
+Spearman Correlation;Other
+Labeled attachment score;Natural language processing
+Classification Error;Classification
+Log-likelihood;Classification
+Kullback–Leibler divergence;Other
+Bits per dimension;Computer vision
+L2;Regression
+Average Distance Error;Computer vision
+Bits per byte;Other
+Angular Error;Computer vision
+Average Treatment Effect Error;Regression
+MOVIE index;Computer vision
+Scale-invariant signal-to-distortion ratio;Computer vision
+NAB score;Other
+L1;Regression
+Failure rate;Computer vision
+Compression rate;Other
+Success rate weighted by path length;Other
+Feature Similarity Index;Other
+nuScenes detection score;Computer vision
+Intensive Care After Thrombolysis Score;Other
+Hausdorff distance;Computer vision
+Part-of-speech;Natural language processing
+Modularity;Other
+Negative evidence lower bound;Other
+LMD;Computer vision
+FPR-at-K;Classification
+Variation of information;Computer vision
+Damerau–Levenshtein distance;Natural language processing
+Adjusted Rand Index;Clustering
+Interpolation Error;Computer vision
+Median relative target registration error;Computer vision
+Mean performance under corruption;Computer vision
+Relative Performance under Corruption;Computer vision
+Maximum mean discrepancy;Other
+Path Length;Other
+Step Change (10^âˆ’3);Other
+Path Difference;Other
+Player Distance;Other
+Model Entropy;Computer vision
+SceneFID;Computer vision
+GLEU;Natural language processing
+ADDS AUC;Classification
+Test error;Other
+Out of bound error;Other
+Milliseconds per frame;Computer vision
+Universal POS tag set;Natural language processing
+Bits per sub-pixel;Other
+Volume similarity;Computer vision
+Negative Jacobian determinant;Computer vision
+Coverage;Computer vision
+Mean target overlap ratio;Computer vision
+ELO Rating;Game Playing
+Semantic object accuracy;Computer vision
+Mean corruption error;Computer vision
+Value of Information;Computer vision
+Sequence error;Computer vision
+Human-targeted translation error rate;Natural language processing
+Mean surface distance;Computer vision
+Mean magnitude of the gradients of the determinant of the Jacobian;Computer vision
+Underwater image quality measure;Computer vision
+Reprojection error;Computer vision
+Energy above hull;Other
+Rand index;Clustering
+Perceptual Evaluation of Speech Quality;Natural language processing
+Precision at equal recall rate;Classification
+Three-pixel-error;Computer vision
+Interest;Other
+Relevance;Other
+Human Equivalence Score;Natural language processing
+RSim;Other
+R-Precision-at-K;Classification
+Median Relighting Error;Computer vision
+Temporal awareness;Other
+SPICE;Natural language processing
+Average Success Rate;Other
+Cumulative regret;Computer vision
+Edit Distance;Natural language processing
+Sparsity;Other
+Diacritic Error Rate;Natural language processing
+Visual surface similarity;Computer vision
+Detection score;Computer vision
+Weighted average precision;Classification
+Frechet ResNet Distance;Computer vision
+Mean average distance;Computer vision
+Integrated root mean-square deviation;Regression
+Final Displacement Error;Computer vision
+Cross View Ground Truth Consistency Error;Computer vision
+Ground Truth Error;Computer vision
+Vertex-to-vertex metric;Other
+Specificity;Classification
+Average Transaction Value;Computer vision
+Average classification error rate;Classification
+Breakeven Point;Other
+Average daily returns;Other
+Mean Angle Error;Other
+Orientation error;Computer vision
+Translation error;Natural language processing
+Phoneme Error Rate;Natural language processing
+Warping Error;Computer vision
+CREMI Score;Computer vision
+Procrustes alignment;Computer vision
+R-squared;Regression
+BPE Perplexity;Natural language processing
+Consistency;Computer vision
+Chamfer Distance;Computer vision
+MACE;Computer vision
+Final agent reward;Other
+Distractor error;Natural language processing
