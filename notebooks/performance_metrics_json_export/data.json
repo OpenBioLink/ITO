@@ -152,7 +152,7 @@
               "name": "SemEval 2015"
             },
             {
-              "name": "F1-score (at-IoU = 0.3)"
+              "name": "F1-score (@IoU = 0.3)"
             },
             {
               "name": "ODS"
@@ -775,7 +775,7 @@
               "name": "mAP@0.50"
             },
             {
-              "name": "mAP at-0.5:0.95"
+              "name": "mAP @0.5:0.95"
             },
             {
               "name": "mAP"
@@ -784,7 +784,7 @@
               "name": "mAP@0.5"
             },
             {
-              "name": "mAP (at-0.1, Through-wall)"
+              "name": "mAP (@0.1, Through-wall)"
             },
             {
               "name": "mAP@0.50 (CV)"
@@ -874,7 +874,7 @@
               "name": "mAP 5, 5cm"
             },
             {
-              "name": "mAP (at-0.1, Visible)"
+              "name": "mAP (@0.1, Visible)"
             },
             {
               "name": "Video-mAP 0.1"
@@ -1073,31 +1073,31 @@
       "name": "Genuine Acceptance Rate",
       "children": [
         {
-          "name": "GAR at-0.1% FAR"
+          "name": "GAR @0.1% FAR"
         },
         {
-          "name": "GAR at-1% FAR"
+          "name": "GAR @1% FAR"
         },
         {
-          "name": "GAR at-10% FAR"
+          "name": "GAR @10% FAR"
         },
         {
-          "name": "GAR at-0.1% FAR Impersonation"
+          "name": "GAR @0.1% FAR Impersonation"
         },
         {
-          "name": "GAR at-0.1% FAR Obfuscation"
+          "name": "GAR @0.1% FAR Obfuscation"
         },
         {
-          "name": "GAR at-0.1% FAR Overall"
+          "name": "GAR @0.1% FAR Overall"
         },
         {
-          "name": "GAR at-1% FAR Impersonation"
+          "name": "GAR @1% FAR Impersonation"
         },
         {
-          "name": "GAR at-1% FAR Obfuscation"
+          "name": "GAR @1% FAR Obfuscation"
         },
         {
-          "name": "GAR at-1% FAR Overall"
+          "name": "GAR @1% FAR Overall"
         }
       ]
     },
