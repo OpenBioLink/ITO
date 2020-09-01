@@ -2,34 +2,11 @@
   "name": "Performance measure",
   "children": [
     {
-      "name": "PR AUC",
+      "name": "F-measure",
       "children": [
         {
-          "name": "PR AUC"
-        },
-        {
-          "name": "AUPR"
-        },
-        {
-          "name": "AUC Stdev"
-        },
-        {
-          "name": "AUPRC"
-        },
-        {
-          "name": "PR-AUC"
-        }
-      ]
-    },
-    {
-      "name": "F-measure NEW",
-      "children": [
-        {
-          "name": "F1 score NEW",
+          "name": "F1 score",
           "children": [
-            {
-              "name": "Class"
-            },
             {
               "name": "S\u00f8rensen\u2013Dice coefficient",
               "children": [
@@ -286,17 +263,6 @@
         },
         {
           "name": "F-measure"
-        }
-      ]
-    },
-    {
-      "name": "AR-AN",
-      "children": [
-        {
-          "name": "AUC (val)"
-        },
-        {
-          "name": "AUC (test)"
         }
       ]
     },
@@ -678,7 +644,12 @@
           ]
         },
         {
-          "name": "Recall"
+          "name": "Recall",
+          "children": [
+            {
+              "name": "ARL"
+            }
+          ]
         },
         {
           "name": "Average Recall",
@@ -1007,6 +978,9 @@
           "name": "ReVerb45k"
         },
         {
+          "name": "APL"
+        },
+        {
           "name": "DF"
         },
         {
@@ -1274,12 +1248,7 @@
       ]
     },
     {
-      "name": "Average Path Length",
-      "children": [
-        {
-          "name": "APL"
-        }
-      ]
+      "name": "Average Path Length"
     },
     {
       "name": "Median relative target registration error",
@@ -1314,12 +1283,7 @@
       ]
     },
     {
-      "name": "Average Run Length",
-      "children": [
-        {
-          "name": "ARL"
-        }
-      ]
+      "name": "Average Run Length"
     },
     {
       "name": "Average Distance Error",
@@ -1620,6 +1584,9 @@
           "name": "Accuracy (H50)"
         },
         {
+          "name": "Rank-1 Recognition Rate"
+        },
+        {
           "name": "Accuracy (10-fold)"
         },
         {
@@ -1662,6 +1629,9 @@
           "name": "Request"
         },
         {
+          "name": "Mean Rank"
+        },
+        {
           "name": "Top 1 Accuracy"
         },
         {
@@ -1672,6 +1642,18 @@
         },
         {
           "name": "Accuracy (median)"
+        },
+        {
+          "name": "Rank-1"
+        },
+        {
+          "name": "Rank-20"
+        },
+        {
+          "name": "Rank-5"
+        },
+        {
+          "name": "Rank-10"
         },
         {
           "name": "Object Top 5 Accuracy"
@@ -2635,25 +2617,22 @@
       ]
     },
     {
-      "name": "Rank",
+      "name": "PR AUC",
       "children": [
         {
-          "name": "Rank-1 Recognition Rate"
+          "name": "PR AUC"
         },
         {
-          "name": "Mean Rank"
+          "name": "AUPR"
         },
         {
-          "name": "Rank-1"
+          "name": "AUC Stdev"
         },
         {
-          "name": "Rank-20"
+          "name": "AUPRC"
         },
         {
-          "name": "Rank-5"
-        },
-        {
-          "name": "Rank-10"
+          "name": "PR-AUC"
         }
       ]
     },
@@ -2864,6 +2843,29 @@
           "name": "Number of model parameters",
           "children": [
             {
+              "name": "Number of parameters",
+              "children": [
+                {
+                  "name": "No. parameters"
+                },
+                {
+                  "name": "Params (M)"
+                },
+                {
+                  "name": "Parameters"
+                },
+                {
+                  "name": "Params"
+                },
+                {
+                  "name": "Number of params"
+                },
+                {
+                  "name": "Parameters (M)"
+                }
+              ]
+            },
+            {
               "name": "No. parameters"
             },
             {
@@ -2933,29 +2935,6 @@
     },
     {
       "name": "Turn-level requests"
-    },
-    {
-      "name": "Number of parameters",
-      "children": [
-        {
-          "name": "No. parameters"
-        },
-        {
-          "name": "Params (M)"
-        },
-        {
-          "name": "Parameters"
-        },
-        {
-          "name": "Params"
-        },
-        {
-          "name": "Number of params"
-        },
-        {
-          "name": "Parameters (M)"
-        }
-      ]
     },
     {
       "name": "Out of bound error",
@@ -3079,6 +3058,17 @@
       "children": [
         {
           "name": "iRMSE"
+        }
+      ]
+    },
+    {
+      "name": "AR-AN",
+      "children": [
+        {
+          "name": "AUC (val)"
+        },
+        {
+          "name": "AUC (test)"
         }
       ]
     },
