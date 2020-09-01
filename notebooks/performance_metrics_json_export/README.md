@@ -4,7 +4,7 @@ This folder contains a JSON file with an export of the AI performance measure ta
 
 Please note that in the current taxonomy, many of the subproperties might actually be equivalent to their superproperty, and are subproperties only because their label in is non-canonical (e.g., "Acc" being a subproperty of "Accuracy").
 
-![img](D:\Documents\Projekte\AI Strategies\ITO\notebooks\performance_metrics_json_export\property-hierarchy-example.png)
+![img](property-hierarchy-example.png)
 
 *Property hierarchy after manual curation of the raw list of metrics. The left side of the image shows an excerpt of the list of top-level performance metrics; the right side shows an excerpt of the list of submetrics for the top-level metric ‘Accuracy’.*
 
