@@ -1,6 +1,6 @@
 # AI performance metrics taxonomy
 
-This folder contains a JSON file with an export of the AI performance measure taxonomy of the [Intelligence Task Ontology](https://github.com/OpenBioLink/ITO). This taxonomy was created through exporting raw performance measure data from the [Papers With Code](https://paperswithcode.com/) repository and conducting extensive manual curation (i.e., adding canonical top-level properties).
+This folder contains a [JSON file](https://github.com/OpenBioLink/ITO/blob/master/notebooks/performance_metrics_json_export/data.json) with an export of the AI performance measure taxonomy of the [Intelligence Task Ontology](https://github.com/OpenBioLink/ITO). This taxonomy was created through exporting raw performance measure data from the [Papers With Code](https://paperswithcode.com/) repository and conducting extensive manual curation (i.e., adding canonical top-level properties).
 
 Please note that in the current taxonomy, many of the subproperties might actually be equivalent to their superproperty, and are subproperties only because their label in is non-canonical (e.g., "Acc" being a subproperty of "Accuracy").
 
