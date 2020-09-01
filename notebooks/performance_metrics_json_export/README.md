@@ -12,3 +12,8 @@ This folder also contains a Jupyter notebook that was used to generate the JSON 
 
 The files are distributed under a [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
+If you use the taxonomy for research purposes, please cite:
+
+Kathrin Blagec, Georg Dorffner, Milad Moradi, Matthias Samwald. **A critical analysis of metrics used for measuring progress in artificial intelligence** (2020), [preprint on arXiv](https://arxiv.org/abs/2008.02577)
+
+
