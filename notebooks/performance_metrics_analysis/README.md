@@ -1,7 +1,7 @@
 # Analysis of performance metrics used for measuring progress in artificial intelligence
 
 This folder contains resources created as part of the paper 'A critical analysis of metrics used for measuring progress in artificial intelligence' (under review). 
-A pre-print of the paper has been published on arXiv: [insert arXiv URL]
+A pre-print of the paper has been published on arXiv: [Pre-print](https://arxiv.org/abs/2008.02577)
 
 ## Resources
 
