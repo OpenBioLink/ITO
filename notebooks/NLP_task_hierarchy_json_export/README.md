@@ -1,9 +1,15 @@
 # Natural language processing task hierarchy JSON export 
 (State: 21.12.2020)
 
+![img](nlp-task-hierarchy-example.PNG)
+
+-----------------------------------------------
+
+## Field descriptions
+
 For each class, the JSON can contain the following fields (if available):
 
-## Annotation fields
+### Annotation fields
 
 | Field | Description | Example |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------|---|
@@ -16,7 +22,7 @@ For each class, the JSON can contain the following fields (if available):
 | refactor_comment    | Classes that we have marked for refactoring include a refactoring comment                                                                 |
 
 
-## Relationship fields
+### Relationship fields
 
 | Field      | Description                             | Example |
 |------------|-----------------------------------------| --- | 
