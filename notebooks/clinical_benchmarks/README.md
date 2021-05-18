@@ -1,4 +1,4 @@
-# Datasets driving Artificial Intelligence development fail to capture real-life needs of medical professionals
+# Additional resources for 'Datasets driving Artificial Intelligence development fail to capture real-life needs of medical professionals'
 
 This folder contains additional resources for the paper "*Datasets driving Artificial Intelligence development fail to capture real-life needs of medical professionals*".
 Authors: Kathrin Blagec, Jakob Kraiger, Matthias Samwald.
