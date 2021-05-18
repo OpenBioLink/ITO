@@ -8,8 +8,11 @@ In this paper, we analyse the current availability of **clinically relevant AI b
 ## Quick navigation
 
 * [Additional resources](#additional-resources)
-  + [Definitions of terms used in the paper](#definitions-of-terms-used-in-the-paper)
-  + [Notebooks](#notebooks)
+  - [Definitions of terms used in the paper](#definitions-of-terms-used-in-the-paper)
+  - [Notebooks & basic statistics](#notebooks---basic-statistics)
+  - [Task coverage](#task-coverage)
+  - [Directly clinically relevant benchmarks](#directly-clinically-relevant-benchmarks)
+    + [Assessment of clinical relevance and usefulness](#assessment-of-clinical-relevance-and-usefulness)
 
 ## Additional resources
 
@@ -25,5 +28,13 @@ In this paper, we analyse the current availability of **clinically relevant AI b
 | Clinical care task                    | Tasks that are directly related to the examination and treatment of patients and their illnesses. Includes reviewing and searching for medical information using a variety of information sources, such as books, scientific literature or web-based information content. Includes the analysis and interpretation of diagnostic tests including medical imaging results. |
 | Administrative task                   | Administrative tasks include, e.g., scheduling and managing patient appointments, filing, updating, and organizing patient records or coding medical records for billing.                                                                                                                                                                                                 |
 | Scientific task                       | Tasks related to the coordination, conduct or reporting of clinical scientific research. Includes e.g., the selection of eligible patients for clinical trials.                                                                                                                                                                                                           |
-### Notebooks
+
+### Notebooks & basic statistics
+
+
+### Task coverage
+
+### Directly clinically relevant benchmarks
+
+## Assessment of clinical relevance and usefulness
 
