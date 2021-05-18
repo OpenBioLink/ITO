@@ -5,6 +5,12 @@ Authors: Kathrin Blagec, Jakob Kraiger, Matthias Samwald.
 
 In this paper, we analyse the current availability of **clinically relevant AI benchmarks**, their strengths and weaknesses, and point out opportunities for advancing AI for clinical applications.
 
+## Quick navigation
+
+* [Additional resources](#additional-resources)
+  + [Definitions of terms used in the paper](#definitions-of-terms-used-in-the-paper)
+  + [Notebooks](#notebooks)
+
 ## Additional resources
 
 ### Definitions of terms used in the paper
