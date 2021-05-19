@@ -16,6 +16,14 @@ In this paper, we analyse the current availability of **clinically relevant AI b
 
 ## Additional resources
 
+### Data basis
+
+Our previously compiled dataset covering more than 400 biomedical and clinical datasets and benchmarks served as a data basis for our analysis:
+
+>  Blagec Kathrin, Kraiger Jakob, & Samwald Matthias. (2021). A living catalogue of artificial intelligence datasets and benchmarks for medical decision making (Version 0.1.1) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4668570
+
+
+
 ### Definitions of terms used in the paper
 
 | Term                                  | Definition                                                                                                                                                                                                                                                                                                                                                                |
@@ -28,8 +36,6 @@ In this paper, we analyse the current availability of **clinically relevant AI b
 | Clinical care task                    | Tasks that are directly related to the examination and treatment of patients and their illnesses. Includes reviewing and searching for medical information using a variety of information sources, such as books, scientific literature or web-based information content. Includes the analysis and interpretation of diagnostic tests including medical imaging results. |
 | Administrative task                   | Administrative tasks include, e.g., scheduling and managing patient appointments, filing, updating, and organizing patient records or coding medical records for billing.                                                                                                                                                                                                 |
 | Scientific task                       | Tasks related to the coordination, conduct or reporting of clinical scientific research. Includes e.g., the selection of eligible patients for clinical trials.                                                                                                                                                                                                           |
-
-### Notebooks & basic statistics
 
 
 ### Task coverage
@@ -45,7 +51,7 @@ We further organised the list of clinical tasks into the categories (1) clinical
 ### Directly clinically relevant benchmarks
 *State: 19.05.2021*
 
-| Dataset Name or Description                                | Task                      | Primary target group    | Accessibility | Licensing                                        | Data type                                        | Generation process                                                                                               | Number of items                                                                                                                                                                                                                     | Number of annotators                                                                                   | Source/Paper                                            | Repository                                                          |
+| Name or Description                                | Task                      | Primary target group    | Accessibility | Licensing                                        | Data type                                        | Generation process                                                                                               | Number of items                                                                                                                                                                                                                     | Number of annotators                                                                                   | Source/Paper                                            | Repository                                                          |
 |------------------------------------------------------------|---------------------------|-------------------------|---------------|--------------------------------------------------|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------------------|
 | ShAReCLEF eHealth 2013 Task 3: Document retrieval          | Information Retrieval     | Patients                | On request    | PhysioNet Credentialed Health Data License 1.5.0 | Clinical notes / EHR data                        | Manual generation of queries                                                                                     | Training set: 5 development queries, <br>Test set: 50 test queries                                                                                                                                                                  | Not stated                                                                                             | [Link](https://sites.google.com/site/shareclefehealth/) | [Link](https://www.physionet.org/content/shareclefehealth2013/1.0/) |
 | TREC CDS task 2014                                         | Information Retrieval     | Clinicians              | Public        | Not stated                                       | Biomedical scientific literature                 | Manual generation of topics                                                                                      | 30 topics, PMC snapshot covering 733,138 articles<br>                                                                                                                                                                               | Not stated                                                                                             | -                                                       | [Link](http://www.trec-cds.org/)                                    |
