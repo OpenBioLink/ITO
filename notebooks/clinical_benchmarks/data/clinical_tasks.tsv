@@ -1,0 +1,193 @@
+Task	Desirability	Type	Occurrence	Personnel	NLP relevance?
+Maintain medical equipment or instruments	3.74	Other	0	Other	
+Write reports or evaluations	3.71	Administrative task	0	Clinical personnel	yes
+Instruct patients in the use of assistive equipment	3.64	Other	0	Other	
+Monitor clients to evaluate treatment progress	3.64	Other	0	Other	
+Move patients to or from treatment areas	3.63	Other	0	Other	
+Enter patient or treatment data into computers	3.58	Administrative task	1	Clinical personnel	yes
+Develop treatment plans for patients or clients	3.58	Clinical care task	0	Clinical personnel	yes
+Collect archival data	3.55	Other	0	Other	
+Collaborate with other professionals to assess client needs or plan treatments	3.54		0	Clinical personnel	no
+Counsel clients or patients with substance abuse issues	3.54	Clinical care task	0	Other	
+Maintain client records	3.54	Other	0	Other	
+Clean medical equipment or facilities	3.53	Other	0	Other	
+Interview clients to gather information about their backgrounds, needs, or progress	3.52	Other	0	Other	
+Maintain inventory of medical supplies or equipment	3.52	Other	0	Other	
+Sterilize medical equipment or instruments	3.46	Other	0	Other	
+Collect biological specimens from patients	3.45		0	Clinical personnel	no
+Prepare official health documents or records	3.44	Administrative task	0	Clinical personnel	yes
+Test patient vision	3.43		0	Clinical personnel	no
+Repair medical facility equipment	3.39	Other	0	Other	
+Maintain medical facility records	3.38	Other	0	Other	
+Recommend types of assistive devices	3.37	Other	0	Other	
+Verify accuracy of patient information	3.34	Clinical care task	1	Clinical personnel	yes
+Administer basic health care or medical treatments	3.32		0	Clinical personnel	no
+Assist healthcare practitioners during examinations or treatments	3.32	Other	0	Other	
+Measure the physical or physiological attributes of patients	3.31		0	Clinical personnel	no
+Prepare medications or medical solutions	3.31		0	Clinical personnel	no
+Schedule patient procedures or appointments	3.29	Administrative task	0	Clinical personnel	yes
+Administer non-intravenous medications	3.28		0	Clinical personnel	no
+Calculate numerical data for medical activities	3.25	Scientific task	0	Clinical personnel	no
+Perform clerical work in medical settings	3.25	Other	0	Other	
+Process medical billing information	3.23	Administrative task	3	Clinical personnel	yes
+Inform medical professionals regarding patient conditions and care	3.23	Clinical care task	0	Clinical personnel	yes
+Collect information about clients	3.23	Other	0	Other	
+Adjust settings or positions of medical equipment	3.22		0	Clinical personnel	no
+Prepare scientific or technical reports or presentations	3.22	Scientific task	0	Clinical personnel	yes
+Verify that medical activities or operations meet standards	3.22	Clinical care task	0	Clinical personnel	yes
+Operate diagnostic or therapeutic medical instruments or equipment	3.19		0	Clinical personnel	no
+Help clients get needed services or resources	3.19	Other	0	Other	
+Review professional literature to maintain professional knowledge	3.17	Clinical care task	23	Clinical personnel	yes
+Merchandise healthcare products or services	3.17	Other	0	Other	
+Apply bandages, dressings, or splints	3.16		0	Clinical personnel	no
+Prepare medical supplies or equipment for use	3.14		0	Clinical personnel	no
+Assist patients with hygiene or daily living activities	3.14	Other	0	Other	
+Assist healthcare practitioners during surgery	3.12	Other	0	Other	
+Order medical supplies or equipment	3.11	Administrative task	0	Clinical personnel	yes
+Position patients for treatment or examination	3.08		0	Clinical personnel	no
+Process healthcare paperwork	3.08	Administrative task	0	Clinical personnel	yes
+Gather medical information from patient histories	3.07	Clinical care task	25	Clinical personnel	yes
+Evaluate the effectiveness of counseling or educational programs	3.06	Other	0	Other	
+Advise communities or institutions regarding health or safety issues	3.05	Other	0	Other	
+Develop methods of social or economic research	3.05	Other	0	Other	
+Instruct college students in social sciences or humanities disciplines	3.05	Other	0	Other	
+Supervise workers providing client or patient services	3.05	Other	0	Other	
+Teach life skills or strategies to clients or their families	3.05	Other	0	Other	
+Test biological specimens to gather information about patient conditions	3.04		0	Clinical personnel	no
+Maintain medical laboratory equipment	3.04	Other	0	Other	
+Process x-rays or other medical images	3.03	Clinical care task	1	Clinical personnel	yes
+Confer with clients to discuss treatment plans or progress	3.03	Other	0	Other	
+Create advanced digital images of patients using computer imaging systems	3.02		0	Clinical personnel	no
+Manage healthcare operations	3.01	Other	0	Other	
+Monitor patient progress or responses to treatments	3	Clinical care task	0	Clinical personnel	yes
+Record patient medical histories	3	Administrative task	0	Clinical personnel	yes
+Train personnel in technical or scientific procedures	3	Other	0	Other	
+Test patient heart or lung functioning	2.98		0	Clinical personnel	no
+Collect information from people through observation, interviews, or surveys	2.98	Scientific task	0	Other	
+Explain medical procedures or test results to patients or family members	2.97	Clinical care task	2	Clinical personnel	yes
+Determine protocols for medical procedures	2.97	Clinical care task	0	Clinical personnel	yes
+Protect patients or staff members using safety equipment	2.97	Other	0	Other	
+Communicate test or assessment results to medical professionals	2.96	Clinical care task	0	Clinical personnel	yes
+Maintain medical or professional knowledge	2.96		0	Clinical personnel	yes
+Design public or employee health programs	2.96	Other	0	Other	
+Prepare healthcare training materials	2.96	Other	0	Other	
+Attend conferences or workshops to maintain professional knowledge	2.95		0	Clinical personnel	no
+Communicate detailed medical information to patients or family members	2.93	Clinical care task	0	Clinical personnel	yes
+Operate diagnostic imaging equipment	2.93		0	Clinical personnel	no
+Record research or operational data	2.93	Administrative task	0	Clinical personnel	yes
+Train patients, family members, or caregivers in techniques for managing disabilities or illnesses	2.93		0	Clinical personnel	yes
+Examine medical instruments or equipment to ensure proper operation	2.93	Other	0	Other	
+Monitor medical facility activities to ensure adherence to standards or regulations	2.93	Other	0	Other	
+Advise others on business or operational matters	2.92	Other	0	Other	
+Interact with patients to build rapport or provide emotional support	2.91		0	Clinical personnel	yes
+Train medical providers	2.91		0	Clinical personnel	yes
+Fabricate medical devices	2.91	Other	0	Other	
+Monitor video displays of medical equipment to ensure proper functioning	2.91	Other	0	Other	
+Develop educational programs	2.9	Other	0	Other	
+Conduct research to increase knowledge about medical issues	2.89	Scientific task	8	Clinical personnel	yes
+Advise medical personnel regarding healthcare issues	2.89		0	Clinical personnel	yes
+Advise patients on effects of health conditions or treatments	2.89		0	Clinical personnel	yes
+Check quality of diagnostic images	2.89		0	Clinical personnel	no
+Monitor patient conditions during treatments, procedures, or activities	2.89	Clinical care task	0	Clinical personnel	yes
+Plan social sciences research	2.89	Other	0	Other	
+Testify at legal or legislative proceedings	2.89	Other	0	Other	
+Advise others on social or educational issues	2.87	Other	0	Other	
+Communicate health and wellness information to the public	2.87	Other	0	Other	
+Prepare reports summarizing patient diagnostic or care activities	2.87	Administrative task	4	Clinical personnel	yes
+Analyze laboratory specimens to detect abnormalities or other problems	2.87		0	Clinical personnel	no
+Refer patients to other healthcare practitioners or health resources	2.87	Clinical care task	0	Clinical personnel	yes
+Monitor the handling of hazardous materials or medical wastes	2.87	Other	0	Other	
+Analyze test data or images to inform diagnosis or treatment	2.86	Clinical care task	1	Clinical personnel	yes
+Establish standards for medical care	2.86		0	Clinical personnel	no
+Conduct scientific research of organizational behavior or processes	2.85	Scientific task	0	Other	
+Care for women during pregnancy and childbirth	2.85		0	Clinical personnel	yes
+Operate laboratory equipment to analyze medical samples	2.84		0	Clinical personnel	no
+Order medical diagnostic or clinical tests	2.83	Clinical care task	0	Clinical personnel	yes
+Present medical research reports	2.83	Clinical care task	0	Clinical personnel	yes
+Evaluate patient outcomes to determine effectiveness of treatments	2.82	Scientific task	0	Clinical personnel	yes
+Supervise medical support personnel	2.82		0	Clinical personnel	no
+Adjust prostheses or other assistive devices	2.81		0	Clinical personnel	no
+Collaborate with healthcare professionals to plan or provide treatment	2.81		0	Clinical personnel	yes
+Immunize patients	2.81		0	Clinical personnel	no
+Supervise patient care personnel	2.81		0	Clinical personnel	no
+Present social services program information to the public	2.81	Other	0	Other	
+Direct medical science or healthcare programs	2.79	Other	0	Other	
+Prepare biological specimens for laboratory analysis	2.79		0	Clinical personnel	no
+Prescribe treatments or therapies	2.79	Clinical care task	0	Clinical personnel	yes
+Test patient hearing	2.79		0	Clinical personnel	no
+Treat chronic diseases or disorders	2.78	Clinical care task	0	Clinical personnel	yes
+Treat medical emergencies	2.78	Clinical care task	0	Clinical personnel	yes
+Direct healthcare delivery programs	2.77	Other	0	Other	
+Analyze laboratory findings	2.77	Clinical care task	0	Clinical personnel	yes
+Develop medical treatment plans	2.77	Clinical care task	0	Clinical personnel	yes
+Develop healthcare quality and safety procedures	2.76	Other	0	Other	
+Administer intravenous medications	2.76		0	Clinical personnel	no
+Provide health and wellness advice to patients, program participants, or caregivers	2.75	Clinical care task	0	Clinical personnel	yes
+Supervise technical medical personnel	2.75	Other	0	Other	
+Prescribe medications	2.73	Clinical care task	0	Clinical personnel	yes
+Maintain sterile operative fields	2.72	Other	0	Other	
+Administer medical substances for imaging or other procedures	2.72		0	Clinical personnel	no
+Administer cancer treatments	2.71		0	Clinical personnel	no
+Examine patients to assess general physical condition	2.71		0	Clinical personnel	no
+Follow protocols or regulations for healthcare activities	2.7	Other	0	Other	
+Advise patients on healthcare system processes	2.7		0	Clinical personnel	yes
+Evaluate treatment options to guide medical decisions	2.7	Clinical care task	0	Clinical personnel	yes
+Conduct health or safety training programs	2.69	Other	0	Other	
+Advise patients on preventive care techniques	2.68		0	Clinical personnel	yes
+Treat patients using physical therapy techniques	2.68	Other	0	Other	
+Analyze quantitative data to determine effectiveness of treatments or therapies	2.67	Scientific task	0	Clinical personnel	no
+Train caregivers or other non-medical personnel	2.67	Other	0	Other	
+Analyze patient data to determine patient needs or treatment goals	2.65	Clinical care task	0	Clinical personnel	yes
+Monitor patients following surgeries or other treatments	2.64	Clinical care task	0	Clinical personnel	yes
+Confer with clients to exchange information	2.62	Other	0	Other	
+Prescribe assistive medical devices or related treatments	2.59		0	Clinical personnel	yes
+Develop health assessment methods or programs	2.58	Other	0	Other	
+Fit eyeglasses, contact lenses, or other vision aids	2.58	Other	0	Other	
+Implement advanced life support techniques	2.58		0	Clinical personnel	no
+Schedule medical facility use	2.55	Other	0	Other	
+Teach health management classes	2.54	Other	0	Other	
+Cultivate micro-organisms for study, testing, or medical preparations	2.53	Other	0	Other	
+Care for patients with mental illnesses	2.53		0	Clinical personnel	yes
+Evaluate patient functioning, capabilities, or health	2.52	Clinical care task	2	Clinical personnel	yes
+Assess patient work, living, or social environments	2.52	Clinical care task	0	Clinical personnel	yes
+Establish nursing policies or standards	2.51	Other	0	Other	
+Administer standardized physical or psychological tests	2.51		0	Clinical personnel	yes
+Lead classes or community events	2.5	Other	0	Other	
+Analyze medical data to determine cause of death	2.5	Clinical care task	0	Clinical personnel	yes
+Advise others on educational matters	2.48	Other	0	Other	
+Prepare patients physically for medical procedures	2.46		0	Clinical personnel	no
+Counsel clients or patients regarding personal issues	2.45	Clinical care task	0	Other	
+Counsel clients regarding interpersonal issues	2.45	Other	0	Other	
+Consult with others regarding safe or healthy equipment or facilities	2.43	Other	0	Other	
+Develop emergency procedures	2.43		0	Clinical personnel	yes
+Test patient nervous system functioning	2.42		0	Clinical personnel	no
+Inspect work environments to ensure safety	2.4	Other	0	Other	
+Treat patients using alternative medical procedures	2.38	Other	0	Other	
+Mediate disputes	2.36	Other	0	Other	
+Collect medical information from patients, family members, or other medical professionals	2.32	Clinical care task	1	Clinical personnel	yes
+Design medical devices or appliances	2.3	Other	0	Other	
+Administer blood or other fluids intravenously	2.26		0	Clinical personnel	no
+Treat acute illnesses, infections, or injuries	2.25	Clinical care task	0	Clinical personnel	yes
+Test facilities for environmental hazards	2.21	Other	0	Other	
+Design psychological or educational treatment procedures or programs	2.16	Other	0	Other	
+Develop exercise or conditioning programs	2.15	Other	0	Other	
+Diagnose neural or psychological disorders	2.14	Clinical care task	2	Clinical personnel	yes
+Diagnose medical conditions	2.12	Clinical care task	1	Clinical personnel	yes
+Operate on patients to treat conditions	2.12		0	Clinical personnel	no
+Select medical equipment for addressing patient needs	2.1		0	Clinical personnel	yes
+Adjust tuning or functioning of musical instruments	2.07	Other	0	Other	
+Diagnose dental conditions	2.01		0	Clinical personnel	no
+Adjust dental devices or appliances to ensure fit	2		0	Clinical personnel	no
+Develop treatment plans that use non-medical therapies	2		0	Clinical personnel	yes
+Encourage patients or clients to develop life skills	1.98	Other	0	Other	
+Advise others on healthcare matters	1.96	Other	0	Other	
+Advise athletes, coaches, or trainers on exercise regimens, nutrition, or equipment use	1.95	Other	0	Other	
+Manage preparation of special meals or diets	1.94	Other	0	Other	
+Treat patients using psychological therapies	1.94	Other	0	Other	
+Administer anesthetics or sedatives to control pain	1.86		0	Clinical personnel	no
+Establish treatment goals	1.8	Clinical care task	0	Clinical personnel	yes
+Supervise trainees	1.7		0	Clinical personnel	no
+Counsel clients on mental health or personal achievement	1.65	Other	0	Other	
+Treat dental problems or diseases	1.61	Clinical care task	0	Clinical personnel	no
+Examine mouth, teeth, gums, or related facial structures	1.56		0	Clinical personnel	no
+Improving clinical/biomedical NLP		Improving clinical/biomedical NLP	125	Clinical personnel	yes
