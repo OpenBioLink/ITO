@@ -8,6 +8,7 @@ In this paper, we analyse the current availability of **clinically relevant AI b
 ## Quick navigation
 
 * [Additional resources](#additional-resources)
+    - [Data basis](#definitions-of-terms-used-in-the-paper)
   - [Definitions of terms used in the paper](#definitions-of-terms-used-in-the-paper)
   - [Notebooks & basic statistics](#notebooks---basic-statistics)
   - [Task coverage](#task-coverage)
