@@ -13,13 +13,14 @@ In this paper, we analyse the current availability of **clinically relevant AI b
   - [Notebooks & basic statistics](#notebooks---basic-statistics)
   - [Task coverage](#task-coverage)
   - [Directly clinically relevant benchmarks](#directly-clinically-relevant-benchmarks)
-    + [Assessment of clinical relevance and usefulness](#assessment-of-clinical-relevance-and-usefulness)
+    + [Rating of clinical relevance and usefulness](#rating-of-clinical-relevance-and-usefulness)
+        * [Ranking](#ranking)
 
 ## Additional resources
 
 ### Data basis
 
-Our previously compiled dataset covering more than 400 biomedical and clinical datasets and benchmarks served as a data basis for our analysis:
+Our previously compiled dataset covering more than 400 biomedical and clinical datasets and benchmarks served as the data basis for our analysis:
 
 >  Blagec Kathrin, Kraiger Jakob, & Samwald Matthias. (2021). A living catalogue of artificial intelligence datasets and benchmarks for medical decision making (Version 0.1.1) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4668570
 
@@ -66,3 +67,34 @@ We further organised the list of clinical tasks into the categories (1) clinical
 | ImageCLEFmedical 2018 Visual Question Answering (VQA)      | Visual question-answering | Clinicians              | Public        | Not stated                                       | Radiology images; Clinical question-answer pairs | Semi-automated generation of question answer-pairs based on images and captions                                  | 6,413 question-answer pairs across 2,866 medical images                                                                                                                                                                             | Quality check by 1 annotator with unknown expertise and 1 annotator with clinical expertise            | [Link](https://www.imageclef.org/2018/VQA-Med)          | [Link](https://www.imageclef.org/2018/VQA-Med)                      |
 | ImageCLEFmedical 2019 Visual Question Answering (VQA)      | Visual question-answering | Clinicians              | Public        | Not stated                                       | Radiology images; Clinical question-answer pairs | Automatic generation of question-answer pairs                                                                    | Training set: 12,792 Question-answer pairs across 3,200 medical images,Validation set: 2000 Question-answer pairs across 500 medical images, Test set: 500 questions across 500 medical images                                      | Test set: <br>Manual validation by two medical doctors                                                 | [Link](https://www.imageclef.org/2019/medical/vqa/)     | [Link](https://www.imageclef.org/2019/medical/vqa/)                 |
 |                                                            |                           |                         |               |                                                  |                                                  |                                                                                                                  |                                                                                                                                                                                                                                     |                                                                                                        |                                                         |                                                                     |
+
+## Rating of clinical relevance and usefulness
+
+Directly clinically relevant benchmarks were further rated for their relevance to clinical work and their
+validity for clinical practice. The following process served to evaluate the datasets tasks from a medical perspective: 
+
+The benchmark datasets and associated tasks were evaluated in a two-step process. First, 
+the clinical relevance of the tasks was identified independently by two MDs (KB&JK) according to an evaluation 
+protocol. The protocol of the clinical relevance ranged from the lowest “1-not relevant” to the highest 
+“5-needs to be implemented today” ranking. Second, by reviewing the tasks within the benchmark papers the decision 
+of the “usefulness in clinical work” was evaluated. From “1-not practicable yet” to “5-has already been 
+successfully used in clinic”. Given the two scoring schemes, the datasets were ranked by
+producing the sum of scores of the relevance and usability ratings.
+
+### Ranking
+
+| Ranking | Dataset                                      | Score* |
+|---------|----------------------------------------------|--------|
+| 1       | FindZebra: A search engine for rare diseases | 10     |
+| 2       | ImageCLEFmedical 2018 Visual Question Answering (VQA) | 8      |
+| 2       | ImageCLEFmedical 2019 Visual Question Answering (VQA) | 8      |
+| 3       | VQA-RAD                                      | 7      |
+| 4       | PathVQA                                      | 6      |
+| 5       | TREC CDS task 2016                           | 5      |
+| 5       | TREC CDS task 2015                           | 5      |
+| 5       | TREC CDS task 2014                           | 5      |
+| 5       | emrQA                                        | 5      |
+| 5       | ShAReCLEF eHealth 2013 Task 3: Document retrieval     | 5      |
+| 5       | TREC-COVID                                   | 5      |
+
+\*Sum of the scores of relevance and usability
