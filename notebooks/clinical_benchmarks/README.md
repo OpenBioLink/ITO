@@ -74,11 +74,9 @@ Directly clinically relevant benchmarks were further rated for their relevance t
 validity for clinical practice. The following process served to evaluate the datasets tasks from a medical perspective: 
 
 The benchmark datasets and associated tasks were evaluated in a two-step process. First, 
-the clinical relevance of the tasks was identified independently by two MDs (KB&JK) according to an evaluation 
-protocol. The protocol of the clinical relevance ranged from the lowest “1-not relevant” to the highest 
-“5-needs to be implemented today” ranking. Second, by reviewing the tasks within the benchmark papers the decision 
-of the “usefulness in clinical work” was evaluated. From “1-not practicable yet” to “5-has already been 
-successfully used in clinic”. Given the two scoring schemes, the datasets were ranked by
+the clinical relevance of the tasks was rated by two MDs (KB&JK) based on a scale ranging from the lowest “1-not relevant” to the highest 
+“5-needs to be implemented today” ranking. Second, the usefulness for clinical work was rated based on a scale ranging
+ from “1-not practicable yet” to “5-has already been successfully used in clinic”. Given the two scoring schemes, the datasets were ranked by
 producing the sum of scores of the relevance and usability ratings.
 
 ### Ranking
