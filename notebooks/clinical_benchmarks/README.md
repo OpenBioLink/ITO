@@ -59,7 +59,7 @@ Code to generate the following and other basic statistics on the datsets and ben
 
 #
 
-![](plots/tasks_directly_relevant.png) 
+![](plots/tasks_directly_relevant.png)  
 
 **Figure 3:** Top 10 task types of directly clinically relevant benchmarks
 
