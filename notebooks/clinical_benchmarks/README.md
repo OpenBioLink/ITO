@@ -10,11 +10,12 @@ In this paper, we analyse the current availability of **clinically relevant AI b
 * [Additional resources](#additional-resources)
     - [Data basis](#definitions-of-terms-used-in-the-paper)
   - [Definitions of terms used in the paper](#definitions-of-terms-used-in-the-paper)
-  - [Notebooks & basic statistics](#notebooks---basic-statistics)
+  - [Notebooks & basic statistics](#notebooks-and-basic-statistics)
   - [Task coverage](#task-coverage)
   - [Directly clinically relevant benchmarks](#directly-clinically-relevant-benchmarks)
     + [Rating of clinical relevance and usefulness](#rating-of-clinical-relevance-and-usefulness)
         * [Ranking](#ranking)
+
 
 ## Additional resources
 
@@ -25,7 +26,7 @@ Our previously compiled dataset covering more than 400 biomedical and clinical d
 >  Blagec Kathrin, Kraiger Jakob, & Samwald Matthias. (2021). A living catalogue of artificial intelligence datasets and benchmarks for medical decision making (Version 0.1.1) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4668570
 
 
-
+#
 ### Definitions of terms used in the paper
 
 **Table 1:** Definitions of terms used in this analysis
@@ -40,23 +41,26 @@ Our previously compiled dataset covering more than 400 biomedical and clinical d
 | Clinical care task                    | Tasks that are directly related to the examination and treatment of patients and their illnesses. Includes reviewing and searching for medical information using a variety of information sources, such as books, scientific literature or web-based information content. Includes the analysis and interpretation of diagnostic tests including medical imaging results. |
 | Administrative task                   | Administrative tasks include, e.g., scheduling and managing patient appointments, filing, updating, and organizing patient records or coding medical records for billing.                                                                                                                                                                                                 |
 | Scientific task                       | Tasks related to the coordination, conduct or reporting of clinical scientific research. Includes e.g., the selection of eligible patients for clinical trials.                                                                                                                                                                                                           |
-
+#
 ### Notebooks and basic statistics
 
 Code to generate the following and other basic statistics on the datsets and benchmarks can be found in the Jupyter Notebook '`clinically_relevant_benchmarks.ipynb`'.
 
-![](plots/overview_df.png)
+![](plots/overview_df.png) 
+
 **Figure 1:** Distribution of benchmark and non-benchmark datasets across the categories 
 'Directly clinically relevant', 'Not clinically relevant' and 'Indirectly clinically relevant'.
 #
 
 
-![](plots/tasks_indirectly_relevant.png)
+![](plots/tasks_indirectly_relevant.png) 
+
 **Figure 2:** Top 10 task types of indirectly clinically relevant benchmarks
 
 #
 
-![](plots/tasks_directly_relevant.png)
+![](plots/tasks_directly_relevant.png) 
+
 **Figure 3:** Top 10 task types of directly clinically relevant benchmarks
 
 #
@@ -75,7 +79,7 @@ To assess task coverage, we then mapped the list of clinical tasks to the list o
 
 We further organised the list of clinical tasks into the categories (1) clinical care tasks, (2) administrative tasks, and (3) scientific tasks. Tasks occurring in the scientific literature that were targeted at basic clinical/biomedical NLP research were assigned into a separate class ‘Improving clinical/biomedical NLP’.
 
-
+#
 
 ### Directly clinically relevant benchmarks
 *State: 19.05.2021*
@@ -96,6 +100,8 @@ We further organised the list of clinical tasks into the categories (1) clinical
 | ImageCLEFmedical 2018 Visual Question Answering (VQA)      | Visual question-answering | Clinicians              | Public        | Not stated                                       | Radiology images; Clinical question-answer pairs | Semi-automated generation of question answer-pairs based on images and captions                                  | 6,413 question-answer pairs across 2,866 medical images                                                                                                                                                                             | Quality check by 1 annotator with unknown expertise and 1 annotator with clinical expertise            | [Link](https://www.imageclef.org/2018/VQA-Med)          | [Link](https://www.imageclef.org/2018/VQA-Med)                      |
 | ImageCLEFmedical 2019 Visual Question Answering (VQA)      | Visual question-answering | Clinicians              | Public        | Not stated                                       | Radiology images; Clinical question-answer pairs | Automatic generation of question-answer pairs                                                                    | Training set: 12,792 Question-answer pairs across 3,200 medical images,Validation set: 2000 Question-answer pairs across 500 medical images, Test set: 500 questions across 500 medical images                                      | Test set: <br>Manual validation by two medical doctors                                                 | [Link](https://www.imageclef.org/2019/medical/vqa/)     | [Link](https://www.imageclef.org/2019/medical/vqa/)                 |
 |                                                            |                           |                         |               |                                                  |                                                  |                                                                                                                  |                                                                                                                                                                                                                                     |                                                                                                        |                                                         |                                                                     |
+
+#
 
 ## Rating of clinical relevance and usefulness
 
