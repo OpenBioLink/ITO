@@ -41,6 +41,25 @@ Our previously compiled dataset covering more than 400 biomedical and clinical d
 | Administrative task                   | Administrative tasks include, e.g., scheduling and managing patient appointments, filing, updating, and organizing patient records or coding medical records for billing.                                                                                                                                                                                                 |
 | Scientific task                       | Tasks related to the coordination, conduct or reporting of clinical scientific research. Includes e.g., the selection of eligible patients for clinical trials.                                                                                                                                                                                                           |
 
+### Notebooks and basic statistics
+
+Code to generate the following and other basic statistics on the datsets and benchmarks can be found in the Jupyter Notebook '`clinically_relevant_benchmarks.ipynb`'.
+
+![](plots/overview_df.png)
+**Figure 1:** Distribution of benchmark and non-benchmark datasets across the categories 
+'Directly clinically relevant', 'Not clinically relevant' and 'Indirectly clinically relevant'.
+#
+
+
+![](plots/tasks_indirectly_relevant.png)
+**Figure 2:** Top 10 task types of indirectly clinically relevant benchmarks
+
+#
+
+![](plots/tasks_directly_relevant.png)
+**Figure 3:** Top 10 task types of directly clinically relevant benchmarks
+
+#
 
 ### Task coverage
 
