@@ -82,7 +82,8 @@ We further organised the list of clinical tasks into the categories (1) clinical
 #
 
 ### Directly clinically relevant benchmarks
-*State: 19.05.2021*
+*State: 19.05.2021*  
+*Based on Version 0.1.1 of the dataset.*
 
 **Table 2**: Benchmarks identified as directly clinically relevant and their properties.
 
@@ -118,7 +119,7 @@ calculating the sum of scores of the relevance and representativeness ratings.
 
 ### Ranking
 
-**Table 3:** Ranking of benchmarks based on relevance for and representativeness for clinical work activities.
+**Table 3:** Ranking of benchmarks based on their relevance and representativeness for clinical work activities.
 
 | Ranking | Benchmark                                     | Score* |
 |---------|----------------------------------------------|--------|
