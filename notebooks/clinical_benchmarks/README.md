@@ -83,7 +83,7 @@ We further organised the list of clinical tasks into the categories (1) clinical
 
 ### Directly clinically relevant benchmarks
 *State: 19.05.2021*  
-*Based on Version 0.1.1 of the dataset.*
+*Based on Version 0.1.2 of the dataset.*
 
 **Table 2**: Benchmarks identified as directly clinically relevant and their properties.
 
@@ -126,6 +126,8 @@ calculating the sum of scores of the relevance and representativeness ratings.
 | 1       | FindZebra: A search engine for rare diseases | 10     |
 | 2       | ImageCLEFmedical 2018 Visual Question Answering (VQA) | 8      |
 | 2       | ImageCLEFmedical 2019 Visual Question Answering (VQA) | 8      |
+| 2       | ImageCLEFmedical 2020 Visual Question Answering (VQA) | 8      |
+| 2       | ImageCLEFmedical 2021 Visual Question Answering (VQA) | 8      |
 | 3       | VQA-RAD                                      | 7      |
 | 4       | PathVQA                                      | 6      |
 | 5       | TREC CDS task 2016                           | 5      |
