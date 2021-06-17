@@ -1,18 +1,4 @@
 high_level_process_label,high_level_process,benchmark_count
-Benchmarking,https://ai-strategies.org/ontology/Benchmarking,2298
-Vision process,https://ai-strategies.org/ontology/ITO_00101,1200
-Natural Language Processing,https://ai-strategies.org/ontology/ITO_00141,491
-Fundamental AI process,https://ai-strategies.org/ontology/ITO_00115,267
-Graph process,https://ai-strategies.org/ontology/ITO_00137,161
-Biomedical process,https://ai-strategies.org/ontology/ITO_00126,131
-Time Series process,https://ai-strategies.org/ontology/ITO_00131,91
-Miscellaneous process,https://ai-strategies.org/ontology/ITO_00113,78
-Playing Games,https://ai-strategies.org/ontology/ITO_00873,73
-Robotics process,https://ai-strategies.org/ontology/ITO_00600,67
-Audio process,https://ai-strategies.org/ontology/ITO_00145,50
-Computer code process,https://ai-strategies.org/ontology/ITO_00485,35
-Classification or Detection,https://ai-strategies.org/ontology/ITO_01524,11
-Reasoning,https://ai-strategies.org/ontology/ITO_00506,11
-Knowledge base process,https://ai-strategies.org/ontology/ITO_00528,6
-Artistic process,https://ai-strategies.org/ontology/ITO_01532,6
-Adversarial process,https://ai-strategies.org/ontology/ITO_00310,4
+AI process,https://identifiers.org/ito#ITO_01625,2298
+Knowledge creation process,https://identifiers.org/ito#ITO_01626,2298
+Bioinformatics operation,http://edamontology.org/operation_0004,24

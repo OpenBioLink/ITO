@@ -1,0 +1,7 @@
+#Start blazergraph
+
+On Windows, certify that BG is running:
+C:\Users\Adriano\Downloads> java -server -Xmx4g -jar blazegraph.jar
+
+
+load <file:///C:/Users/Adriano/Downloads/ITO_old.owl> #ths is the one we want to run

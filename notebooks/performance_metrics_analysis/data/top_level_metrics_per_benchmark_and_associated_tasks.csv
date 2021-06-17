@@ -1,180 +1,179 @@
 performance_measure_label,performance_measure,benchmark_count,associated_task_type_1
-Accuracy,https://ai-strategies.org/ontology/ITO_01157,871,Classification
-F-measure,http://webprotege.stanford.edu/RtXXF5ckIuUQOaG50H8xcO,393,Classification
-Precision,https://ai-strategies.org/ontology/ITO_04547,374,Classification
-R-at-K,https://ai-strategies.org/ontology/ITO_00082,143,Classification
-Intersection over Union,https://ai-strategies.org/ontology/ITO_00024,115,Classification
-Score,https://ai-strategies.org/ontology/ITO_08816,101,Game Playing
-BLEU score,https://ai-strategies.org/ontology/ITO_00008,100,Natural language processing
-"Area under curve (AUC), unspecified",https://ai-strategies.org/ontology/ITO_00006,89,Classification
-Peak signal-to-noise ratio,https://ai-strategies.org/ontology/ITO_00016,83,Computer vision
-Recall,https://ai-strategies.org/ontology/ITO_00011,79,Classification
-Hits-at-k,https://ai-strategies.org/ontology/ITO_00002,69,Classification
-Frechet Inception Distance,https://ai-strategies.org/ontology/ITO_01570,66,Computer vision
-Structural similarity index,https://ai-strategies.org/ontology/ITO_00045,61,Computer vision
-Mean absolute error,https://ai-strategies.org/ontology/ITO_00013,59,Regression
-Normalized Discounted Cumulative Gain,https://ai-strategies.org/ontology/ITO_00022,53,Ranking
-ROUGE metric,https://ai-strategies.org/ontology/ITO_00004,38,Natural language processing
-P-at-K,https://ai-strategies.org/ontology/ITO_00081,33,Classification
-Root mean square deviation,https://ai-strategies.org/ontology/ITO_00009,30,Regression
-Mean reciprocal rank,https://ai-strategies.org/ontology/ITO_00044,30,Ranking
-Error rate,https://ai-strategies.org/ontology/ITO_03401,30,Classification
-Normalized mutual information,https://ai-strategies.org/ontology/ITO_01546,30,Clustering
-Inception Score,https://ai-strategies.org/ontology/ITO_00075,28,Computer vision
-Mean squared error,https://ai-strategies.org/ontology/ITO_00010,26,Regression
-Percentage error,https://ai-strategies.org/ontology/ITO_04342,25,Regression
-ROC AUC,https://ai-strategies.org/ontology/ITO_00005,23,Classification
-Resource requirements,https://ai-strategies.org/ontology/ITO_01572,17,Other
-Percentage of correct keypoints,https://ai-strategies.org/ontology/ITO_00015,16,Classification
-Perplexity,https://ai-strategies.org/ontology/ITO_09019,16,Natural language processing
-Normalized mean error,https://ai-strategies.org/ontology/ITO_01555,16,Regression
-Negative log-likelihood,https://ai-strategies.org/ontology/ITO_01549,16,Classification
-Time,https://ai-strategies.org/ontology/ITO_00007,13,Other
-True accept rate,https://ai-strategies.org/ontology/ITO_00084,13,Classification
-METEOR,https://ai-strategies.org/ontology/ITO_08346,13,Natural language processing
-Word Error Rate,https://ai-strategies.org/ontology/ITO_00066,12,Natural language processing
-Panoptic quality,https://ai-strategies.org/ontology/ITO_00087,11,Classification
-Average End-point Error,https://ai-strategies.org/ontology/ITO_00023,11,Computer vision
-Exact match,https://ai-strategies.org/ontology/ITO_01569,11,Natural language processing
-Mean-Per-Joint-Position-Error,https://ai-strategies.org/ontology/ITO_00054,10,Other
-Kernel Inception Distance,https://ai-strategies.org/ontology/ITO_03917,10,Computer vision
-Error,https://ai-strategies.org/ontology/ITO_10601,10,Classification
-Genuine Acceptance Rate,https://ai-strategies.org/ontology/ITO_00019,9,Classification
-Learned perceptual similarity metric,https://ai-strategies.org/ontology/ITO_00061,9,Computer vision
-Logarithmic loss,https://ai-strategies.org/ontology/ITO_00080,9,Classification
-Frames per second,https://ai-strategies.org/ontology/ITO_00043,9,Other
-Mean rank,https://ai-strategies.org/ontology/ITO_01585,9,Ranking
-PR AUC,http://webprotege.stanford.edu/R750a3ZQUlKd04TtEOnAp0s,9,Classification
-Signal-to-distortion ratio,https://ai-strategies.org/ontology/ITO_00064,9,Other
-Log-likelihood,https://ai-strategies.org/ontology/ITO_16285,9,Classification
-Average Distance Error,https://ai-strategies.org/ontology/ITO_00034,8,Computer vision
-Mean Opinion Score,https://ai-strategies.org/ontology/ITO_16498,8,Other
-Consensus-based Image Description Evaluation,https://ai-strategies.org/ontology/ITO_00047,8,Natural language processing
-Modularity,https://ai-strategies.org/ontology/ITO_12676,8,Other
-Average 3D distance of model points,https://ai-strategies.org/ontology/ITO_00071,7,Computer vision
-Mean Error Rate,https://ai-strategies.org/ontology/ITO_03394,7,Classification
-Unlabeled attachment score,https://ai-strategies.org/ontology/ITO_00058,6,Natural language processing
-Average 3D Error,https://ai-strategies.org/ontology/ITO_03645,6,Other
-Miss rate,https://ai-strategies.org/ontology/ITO_01584,6,Computer vision
-Hit Ratio-at-K,https://ai-strategies.org/ontology/ITO_01568,6,Ranking
-Angular Error,https://ai-strategies.org/ontology/ITO_13289,6,Computer vision
-Maximum mean discrepancy,https://ai-strategies.org/ontology/ITO_00062,5,Other
-Floating Point Operations Per Second,https://ai-strategies.org/ontology/ITO_00040,5,Other
-Labeled attachment score,https://ai-strategies.org/ontology/ITO_00055,5,Natural language processing
-Pearson Correlation,https://ai-strategies.org/ontology/ITO_03765,5,Other
-User rating,https://ai-strategies.org/ontology/ITO_01577,5,Other
-3D percentage of correct keypoints,https://ai-strategies.org/ontology/ITO_00032,4,Computer vision
-Kullback–Leibler divergence,https://ai-strategies.org/ontology/ITO_00052,4,Other
-Adjusted Rand Index,https://ai-strategies.org/ontology/ITO_00026,4,Clustering
-Classification Error,https://ai-strategies.org/ontology/ITO_04043,4,Classification
-Diversity,https://ai-strategies.org/ontology/ITO_04109,4,Computer vision
-Bits per dimension,https://ai-strategies.org/ontology/ITO_00098,4,Computer vision
-Expected average overlap,https://ai-strategies.org/ontology/ITO_01571,4,Computer vision
-Human-targeted translation error rate,https://ai-strategies.org/ontology/ITO_01563,4,Natural language processing
-Volume similarity,https://ai-strategies.org/ontology/ITO_01566,4,Computer vision
-Success rate weighted by path length,https://ai-strategies.org/ontology/ITO_01578,4,Other
-Relative root mean square deviation,https://ai-strategies.org/ontology/ITO_01598,4,Regression
-Negative evidence lower bound,https://ai-strategies.org/ontology/ITO_01557,4,Other
-Bit per character,https://ai-strategies.org/ontology/ITO_00036,4,Natural language processing
-L2,https://ai-strategies.org/ontology/ITO_15899,4,Regression
-Universal POS tag set,https://ai-strategies.org/ontology/ITO_01534,4,Natural language processing
-Feature Similarity Index,https://ai-strategies.org/ontology/ITO_00050,3,Other
-Mean performance under corruption,https://ai-strategies.org/ontology/ITO_00088,3,Computer vision
-Relative Performance under Corruption,https://ai-strategies.org/ontology/ITO_00094,3,Computer vision
-Coverage,https://ai-strategies.org/ontology/ITO_00097,3,Computer vision
-Log-Spectral Distance,https://ai-strategies.org/ontology/ITO_03075,3,Natural language processing
-Variation of information,https://ai-strategies.org/ontology/ITO_00086,3,Computer vision
-Value of Information,https://ai-strategies.org/ontology/ITO_00059,3,Computer vision
-GLEU,https://ai-strategies.org/ontology/ITO_11127,3,Natural language processing
-L1,https://ai-strategies.org/ontology/ITO_17245,3,Regression
-Test error,https://ai-strategies.org/ontology/ITO_17265,3,Other
-Mean surface distance,https://ai-strategies.org/ontology/ITO_01551,3,Computer vision
-Visual surface similarity,https://ai-strategies.org/ontology/ITO_00344,2,Computer vision
-Perceptual Evaluation of Speech Quality,https://ai-strategies.org/ontology/ITO_00078,2,Natural language processing
-Hausdorff distance,https://ai-strategies.org/ontology/ITO_00041,2,Computer vision
-Reasonable Miss Rate,https://ai-strategies.org/ontology/ITO_03778,2,Computer vision
-RSim,https://ai-strategies.org/ontology/ITO_00099,2,Other
-Three-pixel-error,https://ai-strategies.org/ontology/ITO_00090,2,Computer vision
-Energy above hull,https://ai-strategies.org/ontology/ITO_00083,2,Other
-ADDS AUC,https://ai-strategies.org/ontology/ITO_11477,2,Classification
-SceneFID,https://ai-strategies.org/ontology/ITO_06007,2,Computer vision
-Bits per byte,https://ai-strategies.org/ontology/ITO_05885,2,Other
-Image quality,https://ai-strategies.org/ontology/ITO_01579,2,Computer vision
-Detection score,https://ai-strategies.org/ontology/ITO_01587,2,Computer vision
-Frechet ResNet Distance,https://ai-strategies.org/ontology/ITO_01593,2,Computer vision
-Mean average distance,https://ai-strategies.org/ontology/ITO_01597,2,Computer vision
-Weighted average precision,https://ai-strategies.org/ontology/ITO_01575,2,Classification
-FPR-at-K,https://ai-strategies.org/ontology/ITO_01562,2,Classification
-ELO Rating,https://ai-strategies.org/ontology/ITO_15930,2,Game Playing
-Average Success Rate,https://ai-strategies.org/ontology/ITO_15942,2,Other
-Medium Human-Normalized Score,https://ai-strategies.org/ontology/ITO_12544,2,Game Playing
-Spearman Correlation,https://ai-strategies.org/ontology/ITO_09916,2,Other
-Sparsity,https://ai-strategies.org/ontology/ITO_17187,2,Other
-Edit Distance,https://ai-strategies.org/ontology/ITO_17076,2,Natural language processing
-Rand index,https://ai-strategies.org/ontology/ITO_01484,2,Clustering
-Median relative target registration error,https://ai-strategies.org/ontology/ITO_00029,2,Computer vision
-Human Equivalence Score,https://ai-strategies.org/ontology/ITO_00037,2,Natural language processing
-Final Displacement Error,https://ai-strategies.org/ontology/ITO_00051,1,Computer vision
-Absolute relative error,https://ai-strategies.org/ontology/ITO_00079,1,Regression
-Color peak signal-to-noise ratio,https://ai-strategies.org/ontology/ITO_00042,1,Computer vision
-Cross View Ground Truth Consistency Error,https://ai-strategies.org/ontology/ITO_00076,1,Computer vision
-Underwater image quality measure,https://ai-strategies.org/ontology/ITO_00053,1,Computer vision
-Mean corruption error,https://ai-strategies.org/ontology/ITO_00048,1,Computer vision
-Ground Truth Error,https://ai-strategies.org/ontology/ITO_00077,1,Computer vision
-Final agent reward,https://ai-strategies.org/ontology/ITO_00091,1,Other
-Bits per sub-pixel,https://ai-strategies.org/ontology/ITO_00085,1,Other
-Specificity,https://ai-strategies.org/ontology/ITO_00074,1,Classification
-nuScenes detection score,https://ai-strategies.org/ontology/ITO_00049,1,Computer vision
-Average Transaction Value,https://ai-strategies.org/ontology/ITO_00035,1,Computer vision
-Average classification error rate,https://ai-strategies.org/ontology/ITO_00025,1,Classification
-Intensive Care After Thrombolysis Score,https://ai-strategies.org/ontology/ITO_00069,1,Other
-LMD,https://ai-strategies.org/ontology/ITO_03488,1,Computer vision
-Average daily returns,https://ai-strategies.org/ontology/ITO_02554,1,Other
-Sequence error,https://ai-strategies.org/ontology/ITO_02402,1,Computer vision
-Mean Angle Error,https://ai-strategies.org/ontology/ITO_04157,1,Other
-Relevance,https://ai-strategies.org/ontology/ITO_00093,1,Other
-Interest,https://ai-strategies.org/ontology/ITO_00092,1,Other
-Integrated root mean-square deviation,https://ai-strategies.org/ontology/ITO_01599,1,Regression
-Breakeven Point,https://ai-strategies.org/ontology/ITO_00021,1,Other
-Player Distance,https://ai-strategies.org/ontology/ITO_05094,1,Other
-Path Length,https://ai-strategies.org/ontology/ITO_05090,1,Other
-Warping Error,https://ai-strategies.org/ontology/ITO_05493,1,Computer vision
-Path Difference,https://ai-strategies.org/ontology/ITO_05093,1,Other
-Mean Reconstruction Error (mm),https://ai-strategies.org/ontology/ITO_04870,1,Other
-Phoneme Error Rate,https://ai-strategies.org/ontology/ITO_04638,1,Natural language processing
-Interpolation Error,https://ai-strategies.org/ontology/ITO_07233,1,Computer vision
-CREMI Score,https://ai-strategies.org/ontology/ITO_05631,1,Computer vision
-Model Entropy,https://ai-strategies.org/ontology/ITO_05708,1,Computer vision
-NAB score,https://ai-strategies.org/ontology/ITO_07449,1,Other
-Semantic object accuracy,https://ai-strategies.org/ontology/ITO_01576,1,Computer vision
-Out of bound error,https://ai-strategies.org/ontology/ITO_01583,1,Other
-Failure rate,https://ai-strategies.org/ontology/ITO_01592,1,Computer vision
-MOVIE index,https://ai-strategies.org/ontology/ITO_01589,1,Computer vision
-Procrustes alignment,https://ai-strategies.org/ontology/ITO_01564,1,Computer vision
-Distractor error,https://ai-strategies.org/ontology/ITO_01590,1,Natural language processing
-Reprojection error,https://ai-strategies.org/ontology/ITO_00073,1,Computer vision
-Precision at equal recall rate,https://ai-strategies.org/ontology/ITO_00046,1,Classification
-Mean 3D joint position error,https://ai-strategies.org/ontology/ITO_00067,1,Computer vision
-Milliseconds per frame,https://ai-strategies.org/ontology/ITO_01596,1,Computer vision
-Part-of-speech,https://ai-strategies.org/ontology/ITO_01561,1,Natural language processing
-Compression rate,https://ai-strategies.org/ontology/ITO_01588,1,Other
-Vertex-to-vertex metric,https://ai-strategies.org/ontology/ITO_00068,1,Other
-Scale-invariant signal-to-distortion ratio,https://ai-strategies.org/ontology/ITO_00065,1,Computer vision
-Damerau–Levenshtein distance,https://ai-strategies.org/ontology/ITO_00060,1,Natural language processing
-NIST,https://ai-strategies.org/ontology/ITO_09084,1,Natural language processing
-Median Relighting Error,https://ai-strategies.org/ontology/ITO_08974,1,Computer vision
-Chamfer Distance,https://ai-strategies.org/ontology/ITO_15903,1,Computer vision
-Consistency,https://ai-strategies.org/ontology/ITO_15741,1,Computer vision
-Mean target overlap ratio,https://ai-strategies.org/ontology/ITO_15853,1,Computer vision
-Average Treatment Effect Error,https://ai-strategies.org/ontology/ITO_15752,1,Regression
-BPE Perplexity,https://ai-strategies.org/ontology/ITO_10156,1,Natural language processing
-Temporal awareness,https://ai-strategies.org/ontology/ITO_10135,1,Other
-Cumulative regret,https://ai-strategies.org/ontology/ITO_16799,1,Computer vision
-Diacritic Error Rate,https://ai-strategies.org/ontology/ITO_17255,1,Natural language processing
-Mean per joint position error after Procrustes Alignment,https://ai-strategies.org/ontology/ITO_01547,1,Computer vision
-Negative Jacobian determinant,https://ai-strategies.org/ontology/ITO_01550,1,Computer vision
-Mean magnitude of the gradients of the determinant of the Jacobian,https://ai-strategies.org/ontology/ITO_01548,1,Computer vision
-R-Precision-at-K,https://ai-strategies.org/ontology/ITO_01556,1,Classification
-R-squared,https://ai-strategies.org/ontology/ITO_01554,1,Regression
-Orientation error,https://ai-strategies.org/ontology/ITO_01545,1,Computer vision
-Translation error,https://ai-strategies.org/ontology/ITO_01544,1,Natural language processing
+Accuracy,https://identifiers.org/ito#ITO_01157,930,Classification
+F-measure,https://identifiers.org/ito#ITO_01609,393,Classification
+Precision,https://identifiers.org/ito#ITO_04547,382,Classification
+R-at-K,https://identifiers.org/ito#ITO_00082,143,Classification
+Intersection over Union,https://identifiers.org/ito#ITO_00024,115,Classification
+Score,https://identifiers.org/ito#ITO_08816,101,Game Playing
+BLEU score,https://identifiers.org/ito#ITO_00008,100,Natural language processing
+"Area under curve (AUC), unspecified",https://identifiers.org/ito#ITO_00006,93,Classification
+Peak signal-to-noise ratio,https://identifiers.org/ito#ITO_00016,83,Computer vision
+Recall,https://identifiers.org/ito#ITO_00011,81,Classification
+Hits-at-k,https://identifiers.org/ito#ITO_00002,69,Classification
+Frechet Inception Distance,https://identifiers.org/ito#ITO_01570,66,Computer vision
+Structural similarity index,https://identifiers.org/ito#ITO_00045,61,Computer vision
+Mean absolute error,https://identifiers.org/ito#ITO_00013,59,Regression
+Normalized Discounted Cumulative Gain,https://identifiers.org/ito#ITO_00022,53,Ranking
+ROUGE metric,https://identifiers.org/ito#ITO_00004,38,Natural language processing
+P-at-K,https://identifiers.org/ito#ITO_00081,33,Classification
+Mean reciprocal rank,https://identifiers.org/ito#ITO_00044,30,Ranking
+Root mean square deviation,https://identifiers.org/ito#ITO_00009,30,Regression
+Error rate,https://identifiers.org/ito#ITO_03401,30,Classification
+Normalized mutual information,https://identifiers.org/ito#ITO_01546,30,Clustering
+Inception Score,https://identifiers.org/ito#ITO_00075,28,Computer vision
+Mean squared error,https://identifiers.org/ito#ITO_00010,26,Regression
+Percentage error,https://identifiers.org/ito#ITO_04342,25,Regression
+ROC AUC,https://identifiers.org/ito#ITO_00005,23,Classification
+Resource requirements,https://identifiers.org/ito#ITO_01572,17,Other
+Percentage of correct keypoints,https://identifiers.org/ito#ITO_00015,16,Classification
+Negative log-likelihood,https://identifiers.org/ito#ITO_01549,16,Classification
+Perplexity,https://identifiers.org/ito#ITO_09019,16,Natural language processing
+Normalized mean error,https://identifiers.org/ito#ITO_01555,16,Regression
+Time,https://identifiers.org/ito#ITO_00007,13,Other
+True accept rate,https://identifiers.org/ito#ITO_00084,13,Classification
+METEOR,https://identifiers.org/ito#ITO_08346,13,Natural language processing
+Word Error Rate,https://identifiers.org/ito#ITO_00066,12,Natural language processing
+Average End-point Error,https://identifiers.org/ito#ITO_00023,11,Computer vision
+Panoptic quality,https://identifiers.org/ito#ITO_00087,11,Classification
+Exact match,https://identifiers.org/ito#ITO_01569,11,Natural language processing
+Mean-Per-Joint-Position-Error,https://identifiers.org/ito#ITO_00054,10,Other
+Kernel Inception Distance,https://identifiers.org/ito#ITO_03917,10,Computer vision
+Error,https://identifiers.org/ito#ITO_10601,10,Classification
+Genuine Acceptance Rate,https://identifiers.org/ito#ITO_00019,9,Classification
+Learned perceptual similarity metric,https://identifiers.org/ito#ITO_00061,9,Computer vision
+Signal-to-distortion ratio,https://identifiers.org/ito#ITO_00064,9,Other
+Frames per second,https://identifiers.org/ito#ITO_00043,9,Other
+Logarithmic loss,https://identifiers.org/ito#ITO_00080,9,Classification
+PR AUC,https://identifiers.org/ito#ITO_01542,9,Classification
+Mean rank,https://identifiers.org/ito#ITO_01585,9,Ranking
+Log-likelihood,https://identifiers.org/ito#ITO_16285,9,Classification
+Average Distance Error,https://identifiers.org/ito#ITO_00034,8,Computer vision
+Consensus-based Image Description Evaluation,https://identifiers.org/ito#ITO_00047,8,Natural language processing
+Mean Opinion Score,https://identifiers.org/ito#ITO_16498,8,Other
+Modularity,https://identifiers.org/ito#ITO_12676,8,Other
+Average 3D distance of model points,https://identifiers.org/ito#ITO_00071,7,Computer vision
+Mean Error Rate,https://identifiers.org/ito#ITO_03394,7,Classification
+Unlabeled attachment score,https://identifiers.org/ito#ITO_00058,6,Natural language processing
+Average 3D Error,https://identifiers.org/ito#ITO_03645,6,Other
+Miss rate,https://identifiers.org/ito#ITO_01584,6,Computer vision
+Angular Error,https://identifiers.org/ito#ITO_13289,6,Computer vision
+Hit Ratio-at-K,https://identifiers.org/ito#ITO_01568,6,Ranking
+Labeled attachment score,https://identifiers.org/ito#ITO_00055,5,Natural language processing
+Maximum mean discrepancy,https://identifiers.org/ito#ITO_00062,5,Other
+Floating Point Operations Per Second,https://identifiers.org/ito#ITO_00040,5,Other
+Pearson Correlation,https://identifiers.org/ito#ITO_03765,5,Other
+User rating,https://identifiers.org/ito#ITO_01577,5,Other
+Bit per character,https://identifiers.org/ito#ITO_00036,4,Natural language processing
+Bits per dimension,https://identifiers.org/ito#ITO_00098,4,Computer vision
+Adjusted Rand Index,https://identifiers.org/ito#ITO_00026,4,Clustering
+3D percentage of correct keypoints,https://identifiers.org/ito#ITO_00032,4,Computer vision
+Kullback–Leibler divergence,https://identifiers.org/ito#ITO_00052,4,Other
+Universal POS tag set,https://identifiers.org/ito#ITO_01534,4,Natural language processing
+Human-targeted translation error rate,https://identifiers.org/ito#ITO_01563,4,Natural language processing
+Classification Error,https://identifiers.org/ito#ITO_04043,4,Classification
+Diversity,https://identifiers.org/ito#ITO_04109,4,Computer vision
+Expected average overlap,https://identifiers.org/ito#ITO_01571,4,Computer vision
+Volume similarity,https://identifiers.org/ito#ITO_01566,4,Computer vision
+L2,https://identifiers.org/ito#ITO_15899,4,Regression
+Relative root mean square deviation,https://identifiers.org/ito#ITO_01598,4,Regression
+Success rate weighted by path length,https://identifiers.org/ito#ITO_01578,4,Other
+Negative evidence lower bound,https://identifiers.org/ito#ITO_01557,4,Other
+Feature Similarity Index,https://identifiers.org/ito#ITO_00050,3,Other
+Variation of information,https://identifiers.org/ito#ITO_00086,3,Computer vision
+Value of Information,https://identifiers.org/ito#ITO_00059,3,Computer vision
+Relative Performance under Corruption,https://identifiers.org/ito#ITO_00094,3,Computer vision
+Coverage,https://identifiers.org/ito#ITO_00097,3,Computer vision
+Mean performance under corruption,https://identifiers.org/ito#ITO_00088,3,Computer vision
+Mean surface distance,https://identifiers.org/ito#ITO_01551,3,Computer vision
+Log-Spectral Distance,https://identifiers.org/ito#ITO_03075,3,Natural language processing
+GLEU,https://identifiers.org/ito#ITO_11127,3,Natural language processing
+Test error,https://identifiers.org/ito#ITO_17265,3,Other
+L1,https://identifiers.org/ito#ITO_17245,3,Regression
+Energy above hull,https://identifiers.org/ito#ITO_00083,2,Other
+Three-pixel-error,https://identifiers.org/ito#ITO_00090,2,Computer vision
+Hausdorff distance,https://identifiers.org/ito#ITO_00041,2,Computer vision
+Visual surface similarity,https://identifiers.org/ito#ITO_00344,2,Computer vision
+RSim,https://identifiers.org/ito#ITO_00099,2,Other
+Perceptual Evaluation of Speech Quality,https://identifiers.org/ito#ITO_00078,2,Natural language processing
+Rand index,https://identifiers.org/ito#ITO_01484,2,Clustering
+Reasonable Miss Rate,https://identifiers.org/ito#ITO_03778,2,Computer vision
+SceneFID,https://identifiers.org/ito#ITO_06007,2,Computer vision
+Bits per byte,https://identifiers.org/ito#ITO_05885,2,Other
+ELO Rating,https://identifiers.org/ito#ITO_15930,2,Game Playing
+Medium Human-Normalized Score,https://identifiers.org/ito#ITO_12544,2,Game Playing
+Edit Distance,https://identifiers.org/ito#ITO_17076,2,Natural language processing
+Average Success Rate,https://identifiers.org/ito#ITO_15942,2,Other
+Weighted average precision,https://identifiers.org/ito#ITO_01575,2,Classification
+Spearman Correlation,https://identifiers.org/ito#ITO_09916,2,Other
+Image quality,https://identifiers.org/ito#ITO_01579,2,Computer vision
+Detection score,https://identifiers.org/ito#ITO_01587,2,Computer vision
+Sparsity,https://identifiers.org/ito#ITO_17187,2,Other
+Mean average distance,https://identifiers.org/ito#ITO_01597,2,Computer vision
+Frechet ResNet Distance,https://identifiers.org/ito#ITO_01593,2,Computer vision
+Median relative target registration error,https://identifiers.org/ito#ITO_00029,2,Computer vision
+FPR-at-K,https://identifiers.org/ito#ITO_01562,2,Classification
+Human Equivalence Score,https://identifiers.org/ito#ITO_00037,2,Natural language processing
+Final Displacement Error,https://identifiers.org/ito#ITO_00051,1,Computer vision
+Color peak signal-to-noise ratio,https://identifiers.org/ito#ITO_00042,1,Computer vision
+Underwater image quality measure,https://identifiers.org/ito#ITO_00053,1,Computer vision
+Mean 3D joint position error,https://identifiers.org/ito#ITO_00067,1,Computer vision
+Reprojection error,https://identifiers.org/ito#ITO_00073,1,Computer vision
+Scale-invariant signal-to-distortion ratio,https://identifiers.org/ito#ITO_00065,1,Computer vision
+Precision at equal recall rate,https://identifiers.org/ito#ITO_00046,1,Classification
+Average Transaction Value,https://identifiers.org/ito#ITO_00035,1,Computer vision
+Damerau–Levenshtein distance,https://identifiers.org/ito#ITO_00060,1,Natural language processing
+Ground Truth Error,https://identifiers.org/ito#ITO_00077,1,Computer vision
+Cross View Ground Truth Consistency Error,https://identifiers.org/ito#ITO_00076,1,Computer vision
+Absolute relative error,https://identifiers.org/ito#ITO_00079,1,Regression
+Final agent reward,https://identifiers.org/ito#ITO_00091,1,Other
+Relevance,https://identifiers.org/ito#ITO_00093,1,Other
+Interest,https://identifiers.org/ito#ITO_00092,1,Other
+nuScenes detection score,https://identifiers.org/ito#ITO_00049,1,Computer vision
+Average classification error rate,https://identifiers.org/ito#ITO_00025,1,Classification
+Breakeven Point,https://identifiers.org/ito#ITO_00021,1,Other
+Vertex-to-vertex metric,https://identifiers.org/ito#ITO_00068,1,Other
+Intensive Care After Thrombolysis Score,https://identifiers.org/ito#ITO_00069,1,Other
+Bits per sub-pixel,https://identifiers.org/ito#ITO_00085,1,Other
+Specificity,https://identifiers.org/ito#ITO_00074,1,Classification
+Mean corruption error,https://identifiers.org/ito#ITO_00048,1,Computer vision
+Mean per joint position error after Procrustes Alignment,https://identifiers.org/ito#ITO_01547,1,Computer vision
+Average daily returns,https://identifiers.org/ito#ITO_02554,1,Other
+Sequence error,https://identifiers.org/ito#ITO_02402,1,Computer vision
+LMD,https://identifiers.org/ito#ITO_03488,1,Computer vision
+Failure rate,https://identifiers.org/ito#ITO_01592,1,Computer vision
+MOVIE index,https://identifiers.org/ito#ITO_01589,1,Computer vision
+Path Difference,https://identifiers.org/ito#ITO_05093,1,Other
+Phoneme Error Rate,https://identifiers.org/ito#ITO_04638,1,Natural language processing
+Path Length,https://identifiers.org/ito#ITO_05090,1,Other
+Mean Reconstruction Error (mm),https://identifiers.org/ito#ITO_04870,1,Other
+Player Distance,https://identifiers.org/ito#ITO_05094,1,Other
+Mean Angle Error,https://identifiers.org/ito#ITO_04157,1,Other
+CREMI Score,https://identifiers.org/ito#ITO_05631,1,Computer vision
+Model Entropy,https://identifiers.org/ito#ITO_05708,1,Computer vision
+Warping Error,https://identifiers.org/ito#ITO_05493,1,Computer vision
+Procrustes alignment,https://identifiers.org/ito#ITO_01564,1,Computer vision
+Interpolation Error,https://identifiers.org/ito#ITO_07233,1,Computer vision
+NAB score,https://identifiers.org/ito#ITO_07449,1,Other
+Orientation error,https://identifiers.org/ito#ITO_01545,1,Computer vision
+Translation error,https://identifiers.org/ito#ITO_01544,1,Natural language processing
+R-squared,https://identifiers.org/ito#ITO_01554,1,Regression
+Negative Jacobian determinant,https://identifiers.org/ito#ITO_01550,1,Computer vision
+Mean magnitude of the gradients of the determinant of the Jacobian,https://identifiers.org/ito#ITO_01548,1,Computer vision
+Mean target overlap ratio,https://identifiers.org/ito#ITO_15853,1,Computer vision
+Median Relighting Error,https://identifiers.org/ito#ITO_08974,1,Computer vision
+Consistency,https://identifiers.org/ito#ITO_15741,1,Computer vision
+Cumulative regret,https://identifiers.org/ito#ITO_16799,1,Computer vision
+NIST,https://identifiers.org/ito#ITO_09084,1,Natural language processing
+Average Treatment Effect Error,https://identifiers.org/ito#ITO_15752,1,Regression
+BPE Perplexity,https://identifiers.org/ito#ITO_10156,1,Natural language processing
+Chamfer Distance,https://identifiers.org/ito#ITO_15903,1,Computer vision
+Temporal awareness,https://identifiers.org/ito#ITO_10135,1,Other
+Out of bound error,https://identifiers.org/ito#ITO_01583,1,Other
+Distractor error,https://identifiers.org/ito#ITO_01590,1,Natural language processing
+Compression rate,https://identifiers.org/ito#ITO_01588,1,Other
+Semantic object accuracy,https://identifiers.org/ito#ITO_01576,1,Computer vision
+Diacritic Error Rate,https://identifiers.org/ito#ITO_17255,1,Natural language processing
+Integrated root mean-square deviation,https://identifiers.org/ito#ITO_01599,1,Regression
+Milliseconds per frame,https://identifiers.org/ito#ITO_01596,1,Computer vision
+R-Precision-at-K,https://identifiers.org/ito#ITO_01556,1,Classification
+Part-of-speech,https://identifiers.org/ito#ITO_01561,1,Natural language processing
