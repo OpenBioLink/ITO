@@ -1,798 +1,798 @@
 performance_measure_label,performance_measure,benchmark_process_indivdual_count
-Accuracy,https://identifiers.org/ito#ITO_02411,5284
-Score,https://identifiers.org/ito#ITO_08816,3742
-Accuracy (CS),https://identifiers.org/ito#ITO_06723,1230
-Accuracy (CV),https://identifiers.org/ito#ITO_06722,1107
-F1,https://identifiers.org/ito#ITO_03697,985
-PSNR,https://identifiers.org/ito#ITO_02817,912
-SSIM,https://identifiers.org/ito#ITO_02824,646
-AP,https://identifiers.org/ito#ITO_02616,583
-MAP,https://identifiers.org/ito#ITO_03218,466
-EM,https://identifiers.org/ito#ITO_07893,459
-Top 1 Accuracy,https://identifiers.org/ito#ITO_04857,369
-mIoU,https://identifiers.org/ito#ITO_03922,358
-Accuracy (Cross-Subject),https://identifiers.org/ito#ITO_06901,350
-Accuracy (Cross-Setup),https://identifiers.org/ito#ITO_06902,350
-FID,https://identifiers.org/ito#ITO_02822,297
-3-fold Accuracy,https://identifiers.org/ito#ITO_07174,280
-Percentage error,https://identifiers.org/ito#ITO_04342,278
-AUC,https://identifiers.org/ito#ITO_02593,268
-Percentage correct,https://identifiers.org/ito#ITO_08679,262
-Average accuracy of 3 splits,https://identifiers.org/ito#ITO_06890,256
-Top 5 Accuracy,https://identifiers.org/ito#ITO_04858,242
-AP50,https://identifiers.org/ito#ITO_07559,209
-box AP,https://identifiers.org/ito#ITO_13999,200
-MRR,https://identifiers.org/ito#ITO_02583,197
-AP75,https://identifiers.org/ito#ITO_11214,188
-Rank-1,https://identifiers.org/ito#ITO_06042,187
-BLEU score,https://identifiers.org/ito#ITO_05202,186
-Number of params,https://identifiers.org/ito#ITO_09767,186
-Precision,https://identifiers.org/ito#ITO_04547,185
-APL,https://identifiers.org/ito#ITO_11215,181
-MAE,https://identifiers.org/ito#ITO_03708,178
-APM,https://identifiers.org/ito#ITO_11216,173
-Top-1 Accuracy,https://identifiers.org/ito#ITO_06549,172
-Recall,https://identifiers.org/ito#ITO_04548,169
-APS,https://identifiers.org/ito#ITO_14066,153
-Accuracy (RGB+pose),https://identifiers.org/ito#ITO_06865,150
-mAP,https://identifiers.org/ito#ITO_04002,145
-Hits-at-10,https://identifiers.org/ito#ITO_02605,131
-Average MPJPE (mm),https://identifiers.org/ito#ITO_04900,124
-BLEU,https://identifiers.org/ito#ITO_05183,120
-NMI,https://identifiers.org/ito#ITO_12664,116
-Average 3D Error,https://identifiers.org/ito#ITO_03645,114
-mAP-at-0.5,https://identifiers.org/ito#ITO_04292,107
-Video hit-at-5,https://identifiers.org/ito#ITO_07020,105
-Accuracy (CV I),https://identifiers.org/ito#ITO_06929,105
-Accuracy (CV II),https://identifiers.org/ito#ITO_06930,105
-Accuracy (AV I),https://identifiers.org/ito#ITO_06931,105
-Accuracy (AV II),https://identifiers.org/ito#ITO_06932,105
-Mean IoU,https://identifiers.org/ito#ITO_05539,104
-RMSE,https://identifiers.org/ito#ITO_02423,102
-Video hit-at-1,https://identifiers.org/ito#ITO_07019,98
-Error,https://identifiers.org/ito#ITO_10601,98
-F-Measure,https://identifiers.org/ito#ITO_12306,97
-Test perplexity,https://identifiers.org/ito#ITO_09708,96
-F1 score,https://identifiers.org/ito#ITO_03847,95
-MOTA,https://identifiers.org/ito#ITO_06453,92
-ROUGE-L,https://identifiers.org/ito#ITO_09085,88
-R-at-1,https://identifiers.org/ito#ITO_04599,86
-Hits-at-1,https://identifiers.org/ito#ITO_02610,84
-% Test Accuracy,https://identifiers.org/ito#ITO_09545,83
-Top-5 Accuracy,https://identifiers.org/ito#ITO_06591,79
-Inception score,https://identifiers.org/ito#ITO_05707,78
-NME,https://identifiers.org/ito#ITO_03368,77
-Jaccard (Mean),https://identifiers.org/ito#ITO_06412,77
-mAP-at-0.4,https://identifiers.org/ito#ITO_06955,77
-Hits-at-3,https://identifiers.org/ito#ITO_02611,75
-ROUGE-1,https://identifiers.org/ito#ITO_13307,75
-Bit per Character (BPC),https://identifiers.org/ito#ITO_09777,73
-Restaurant (Acc),https://identifiers.org/ito#ITO_11752,72
-Mean IoU (class),https://identifiers.org/ito#ITO_10191,72
-mAP-at-0.3,https://identifiers.org/ito#ITO_06954,70
-F-measure (Mean),https://identifiers.org/ito#ITO_06415,69
-mAP IOU-at-0.5,https://identifiers.org/ito#ITO_07375,69
-% Train Accuracy,https://identifiers.org/ito#ITO_09546,68
-ROUGE-2,https://identifiers.org/ito#ITO_13308,66
-Expected Average Overlap (EAO),https://identifiers.org/ito#ITO_06332,66
-Parameters,https://identifiers.org/ito#ITO_09547,66
-Val,https://identifiers.org/ito#ITO_07121,65
-Top-1 Error Rate,https://identifiers.org/ito#ITO_10838,65
-Mean Acc (Restaurant + Laptop),https://identifiers.org/ito#ITO_11751,64
-Laptop (Acc),https://identifiers.org/ito#ITO_11753,64
-Validation perplexity,https://identifiers.org/ito#ITO_09709,63
-TAR at FAR=0.01,https://identifiers.org/ito#ITO_03248,62
-14 gestures accuracy,https://identifiers.org/ito#ITO_03592,62
-MR,https://identifiers.org/ito#ITO_02606,61
-F-measure (Recall),https://identifiers.org/ito#ITO_06416,61
-Accuracy (pose),https://identifiers.org/ito#ITO_06866,61
-Jaccard (Recall),https://identifiers.org/ito#ITO_06413,61
-F-measure (Decay),https://identifiers.org/ito#ITO_06417,60
-Jaccard (Decay),https://identifiers.org/ito#ITO_06414,60
-Average Accuracy,https://identifiers.org/ito#ITO_03696,58
-F-measure,https://identifiers.org/ito#ITO_14437,57
-Word Error Rate (WER),https://identifiers.org/ito#ITO_04332,52
-MSE,https://identifiers.org/ito#ITO_05052,52
-mask AP,https://identifiers.org/ito#ITO_16060,51
-PCK-at-0.2,https://identifiers.org/ito#ITO_06681,49
-mAP-at-0.1,https://identifiers.org/ito#ITO_06952,49
-mAP-at-0.2,https://identifiers.org/ito#ITO_06953,49
-28 gestures accuracy,https://identifiers.org/ito#ITO_06848,48
-PQ,https://identifiers.org/ito#ITO_10657,47
-Params,https://identifiers.org/ito#ITO_09710,46
-PCK-at-0.1,https://identifiers.org/ito#ITO_06680,45
-PCK-at-0.3,https://identifiers.org/ito#ITO_06682,45
-PCK-at-0.4,https://identifiers.org/ito#ITO_06683,45
-PCK-at-0.5,https://identifiers.org/ito#ITO_06684,45
-mAP-at-0.50 (CV),https://identifiers.org/ito#ITO_06885,45
-mAP-at-0.50 (CS),https://identifiers.org/ito#ITO_06886,45
-Micro-F1,https://identifiers.org/ito#ITO_10897,45
-3DIoU,https://identifiers.org/ito#ITO_03127,43
-Balanced Error Rate,https://identifiers.org/ito#ITO_14422,42
-Dice Score,https://identifiers.org/ito#ITO_05477,41
-METEOR,https://identifiers.org/ito#ITO_08346,39
-MOS,https://identifiers.org/ito#ITO_02947,39
-Rank-5,https://identifiers.org/ito#ITO_06044,39
-mAP IOU-at-0.3,https://identifiers.org/ito#ITO_07393,39
-R-at-10,https://identifiers.org/ito#ITO_04600,38
-Per-pixel Accuracy,https://identifiers.org/ito#ITO_03932,38
-Mean NME,https://identifiers.org/ito#ITO_03373,37
-P-at-5,https://identifiers.org/ito#ITO_04824,36
-BLEU-4,https://identifiers.org/ito#ITO_08345,36
-Validation mIoU,https://identifiers.org/ito#ITO_10450,36
-Clip Hit-at-1,https://identifiers.org/ito#ITO_07082,35
-F1-score,https://identifiers.org/ito#ITO_03122,35
-P-at-1,https://identifiers.org/ito#ITO_02806,34
-Log Loss,https://identifiers.org/ito#ITO_17092,34
-3DPCK,https://identifiers.org/ito#ITO_04658,34
-Speed  (FPS),https://identifiers.org/ito#ITO_06850,34
-MS-SSIM,https://identifiers.org/ito#ITO_02823,34
-Inception Score,https://identifiers.org/ito#ITO_05886,33
-Time (ms),https://identifiers.org/ito#ITO_10605,33
-Frame (fps),https://identifiers.org/ito#ITO_10604,33
-Frame-mAP,https://identifiers.org/ito#ITO_07359,33
-mAP IOU-at-0.4,https://identifiers.org/ito#ITO_07394,33
-10%,https://identifiers.org/ito#ITO_06830,32
-Entity F1,https://identifiers.org/ito#ITO_04708,32
-PCKh-0.5,https://identifiers.org/ito#ITO_11252,31
-AR,https://identifiers.org/ito#ITO_11217,31
-TAR at FAR=0.001,https://identifiers.org/ito#ITO_03239,30
-Mean ADD,https://identifiers.org/ito#ITO_11433,30
-mAP IOU-at-0.1,https://identifiers.org/ito#ITO_07391,30
-No. parameters,https://identifiers.org/ito#ITO_06849,30
-Pearson Correlation,https://identifiers.org/ito#ITO_03765,29
-Recall-at-50,https://identifiers.org/ito#ITO_08984,29
-nDCG-at-10,https://identifiers.org/ito#ITO_13683,29
-Medium Human-Normalized Score,https://identifiers.org/ito#ITO_12544,29
-mAP (Val),https://identifiers.org/ito#ITO_07088,28
-Recall-at-10,https://identifiers.org/ito#ITO_09353,27
-Rank-10,https://identifiers.org/ito#ITO_06045,27
-mAP IOU-at-0.7,https://identifiers.org/ito#ITO_07376,27
-absolute relative error,https://identifiers.org/ito#ITO_02502,26
-Classification Accuracy,https://identifiers.org/ito#ITO_04059,26
-F0.5,https://identifiers.org/ito#ITO_11113,26
-PQth,https://identifiers.org/ito#ITO_10690,25
-Reasonable Miss Rate,https://identifiers.org/ito#ITO_03778,24
-Kernel Inception Distance,https://identifiers.org/ito#ITO_03917,24
-IS,https://identifiers.org/ito#ITO_04104,24
-PQst,https://identifiers.org/ito#ITO_10689,24
-Class IOU,https://identifiers.org/ito#ITO_03930,24
-NLL Test,https://identifiers.org/ito#ITO_05709,24
-Accuracy (10-fold),https://identifiers.org/ito#ITO_03522,24
-Per-class Accuracy,https://identifiers.org/ito#ITO_03931,24
-mAP IOU-at-0.2,https://identifiers.org/ito#ITO_07392,24
-Matched,https://identifiers.org/ito#ITO_09513,24
-CIDEr,https://identifiers.org/ito#ITO_09013,23
-Overall Accuracy,https://identifiers.org/ito#ITO_13148,23
-LPIPS,https://identifiers.org/ito#ITO_03691,22
-NLL,https://identifiers.org/ito#ITO_09018,22
-MPJPE,https://identifiers.org/ito#ITO_04657,21
-Recall-at-20,https://identifiers.org/ito#ITO_13709,21
-BLEU-1,https://identifiers.org/ito#ITO_08190,21
-nDCG-at-20,https://identifiers.org/ito#ITO_12566,21
-Mean Error Rate,https://identifiers.org/ito#ITO_03394,20
-Mean Reconstruction Error (mm),https://identifiers.org/ito#ITO_04870,20
-F1-score (Canonical),https://identifiers.org/ito#ITO_07316,20
-F1-score (Augmented),https://identifiers.org/ito#ITO_07317,20
-Dice,https://identifiers.org/ito#ITO_05518,20
-Mismatched,https://identifiers.org/ito#ITO_09514,20
-R-at-5,https://identifiers.org/ito#ITO_04601,19
-Average End-Point Error,https://identifiers.org/ito#ITO_13040,19
-PPL,https://identifiers.org/ito#ITO_09857,19
-Log-Spectral Distance,https://identifiers.org/ito#ITO_03075,18
-Diversity,https://identifiers.org/ito#ITO_04109,18
-MJPE,https://identifiers.org/ito#ITO_04948,18
-text-to-video Median Rank,https://identifiers.org/ito#ITO_07249,18
-text-to-video R-at-1,https://identifiers.org/ito#ITO_07250,18
-text-to-video R-at-10,https://identifiers.org/ito#ITO_07252,18
-NIST,https://identifiers.org/ito#ITO_09084,18
-Relation F1,https://identifiers.org/ito#ITO_04784,18
-Normalized Precision,https://identifiers.org/ito#ITO_06376,18
-AR@100,https://identifiers.org/ito#ITO_07420,18
-nDCG-at-100,https://identifiers.org/ito#ITO_13708,17
-User Study Score,https://identifiers.org/ito#ITO_05164,17
-PA-MPJPE,https://identifiers.org/ito#ITO_04930,16
-CNN,https://identifiers.org/ito#ITO_07816,16
-FPS,https://identifiers.org/ito#ITO_11403,16
-Quality,https://identifiers.org/ito#ITO_04110,16
-HR-at-10,https://identifiers.org/ito#ITO_13699,16
-Average Precision,https://identifiers.org/ito#ITO_04810,16
-Mean mAP,https://identifiers.org/ito#ITO_11208,16
-MOTP,https://identifiers.org/ito#ITO_06481,16
-Average PSNR,https://identifiers.org/ito#ITO_02416,15
-Fullset (public),https://identifiers.org/ito#ITO_03418,15
-Normalized cPSNR,https://identifiers.org/ito#ITO_03064,15
-R10-at-1,https://identifiers.org/ito#ITO_16335,15
-AUC (val),https://identifiers.org/ito#ITO_07427,15
-UAS,https://identifiers.org/ito#ITO_11157,15
-nDCG-at-5,https://identifiers.org/ito#ITO_12788,15
-Spearman Correlation,https://identifiers.org/ito#ITO_09916,15
-Avg F1,https://identifiers.org/ito#ITO_03703,15
-Mean Rank,https://identifiers.org/ito#ITO_04597,15
-Rank-20,https://identifiers.org/ito#ITO_06043,15
-Jaccard (Seen),https://identifiers.org/ito#ITO_06398,15
-Jaccard (Unseen),https://identifiers.org/ito#ITO_06399,15
-mAP IOU-at-0.6,https://identifiers.org/ito#ITO_07395,15
-Senseval 2,https://identifiers.org/ito#ITO_09403,15
-Senseval 3,https://identifiers.org/ito#ITO_09404,15
-SemEval 2013,https://identifiers.org/ito#ITO_09406,15
-Macro-F1,https://identifiers.org/ito#ITO_14802,15
-Classification Error,https://identifiers.org/ito#ITO_04043,14
-text-to-video R-at-5,https://identifiers.org/ito#ITO_07251,14
-R10-at-2,https://identifiers.org/ito#ITO_16336,14
-R10-at-5,https://identifiers.org/ito#ITO_16337,14
-GFlops,https://identifiers.org/ito#ITO_07089,14
-BLEU-3,https://identifiers.org/ito#ITO_09003,14
-Instance Average IoU,https://identifiers.org/ito#ITO_10726,14
-LAS,https://identifiers.org/ito#ITO_11156,14
-mRMSE,https://identifiers.org/ito#ITO_13077,14
-mRMSE-nz,https://identifiers.org/ito#ITO_13078,14
-Log-likelihood,https://identifiers.org/ito#ITO_16285,14
-m-reIRMSE-nz,https://identifiers.org/ito#ITO_13076,14
-SemEval 2015,https://identifiers.org/ito#ITO_09407,14
-Params (M),https://identifiers.org/ito#ITO_07090,14
-ARM,https://identifiers.org/ito#ITO_11338,14
-Number of Params,https://identifiers.org/ito#ITO_15686,14
-KL,https://identifiers.org/ito#ITO_04119,13
-NDCG,https://identifiers.org/ito#ITO_04598,13
-P-at-3,https://identifiers.org/ito#ITO_12789,13
-Rouge-L,https://identifiers.org/ito#ITO_08189,13
-IoU,https://identifiers.org/ito#ITO_05484,13
-BLEU-2,https://identifiers.org/ito#ITO_09002,13
-nDCG-at-3,https://identifiers.org/ito#ITO_12790,13
-AUC (horizon error),https://identifiers.org/ito#ITO_12063,13
-Unpermuted Accuracy,https://identifiers.org/ito#ITO_15672,13
-bpd,https://identifiers.org/ito#ITO_05819,13
-H-Mean,https://identifiers.org/ito#ITO_07764,13
-Video-mAP 0.5,https://identifiers.org/ito#ITO_07361,13
-AP 0.5,https://identifiers.org/ito#ITO_14617,13
-AR50,https://identifiers.org/ito#ITO_11335,13
-Error rate,https://identifiers.org/ito#ITO_03401,12
-Test,https://identifiers.org/ito#ITO_07905,12
-P-at-20,https://identifiers.org/ito#ITO_12567,12
-Per-Class Accuracy,https://identifiers.org/ito#ITO_10177,12
-Accuracy (ADD),https://identifiers.org/ito#ITO_11434,12
-PCK,https://identifiers.org/ito#ITO_11318,12
-Reasonable MR^-2,https://identifiers.org/ito#ITO_03823,12
-1-of-100 Accuracy,https://identifiers.org/ito#ITO_05287,12
-Accuracy (median),https://identifiers.org/ito#ITO_05697,12
-F-Measure (Seen),https://identifiers.org/ito#ITO_06400,12
-F-Measure (Unseen),https://identifiers.org/ito#ITO_06401,12
-AMT,https://identifiers.org/ito#ITO_11028,12
-Micro F1,https://identifiers.org/ito#ITO_02572,12
-O (Average of Measures),https://identifiers.org/ito#ITO_06397,12
-AR75,https://identifiers.org/ito#ITO_11336,12
-ARL,https://identifiers.org/ito#ITO_11337,12
-Macro-F1 (60% training data),https://identifiers.org/ito#ITO_17058,12
-Bits per byte,https://identifiers.org/ito#ITO_05885,11
-R2-at-1,https://identifiers.org/ito#ITO_16338,11
-ROUGE,https://identifiers.org/ito#ITO_09119,11
-Class Average IoU,https://identifiers.org/ito#ITO_10725,11
-Permuted Accuracy,https://identifiers.org/ito#ITO_15671,11
-Entity+Relation F1,https://identifiers.org/ito#ITO_04707,11
-SemEval 2007,https://identifiers.org/ito#ITO_09405,11
-mAP-at-0.25,https://identifiers.org/ito#ITO_14397,11
-Micro-F1 (20% training data),https://identifiers.org/ito#ITO_17056,11
-Macro-F1 (20% training data),https://identifiers.org/ito#ITO_17057,11
-Micro-F1 (80% training data),https://identifiers.org/ito#ITO_17059,11
-Macro-F1 (80% training data),https://identifiers.org/ito#ITO_17060,11
-SD,https://identifiers.org/ito#ITO_04120,10
-Joint,https://identifiers.org/ito#ITO_04578,10
-AUC0.08 private,https://identifiers.org/ito#ITO_03420,10
-Accuracy-NE,https://identifiers.org/ito#ITO_07877,10
-Aspect,https://identifiers.org/ito#ITO_11818,10
-Sentiment,https://identifiers.org/ito#ITO_11819,10
-Search Time (GPU days),https://identifiers.org/ito#ITO_12640,10
-Angular Error,https://identifiers.org/ito#ITO_13289,10
-Average Treatment Effect Error,https://identifiers.org/ito#ITO_15752,10
-MOVIE,https://identifiers.org/ito#ITO_03091,10
-Top-1 (%),https://identifiers.org/ito#ITO_06249,10
-Daily Mail,https://identifiers.org/ito#ITO_07817,10
-F1-score (at-IoU = 0.3),https://identifiers.org/ito#ITO_09472,10
-Test AP,https://identifiers.org/ito#ITO_11352,10
-Macro F1,https://identifiers.org/ito#ITO_02571,10
-AUC-at-0.1 (all),https://identifiers.org/ito#ITO_03464,9
-mse (10^-3),https://identifiers.org/ito#ITO_05081,9
-NAB score,https://identifiers.org/ito#ITO_07449,9
-SI-SDR,https://identifiers.org/ito#ITO_09308,9
-MAE for SBP [mmHg],https://identifiers.org/ito#ITO_12178,9
-MAE for DBP [mmHg],https://identifiers.org/ito#ITO_12179,9
-mRec,https://identifiers.org/ito#ITO_16137,9
-GFLOPs,https://identifiers.org/ito#ITO_15911,9
-Mean Opinion Score,https://identifiers.org/ito#ITO_16498,9
-"ME (%, all)",https://identifiers.org/ito#ITO_03463,9
-"FR-at-0.1(%, all)",https://identifiers.org/ito#ITO_03465,9
-Rank-1 Recognition Rate,https://identifiers.org/ito#ITO_03138,9
-Heavy MR^-2,https://identifiers.org/ito#ITO_03824,9
-Partial MR^-2,https://identifiers.org/ito#ITO_03825,9
-Bare MR^-2,https://identifiers.org/ito#ITO_03826,9
-F-measure (%),https://identifiers.org/ito#ITO_07170,9
-CR,https://identifiers.org/ito#ITO_09259,9
-spl,https://identifiers.org/ito#ITO_12537,9
-mAP IOU-at-0.75,https://identifiers.org/ito#ITO_07377,9
-mAP IOU-at-0.95,https://identifiers.org/ito#ITO_07379,9
-Validation AP,https://identifiers.org/ito#ITO_11353,9
-Mean F1 (WSJ),https://identifiers.org/ito#ITO_13206,9
-Max F1 (WSJ),https://identifiers.org/ito#ITO_13207,9
-Micro-F1-at-10%,https://identifiers.org/ito#ITO_10922,9
-P-at-10%,https://identifiers.org/ito#ITO_04808,8
-P-at-30%,https://identifiers.org/ito#ITO_04809,8
-PCK3D (CA),https://identifiers.org/ito#ITO_04921,8
-FSIM,https://identifiers.org/ito#ITO_03733,8
-In-domain,https://identifiers.org/ito#ITO_08200,8
-Overall,https://identifiers.org/ito#ITO_08202,8
-ICAT Score,https://identifiers.org/ito#ITO_17270,8
-MPJPE (CS),https://identifiers.org/ito#ITO_04918,8
-MPJPE (CA),https://identifiers.org/ito#ITO_04919,8
-PCK3D (CS),https://identifiers.org/ito#ITO_04920,8
-Out-of-domain,https://identifiers.org/ito#ITO_08201,8
-AUC Stdev,https://identifiers.org/ito#ITO_08897,8
-Execution Accuracy,https://identifiers.org/ito#ITO_09143,8
-POS,https://identifiers.org/ito#ITO_11166,8
-Weighted Accuracy,https://identifiers.org/ito#ITO_12257,8
-NDS,https://identifiers.org/ito#ITO_14369,8
-Negative ELBO,https://identifiers.org/ito#ITO_16299,8
-Modularity,https://identifiers.org/ito#ITO_12676,8
-Top-1 accuracy %,https://identifiers.org/ito#ITO_04313,8
-Relation F1,https://identifiers.org/ito#ITO_04783,8
-Accuracy-CN,https://identifiers.org/ito#ITO_07876,8
-mAP-at-0.50,https://identifiers.org/ito#ITO_03887,8
-mAP at-0.5:0.95,https://identifiers.org/ito#ITO_03888,8
-F1 (1dAVb),https://identifiers.org/ito#ITO_12149,8
-F1 (RBBB),https://identifiers.org/ito#ITO_12150,8
-F1 (LBBB),https://identifiers.org/ito#ITO_12151,8
-F1 (SB),https://identifiers.org/ito#ITO_12152,8
-F1 (AF),https://identifiers.org/ito#ITO_12153,8
-F1 (ST),https://identifiers.org/ito#ITO_12154,8
-mAP-at-10,https://identifiers.org/ito#ITO_13771,8
-Mean AP at 0.5,https://identifiers.org/ito#ITO_16136,8
-Micro-F1-at-50%,https://identifiers.org/ito#ITO_10921,8
-LMD,https://identifiers.org/ito#ITO_03488,7
-Video hit-at-1,https://identifiers.org/ito#ITO_07081,7
-Accuracy (trained on 1k),https://identifiers.org/ito#ITO_08154,7
-Average Recall,https://identifiers.org/ito#ITO_08979,7
-BLEU-5,https://identifiers.org/ito#ITO_09004,7
-Hits-at-20,https://identifiers.org/ito#ITO_13682,7
-FPR95,https://identifiers.org/ito#ITO_15784,7
-F1-Score,https://identifiers.org/ito#ITO_02570,7
-Request,https://identifiers.org/ito#ITO_04579,7
-m-reIRMSE,https://identifiers.org/ito#ITO_13075,7
-m-relRMSE,https://identifiers.org/ito#ITO_13106,7
-ADE-8/12,https://identifiers.org/ito#ITO_02428,6
-ADE,https://identifiers.org/ito#ITO_02441,6
-video-to-text R-at-5,https://identifiers.org/ito#ITO_07278,6
-count,https://identifiers.org/ito#ITO_09109,6
-"MSE (10^2, 50% missing)",https://identifiers.org/ito#ITO_05114,6
-Interpolation Error,https://identifiers.org/ito#ITO_07233,6
-Recall-at-100,https://identifiers.org/ito#ITO_13710,6
-AUC (test),https://identifiers.org/ito#ITO_07428,6
-NegLL,https://identifiers.org/ito#ITO_08965,6
-Exact Match Accuracy,https://identifiers.org/ito#ITO_09144,6
-DLD,https://identifiers.org/ito#ITO_09047,6
-"MSE (10^-2, 50% missing)",https://identifiers.org/ito#ITO_08967,6
-Accuracy (Inter-Patient),https://identifiers.org/ito#ITO_12104,6
-Per-class Accuracy (Unrelated),https://identifiers.org/ito#ITO_12258,6
-Per-class Accuracy (Agree),https://identifiers.org/ito#ITO_12259,6
-Per-class Accuracy (Discuss),https://identifiers.org/ito#ITO_12261,6
-MAE @ 12 step,https://identifiers.org/ito#ITO_15777,6
-ARI,https://identifiers.org/ito#ITO_13268,6
-Perplexity,https://identifiers.org/ito#ITO_09019,6
-EM (Quasar-T),https://identifiers.org/ito#ITO_08557,6
-Top-5 (%),https://identifiers.org/ito#ITO_09191,6
-Max Score,https://identifiers.org/ito#ITO_13657,6
-mPrec,https://identifiers.org/ito#ITO_16149,6
-Acc,https://identifiers.org/ito#ITO_07502,6
-Dev,https://identifiers.org/ito#ITO_09359,6
-5 fold cross validation,https://identifiers.org/ito#ITO_10102,6
-Return,https://identifiers.org/ito#ITO_12439,6
-rPC [%],https://identifiers.org/ito#ITO_14623,6
-Video-mAP 0.2,https://identifiers.org/ito#ITO_07360,6
-F1 (Quasar-T),https://identifiers.org/ito#ITO_08558,6
-Action,https://identifiers.org/ito#ITO_10030,6
-CIS,https://identifiers.org/ito#ITO_04103,6
-ROC AUC,https://identifiers.org/ito#ITO_02574,5
-text-to-video Mean Rank,https://identifiers.org/ito#ITO_07270,5
-Path Length,https://identifiers.org/ito#ITO_05090,5
-Step Change (10^−3),https://identifiers.org/ito#ITO_05092,5
-Path Difference,https://identifiers.org/ito#ITO_05093,5
-Player Distance,https://identifiers.org/ito#ITO_05094,5
-Model Entropy,https://identifiers.org/ito#ITO_05708,5
-SceneFID,https://identifiers.org/ito#ITO_06007,5
-1 in 10 R-at-1,https://identifiers.org/ito#ITO_08577,5
-Actions Top-1 (S2),https://identifiers.org/ito#ITO_09212,5
-MAE (10% missing),https://identifiers.org/ito#ITO_05068,5
-MAE (PM2.5),https://identifiers.org/ito#ITO_05105,5
-recall-at-1,https://identifiers.org/ito#ITO_10851,5
-Image-to-text R-at-1,https://identifiers.org/ito#ITO_12811,5
-PR AUC,https://identifiers.org/ito#ITO_02573,5
-Accuracy (trained on 10k),https://identifiers.org/ito#ITO_08153,5
-10-20% Mask PSNR,https://identifiers.org/ito#ITO_05908,5
-Unigram Acc,https://identifiers.org/ito#ITO_08568,5
-Hausdorff,https://identifiers.org/ito#ITO_05651,5
-SDR (vocals),https://identifiers.org/ito#ITO_06316,5
-SDR (drums),https://identifiers.org/ito#ITO_06317,5
-SDR (bass),https://identifiers.org/ito#ITO_06318,5
-SDR (other),https://identifiers.org/ito#ITO_06319,5
-DVD,https://identifiers.org/ito#ITO_11553,5
-Books,https://identifiers.org/ito#ITO_11554,5
-Kitchen,https://identifiers.org/ito#ITO_11556,5
-AUROC,https://identifiers.org/ito#ITO_09491,5
-MAE (Valence),https://identifiers.org/ito#ITO_10881,5
-MAE (Arousal),https://identifiers.org/ito#ITO_10882,5
-MAE (Expectancy),https://identifiers.org/ito#ITO_10883,5
-MAE (Power),https://identifiers.org/ito#ITO_10884,5
-"MAR, walking, 400ms",https://identifiers.org/ito#ITO_11508,5
-"MAR, walking, 1,000ms",https://identifiers.org/ito#ITO_11509,5
-Per-class Accuracy (Disagree),https://identifiers.org/ito#ITO_12260,5
-MAE (60 min),https://identifiers.org/ito#ITO_15765,5
-Viewpoint I AEPE,https://identifiers.org/ito#ITO_16266,5
-Viewpoint II AEPE,https://identifiers.org/ito#ITO_16267,5
-Viewpoint III AEPE,https://identifiers.org/ito#ITO_16268,5
-Viewpoint IV AEPE,https://identifiers.org/ito#ITO_16269,5
-Viewpoint V AEPE,https://identifiers.org/ito#ITO_16270,5
-GLEU,https://identifiers.org/ito#ITO_11127,5
-Small MR^-2,https://identifiers.org/ito#ITO_03827,5
-Medium MR^-2,https://identifiers.org/ito#ITO_03828,5
-Large MR^-2,https://identifiers.org/ito#ITO_03829,5
-OOB Rate (10^−3),https://identifiers.org/ito#ITO_05091,5
-L2 Loss (10^-4),https://identifiers.org/ito#ITO_05110,5
-Speed(ms/f),https://identifiers.org/ito#ITO_10617,5
-Top-5 Error,https://identifiers.org/ito#ITO_10828,5
-All,https://identifiers.org/ito#ITO_09422,5
-Test Score,https://identifiers.org/ito#ITO_10451,5
-Average,https://identifiers.org/ito#ITO_11557,5
-N-gram F1,https://identifiers.org/ito#ITO_08567,5
-F1 Newswire,https://identifiers.org/ito#ITO_13174,5
-EER,https://identifiers.org/ito#ITO_03662,5
-UA,https://identifiers.org/ito#ITO_10862,5
-Dice (Average),https://identifiers.org/ito#ITO_15839,5
-Dice (SE),https://identifiers.org/ito#ITO_15843,5
-training time (s),https://identifiers.org/ito#ITO_02636,4
-Failure private,https://identifiers.org/ito#ITO_03421,4
-1 in 10 R-at-2,https://identifiers.org/ito#ITO_04553,4
-GAR at-0.1% FAR,https://identifiers.org/ito#ITO_03359,4
-GAR at-1% FAR,https://identifiers.org/ito#ITO_03360,4
-SSIM,https://identifiers.org/ito#ITO_03690,4
-Hit-at-1,https://identifiers.org/ito#ITO_06940,4
-1 in 10 R-at-5,https://identifiers.org/ito#ITO_08578,4
-fwIOU,https://identifiers.org/ito#ITO_04036,4
-MAE (10% of data as GT),https://identifiers.org/ito#ITO_05080,4
-MSE (10% missing),https://identifiers.org/ito#ITO_05121,4
-Image-to-text R-at-10,https://identifiers.org/ito#ITO_12812,4
-Image-to-text R-at-5,https://identifiers.org/ito#ITO_12813,4
-bpsp,https://identifiers.org/ito#ITO_13023,4
-Recall-at-2,https://identifiers.org/ito#ITO_13724,4
-mPC [AP],https://identifiers.org/ito#ITO_14627,4
-LogLoss,https://identifiers.org/ito#ITO_17146,4
-UPOS,https://identifiers.org/ito#ITO_04531,4
-VS,https://identifiers.org/ito#ITO_05479,4
-SacreBLEU,https://identifiers.org/ito#ITO_05304,4
-40-50% Mask PSNR,https://identifiers.org/ito#ITO_05907,4
-20-30% Mask PSNR,https://identifiers.org/ito#ITO_05909,4
-Accuracy(10-fold),https://identifiers.org/ito#ITO_08591,4
-30-40% Mask PSNR,https://identifiers.org/ito#ITO_05910,4
-MSE stdev,https://identifiers.org/ito#ITO_08948,4
-Accuracy (anywhere),https://identifiers.org/ito#ITO_10591,4
-Top-1 Localization Accuracy,https://identifiers.org/ito#ITO_10841,4
-Electronics,https://identifiers.org/ito#ITO_11555,4
-Mean PCK,https://identifiers.org/ito#ITO_11326,4
-Accuracy (TRAIN-DB),https://identifiers.org/ito#ITO_12120,4
-Unpaired Accuracy,https://identifiers.org/ito#ITO_12275,4
-RMSE-at-80%Train,https://identifiers.org/ito#ITO_15810,4
-Neg Jacob Det,https://identifiers.org/ito#ITO_15842,4
-Mean target overlap ratio,https://identifiers.org/ito#ITO_15853,4
-ELO Rating,https://identifiers.org/ito#ITO_15930,4
-Mean Error Rate private,https://identifiers.org/ito#ITO_03419,4
-rect mask l1 error,https://identifiers.org/ito#ITO_05917,4
-rect mask l2 err,https://identifiers.org/ito#ITO_05918,4
-free-form mask l1 err,https://identifiers.org/ito#ITO_05919,4
-free-form mask l2 err,https://identifiers.org/ito#ITO_05920,4
-SOA-C,https://identifiers.org/ito#ITO_05957,4
-Test Error,https://identifiers.org/ito#ITO_06518,4
-Error ratio,https://identifiers.org/ito#ITO_09953,4
-Average Score,https://identifiers.org/ito#ITO_13664,4
-Average Per-Class Accuracy,https://identifiers.org/ito#ITO_07751,4
-Fl-all,https://identifiers.org/ito#ITO_13045,4
-CPU (sec),https://identifiers.org/ito#ITO_15840,4
-"mAP (at-0.1, Through-wall)",https://identifiers.org/ito#ITO_05159,4
-Video-mAP 0.75,https://identifiers.org/ito#ITO_07362,4
-"Tags(Object, Scene, etc)",https://identifiers.org/ito#ITO_10583,4
-F1 Full,https://identifiers.org/ito#ITO_13175,4
-Avg accuracy,https://identifiers.org/ito#ITO_04540,4
-AUC (outlier ratio = 0.5),https://identifiers.org/ito#ITO_07465,4
-Parameters (M),https://identifiers.org/ito#ITO_10649,4
-Q8,https://identifiers.org/ito#ITO_12735,4
-ARm,https://identifiers.org/ito#ITO_14409,4
-ARs,https://identifiers.org/ito#ITO_14410,4
-AUC-at-80%Train,https://identifiers.org/ito#ITO_15805,4
-Sequence error,https://identifiers.org/ito#ITO_02402,3
-1 in 2 R-at-1,https://identifiers.org/ito#ITO_04441,3
-Area,https://identifiers.org/ito#ITO_04590,3
-Food,https://identifiers.org/ito#ITO_04591,3
-Price,https://identifiers.org/ito#ITO_04592,3
-text-to-video R-at-50,https://identifiers.org/ito#ITO_07271,3
-mean Corruption Error (mCE),https://identifiers.org/ito#ITO_04305,3
-R-at-16,https://identifiers.org/ito#ITO_15883,3
-R-at-2,https://identifiers.org/ito#ITO_15884,3
-R-at-32,https://identifiers.org/ito#ITO_15885,3
-R-at-4,https://identifiers.org/ito#ITO_15886,3
-R-at-8,https://identifiers.org/ito#ITO_15887,3
-HTER,https://identifiers.org/ito#ITO_03663,3
-MSD,https://identifiers.org/ito#ITO_05478,3
-AUPR,https://identifiers.org/ito#ITO_07436,3
-Accuracy (LOS>3 Days),https://identifiers.org/ito#ITO_08857,3
-Accuracy (LOS>7 Days),https://identifiers.org/ito#ITO_08858,3
-VOI,https://identifiers.org/ito#ITO_05632,3
-mAcc,https://identifiers.org/ito#ITO_10531,3
-MMD-CD,https://identifiers.org/ito#ITO_12597,3
-nDCG-at-1,https://identifiers.org/ito#ITO_12792,3
-ADDS AUC,https://identifiers.org/ito#ITO_11477,3
-Accuracy (TEST-DB),https://identifiers.org/ito#ITO_12119,3
-Pointing Game Accuracy,https://identifiers.org/ito#ITO_13981,3
-Hit-at-10,https://identifiers.org/ito#ITO_13737,3
-Inference Time (ms),https://identifiers.org/ito#ITO_16054,3
-Macro Recall,https://identifiers.org/ito#ITO_16519,3
-Micro Recall,https://identifiers.org/ito#ITO_16521,3
-Hausdorff Distance (mm),https://identifiers.org/ito#ITO_15861,3
-Average IOU,https://identifiers.org/ito#ITO_16459,3
-Grad Det-Jac,https://identifiers.org/ito#ITO_15862,3
-NMI (physiology_6_hours),https://identifiers.org/ito#ITO_16030,3
-NMI (physiology_12_hours),https://identifiers.org/ito#ITO_16031,3
-NMI (physiology_24_hours),https://identifiers.org/ito#ITO_16032,3
-Macro Precision,https://identifiers.org/ito#ITO_16518,3
-Micro Precision,https://identifiers.org/ito#ITO_16520,3
-Size (MB),https://identifiers.org/ito#ITO_13030,3
-# of clusters (k),https://identifiers.org/ito#ITO_15717,3
-AIOU,https://identifiers.org/ito#ITO_03768,3
-mAP IOU-at-0.9,https://identifiers.org/ito#ITO_07378,3
-F1 (Hidden Test Set),https://identifiers.org/ito#ITO_08906,3
-AP Easy,https://identifiers.org/ito#ITO_11400,3
-AP Medium,https://identifiers.org/ito#ITO_11401,3
-AP Hard,https://identifiers.org/ito#ITO_11402,3
-Mean F1 (WSJ10),https://identifiers.org/ito#ITO_13208,3
-AUC (ABPA),https://identifiers.org/ito#ITO_06028,3
-AUC (Diabetes),https://identifiers.org/ito#ITO_06029,3
-AUC (I. Obstruction),https://identifiers.org/ito#ITO_06030,3
-AUC (K. Pneumonia),https://identifiers.org/ito#ITO_06032,3
-AUC (E. Coli),https://identifiers.org/ito#ITO_06033,3
-AUC (Aspergillus),https://identifiers.org/ito#ITO_06034,3
-AR@1000,https://identifiers.org/ito#ITO_07421,3
-AR@200,https://identifiers.org/ito#ITO_07422,3
-AR@50,https://identifiers.org/ito#ITO_07423,3
-AR@500,https://identifiers.org/ito#ITO_07424,3
-Mean PCK-at-0.2,https://identifiers.org/ito#ITO_11238,3
-AMrTRE,https://identifiers.org/ito#ITO_15829,3
-MMrTRE,https://identifiers.org/ito#ITO_15830,3
-NSDR,https://identifiers.org/ito#ITO_16321,3
-Hits-at-5,https://identifiers.org/ito#ITO_02758,2
-RMS,https://identifiers.org/ito#ITO_02461,2
-10 fold Cross validation,https://identifiers.org/ito#ITO_02559,2
-TAR at FAR=0.1,https://identifiers.org/ito#ITO_03312,2
-NI,https://identifiers.org/ito#ITO_03773,2
-UIQM,https://identifiers.org/ito#ITO_02941,2
-Reprojection Error (CPM),https://identifiers.org/ito#ITO_04865,2
-Total Variation of Information,https://identifiers.org/ito#ITO_05672,2
-VI Split,https://identifiers.org/ito#ITO_05673,2
-VI Merge,https://identifiers.org/ito#ITO_05674,2
-AUC0.07,https://identifiers.org/ito#ITO_03378,2
-PCK3D,https://identifiers.org/ito#ITO_04891,2
-GAR at-10% FAR,https://identifiers.org/ito#ITO_03361,2
-Hit-at-5,https://identifiers.org/ito#ITO_06942,2
-video-to-text Mean Rank,https://identifiers.org/ito#ITO_07274,2
-video-to-text Median Rank,https://identifiers.org/ito#ITO_07275,2
-video-to-text R-at-1,https://identifiers.org/ito#ITO_07276,2
-video-to-text R-at-10,https://identifiers.org/ito#ITO_07277,2
-CallHome,https://identifiers.org/ito#ITO_04330,2
-SwitchBoard,https://identifiers.org/ito#ITO_04331,2
-Mean ADD-S,https://identifiers.org/ito#ITO_11435,2
-P-at-10,https://identifiers.org/ito#ITO_13764,2
-mPC [AP50],https://identifiers.org/ito#ITO_14622,2
-Recall-at-1,https://identifiers.org/ito#ITO_15632,2
-PESQ,https://identifiers.org/ito#ITO_16488,2
-RACE-m,https://identifiers.org/ito#ITO_08144,2
-RACE-h,https://identifiers.org/ito#ITO_08145,2
-RACE,https://identifiers.org/ito#ITO_08146,2
-PCKh,https://identifiers.org/ito#ITO_05991,2
-PERR,https://identifiers.org/ito#ITO_06941,2
-SDR,https://identifiers.org/ito#ITO_09329,2
-Global Accuracy,https://identifiers.org/ito#ITO_10329,2
-SICK-E,https://identifiers.org/ito#ITO_11080,2
-ReVerb45k,https://identifiers.org/ito#ITO_09249,2
-Accuracy (3-way),https://identifiers.org/ito#ITO_11811,2
-Accuracy (4-way),https://identifiers.org/ito#ITO_11812,2
-Binary Accuracy,https://identifiers.org/ito#ITO_11813,2
-Mean Recall,https://identifiers.org/ito#ITO_11426,2
-IoU [32 distractors],https://identifiers.org/ito#ITO_10786,2
-IoU [4 distractors],https://identifiers.org/ito#ITO_10787,2
-IoU [256 distractors],https://identifiers.org/ito#ITO_10788,2
-MMD,https://identifiers.org/ito#ITO_12861,2
-Mean AUC,https://identifiers.org/ito#ITO_11436,2
-Accuracy (Intra-Patient),https://identifiers.org/ito#ITO_12105,2
-RP-at-5,https://identifiers.org/ito#ITO_12791,2
-Mean Accuracy,https://identifiers.org/ito#ITO_14631,2
-iMAE,https://identifiers.org/ito#ITO_15975,2
-infNDCG,https://identifiers.org/ito#ITO_16511,2
-Average Class Accuracy,https://identifiers.org/ito#ITO_15823,2
-Accuracy (agg),https://identifiers.org/ito#ITO_16483,2
-Accuracy (sel),https://identifiers.org/ito#ITO_16484,2
-Median Relighting Error,https://identifiers.org/ito#ITO_08974,2
-Temporal awareness,https://identifiers.org/ito#ITO_10135,2
-SPICE,https://identifiers.org/ito#ITO_12516,2
-Average Success Rate,https://identifiers.org/ito#ITO_15942,2
-Cumulative regret,https://identifiers.org/ito#ITO_16799,2
-Edit Distance,https://identifiers.org/ito#ITO_17076,2
-Sparsity,https://identifiers.org/ito#ITO_17187,2
-Diacritic Error Rate,https://identifiers.org/ito#ITO_17255,2
-Equal Error Rate,https://identifiers.org/ito#ITO_03674,2
-three pixel error,https://identifiers.org/ito#ITO_02547,2
-Accuracy(on validation set),https://identifiers.org/ito#ITO_03580,2
-interest (human),https://identifiers.org/ito#ITO_04570,2
-relevance (human),https://identifiers.org/ito#ITO_04571,2
-DS,https://identifiers.org/ito#ITO_05990,2
-rsim,https://identifiers.org/ito#ITO_05952,2
-Joint F1,https://identifiers.org/ito#ITO_07847,2
-Object Top 5 Accuracy,https://identifiers.org/ito#ITO_06541,2
-Object Top-1 Accuracy,https://identifiers.org/ito#ITO_06542,2
-Verb Top-1 Accuracy,https://identifiers.org/ito#ITO_06543,2
-Verb Top-5 Accuracy,https://identifiers.org/ito#ITO_06544,2
-WAP,https://identifiers.org/ito#ITO_10863,2
-FRD,https://identifiers.org/ito#ITO_11029,2
-SICK-R,https://identifiers.org/ito#ITO_11079,2
-Mean ADI,https://identifiers.org/ito#ITO_11437,2
-iRMSE,https://identifiers.org/ito#ITO_15974,2
-Top-2 accuracy %,https://identifiers.org/ito#ITO_07756,2
-Top-3 accuracy %,https://identifiers.org/ito#ITO_07757,2
-Ambiguous dataset,https://identifiers.org/ito#ITO_09247,2
-Base Dataset,https://identifiers.org/ito#ITO_09248,2
-Success,https://identifiers.org/ito#ITO_09974,2
-AOP,https://identifiers.org/ito#ITO_11381,2
-Goal Progress,https://identifiers.org/ito#ITO_12549,2
-HP,https://identifiers.org/ito#ITO_12860,2
-coverage,https://identifiers.org/ito#ITO_15659,2
-GPU sec,https://identifiers.org/ito#ITO_15841,2
-AP-at-0.7,https://identifiers.org/ito#ITO_04286,2
-Maximum F-measure,https://identifiers.org/ito#ITO_10083,2
-"mAP 10, 10cm",https://identifiers.org/ito#ITO_11521,2
-"mAP 10, 5cm",https://identifiers.org/ito#ITO_11522,2
-mAP 3DIou-at-25,https://identifiers.org/ito#ITO_11523,2
-mAP 3DIou-at-50,https://identifiers.org/ito#ITO_11524,2
-"mAP 5, 5cm",https://identifiers.org/ito#ITO_11525,2
-"mAP (at-0.1, Visible)",https://identifiers.org/ito#ITO_11548,2
-Laptop (F1),https://identifiers.org/ito#ITO_11835,2
-Mean F1 (Laptop + Restaurant),https://identifiers.org/ito#ITO_11836,2
-Restaurant (F1),https://identifiers.org/ito#ITO_11837,2
-Holder Binary F1,https://identifiers.org/ito#ITO_11858,2
-Target Binary F1,https://identifiers.org/ito#ITO_11859,2
-F1 (surface form),https://identifiers.org/ito#ITO_11936,2
-Exact Span F1,https://identifiers.org/ito#ITO_12052,2
-F1 (Sequence),https://identifiers.org/ito#ITO_12098,2
-F1 (Set),https://identifiers.org/ito#ITO_12099,2
-Video-mAP 0.1,https://identifiers.org/ito#ITO_12242,2
-Max F1 (WSJ10),https://identifiers.org/ito#ITO_13209,2
-mesh AP,https://identifiers.org/ito#ITO_17238,2
-I. Obstruction,https://identifiers.org/ito#ITO_06031,2
-PPV (VEB),https://identifiers.org/ito#ITO_12130,2
-Sensitivity (VEB),https://identifiers.org/ito#ITO_12131,2
-Q3,https://identifiers.org/ito#ITO_12743,2
-ODRMSE,https://identifiers.org/ito#ITO_12990,2
-Average daily returns,https://identifiers.org/ito#ITO_02554,1
-FDE-8/12,https://identifiers.org/ito#ITO_02450,1
-Mean Angle Error,https://identifiers.org/ito#ITO_04157,1
-Delta1,https://identifiers.org/ito#ITO_02544,1
-CVGTCE,https://identifiers.org/ito#ITO_03386,1
-GTE,https://identifiers.org/ito#ITO_03387,1
-MRR filtered,https://identifiers.org/ito#ITO_02801,1
-MRR raw,https://identifiers.org/ito#ITO_02802,1
-Speedup,https://identifiers.org/ito#ITO_04643,1
-AVD,https://identifiers.org/ito#ITO_05611,1
-IED,https://identifiers.org/ito#ITO_05624,1
-Test Time,https://identifiers.org/ito#ITO_03830,1
-Phoneme Error Rate,https://identifiers.org/ito#ITO_04638,1
-Warping Error,https://identifiers.org/ito#ITO_05493,1
-CREMI Score,https://identifiers.org/ito#ITO_05631,1
-GAR at-0.1% FAR Impersonation,https://identifiers.org/ito#ITO_03751,1
-GAR at-0.1% FAR Obfuscation,https://identifiers.org/ito#ITO_03752,1
-GAR at-0.1% FAR Overall,https://identifiers.org/ito#ITO_03753,1
-GAR at-1% FAR Impersonation,https://identifiers.org/ito#ITO_03754,1
-GAR at-1% FAR Obfuscation,https://identifiers.org/ito#ITO_03755,1
-GAR at-1% FAR Overall,https://identifiers.org/ito#ITO_03756,1
-EaH-at-95,https://identifiers.org/ito#ITO_07811,1
-EaH-at-99,https://identifiers.org/ito#ITO_07812,1
-recall-at-5,https://identifiers.org/ito#ITO_10852,1
-recall-at-top1%,https://identifiers.org/ito#ITO_10853,1
-v2v error,https://identifiers.org/ito#ITO_10876,1
-Specificity (VEB+),https://identifiers.org/ito#ITO_12141,1
-Mean NME,https://identifiers.org/ito#ITO_03479,1
-VInfo,https://identifiers.org/ito#ITO_05491,1
-VRand,https://identifiers.org/ito#ITO_05492,1
-PA,https://identifiers.org/ito#ITO_07899,1
-Test AUC top 1,https://identifiers.org/ito#ITO_07766,1
-Test AUC top 2,https://identifiers.org/ito#ITO_07767,1
-Test AUC top 3,https://identifiers.org/ito#ITO_07768,1
-Val AUC top 1,https://identifiers.org/ito#ITO_07770,1
-Val AUC top 2,https://identifiers.org/ito#ITO_07771,1
-Val AUC top 3,https://identifiers.org/ito#ITO_07772,1
-Accuracy (Dev),https://identifiers.org/ito#ITO_09296,1
-Accuracy (Test-P),https://identifiers.org/ito#ITO_09297,1
-Accuracy (Test-U),https://identifiers.org/ito#ITO_09298,1
-AUPRC,https://identifiers.org/ito#ITO_09490,1
-mask-SSIM,https://identifiers.org/ito#ITO_05993,1
-PR-AUC,https://identifiers.org/ito#ITO_09985,1
-Absolute Time (ms),https://identifiers.org/ito#ITO_08869,1
-Pixel Accuracy,https://identifiers.org/ito#ITO_10340,1
-oAcc,https://identifiers.org/ito#ITO_10532,1
-Accuracy (MoF),https://identifiers.org/ito#ITO_10938,1
-Rerr,https://identifiers.org/ito#ITO_11486,1
-Terr,https://identifiers.org/ito#ITO_11487,1
-R^2,https://identifiers.org/ito#ITO_11742,1
-Recall (VSD),https://identifiers.org/ito#ITO_11425,1
-IOU25,https://identifiers.org/ito#ITO_11485,1
-IoU-2D,https://identifiers.org/ito#ITO_11542,1
-IoU-3D,https://identifiers.org/ito#ITO_11543,1
-ATV,https://identifiers.org/ito#ITO_12074,1
-TIoU,https://identifiers.org/ito#ITO_12412,1
-Accuracy (VEB+),https://identifiers.org/ito#ITO_12138,1
-"Acc-at-0.5m, 2°",https://identifiers.org/ito#ITO_12221,1
-"Acc-at-1m, 5°",https://identifiers.org/ito#ITO_12222,1
-"Acc-at-5m, 10°",https://identifiers.org/ito#ITO_12223,1
-Real World Accuracy,https://identifiers.org/ito#ITO_12765,1
-runtime (ms),https://identifiers.org/ito#ITO_14596,1
-runtime (s),https://identifiers.org/ito#ITO_17010,1
-ACER,https://identifiers.org/ito#ITO_15867,1
-meanIOU,https://identifiers.org/ito#ITO_16187,1
-BEP,https://identifiers.org/ito#ITO_17178,1
-Blur Segmentation Accuracy,https://identifiers.org/ito#ITO_15925,1
-FSF,https://identifiers.org/ito#ITO_16003,1
-Total Accuracy,https://identifiers.org/ito#ITO_16006,1
-F1 (H50),https://identifiers.org/ito#ITO_02565,1
-BPE Perplexity,https://identifiers.org/ito#ITO_10156,1
-Consistency,https://identifiers.org/ito#ITO_15741,1
-Chamfer Distance,https://identifiers.org/ito#ITO_15903,1
-MACE,https://identifiers.org/ito#ITO_15994,1
-L1,https://identifiers.org/ito#ITO_17245,1
-Test error,https://identifiers.org/ito#ITO_17265,1
-Accuracy (H50),https://identifiers.org/ito#ITO_02564,1
-16x16 Accuracy,https://identifiers.org/ito#ITO_03744,1
-24x24 Accuracy,https://identifiers.org/ito#ITO_03745,1
-32x32 Accuracy,https://identifiers.org/ito#ITO_03746,1
-48x48 Accuracy,https://identifiers.org/ito#ITO_03747,1
-F1a,https://identifiers.org/ito#ITO_07858,1
-DE,https://identifiers.org/ito#ITO_07900,1
-Train F-measure,https://identifiers.org/ito#ITO_09197,1
-DF,https://identifiers.org/ito#ITO_16001,1
-FS,https://identifiers.org/ito#ITO_16002,1
-NT,https://identifiers.org/ito#ITO_16004,1
-Real,https://identifiers.org/ito#ITO_16005,1
-Accuracy (High),https://identifiers.org/ito#ITO_07494,1
-Accuracy (Middle),https://identifiers.org/ito#ITO_07495,1
-Seen accuracy,https://identifiers.org/ito#ITO_07765,1
-Unseen accuracy,https://identifiers.org/ito#ITO_07769,1
-D-1,https://identifiers.org/ito#ITO_10157,1
-D-2,https://identifiers.org/ito#ITO_10158,1
-Edit,https://identifiers.org/ito#ITO_10939,1
-5°5 cm,https://identifiers.org/ito#ITO_11484,1
-VSS-2D,https://identifiers.org/ito#ITO_11544,1
-VSS-3D,https://identifiers.org/ito#ITO_11545,1
-Validation,https://identifiers.org/ito#ITO_15338,1
-final agent reward,https://identifiers.org/ito#ITO_15937,1
-ERR-at-20,https://identifiers.org/ito#ITO_16318,1
-Mean AP,https://identifiers.org/ito#ITO_02629,1
-F1 (Long),https://identifiers.org/ito#ITO_08539,1
-F1 (Short),https://identifiers.org/ito#ITO_08540,1
-ODS,https://identifiers.org/ito#ITO_10074,1
-F-Score,https://identifiers.org/ito#ITO_10825,1
-BER,https://identifiers.org/ito#ITO_12301,1
-Bounding Box AP,https://identifiers.org/ito#ITO_16313,1
-Cls,https://identifiers.org/ito#ITO_05887,1
-mask-IS,https://identifiers.org/ito#ITO_05992,1
-R1,https://identifiers.org/ito#ITO_06277,1
-HEQD,https://identifiers.org/ito#ITO_07852,1
-HEQQ,https://identifiers.org/ito#ITO_07853,1
-BA,https://identifiers.org/ito#ITO_07898,1
-PPV (VEB+),https://identifiers.org/ito#ITO_12139,1
-Sensitivity (VEB+),https://identifiers.org/ito#ITO_12140,1
-Sensitivity,https://identifiers.org/ito#ITO_12195,1
-mCov,https://identifiers.org/ito#ITO_16150,1
-mWCov,https://identifiers.org/ito#ITO_16151,1
-Macro-F1-at-2%,https://identifiers.org/ito#ITO_17008,1
-Micro-F1-at-2%,https://identifiers.org/ito#ITO_17009,1
+Accuracy,https://ai-strategies.org/ontology/ITO_02411,5284
+Score,https://ai-strategies.org/ontology/ITO_08816,3742
+Accuracy (CS),https://ai-strategies.org/ontology/ITO_06723,1230
+Accuracy (CV),https://ai-strategies.org/ontology/ITO_06722,1107
+F1,https://ai-strategies.org/ontology/ITO_03697,985
+PSNR,https://ai-strategies.org/ontology/ITO_02817,912
+SSIM,https://ai-strategies.org/ontology/ITO_02824,646
+AP,https://ai-strategies.org/ontology/ITO_02616,583
+MAP,https://ai-strategies.org/ontology/ITO_03218,466
+EM,https://ai-strategies.org/ontology/ITO_07893,459
+Top 1 Accuracy,https://ai-strategies.org/ontology/ITO_04857,369
+mIoU,https://ai-strategies.org/ontology/ITO_03922,358
+Accuracy (Cross-Subject),https://ai-strategies.org/ontology/ITO_06901,350
+Accuracy (Cross-Setup),https://ai-strategies.org/ontology/ITO_06902,350
+FID,https://ai-strategies.org/ontology/ITO_02822,297
+3-fold Accuracy,https://ai-strategies.org/ontology/ITO_07174,280
+Percentage error,https://ai-strategies.org/ontology/ITO_04342,278
+AUC,https://ai-strategies.org/ontology/ITO_02593,268
+Percentage correct,https://ai-strategies.org/ontology/ITO_08679,262
+Average accuracy of 3 splits,https://ai-strategies.org/ontology/ITO_06890,256
+Top 5 Accuracy,https://ai-strategies.org/ontology/ITO_04858,242
+AP50,https://ai-strategies.org/ontology/ITO_07559,209
+box AP,https://ai-strategies.org/ontology/ITO_13999,200
+MRR,https://ai-strategies.org/ontology/ITO_02583,197
+AP75,https://ai-strategies.org/ontology/ITO_11214,188
+Rank-1,https://ai-strategies.org/ontology/ITO_06042,187
+BLEU score,https://ai-strategies.org/ontology/ITO_05202,186
+Number of params,https://ai-strategies.org/ontology/ITO_09767,186
+Precision,https://ai-strategies.org/ontology/ITO_04547,185
+APL,https://ai-strategies.org/ontology/ITO_11215,181
+MAE,https://ai-strategies.org/ontology/ITO_03708,178
+APM,https://ai-strategies.org/ontology/ITO_11216,173
+Top-1 Accuracy,https://ai-strategies.org/ontology/ITO_06549,172
+Recall,https://ai-strategies.org/ontology/ITO_04548,169
+APS,https://ai-strategies.org/ontology/ITO_14066,153
+Accuracy (RGB+pose),https://ai-strategies.org/ontology/ITO_06865,150
+mAP,https://ai-strategies.org/ontology/ITO_04002,145
+Hits-at-10,https://ai-strategies.org/ontology/ITO_02605,131
+Average MPJPE (mm),https://ai-strategies.org/ontology/ITO_04900,124
+BLEU,https://ai-strategies.org/ontology/ITO_05183,120
+NMI,https://ai-strategies.org/ontology/ITO_12664,116
+Average 3D Error,https://ai-strategies.org/ontology/ITO_03645,114
+mAP-at-0.5,https://ai-strategies.org/ontology/ITO_04292,107
+Video hit-at-5,https://ai-strategies.org/ontology/ITO_07020,105
+Accuracy (CV II),https://ai-strategies.org/ontology/ITO_06930,105
+Accuracy (AV I),https://ai-strategies.org/ontology/ITO_06931,105
+Accuracy (AV II),https://ai-strategies.org/ontology/ITO_06932,105
+Accuracy (CV I),https://ai-strategies.org/ontology/ITO_06929,105
+Mean IoU,https://ai-strategies.org/ontology/ITO_05539,104
+RMSE,https://ai-strategies.org/ontology/ITO_02423,102
+Video hit-at-1,https://ai-strategies.org/ontology/ITO_07019,98
+Error,https://ai-strategies.org/ontology/ITO_10601,98
+F-Measure,https://ai-strategies.org/ontology/ITO_12306,97
+Test perplexity,https://ai-strategies.org/ontology/ITO_09708,96
+F1 score,https://ai-strategies.org/ontology/ITO_03847,95
+MOTA,https://ai-strategies.org/ontology/ITO_06453,92
+ROUGE-L,https://ai-strategies.org/ontology/ITO_09085,88
+R-at-1,https://ai-strategies.org/ontology/ITO_04599,86
+Hits-at-1,https://ai-strategies.org/ontology/ITO_02610,84
+% Test Accuracy,https://ai-strategies.org/ontology/ITO_09545,83
+Top-5 Accuracy,https://ai-strategies.org/ontology/ITO_06591,79
+Inception score,https://ai-strategies.org/ontology/ITO_05707,78
+NME,https://ai-strategies.org/ontology/ITO_03368,77
+Jaccard (Mean),https://ai-strategies.org/ontology/ITO_06412,77
+mAP-at-0.4,https://ai-strategies.org/ontology/ITO_06955,77
+Hits-at-3,https://ai-strategies.org/ontology/ITO_02611,75
+ROUGE-1,https://ai-strategies.org/ontology/ITO_13307,75
+Bit per Character (BPC),https://ai-strategies.org/ontology/ITO_09777,73
+Mean IoU (class),https://ai-strategies.org/ontology/ITO_10191,72
+Restaurant (Acc),https://ai-strategies.org/ontology/ITO_11752,72
+mAP-at-0.3,https://ai-strategies.org/ontology/ITO_06954,70
+F-measure (Mean),https://ai-strategies.org/ontology/ITO_06415,69
+mAP IOU-at-0.5,https://ai-strategies.org/ontology/ITO_07375,69
+% Train Accuracy,https://ai-strategies.org/ontology/ITO_09546,68
+ROUGE-2,https://ai-strategies.org/ontology/ITO_13308,66
+Expected Average Overlap (EAO),https://ai-strategies.org/ontology/ITO_06332,66
+Parameters,https://ai-strategies.org/ontology/ITO_09547,66
+Val,https://ai-strategies.org/ontology/ITO_07121,65
+Top-1 Error Rate,https://ai-strategies.org/ontology/ITO_10838,65
+Mean Acc (Restaurant + Laptop),https://ai-strategies.org/ontology/ITO_11751,64
+Laptop (Acc),https://ai-strategies.org/ontology/ITO_11753,64
+Validation perplexity,https://ai-strategies.org/ontology/ITO_09709,63
+TAR at FAR=0.01,https://ai-strategies.org/ontology/ITO_03248,62
+14 gestures accuracy,https://ai-strategies.org/ontology/ITO_03592,62
+F-measure (Recall),https://ai-strategies.org/ontology/ITO_06416,61
+Accuracy (pose),https://ai-strategies.org/ontology/ITO_06866,61
+MR,https://ai-strategies.org/ontology/ITO_02606,61
+Jaccard (Recall),https://ai-strategies.org/ontology/ITO_06413,61
+F-measure (Decay),https://ai-strategies.org/ontology/ITO_06417,60
+Jaccard (Decay),https://ai-strategies.org/ontology/ITO_06414,60
+Average Accuracy,https://ai-strategies.org/ontology/ITO_03696,58
+F-measure,https://ai-strategies.org/ontology/ITO_14437,57
+Word Error Rate (WER),https://ai-strategies.org/ontology/ITO_04332,52
+MSE,https://ai-strategies.org/ontology/ITO_05052,52
+mask AP,https://ai-strategies.org/ontology/ITO_16060,51
+PCK-at-0.2,https://ai-strategies.org/ontology/ITO_06681,49
+mAP-at-0.1,https://ai-strategies.org/ontology/ITO_06952,49
+mAP-at-0.2,https://ai-strategies.org/ontology/ITO_06953,49
+28 gestures accuracy,https://ai-strategies.org/ontology/ITO_06848,48
+PQ,https://ai-strategies.org/ontology/ITO_10657,47
+Params,https://ai-strategies.org/ontology/ITO_09710,46
+PCK-at-0.1,https://ai-strategies.org/ontology/ITO_06680,45
+PCK-at-0.3,https://ai-strategies.org/ontology/ITO_06682,45
+PCK-at-0.4,https://ai-strategies.org/ontology/ITO_06683,45
+PCK-at-0.5,https://ai-strategies.org/ontology/ITO_06684,45
+mAP-at-0.50 (CV),https://ai-strategies.org/ontology/ITO_06885,45
+mAP-at-0.50 (CS),https://ai-strategies.org/ontology/ITO_06886,45
+Micro-F1,https://ai-strategies.org/ontology/ITO_10897,45
+3DIoU,https://ai-strategies.org/ontology/ITO_03127,43
+Balanced Error Rate,https://ai-strategies.org/ontology/ITO_14422,42
+Dice Score,https://ai-strategies.org/ontology/ITO_05477,41
+METEOR,https://ai-strategies.org/ontology/ITO_08346,39
+Rank-5,https://ai-strategies.org/ontology/ITO_06044,39
+MOS,https://ai-strategies.org/ontology/ITO_02947,39
+mAP IOU-at-0.3,https://ai-strategies.org/ontology/ITO_07393,39
+R-at-10,https://ai-strategies.org/ontology/ITO_04600,38
+Per-pixel Accuracy,https://ai-strategies.org/ontology/ITO_03932,38
+Mean NME,https://ai-strategies.org/ontology/ITO_03373,37
+P-at-5,https://ai-strategies.org/ontology/ITO_04824,36
+BLEU-4,https://ai-strategies.org/ontology/ITO_08345,36
+Validation mIoU,https://ai-strategies.org/ontology/ITO_10450,36
+Clip Hit-at-1,https://ai-strategies.org/ontology/ITO_07082,35
+F1-score,https://ai-strategies.org/ontology/ITO_03122,35
+P-at-1,https://ai-strategies.org/ontology/ITO_02806,34
+Log Loss,https://ai-strategies.org/ontology/ITO_17092,34
+3DPCK,https://ai-strategies.org/ontology/ITO_04658,34
+Speed  (FPS),https://ai-strategies.org/ontology/ITO_06850,34
+MS-SSIM,https://ai-strategies.org/ontology/ITO_02823,34
+Inception Score,https://ai-strategies.org/ontology/ITO_05886,33
+Time (ms),https://ai-strategies.org/ontology/ITO_10605,33
+Frame (fps),https://ai-strategies.org/ontology/ITO_10604,33
+Frame-mAP,https://ai-strategies.org/ontology/ITO_07359,33
+mAP IOU-at-0.4,https://ai-strategies.org/ontology/ITO_07394,33
+10%,https://ai-strategies.org/ontology/ITO_06830,32
+Entity F1,https://ai-strategies.org/ontology/ITO_04708,32
+PCKh-0.5,https://ai-strategies.org/ontology/ITO_11252,31
+AR,https://ai-strategies.org/ontology/ITO_11217,31
+TAR at FAR=0.001,https://ai-strategies.org/ontology/ITO_03239,30
+Mean ADD,https://ai-strategies.org/ontology/ITO_11433,30
+No. parameters,https://ai-strategies.org/ontology/ITO_06849,30
+mAP IOU-at-0.1,https://ai-strategies.org/ontology/ITO_07391,30
+Pearson Correlation,https://ai-strategies.org/ontology/ITO_03765,29
+Recall-at-50,https://ai-strategies.org/ontology/ITO_08984,29
+Medium Human-Normalized Score,https://ai-strategies.org/ontology/ITO_12544,29
+nDCG-at-10,https://ai-strategies.org/ontology/ITO_13683,29
+mAP (Val),https://ai-strategies.org/ontology/ITO_07088,28
+Recall-at-10,https://ai-strategies.org/ontology/ITO_09353,27
+Rank-10,https://ai-strategies.org/ontology/ITO_06045,27
+mAP IOU-at-0.7,https://ai-strategies.org/ontology/ITO_07376,27
+absolute relative error,https://ai-strategies.org/ontology/ITO_02502,26
+F0.5,https://ai-strategies.org/ontology/ITO_11113,26
+Classification Accuracy,https://ai-strategies.org/ontology/ITO_04059,26
+PQth,https://ai-strategies.org/ontology/ITO_10690,25
+Reasonable Miss Rate,https://ai-strategies.org/ontology/ITO_03778,24
+Kernel Inception Distance,https://ai-strategies.org/ontology/ITO_03917,24
+IS,https://ai-strategies.org/ontology/ITO_04104,24
+PQst,https://ai-strategies.org/ontology/ITO_10689,24
+Class IOU,https://ai-strategies.org/ontology/ITO_03930,24
+NLL Test,https://ai-strategies.org/ontology/ITO_05709,24
+Accuracy (10-fold),https://ai-strategies.org/ontology/ITO_03522,24
+Per-class Accuracy,https://ai-strategies.org/ontology/ITO_03931,24
+mAP IOU-at-0.2,https://ai-strategies.org/ontology/ITO_07392,24
+Matched,https://ai-strategies.org/ontology/ITO_09513,24
+CIDEr,https://ai-strategies.org/ontology/ITO_09013,23
+Overall Accuracy,https://ai-strategies.org/ontology/ITO_13148,23
+LPIPS,https://ai-strategies.org/ontology/ITO_03691,22
+NLL,https://ai-strategies.org/ontology/ITO_09018,22
+Recall-at-20,https://ai-strategies.org/ontology/ITO_13709,21
+MPJPE,https://ai-strategies.org/ontology/ITO_04657,21
+BLEU-1,https://ai-strategies.org/ontology/ITO_08190,21
+nDCG-at-20,https://ai-strategies.org/ontology/ITO_12566,21
+Mean Error Rate,https://ai-strategies.org/ontology/ITO_03394,20
+Mean Reconstruction Error (mm),https://ai-strategies.org/ontology/ITO_04870,20
+F1-score (Canonical),https://ai-strategies.org/ontology/ITO_07316,20
+F1-score (Augmented),https://ai-strategies.org/ontology/ITO_07317,20
+Dice,https://ai-strategies.org/ontology/ITO_05518,20
+Mismatched,https://ai-strategies.org/ontology/ITO_09514,20
+R-at-5,https://ai-strategies.org/ontology/ITO_04601,19
+Average End-Point Error,https://ai-strategies.org/ontology/ITO_13040,19
+PPL,https://ai-strategies.org/ontology/ITO_09857,19
+Log-Spectral Distance,https://ai-strategies.org/ontology/ITO_03075,18
+Diversity,https://ai-strategies.org/ontology/ITO_04109,18
+MJPE,https://ai-strategies.org/ontology/ITO_04948,18
+text-to-video Median Rank,https://ai-strategies.org/ontology/ITO_07249,18
+text-to-video R-at-1,https://ai-strategies.org/ontology/ITO_07250,18
+text-to-video R-at-10,https://ai-strategies.org/ontology/ITO_07252,18
+NIST,https://ai-strategies.org/ontology/ITO_09084,18
+Normalized Precision,https://ai-strategies.org/ontology/ITO_06376,18
+Relation F1,https://ai-strategies.org/ontology/ITO_04784,18
+AR@100,https://ai-strategies.org/ontology/ITO_07420,18
+nDCG-at-100,https://ai-strategies.org/ontology/ITO_13708,17
+User Study Score,https://ai-strategies.org/ontology/ITO_05164,17
+CNN,https://ai-strategies.org/ontology/ITO_07816,16
+PA-MPJPE,https://ai-strategies.org/ontology/ITO_04930,16
+FPS,https://ai-strategies.org/ontology/ITO_11403,16
+Quality,https://ai-strategies.org/ontology/ITO_04110,16
+HR-at-10,https://ai-strategies.org/ontology/ITO_13699,16
+Average Precision,https://ai-strategies.org/ontology/ITO_04810,16
+Mean mAP,https://ai-strategies.org/ontology/ITO_11208,16
+MOTP,https://ai-strategies.org/ontology/ITO_06481,16
+Average PSNR,https://ai-strategies.org/ontology/ITO_02416,15
+AUC (val),https://ai-strategies.org/ontology/ITO_07427,15
+Fullset (public),https://ai-strategies.org/ontology/ITO_03418,15
+Normalized cPSNR,https://ai-strategies.org/ontology/ITO_03064,15
+UAS,https://ai-strategies.org/ontology/ITO_11157,15
+R10-at-1,https://ai-strategies.org/ontology/ITO_16335,15
+Mean Rank,https://ai-strategies.org/ontology/ITO_04597,15
+Spearman Correlation,https://ai-strategies.org/ontology/ITO_09916,15
+Rank-20,https://ai-strategies.org/ontology/ITO_06043,15
+nDCG-at-5,https://ai-strategies.org/ontology/ITO_12788,15
+Avg F1,https://ai-strategies.org/ontology/ITO_03703,15
+Jaccard (Seen),https://ai-strategies.org/ontology/ITO_06398,15
+Jaccard (Unseen),https://ai-strategies.org/ontology/ITO_06399,15
+mAP IOU-at-0.6,https://ai-strategies.org/ontology/ITO_07395,15
+Senseval 2,https://ai-strategies.org/ontology/ITO_09403,15
+Senseval 3,https://ai-strategies.org/ontology/ITO_09404,15
+SemEval 2013,https://ai-strategies.org/ontology/ITO_09406,15
+Macro-F1,https://ai-strategies.org/ontology/ITO_14802,15
+Classification Error,https://ai-strategies.org/ontology/ITO_04043,14
+text-to-video R-at-5,https://ai-strategies.org/ontology/ITO_07251,14
+LAS,https://ai-strategies.org/ontology/ITO_11156,14
+R10-at-2,https://ai-strategies.org/ontology/ITO_16336,14
+R10-at-5,https://ai-strategies.org/ontology/ITO_16337,14
+BLEU-3,https://ai-strategies.org/ontology/ITO_09003,14
+Log-likelihood,https://ai-strategies.org/ontology/ITO_16285,14
+mRMSE,https://ai-strategies.org/ontology/ITO_13077,14
+GFlops,https://ai-strategies.org/ontology/ITO_07089,14
+mRMSE-nz,https://ai-strategies.org/ontology/ITO_13078,14
+Instance Average IoU,https://ai-strategies.org/ontology/ITO_10726,14
+Params (M),https://ai-strategies.org/ontology/ITO_07090,14
+m-reIRMSE-nz,https://ai-strategies.org/ontology/ITO_13076,14
+SemEval 2015,https://ai-strategies.org/ontology/ITO_09407,14
+ARM,https://ai-strategies.org/ontology/ITO_11338,14
+Number of Params,https://ai-strategies.org/ontology/ITO_15686,14
+P-at-3,https://ai-strategies.org/ontology/ITO_12789,13
+KL,https://ai-strategies.org/ontology/ITO_04119,13
+NDCG,https://ai-strategies.org/ontology/ITO_04598,13
+IoU,https://ai-strategies.org/ontology/ITO_05484,13
+Rouge-L,https://ai-strategies.org/ontology/ITO_08189,13
+BLEU-2,https://ai-strategies.org/ontology/ITO_09002,13
+AUC (horizon error),https://ai-strategies.org/ontology/ITO_12063,13
+nDCG-at-3,https://ai-strategies.org/ontology/ITO_12790,13
+Unpermuted Accuracy,https://ai-strategies.org/ontology/ITO_15672,13
+bpd,https://ai-strategies.org/ontology/ITO_05819,13
+Video-mAP 0.5,https://ai-strategies.org/ontology/ITO_07361,13
+H-Mean,https://ai-strategies.org/ontology/ITO_07764,13
+AR50,https://ai-strategies.org/ontology/ITO_11335,13
+AP 0.5,https://ai-strategies.org/ontology/ITO_14617,13
+Error rate,https://ai-strategies.org/ontology/ITO_03401,12
+F-Measure (Seen),https://ai-strategies.org/ontology/ITO_06400,12
+F-Measure (Unseen),https://ai-strategies.org/ontology/ITO_06401,12
+P-at-20,https://ai-strategies.org/ontology/ITO_12567,12
+PCK,https://ai-strategies.org/ontology/ITO_11318,12
+ARL,https://ai-strategies.org/ontology/ITO_11337,12
+Per-Class Accuracy,https://ai-strategies.org/ontology/ITO_10177,12
+Accuracy (ADD),https://ai-strategies.org/ontology/ITO_11434,12
+1-of-100 Accuracy,https://ai-strategies.org/ontology/ITO_05287,12
+Accuracy (median),https://ai-strategies.org/ontology/ITO_05697,12
+Test,https://ai-strategies.org/ontology/ITO_07905,12
+AMT,https://ai-strategies.org/ontology/ITO_11028,12
+Reasonable MR^-2,https://ai-strategies.org/ontology/ITO_03823,12
+Micro F1,https://ai-strategies.org/ontology/ITO_02572,12
+O (Average of Measures),https://ai-strategies.org/ontology/ITO_06397,12
+AR75,https://ai-strategies.org/ontology/ITO_11336,12
+Macro-F1 (60% training data),https://ai-strategies.org/ontology/ITO_17058,12
+Bits per byte,https://ai-strategies.org/ontology/ITO_05885,11
+R2-at-1,https://ai-strategies.org/ontology/ITO_16338,11
+ROUGE,https://ai-strategies.org/ontology/ITO_09119,11
+Class Average IoU,https://ai-strategies.org/ontology/ITO_10725,11
+Permuted Accuracy,https://ai-strategies.org/ontology/ITO_15671,11
+Entity+Relation F1,https://ai-strategies.org/ontology/ITO_04707,11
+SemEval 2007,https://ai-strategies.org/ontology/ITO_09405,11
+mAP-at-0.25,https://ai-strategies.org/ontology/ITO_14397,11
+Micro-F1 (20% training data),https://ai-strategies.org/ontology/ITO_17056,11
+Macro-F1 (20% training data),https://ai-strategies.org/ontology/ITO_17057,11
+Micro-F1 (80% training data),https://ai-strategies.org/ontology/ITO_17059,11
+Macro-F1 (80% training data),https://ai-strategies.org/ontology/ITO_17060,11
+AUC0.08 private,https://ai-strategies.org/ontology/ITO_03420,10
+Angular Error,https://ai-strategies.org/ontology/ITO_13289,10
+Average Treatment Effect Error,https://ai-strategies.org/ontology/ITO_15752,10
+Search Time (GPU days),https://ai-strategies.org/ontology/ITO_12640,10
+Daily Mail,https://ai-strategies.org/ontology/ITO_07817,10
+Accuracy-NE,https://ai-strategies.org/ontology/ITO_07877,10
+Aspect,https://ai-strategies.org/ontology/ITO_11818,10
+Sentiment,https://ai-strategies.org/ontology/ITO_11819,10
+SD,https://ai-strategies.org/ontology/ITO_04120,10
+Joint,https://ai-strategies.org/ontology/ITO_04578,10
+MOVIE,https://ai-strategies.org/ontology/ITO_03091,10
+Top-1 (%),https://ai-strategies.org/ontology/ITO_06249,10
+F1-score (at-IoU = 0.3),https://ai-strategies.org/ontology/ITO_09472,10
+Test AP,https://ai-strategies.org/ontology/ITO_11352,10
+Macro F1,https://ai-strategies.org/ontology/ITO_02571,10
+NAB score,https://ai-strategies.org/ontology/ITO_07449,9
+AUC-at-0.1 (all),https://ai-strategies.org/ontology/ITO_03464,9
+mse (10^-3),https://ai-strategies.org/ontology/ITO_05081,9
+SI-SDR,https://ai-strategies.org/ontology/ITO_09308,9
+F-measure (%),https://ai-strategies.org/ontology/ITO_07170,9
+Rank-1 Recognition Rate,https://ai-strategies.org/ontology/ITO_03138,9
+Mean Opinion Score,https://ai-strategies.org/ontology/ITO_16498,9
+MAE for SBP [mmHg],https://ai-strategies.org/ontology/ITO_12178,9
+MAE for DBP [mmHg],https://ai-strategies.org/ontology/ITO_12179,9
+mRec,https://ai-strategies.org/ontology/ITO_16137,9
+GFLOPs,https://ai-strategies.org/ontology/ITO_15911,9
+"ME (%, all)",https://ai-strategies.org/ontology/ITO_03463,9
+"FR-at-0.1(%, all)",https://ai-strategies.org/ontology/ITO_03465,9
+Heavy MR^-2,https://ai-strategies.org/ontology/ITO_03824,9
+Partial MR^-2,https://ai-strategies.org/ontology/ITO_03825,9
+Bare MR^-2,https://ai-strategies.org/ontology/ITO_03826,9
+CR,https://ai-strategies.org/ontology/ITO_09259,9
+spl,https://ai-strategies.org/ontology/ITO_12537,9
+mAP IOU-at-0.75,https://ai-strategies.org/ontology/ITO_07377,9
+mAP IOU-at-0.95,https://ai-strategies.org/ontology/ITO_07379,9
+Validation AP,https://ai-strategies.org/ontology/ITO_11353,9
+Mean F1 (WSJ),https://ai-strategies.org/ontology/ITO_13206,9
+Max F1 (WSJ),https://ai-strategies.org/ontology/ITO_13207,9
+Micro-F1-at-10%,https://ai-strategies.org/ontology/ITO_10922,9
+P-at-10%,https://ai-strategies.org/ontology/ITO_04808,8
+P-at-30%,https://ai-strategies.org/ontology/ITO_04809,8
+MPJPE (CS),https://ai-strategies.org/ontology/ITO_04918,8
+MPJPE (CA),https://ai-strategies.org/ontology/ITO_04919,8
+FSIM,https://ai-strategies.org/ontology/ITO_03733,8
+ICAT Score,https://ai-strategies.org/ontology/ITO_17270,8
+PCK3D (CS),https://ai-strategies.org/ontology/ITO_04920,8
+PCK3D (CA),https://ai-strategies.org/ontology/ITO_04921,8
+AUC Stdev,https://ai-strategies.org/ontology/ITO_08897,8
+Modularity,https://ai-strategies.org/ontology/ITO_12676,8
+Accuracy-CN,https://ai-strategies.org/ontology/ITO_07876,8
+Out-of-domain,https://ai-strategies.org/ontology/ITO_08201,8
+Execution Accuracy,https://ai-strategies.org/ontology/ITO_09143,8
+NDS,https://ai-strategies.org/ontology/ITO_14369,8
+Weighted Accuracy,https://ai-strategies.org/ontology/ITO_12257,8
+Top-1 accuracy %,https://ai-strategies.org/ontology/ITO_04313,8
+In-domain,https://ai-strategies.org/ontology/ITO_08200,8
+Overall,https://ai-strategies.org/ontology/ITO_08202,8
+POS,https://ai-strategies.org/ontology/ITO_11166,8
+Negative ELBO,https://ai-strategies.org/ontology/ITO_16299,8
+mAP-at-0.50,https://ai-strategies.org/ontology/ITO_03887,8
+mAP at-0.5:0.95,https://ai-strategies.org/ontology/ITO_03888,8
+Relation F1,https://ai-strategies.org/ontology/ITO_04783,8
+F1 (1dAVb),https://ai-strategies.org/ontology/ITO_12149,8
+F1 (RBBB),https://ai-strategies.org/ontology/ITO_12150,8
+F1 (LBBB),https://ai-strategies.org/ontology/ITO_12151,8
+F1 (SB),https://ai-strategies.org/ontology/ITO_12152,8
+F1 (AF),https://ai-strategies.org/ontology/ITO_12153,8
+F1 (ST),https://ai-strategies.org/ontology/ITO_12154,8
+mAP-at-10,https://ai-strategies.org/ontology/ITO_13771,8
+Micro-F1-at-50%,https://ai-strategies.org/ontology/ITO_10921,8
+Mean AP at 0.5,https://ai-strategies.org/ontology/ITO_16136,8
+LMD,https://ai-strategies.org/ontology/ITO_03488,7
+Video hit-at-1,https://ai-strategies.org/ontology/ITO_07081,7
+Average Recall,https://ai-strategies.org/ontology/ITO_08979,7
+BLEU-5,https://ai-strategies.org/ontology/ITO_09004,7
+Hits-at-20,https://ai-strategies.org/ontology/ITO_13682,7
+Accuracy (trained on 1k),https://ai-strategies.org/ontology/ITO_08154,7
+Request,https://ai-strategies.org/ontology/ITO_04579,7
+F1-Score,https://ai-strategies.org/ontology/ITO_02570,7
+m-reIRMSE,https://ai-strategies.org/ontology/ITO_13075,7
+m-relRMSE,https://ai-strategies.org/ontology/ITO_13106,7
+FPR95,https://ai-strategies.org/ontology/ITO_15784,7
+ADE-8/12,https://ai-strategies.org/ontology/ITO_02428,6
+ADE,https://ai-strategies.org/ontology/ITO_02441,6
+Interpolation Error,https://ai-strategies.org/ontology/ITO_07233,6
+AUC (test),https://ai-strategies.org/ontology/ITO_07428,6
+"MSE (10^2, 50% missing)",https://ai-strategies.org/ontology/ITO_05114,6
+video-to-text R-at-5,https://ai-strategies.org/ontology/ITO_07278,6
+DLD,https://ai-strategies.org/ontology/ITO_09047,6
+Recall-at-100,https://ai-strategies.org/ontology/ITO_13710,6
+"MSE (10^-2, 50% missing)",https://ai-strategies.org/ontology/ITO_08967,6
+Perplexity,https://ai-strategies.org/ontology/ITO_09019,6
+MAE @ 12 step,https://ai-strategies.org/ontology/ITO_15777,6
+Acc,https://ai-strategies.org/ontology/ITO_07502,6
+Exact Match Accuracy,https://ai-strategies.org/ontology/ITO_09144,6
+ARI,https://ai-strategies.org/ontology/ITO_13268,6
+Accuracy (Inter-Patient),https://ai-strategies.org/ontology/ITO_12104,6
+Per-class Accuracy (Unrelated),https://ai-strategies.org/ontology/ITO_12258,6
+Per-class Accuracy (Agree),https://ai-strategies.org/ontology/ITO_12259,6
+Per-class Accuracy (Discuss),https://ai-strategies.org/ontology/ITO_12261,6
+count,https://ai-strategies.org/ontology/ITO_09109,6
+Dev,https://ai-strategies.org/ontology/ITO_09359,6
+5 fold cross validation,https://ai-strategies.org/ontology/ITO_10102,6
+Return,https://ai-strategies.org/ontology/ITO_12439,6
+rPC [%],https://ai-strategies.org/ontology/ITO_14623,6
+EM (Quasar-T),https://ai-strategies.org/ontology/ITO_08557,6
+NegLL,https://ai-strategies.org/ontology/ITO_08965,6
+Top-5 (%),https://ai-strategies.org/ontology/ITO_09191,6
+Max Score,https://ai-strategies.org/ontology/ITO_13657,6
+mPrec,https://ai-strategies.org/ontology/ITO_16149,6
+Video-mAP 0.2,https://ai-strategies.org/ontology/ITO_07360,6
+F1 (Quasar-T),https://ai-strategies.org/ontology/ITO_08558,6
+Action,https://ai-strategies.org/ontology/ITO_10030,6
+CIS,https://ai-strategies.org/ontology/ITO_04103,6
+PR AUC,https://ai-strategies.org/ontology/ITO_02573,5
+ROC AUC,https://ai-strategies.org/ontology/ITO_02574,5
+Path Length,https://ai-strategies.org/ontology/ITO_05090,5
+Step Change (10^−3),https://ai-strategies.org/ontology/ITO_05092,5
+Path Difference,https://ai-strategies.org/ontology/ITO_05093,5
+Player Distance,https://ai-strategies.org/ontology/ITO_05094,5
+Model Entropy,https://ai-strategies.org/ontology/ITO_05708,5
+SceneFID,https://ai-strategies.org/ontology/ITO_06007,5
+MAE (10% missing),https://ai-strategies.org/ontology/ITO_05068,5
+MAE (PM2.5),https://ai-strategies.org/ontology/ITO_05105,5
+SDR (vocals),https://ai-strategies.org/ontology/ITO_06316,5
+SDR (drums),https://ai-strategies.org/ontology/ITO_06317,5
+SDR (bass),https://ai-strategies.org/ontology/ITO_06318,5
+SDR (other),https://ai-strategies.org/ontology/ITO_06319,5
+text-to-video Mean Rank,https://ai-strategies.org/ontology/ITO_07270,5
+1 in 10 R-at-1,https://ai-strategies.org/ontology/ITO_08577,5
+recall-at-1,https://ai-strategies.org/ontology/ITO_10851,5
+Image-to-text R-at-1,https://ai-strategies.org/ontology/ITO_12811,5
+Hausdorff,https://ai-strategies.org/ontology/ITO_05651,5
+10-20% Mask PSNR,https://ai-strategies.org/ontology/ITO_05908,5
+AUROC,https://ai-strategies.org/ontology/ITO_09491,5
+MAE (Valence),https://ai-strategies.org/ontology/ITO_10881,5
+GLEU,https://ai-strategies.org/ontology/ITO_11127,5
+MAE (Arousal),https://ai-strategies.org/ontology/ITO_10882,5
+MAE (Expectancy),https://ai-strategies.org/ontology/ITO_10883,5
+MAE (Power),https://ai-strategies.org/ontology/ITO_10884,5
+"MAR, walking, 400ms",https://ai-strategies.org/ontology/ITO_11508,5
+"MAR, walking, 1,000ms",https://ai-strategies.org/ontology/ITO_11509,5
+MAE (60 min),https://ai-strategies.org/ontology/ITO_15765,5
+Accuracy (trained on 10k),https://ai-strategies.org/ontology/ITO_08153,5
+Unigram Acc,https://ai-strategies.org/ontology/ITO_08568,5
+DVD,https://ai-strategies.org/ontology/ITO_11553,5
+Books,https://ai-strategies.org/ontology/ITO_11554,5
+Viewpoint I AEPE,https://ai-strategies.org/ontology/ITO_16266,5
+Viewpoint II AEPE,https://ai-strategies.org/ontology/ITO_16267,5
+Viewpoint III AEPE,https://ai-strategies.org/ontology/ITO_16268,5
+Viewpoint IV AEPE,https://ai-strategies.org/ontology/ITO_16269,5
+Viewpoint V AEPE,https://ai-strategies.org/ontology/ITO_16270,5
+Kitchen,https://ai-strategies.org/ontology/ITO_11556,5
+Per-class Accuracy (Disagree),https://ai-strategies.org/ontology/ITO_12260,5
+Actions Top-1 (S2),https://ai-strategies.org/ontology/ITO_09212,5
+All,https://ai-strategies.org/ontology/ITO_09422,5
+Test Score,https://ai-strategies.org/ontology/ITO_10451,5
+Average,https://ai-strategies.org/ontology/ITO_11557,5
+Small MR^-2,https://ai-strategies.org/ontology/ITO_03827,5
+Medium MR^-2,https://ai-strategies.org/ontology/ITO_03828,5
+Large MR^-2,https://ai-strategies.org/ontology/ITO_03829,5
+OOB Rate (10^−3),https://ai-strategies.org/ontology/ITO_05091,5
+L2 Loss (10^-4),https://ai-strategies.org/ontology/ITO_05110,5
+Speed(ms/f),https://ai-strategies.org/ontology/ITO_10617,5
+Top-5 Error,https://ai-strategies.org/ontology/ITO_10828,5
+N-gram F1,https://ai-strategies.org/ontology/ITO_08567,5
+F1 Newswire,https://ai-strategies.org/ontology/ITO_13174,5
+EER,https://ai-strategies.org/ontology/ITO_03662,5
+UA,https://ai-strategies.org/ontology/ITO_10862,5
+Dice (Average),https://ai-strategies.org/ontology/ITO_15839,5
+Dice (SE),https://ai-strategies.org/ontology/ITO_15843,5
+training time (s),https://ai-strategies.org/ontology/ITO_02636,4
+1 in 10 R-at-2,https://ai-strategies.org/ontology/ITO_04553,4
+MAE (10% of data as GT),https://ai-strategies.org/ontology/ITO_05080,4
+MSE (10% missing),https://ai-strategies.org/ontology/ITO_05121,4
+1 in 10 R-at-5,https://ai-strategies.org/ontology/ITO_08578,4
+SacreBLEU,https://ai-strategies.org/ontology/ITO_05304,4
+GAR at-0.1% FAR,https://ai-strategies.org/ontology/ITO_03359,4
+GAR at-1% FAR,https://ai-strategies.org/ontology/ITO_03360,4
+SSIM,https://ai-strategies.org/ontology/ITO_03690,4
+Image-to-text R-at-10,https://ai-strategies.org/ontology/ITO_12812,4
+Image-to-text R-at-5,https://ai-strategies.org/ontology/ITO_12813,4
+bpsp,https://ai-strategies.org/ontology/ITO_13023,4
+Recall-at-2,https://ai-strategies.org/ontology/ITO_13724,4
+Hit-at-1,https://ai-strategies.org/ontology/ITO_06940,4
+mPC [AP],https://ai-strategies.org/ontology/ITO_14627,4
+fwIOU,https://ai-strategies.org/ontology/ITO_04036,4
+LogLoss,https://ai-strategies.org/ontology/ITO_17146,4
+40-50% Mask PSNR,https://ai-strategies.org/ontology/ITO_05907,4
+20-30% Mask PSNR,https://ai-strategies.org/ontology/ITO_05909,4
+30-40% Mask PSNR,https://ai-strategies.org/ontology/ITO_05910,4
+MSE stdev,https://ai-strategies.org/ontology/ITO_08948,4
+UPOS,https://ai-strategies.org/ontology/ITO_04531,4
+Mean target overlap ratio,https://ai-strategies.org/ontology/ITO_15853,4
+ELO Rating,https://ai-strategies.org/ontology/ITO_15930,4
+RMSE-at-80%Train,https://ai-strategies.org/ontology/ITO_15810,4
+Average Per-Class Accuracy,https://ai-strategies.org/ontology/ITO_07751,4
+Accuracy(10-fold),https://ai-strategies.org/ontology/ITO_08591,4
+Mean PCK,https://ai-strategies.org/ontology/ITO_11326,4
+Accuracy (anywhere),https://ai-strategies.org/ontology/ITO_10591,4
+Top-1 Localization Accuracy,https://ai-strategies.org/ontology/ITO_10841,4
+Electronics,https://ai-strategies.org/ontology/ITO_11555,4
+Accuracy (TRAIN-DB),https://ai-strategies.org/ontology/ITO_12120,4
+Unpaired Accuracy,https://ai-strategies.org/ontology/ITO_12275,4
+Failure private,https://ai-strategies.org/ontology/ITO_03421,4
+Avg accuracy,https://ai-strategies.org/ontology/ITO_04540,4
+Mean Error Rate private,https://ai-strategies.org/ontology/ITO_03419,4
+Fl-all,https://ai-strategies.org/ontology/ITO_13045,4
+CPU (sec),https://ai-strategies.org/ontology/ITO_15840,4
+VS,https://ai-strategies.org/ontology/ITO_05479,4
+rect mask l1 error,https://ai-strategies.org/ontology/ITO_05917,4
+rect mask l2 err,https://ai-strategies.org/ontology/ITO_05918,4
+free-form mask l1 err,https://ai-strategies.org/ontology/ITO_05919,4
+free-form mask l2 err,https://ai-strategies.org/ontology/ITO_05920,4
+SOA-C,https://ai-strategies.org/ontology/ITO_05957,4
+Test Error,https://ai-strategies.org/ontology/ITO_06518,4
+Error ratio,https://ai-strategies.org/ontology/ITO_09953,4
+Parameters (M),https://ai-strategies.org/ontology/ITO_10649,4
+Average Score,https://ai-strategies.org/ontology/ITO_13664,4
+Neg Jacob Det,https://ai-strategies.org/ontology/ITO_15842,4
+"mAP (at-0.1, Through-wall)",https://ai-strategies.org/ontology/ITO_05159,4
+Video-mAP 0.75,https://ai-strategies.org/ontology/ITO_07362,4
+"Tags(Object, Scene, etc)",https://ai-strategies.org/ontology/ITO_10583,4
+F1 Full,https://ai-strategies.org/ontology/ITO_13175,4
+AUC (outlier ratio = 0.5),https://ai-strategies.org/ontology/ITO_07465,4
+Q8,https://ai-strategies.org/ontology/ITO_12735,4
+ARm,https://ai-strategies.org/ontology/ITO_14409,4
+ARs,https://ai-strategies.org/ontology/ITO_14410,4
+AUC-at-80%Train,https://ai-strategies.org/ontology/ITO_15805,4
+Sequence error,https://ai-strategies.org/ontology/ITO_02402,3
+AUPR,https://ai-strategies.org/ontology/ITO_07436,3
+1 in 2 R-at-1,https://ai-strategies.org/ontology/ITO_04441,3
+VOI,https://ai-strategies.org/ontology/ITO_05632,3
+text-to-video R-at-50,https://ai-strategies.org/ontology/ITO_07271,3
+MMD-CD,https://ai-strategies.org/ontology/ITO_12597,3
+R-at-16,https://ai-strategies.org/ontology/ITO_15883,3
+R-at-2,https://ai-strategies.org/ontology/ITO_15884,3
+R-at-32,https://ai-strategies.org/ontology/ITO_15885,3
+R-at-4,https://ai-strategies.org/ontology/ITO_15886,3
+R-at-8,https://ai-strategies.org/ontology/ITO_15887,3
+mean Corruption Error (mCE),https://ai-strategies.org/ontology/ITO_04305,3
+ADDS AUC,https://ai-strategies.org/ontology/ITO_11477,3
+Hit-at-10,https://ai-strategies.org/ontology/ITO_13737,3
+Inference Time (ms),https://ai-strategies.org/ontology/ITO_16054,3
+Macro Recall,https://ai-strategies.org/ontology/ITO_16519,3
+Micro Recall,https://ai-strategies.org/ontology/ITO_16521,3
+Accuracy (LOS>3 Days),https://ai-strategies.org/ontology/ITO_08857,3
+Accuracy (LOS>7 Days),https://ai-strategies.org/ontology/ITO_08858,3
+nDCG-at-1,https://ai-strategies.org/ontology/ITO_12792,3
+mAcc,https://ai-strategies.org/ontology/ITO_10531,3
+Hausdorff Distance (mm),https://ai-strategies.org/ontology/ITO_15861,3
+Average IOU,https://ai-strategies.org/ontology/ITO_16459,3
+Accuracy (TEST-DB),https://ai-strategies.org/ontology/ITO_12119,3
+Pointing Game Accuracy,https://ai-strategies.org/ontology/ITO_13981,3
+Grad Det-Jac,https://ai-strategies.org/ontology/ITO_15862,3
+NMI (physiology_6_hours),https://ai-strategies.org/ontology/ITO_16030,3
+NMI (physiology_12_hours),https://ai-strategies.org/ontology/ITO_16031,3
+NMI (physiology_24_hours),https://ai-strategies.org/ontology/ITO_16032,3
+Area,https://ai-strategies.org/ontology/ITO_04590,3
+Food,https://ai-strategies.org/ontology/ITO_04591,3
+Price,https://ai-strategies.org/ontology/ITO_04592,3
+HTER,https://ai-strategies.org/ontology/ITO_03663,3
+Size (MB),https://ai-strategies.org/ontology/ITO_13030,3
+# of clusters (k),https://ai-strategies.org/ontology/ITO_15717,3
+MSD,https://ai-strategies.org/ontology/ITO_05478,3
+Macro Precision,https://ai-strategies.org/ontology/ITO_16518,3
+Micro Precision,https://ai-strategies.org/ontology/ITO_16520,3
+AIOU,https://ai-strategies.org/ontology/ITO_03768,3
+mAP IOU-at-0.9,https://ai-strategies.org/ontology/ITO_07378,3
+F1 (Hidden Test Set),https://ai-strategies.org/ontology/ITO_08906,3
+Mean F1 (WSJ10),https://ai-strategies.org/ontology/ITO_13208,3
+AUC (ABPA),https://ai-strategies.org/ontology/ITO_06028,3
+AUC (Diabetes),https://ai-strategies.org/ontology/ITO_06029,3
+AUC (I. Obstruction),https://ai-strategies.org/ontology/ITO_06030,3
+AUC (K. Pneumonia),https://ai-strategies.org/ontology/ITO_06032,3
+AUC (E. Coli),https://ai-strategies.org/ontology/ITO_06033,3
+AUC (Aspergillus),https://ai-strategies.org/ontology/ITO_06034,3
+AR@1000,https://ai-strategies.org/ontology/ITO_07421,3
+AR@200,https://ai-strategies.org/ontology/ITO_07422,3
+AR@50,https://ai-strategies.org/ontology/ITO_07423,3
+AR@500,https://ai-strategies.org/ontology/ITO_07424,3
+Mean PCK-at-0.2,https://ai-strategies.org/ontology/ITO_11238,3
+AP Easy,https://ai-strategies.org/ontology/ITO_11400,3
+AP Medium,https://ai-strategies.org/ontology/ITO_11401,3
+AP Hard,https://ai-strategies.org/ontology/ITO_11402,3
+AMrTRE,https://ai-strategies.org/ontology/ITO_15829,3
+MMrTRE,https://ai-strategies.org/ontology/ITO_15830,3
+NSDR,https://ai-strategies.org/ontology/ITO_16321,3
+RMS,https://ai-strategies.org/ontology/ITO_02461,2
+Hits-at-5,https://ai-strategies.org/ontology/ITO_02758,2
+AUC0.07,https://ai-strategies.org/ontology/ITO_03378,2
+10 fold Cross validation,https://ai-strategies.org/ontology/ITO_02559,2
+TAR at FAR=0.1,https://ai-strategies.org/ontology/ITO_03312,2
+CallHome,https://ai-strategies.org/ontology/ITO_04330,2
+SwitchBoard,https://ai-strategies.org/ontology/ITO_04331,2
+Reprojection Error (CPM),https://ai-strategies.org/ontology/ITO_04865,2
+Total Variation of Information,https://ai-strategies.org/ontology/ITO_05672,2
+VI Split,https://ai-strategies.org/ontology/ITO_05673,2
+VI Merge,https://ai-strategies.org/ontology/ITO_05674,2
+video-to-text Mean Rank,https://ai-strategies.org/ontology/ITO_07274,2
+video-to-text Median Rank,https://ai-strategies.org/ontology/ITO_07275,2
+video-to-text R-at-1,https://ai-strategies.org/ontology/ITO_07276,2
+video-to-text R-at-10,https://ai-strategies.org/ontology/ITO_07277,2
+UIQM,https://ai-strategies.org/ontology/ITO_02941,2
+SDR,https://ai-strategies.org/ontology/ITO_09329,2
+GAR at-10% FAR,https://ai-strategies.org/ontology/ITO_03361,2
+Mean ADD-S,https://ai-strategies.org/ontology/ITO_11435,2
+MMD,https://ai-strategies.org/ontology/ITO_12861,2
+P-at-10,https://ai-strategies.org/ontology/ITO_13764,2
+mPC [AP50],https://ai-strategies.org/ontology/ITO_14622,2
+Hit-at-5,https://ai-strategies.org/ontology/ITO_06942,2
+Recall-at-1,https://ai-strategies.org/ontology/ITO_15632,2
+PESQ,https://ai-strategies.org/ontology/ITO_16488,2
+PCK3D,https://ai-strategies.org/ontology/ITO_04891,2
+PCKh,https://ai-strategies.org/ontology/ITO_05991,2
+ReVerb45k,https://ai-strategies.org/ontology/ITO_09249,2
+Median Relighting Error,https://ai-strategies.org/ontology/ITO_08974,2
+Temporal awareness,https://ai-strategies.org/ontology/ITO_10135,2
+SPICE,https://ai-strategies.org/ontology/ITO_12516,2
+Average Success Rate,https://ai-strategies.org/ontology/ITO_15942,2
+Cumulative regret,https://ai-strategies.org/ontology/ITO_16799,2
+Edit Distance,https://ai-strategies.org/ontology/ITO_17076,2
+Sparsity,https://ai-strategies.org/ontology/ITO_17187,2
+Diacritic Error Rate,https://ai-strategies.org/ontology/ITO_17255,2
+Mean Recall,https://ai-strategies.org/ontology/ITO_11426,2
+PERR,https://ai-strategies.org/ontology/ITO_06941,2
+Top-2 accuracy %,https://ai-strategies.org/ontology/ITO_07756,2
+Top-3 accuracy %,https://ai-strategies.org/ontology/ITO_07757,2
+RACE-m,https://ai-strategies.org/ontology/ITO_08144,2
+RACE-h,https://ai-strategies.org/ontology/ITO_08145,2
+RACE,https://ai-strategies.org/ontology/ITO_08146,2
+IoU [32 distractors],https://ai-strategies.org/ontology/ITO_10786,2
+IoU [4 distractors],https://ai-strategies.org/ontology/ITO_10787,2
+IoU [256 distractors],https://ai-strategies.org/ontology/ITO_10788,2
+Global Accuracy,https://ai-strategies.org/ontology/ITO_10329,2
+SICK-E,https://ai-strategies.org/ontology/ITO_11080,2
+iMAE,https://ai-strategies.org/ontology/ITO_15975,2
+infNDCG,https://ai-strategies.org/ontology/ITO_16511,2
+Accuracy (3-way),https://ai-strategies.org/ontology/ITO_11811,2
+Accuracy (4-way),https://ai-strategies.org/ontology/ITO_11812,2
+Binary Accuracy,https://ai-strategies.org/ontology/ITO_11813,2
+Accuracy (Intra-Patient),https://ai-strategies.org/ontology/ITO_12105,2
+three pixel error,https://ai-strategies.org/ontology/ITO_02547,2
+Mean Accuracy,https://ai-strategies.org/ontology/ITO_14631,2
+Average Class Accuracy,https://ai-strategies.org/ontology/ITO_15823,2
+Accuracy (agg),https://ai-strategies.org/ontology/ITO_16483,2
+Accuracy (sel),https://ai-strategies.org/ontology/ITO_16484,2
+Accuracy(on validation set),https://ai-strategies.org/ontology/ITO_03580,2
+NI,https://ai-strategies.org/ontology/ITO_03773,2
+interest (human),https://ai-strategies.org/ontology/ITO_04570,2
+relevance (human),https://ai-strategies.org/ontology/ITO_04571,2
+rsim,https://ai-strategies.org/ontology/ITO_05952,2
+Object Top 5 Accuracy,https://ai-strategies.org/ontology/ITO_06541,2
+Object Top-1 Accuracy,https://ai-strategies.org/ontology/ITO_06542,2
+Verb Top-1 Accuracy,https://ai-strategies.org/ontology/ITO_06543,2
+Verb Top-5 Accuracy,https://ai-strategies.org/ontology/ITO_06544,2
+Equal Error Rate,https://ai-strategies.org/ontology/ITO_03674,2
+Ambiguous dataset,https://ai-strategies.org/ontology/ITO_09247,2
+Base Dataset,https://ai-strategies.org/ontology/ITO_09248,2
+Success,https://ai-strategies.org/ontology/ITO_09974,2
+AOP,https://ai-strategies.org/ontology/ITO_11381,2
+Goal Progress,https://ai-strategies.org/ontology/ITO_12549,2
+HP,https://ai-strategies.org/ontology/ITO_12860,2
+coverage,https://ai-strategies.org/ontology/ITO_15659,2
+GPU sec,https://ai-strategies.org/ontology/ITO_15841,2
+DS,https://ai-strategies.org/ontology/ITO_05990,2
+WAP,https://ai-strategies.org/ontology/ITO_10863,2
+FRD,https://ai-strategies.org/ontology/ITO_11029,2
+SICK-R,https://ai-strategies.org/ontology/ITO_11079,2
+Mean AUC,https://ai-strategies.org/ontology/ITO_11436,2
+Mean ADI,https://ai-strategies.org/ontology/ITO_11437,2
+RP-at-5,https://ai-strategies.org/ontology/ITO_12791,2
+iRMSE,https://ai-strategies.org/ontology/ITO_15974,2
+AP-at-0.7,https://ai-strategies.org/ontology/ITO_04286,2
+Joint F1,https://ai-strategies.org/ontology/ITO_07847,2
+Maximum F-measure,https://ai-strategies.org/ontology/ITO_10083,2
+"mAP 10, 10cm",https://ai-strategies.org/ontology/ITO_11521,2
+"mAP 10, 5cm",https://ai-strategies.org/ontology/ITO_11522,2
+mAP 3DIou-at-25,https://ai-strategies.org/ontology/ITO_11523,2
+mAP 3DIou-at-50,https://ai-strategies.org/ontology/ITO_11524,2
+"mAP 5, 5cm",https://ai-strategies.org/ontology/ITO_11525,2
+"mAP (at-0.1, Visible)",https://ai-strategies.org/ontology/ITO_11548,2
+Laptop (F1),https://ai-strategies.org/ontology/ITO_11835,2
+Mean F1 (Laptop + Restaurant),https://ai-strategies.org/ontology/ITO_11836,2
+Restaurant (F1),https://ai-strategies.org/ontology/ITO_11837,2
+Holder Binary F1,https://ai-strategies.org/ontology/ITO_11858,2
+Target Binary F1,https://ai-strategies.org/ontology/ITO_11859,2
+F1 (surface form),https://ai-strategies.org/ontology/ITO_11936,2
+Exact Span F1,https://ai-strategies.org/ontology/ITO_12052,2
+F1 (Sequence),https://ai-strategies.org/ontology/ITO_12098,2
+F1 (Set),https://ai-strategies.org/ontology/ITO_12099,2
+Video-mAP 0.1,https://ai-strategies.org/ontology/ITO_12242,2
+Max F1 (WSJ10),https://ai-strategies.org/ontology/ITO_13209,2
+I. Obstruction,https://ai-strategies.org/ontology/ITO_06031,2
+PPV (VEB),https://ai-strategies.org/ontology/ITO_12130,2
+Sensitivity (VEB),https://ai-strategies.org/ontology/ITO_12131,2
+Q3,https://ai-strategies.org/ontology/ITO_12743,2
+ODRMSE,https://ai-strategies.org/ontology/ITO_12990,2
+mesh AP,https://ai-strategies.org/ontology/ITO_17238,2
+Average daily returns,https://ai-strategies.org/ontology/ITO_02554,1
+Mean Angle Error,https://ai-strategies.org/ontology/ITO_04157,1
+Phoneme Error Rate,https://ai-strategies.org/ontology/ITO_04638,1
+Warping Error,https://ai-strategies.org/ontology/ITO_05493,1
+CREMI Score,https://ai-strategies.org/ontology/ITO_05631,1
+FDE-8/12,https://ai-strategies.org/ontology/ITO_02450,1
+MRR filtered,https://ai-strategies.org/ontology/ITO_02801,1
+MRR raw,https://ai-strategies.org/ontology/ITO_02802,1
+Delta1,https://ai-strategies.org/ontology/ITO_02544,1
+CVGTCE,https://ai-strategies.org/ontology/ITO_03386,1
+GTE,https://ai-strategies.org/ontology/ITO_03387,1
+Test Time,https://ai-strategies.org/ontology/ITO_03830,1
+EaH-at-95,https://ai-strategies.org/ontology/ITO_07811,1
+EaH-at-99,https://ai-strategies.org/ontology/ITO_07812,1
+recall-at-5,https://ai-strategies.org/ontology/ITO_10852,1
+recall-at-top1%,https://ai-strategies.org/ontology/ITO_10853,1
+v2v error,https://ai-strategies.org/ontology/ITO_10876,1
+GAR at-0.1% FAR Impersonation,https://ai-strategies.org/ontology/ITO_03751,1
+GAR at-0.1% FAR Obfuscation,https://ai-strategies.org/ontology/ITO_03752,1
+GAR at-0.1% FAR Overall,https://ai-strategies.org/ontology/ITO_03753,1
+GAR at-1% FAR Impersonation,https://ai-strategies.org/ontology/ITO_03754,1
+GAR at-1% FAR Obfuscation,https://ai-strategies.org/ontology/ITO_03755,1
+GAR at-1% FAR Overall,https://ai-strategies.org/ontology/ITO_03756,1
+Specificity (VEB+),https://ai-strategies.org/ontology/ITO_12141,1
+Test AUC top 1,https://ai-strategies.org/ontology/ITO_07766,1
+Test AUC top 2,https://ai-strategies.org/ontology/ITO_07767,1
+Test AUC top 3,https://ai-strategies.org/ontology/ITO_07768,1
+Val AUC top 1,https://ai-strategies.org/ontology/ITO_07770,1
+Val AUC top 2,https://ai-strategies.org/ontology/ITO_07771,1
+Val AUC top 3,https://ai-strategies.org/ontology/ITO_07772,1
+Absolute Time (ms),https://ai-strategies.org/ontology/ITO_08869,1
+mask-SSIM,https://ai-strategies.org/ontology/ITO_05993,1
+Train F-measure,https://ai-strategies.org/ontology/ITO_09197,1
+VInfo,https://ai-strategies.org/ontology/ITO_05491,1
+VRand,https://ai-strategies.org/ontology/ITO_05492,1
+AUPRC,https://ai-strategies.org/ontology/ITO_09490,1
+PR-AUC,https://ai-strategies.org/ontology/ITO_09985,1
+BPE Perplexity,https://ai-strategies.org/ontology/ITO_10156,1
+Consistency,https://ai-strategies.org/ontology/ITO_15741,1
+Chamfer Distance,https://ai-strategies.org/ontology/ITO_15903,1
+MACE,https://ai-strategies.org/ontology/ITO_15994,1
+L1,https://ai-strategies.org/ontology/ITO_17245,1
+Recall (VSD),https://ai-strategies.org/ontology/ITO_11425,1
+Test error,https://ai-strategies.org/ontology/ITO_17265,1
+runtime (ms),https://ai-strategies.org/ontology/ITO_14596,1
+runtime (s),https://ai-strategies.org/ontology/ITO_17010,1
+Accuracy (High),https://ai-strategies.org/ontology/ITO_07494,1
+Accuracy (Middle),https://ai-strategies.org/ontology/ITO_07495,1
+Seen accuracy,https://ai-strategies.org/ontology/ITO_07765,1
+Unseen accuracy,https://ai-strategies.org/ontology/ITO_07769,1
+Accuracy (Dev),https://ai-strategies.org/ontology/ITO_09296,1
+Accuracy (Test-P),https://ai-strategies.org/ontology/ITO_09297,1
+Accuracy (Test-U),https://ai-strategies.org/ontology/ITO_09298,1
+IOU25,https://ai-strategies.org/ontology/ITO_11485,1
+IoU-2D,https://ai-strategies.org/ontology/ITO_11542,1
+IoU-3D,https://ai-strategies.org/ontology/ITO_11543,1
+ATV,https://ai-strategies.org/ontology/ITO_12074,1
+TIoU,https://ai-strategies.org/ontology/ITO_12412,1
+Pixel Accuracy,https://ai-strategies.org/ontology/ITO_10340,1
+oAcc,https://ai-strategies.org/ontology/ITO_10532,1
+Accuracy (MoF),https://ai-strategies.org/ontology/ITO_10938,1
+Rerr,https://ai-strategies.org/ontology/ITO_11486,1
+Terr,https://ai-strategies.org/ontology/ITO_11487,1
+ACER,https://ai-strategies.org/ontology/ITO_15867,1
+meanIOU,https://ai-strategies.org/ontology/ITO_16187,1
+BEP,https://ai-strategies.org/ontology/ITO_17178,1
+Accuracy (VEB+),https://ai-strategies.org/ontology/ITO_12138,1
+"Acc-at-0.5m, 2°",https://ai-strategies.org/ontology/ITO_12221,1
+"Acc-at-1m, 5°",https://ai-strategies.org/ontology/ITO_12222,1
+"Acc-at-5m, 10°",https://ai-strategies.org/ontology/ITO_12223,1
+Accuracy (H50),https://ai-strategies.org/ontology/ITO_02564,1
+Real World Accuracy,https://ai-strategies.org/ontology/ITO_12765,1
+Blur Segmentation Accuracy,https://ai-strategies.org/ontology/ITO_15925,1
+FSF,https://ai-strategies.org/ontology/ITO_16003,1
+Total Accuracy,https://ai-strategies.org/ontology/ITO_16006,1
+16x16 Accuracy,https://ai-strategies.org/ontology/ITO_03744,1
+24x24 Accuracy,https://ai-strategies.org/ontology/ITO_03745,1
+32x32 Accuracy,https://ai-strategies.org/ontology/ITO_03746,1
+48x48 Accuracy,https://ai-strategies.org/ontology/ITO_03747,1
+Speedup,https://ai-strategies.org/ontology/ITO_04643,1
+AVD,https://ai-strategies.org/ontology/ITO_05611,1
+IED,https://ai-strategies.org/ontology/ITO_05624,1
+F1 (H50),https://ai-strategies.org/ontology/ITO_02565,1
+Mean NME,https://ai-strategies.org/ontology/ITO_03479,1
+D-1,https://ai-strategies.org/ontology/ITO_10157,1
+D-2,https://ai-strategies.org/ontology/ITO_10158,1
+Edit,https://ai-strategies.org/ontology/ITO_10939,1
+5°5 cm,https://ai-strategies.org/ontology/ITO_11484,1
+VSS-2D,https://ai-strategies.org/ontology/ITO_11544,1
+VSS-3D,https://ai-strategies.org/ontology/ITO_11545,1
+Validation,https://ai-strategies.org/ontology/ITO_15338,1
+final agent reward,https://ai-strategies.org/ontology/ITO_15937,1
+ERR-at-20,https://ai-strategies.org/ontology/ITO_16318,1
+PA,https://ai-strategies.org/ontology/ITO_07899,1
+DE,https://ai-strategies.org/ontology/ITO_07900,1
+R^2,https://ai-strategies.org/ontology/ITO_11742,1
+DF,https://ai-strategies.org/ontology/ITO_16001,1
+FS,https://ai-strategies.org/ontology/ITO_16002,1
+NT,https://ai-strategies.org/ontology/ITO_16004,1
+Real,https://ai-strategies.org/ontology/ITO_16005,1
+Mean AP,https://ai-strategies.org/ontology/ITO_02629,1
+F1a,https://ai-strategies.org/ontology/ITO_07858,1
+F1 (Long),https://ai-strategies.org/ontology/ITO_08539,1
+F1 (Short),https://ai-strategies.org/ontology/ITO_08540,1
+ODS,https://ai-strategies.org/ontology/ITO_10074,1
+F-Score,https://ai-strategies.org/ontology/ITO_10825,1
+Cls,https://ai-strategies.org/ontology/ITO_05887,1
+mask-IS,https://ai-strategies.org/ontology/ITO_05992,1
+R1,https://ai-strategies.org/ontology/ITO_06277,1
+HEQD,https://ai-strategies.org/ontology/ITO_07852,1
+HEQQ,https://ai-strategies.org/ontology/ITO_07853,1
+BA,https://ai-strategies.org/ontology/ITO_07898,1
+PPV (VEB+),https://ai-strategies.org/ontology/ITO_12139,1
+Sensitivity (VEB+),https://ai-strategies.org/ontology/ITO_12140,1
+Sensitivity,https://ai-strategies.org/ontology/ITO_12195,1
+BER,https://ai-strategies.org/ontology/ITO_12301,1
+mCov,https://ai-strategies.org/ontology/ITO_16150,1
+mWCov,https://ai-strategies.org/ontology/ITO_16151,1
+Bounding Box AP,https://ai-strategies.org/ontology/ITO_16313,1
+Macro-F1-at-2%,https://ai-strategies.org/ontology/ITO_17008,1
+Micro-F1-at-2%,https://ai-strategies.org/ontology/ITO_17009,1
