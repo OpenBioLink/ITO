@@ -50,5 +50,7 @@ matthias.samwald (at) meduniwien.ac.at
 
 [![Samwald research group logo](/media/samwald-research-group-logo.PNG)](https://samwald.info)
 
+This project received funding from netidee.
 
+![netidee logo](/media/netidee-logo.PNG)
 
