@@ -1,11 +1,8 @@
-# Introducing the Intelligence Task Ontology (ITO)
-## A comprehensive model of artificial intelligence and its applications
-
-The Intelligence Task Ontology (ITO) provides a comprehensive map of artificial intelligence tasks, as well as broader human intelligence or hybrid human/machine intelligence tasks.
+# Introducing the Intelligence Task Ontology and Knowledge Graph (ITO)
+## A comprehensive knowledge graph of artificial intelligence tasks and benchmarks
+The Intelligence Task Ontology and Knowledge Graph (ITO) provides comprehensive, curated and interlinked data of artificial intelligence tasks, benchmarks, AI performance metrics, benchmark results and research papers.
 
 You can [browse ITO online at BioPortal](https://bioportal.bioontology.org/ontologies/ITO/?p=classes&conceptid=https%3A%2F%2Fai-strategies.org%2Fontology%2FProcess).
-
-See also https://ai-strategies.org
 
 ### Examples
 ITO aims to provide a richly structured hierarchy of processes, algorithms, data and performance metrics. Data on thousands of AI benchmark results have been imported from [Papers With Code](https://paperswithcode.com/) and are further curated.
@@ -29,7 +26,7 @@ The ontology and associated resources are still under intense development. If yo
 
 ### Using ITO
 
-The ITO model is made available as an OWL (Web Ontology Language) file. You can use the [Protege ontology editor](https://protege.stanford.edu/) to explore and edit the ontology. You can use a wide variety of frameworks for OWL, RDF and the SPARQL graph query language to access and query the ontology. We recommend using the [Owlready2](https://pythonhosted.org/Owlready2/) Python library. 
+ITO is made available as an OWL (Web Ontology Language) file. You can use the [Protege ontology editor](https://protege.stanford.edu/) to explore and edit the resource. You can use a wide variety of frameworks for OWL, RDF and the SPARQL graph query language to access and query the ontology. We recommend using the [Blazegraph](https://blazegraph.com/) triple store. 
 
 Example: [Google Colab notebook demonstrating SPARQL queries with ITO](https://colab.research.google.com/drive/1g3gDgakBcmAfIi4opXX99KXB7yALK66S?usp=sharing).
 
