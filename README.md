@@ -2,7 +2,7 @@
 ## A comprehensive knowledge graph of artificial intelligence tasks and benchmarks
 The Intelligence Task Ontology and Knowledge Graph (ITO) provides comprehensive, curated and interlinked data of artificial intelligence tasks, benchmarks, AI performance metrics, benchmark results and research papers.
 
-You can [browse ITO online at BioPortal](https://bioportal.bioontology.org/ontologies/ITO/?p=classes&conceptid=https%3A%2F%2Fai-strategies.org%2Fontology%2FProcess).
+You can [browse ITO online at BioPortal](https://bioportal.bioontology.org/ontologies/ITO/?p=classes&conceptid=https%3A%2F%2Fidentifiers.org%2Fito%3AITO_00141).
 
 ### Examples
 ITO aims to provide a richly structured hierarchy of processes, algorithms, data and performance metrics. Data on thousands of AI benchmark results have been imported from [Papers With Code](https://paperswithcode.com/) and are further curated.
@@ -20,15 +20,15 @@ Exploring the hierarchy of perfomance measures:
 > ![Property hierarchy screen capture](media/screencapture-property-hierarchy-in-webprotege.gif)
 
 
-### Current status
-
-The ontology and associated resources are still under intense development. If you have questions or are interested in collaborations, please contact us!
-
 ### Using ITO
 
 ITO is made available as an OWL (Web Ontology Language) file. You can use the [Protege ontology editor](https://protege.stanford.edu/) to explore and edit the resource. You can use a wide variety of frameworks for OWL, RDF and the SPARQL graph query language to access and query the ontology. We recommend using the [Blazegraph](https://blazegraph.com/) triple store. 
 
 Example: [Google Colab notebook demonstrating SPARQL queries with ITO](https://colab.research.google.com/drive/1g3gDgakBcmAfIi4opXX99KXB7yALK66S?usp=sharing).
+
+### Citing ITO
+
+> Kathrin Blagec, Adriano Barbosa-Silva, Simon Ott, Matthias Samwald. „A curated, ontology-based, large-scale knowledge graph of artificial intelligence tasks and benchmarks“. arXiv:2110.01434 [cs], October 2021. http://arxiv.org/abs/2110.01434
 
 ### Licensing
 
