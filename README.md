@@ -1,4 +1,4 @@
-# Introducing the Intelligence Task Ontology and Knowledge Graph (ITO)
+# Intelligence Task Ontology and Knowledge Graph (ITO) / AI ontology
 ## A comprehensive knowledge graph of artificial intelligence tasks and benchmarks
 The Intelligence Task Ontology and Knowledge Graph (ITO) provides comprehensive, curated and interlinked data of artificial intelligence tasks, benchmarks, AI performance metrics, benchmark results and research papers.
 
