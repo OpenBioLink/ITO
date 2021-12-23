@@ -1,0 +1,198 @@
+,ds,value
+0,PROTEINS,74.22
+1,PROTEINS,75.68
+2,PROTEINS,76.34
+3,PROTEINS,76.4
+4,PROTEINS,77.65
+5,PROTEINS,77.71
+6,PROTEINS,78.8
+7,PROTEINS,78.97
+8,PROTEINS,81.7
+9,PROTEINS,84.91
+10,HIV-fMRI-77 ,59.3
+11,HIV-fMRI-77 ,66.5
+12,HIV-fMRI-77 ,70.5
+13,HIV-fMRI-77 ,73.4
+14,HIV-DTI-77,54.3
+15,HIV-DTI-77,65.9
+16,HIV-DTI-77,67.5
+17,BP-fMRI-97,54.6
+18,BP-fMRI-97,64.8
+19,BP-fMRI-97,64.9
+20,Wikipedia,19.4
+21,Wikipedia,21.1
+22,Wikipedia,21.3
+23,BlogCatalog,22.5
+24,BlogCatalog,22.8
+25,BlogCatalog,23.2
+26,BlogCatalog,84.9
+27,NEURON-MULTI,44.3
+28,NEURON-MULTI,57.3
+29,NEURON-BINARY,84.1
+30,NEURON-BINARY,85.1
+31,NEURON-Average,64.2
+32,NEURON-Average,71.2
+33,FRANKENSTEIN,78.9
+34,NCI1,80.31
+35,NCI1,86.1
+36,NCI1,86.42
+37,IMDb-M,44.55
+38,IMDb-M,47.83
+39,IMDb-M,54.53
+40,IMDb-M,56.1
+41,MUTAG,87.44
+42,MUTAG,88.95
+43,MUTAG,92.63
+44,MUTAG,95.0
+45,ENZYMES,53.43
+46,ENZYMES,71.0
+47,ENZYMES,78.39
+48,RE-M12K,32.22
+49,RE-M12K,48.13
+50,RE-M5K,41.27
+51,RE-M5K,52.11
+52,RE-M5K,57.5
+53,COLLAB,73.09
+54,COLLAB,73.76
+55,COLLAB,75.48
+56,COLLAB,83.16
+57,COLLAB,84.2
+58,IMDb-B,66.96
+59,IMDb-B,71.0
+60,IMDb-B,71.69
+61,IMDb-B,74.45
+62,IMDb-B,79.9
+63,D&D,73.5
+64,D&D,76.27
+65,D&D,77.21
+66,D&D,78.72
+67,D&D,79.37
+68,D&D,80.64
+69,D&D,82.07
+70,D&D,83.14
+71,Cora with Public Split: fixed 20 nodes per class,74.6
+72,Cora with Public Split: fixed 20 nodes per class,79.7
+73,Cora with Public Split: fixed 20 nodes per class,80.5
+74,Cora with Public Split: fixed 20 nodes per class,84.5
+75,PubMed with Public Split: fixed 20 nodes per class,76.0
+76,PubMed with Public Split: fixed 20 nodes per class,76.8
+77,PubMed with Public Split: fixed 20 nodes per class,77.8
+78,PubMed with Public Split: fixed 20 nodes per class,79.0
+79,PubMed with Public Split: fixed 20 nodes per class,79.8
+80,PubMed with Public Split: fixed 20 nodes per class,81.7
+81,PubMed with Public Split: fixed 20 nodes per class,81.9
+82,CiteSeer with Public Split: fixed 20 nodes per class,61.5
+83,CiteSeer with Public Split: fixed 20 nodes per class,69.4
+84,CiteSeer with Public Split: fixed 20 nodes per class,70.1
+85,CiteSeer with Public Split: fixed 20 nodes per class,72.5
+86,CiteSeer with Public Split: fixed 20 nodes per class,72.8
+87,CiteSeer with Public Split: fixed 20 nodes per class,73.86
+88,20NEWS,81.44
+89,IPC-grounded,77.9
+90,IPC-grounded,80.7
+91,IPC-lifted,81.4
+92,IPC-lifted,87.6
+93,Pubmed,45.35
+94,Pubmed,65.48
+95,Pubmed,69.78
+96,Citeseer,32.6
+97,Citeseer,40.8
+98,Citeseer,63.56
+99,Citeseer,67.0
+100,Cora,41.9
+101,Cora,59.6
+102,Cora,64.0
+103,Cora,68.92
+104,NELL,61.9
+105,NELL,66.0
+106,NELL,68.8
+107,Pubmed,77.2
+108,Pubmed,79.0
+109,Pubmed,88.88
+110,Cora,75.7
+111,Cora,81.2
+112,Cora,81.5
+113,Cora,83.0
+114,Cora,89.48
+115,Citeseer,64.7
+116,Citeseer,69.8
+117,Citeseer,70.3
+118,Citeseer,72.5
+119,Citeseer,79.2
+120,USA Air-Traffic,64.7
+121,PTC,60.0
+122,PTC,60.17
+123,PTC,65.43
+124,PTC,73.24
+125,PTC,77.64
+126,NCI109,86.3
+127,Europe Air-Traffic,37.1
+128,Europe Air-Traffic,46.0
+129,Pubmed Full-supervised,90.22
+130,Pubmed Full-supervised,90.6
+131,Cora Full-supervised,86.64
+132,Cora Full-supervised,87.44
+133,Brazil Air-Traffic,0.43200000000000005
+134,Brazil Air-Traffic,0.516
+135,Brazil Air-Traffic,0.5429999999999999
+136,Flickr,0.479
+137,Flickr,0.546
+138,Flickr,0.6409999999999999
+139,Flickr,0.6559999999999999
+140,Reddit,95.68
+141,Reddit,96.27
+142,Reddit,97.0
+143,Facebook,64.6
+144,Facebook,91.9
+145,Wiki-Vote,49.5
+146,Wiki-Vote,59.4
+147,Wiki-Vote,99.8
+148,Citeseer Full-supervised,79.34
+149,Citeseer Full-supervised,79.66
+150,Cora,92.0
+151,Cora,94.6
+152,Pubmed,97.1
+153,Citeseer,91.4
+154,Citeseer,94.9
+155,MUTAG,73.23
+156,MUTAG,73.82
+157,AM,89.29
+158,BGS,83.1
+159,BGS,87.24
+160,AIFB,95.83
+161,WordNet,68.3
+162,WordNet,77.0
+163,WordNet,77.4
+164,AIDS,65.1
+165,REDDIT-MULTI-12K,47.08
+166,NCI-123,64.79
+167,NCI-83,70.42
+168,NCI33,69.58
+169,HIV dataset,74.79
+170,REDDIT-B,92.4
+171,MS ACADEMIC,93.27
+172,YAGO39K,93.8
+173,Web,45.03
+174,SYNTHIE,71.0
+175,HYDRIDES,82.25
+176,COIL-RAG,75.72
+177,NC1,0.77
+178,Citeseer,73.7
+179,Cora,72.3
+180,Digits,92.5
+181,Wine,98.0
+182,Cancer,95.7
+183,20NEWS,47.9
+184,Epinions,0.9293
+185,Bitcoin-Alpha,0.948
+186,Slashdot,0.8482
+187,HIV-fMRI-77,73.4
+188,Coauthor CS,93.01
+189,Coauthor CS,94.8
+190,AMZ Comp,86.77
+191,AMZ Photo,92.93
+192,PPI,84.5
+193,Mutagenicity,82.15
+194,REDDIT-MULTI-5k,50.0
+195,Coauthor Phy,96.9
+196,Cora: fixed 20 node per class,84.2
