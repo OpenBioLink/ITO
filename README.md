@@ -2,7 +2,7 @@
 ## A comprehensive knowledge graph of artificial intelligence tasks and benchmarks
 The Intelligence Task Ontology and Knowledge Graph (ITO) provides comprehensive, curated and interlinked data of artificial intelligence tasks, benchmarks, AI performance metrics, benchmark results and research papers.
 
-You can [browse ITO online at BioPortal](https://bioportal.bioontology.org/ontologies/ITO/?p=classes&conceptid=https%3A%2F%2Fidentifiers.org%2Fito%3AITO_00141).
+You can explore ITO in our [ITO Explorer](https://openbiolink.github.io/ITOExplorer/) dashboard or browse ITO class hierarchy [online at BioPortal](https://bioportal.bioontology.org/ontologies/ITO/?p=classes&conceptid=https%3A%2F%2Fidentifiers.org%2Fito%3AITO_00141).
 
 ### Examples
 ITO aims to provide a richly structured hierarchy of processes, algorithms, data and performance metrics. Data on thousands of AI benchmark results have been imported from [Papers With Code](https://paperswithcode.com/) and are further curated.
