@@ -46,24 +46,18 @@ Our previously compiled dataset covering more than 400 biomedical and clinical d
 
 Code to generate the following and other basic statistics on the datsets and benchmarks can be found in the Jupyter Notebook '`clinically_relevant_benchmarks.ipynb`'.
 
-![](plots/overview_df.png) 
+![](plots/all_datasets.png) 
 
-**Figure 1:** Distribution of benchmark and non-benchmark datasets across the categories 
-'Directly clinically relevant', 'Not clinically relevant' and 'Indirectly clinically relevant'.
+**Figure 1:** **Characteristics of all datasets (i.e. benchmark datasets and non-benchmark datasets) included in the catalogue.** a) Top 10 source data types. Note:  ‘Radiology images’ and ‘Medical images’ are included in the list of source data because they are part of the source data of visual question answering datasets. b) Top 10 task families. Only datasets associated with a concrete task as stated in the reference source are included in this chart (n=314). c) Dataset accessibility. d) Proportion of benchmark datasets among directly and indirectly clinically relevant datasets. Only datasets associated with a concrete task as stated in the reference source are included in this chart (n=314).
 #
 
 
-![](plots/tasks_indirectly_relevant.png) 
+![](plots/benchmark_datasets.png) 
 
-**Figure 2:** Top 10 task types of indirectly clinically relevant benchmarks
-
-#
-
-![](plots/tasks_directly_relevant.png)  
-
-**Figure 3:** Top 10 task types of directly clinically relevant benchmarks
+**Figure 2:** **Characteristics of identified benchmark datasets.** a) Top 10 source data types. Note:  ‘Radiology images’ and ‘Histology images’ are included in the list of source data because they are part of the source data of visual question answering datasets. b) Availability of data splits. c) Top 10 task families of indirectly relevant benchmarks (n=59). d) Top 10 task families of directly relevant benchmarks (n=9).
 
 #
+
 
 ### Task coverage
 

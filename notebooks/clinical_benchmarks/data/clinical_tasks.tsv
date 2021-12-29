@@ -1,6 +1,6 @@
 Task	Desirability	Type	Occurrence	Personnel	NLP relevance?
 Maintain medical equipment or instruments	3.74	Other	0	Other	
-Write reports or evaluations	3.71	Administrative task	0	Clinical personnel	yes
+Write reports or evaluations	3.71	Administrative task	3	Clinical personnel	yes
 Instruct patients in the use of assistive equipment	3.64	Other	0	Other	
 Monitor clients to evaluate treatment progress	3.64	Other	0	Other	
 Move patients to or from treatment areas	3.63	Other	0	Other	
@@ -37,7 +37,7 @@ Prepare scientific or technical reports or presentations	3.22	Scientific task	0	
 Verify that medical activities or operations meet standards	3.22	Clinical care task	0	Clinical personnel	yes
 Operate diagnostic or therapeutic medical instruments or equipment	3.19		0	Clinical personnel	no
 Help clients get needed services or resources	3.19	Other	0	Other	
-Review professional literature to maintain professional knowledge	3.17	Clinical care task	23	Clinical personnel	yes
+Review professional literature to maintain professional knowledge	3.17	Clinical care task	25	Clinical personnel	yes
 Merchandise healthcare products or services	3.17	Other	0	Other	
 Apply bandages, dressings, or splints	3.16		0	Clinical personnel	no
 Prepare medical supplies or equipment for use	3.14		0	Clinical personnel	no
@@ -46,7 +46,7 @@ Assist healthcare practitioners during surgery	3.12	Other	0	Other
 Order medical supplies or equipment	3.11	Administrative task	0	Clinical personnel	yes
 Position patients for treatment or examination	3.08		0	Clinical personnel	no
 Process healthcare paperwork	3.08	Administrative task	0	Clinical personnel	yes
-Gather medical information from patient histories	3.07	Clinical care task	25	Clinical personnel	yes
+Gather medical information from patient histories	3.07	Clinical care task	29	Clinical personnel	yes
 Evaluate the effectiveness of counseling or educational programs	3.06	Other	0	Other	
 Advise communities or institutions regarding health or safety issues	3.05	Other	0	Other	
 Develop methods of social or economic research	3.05	Other	0	Other	
@@ -55,7 +55,7 @@ Supervise workers providing client or patient services	3.05	Other	0	Other
 Teach life skills or strategies to clients or their families	3.05	Other	0	Other	
 Test biological specimens to gather information about patient conditions	3.04		0	Clinical personnel	no
 Maintain medical laboratory equipment	3.04	Other	0	Other	
-Process x-rays or other medical images	3.03	Clinical care task	1	Clinical personnel	yes
+Process x-rays or other medical images	3.03	Clinical care task	24	Clinical personnel	yes
 Confer with clients to discuss treatment plans or progress	3.03	Other	0	Other	
 Create advanced digital images of patients using computer imaging systems	3.02		0	Clinical personnel	no
 Manage healthcare operations	3.01	Other	0	Other	
@@ -97,7 +97,7 @@ Prepare reports summarizing patient diagnostic or care activities	2.87	Administr
 Analyze laboratory specimens to detect abnormalities or other problems	2.87		0	Clinical personnel	no
 Refer patients to other healthcare practitioners or health resources	2.87	Clinical care task	0	Clinical personnel	yes
 Monitor the handling of hazardous materials or medical wastes	2.87	Other	0	Other	
-Analyze test data or images to inform diagnosis or treatment	2.86	Clinical care task	1	Clinical personnel	yes
+Analyze test data or images to inform diagnosis or treatment	2.86	Clinical care task	24	Clinical personnel	yes
 Establish standards for medical care	2.86		0	Clinical personnel	no
 Conduct scientific research of organizational behavior or processes	2.85	Scientific task	0	Other	
 Care for women during pregnancy and childbirth	2.85		0	Clinical personnel	yes
@@ -148,7 +148,7 @@ Schedule medical facility use	2.55	Other	0	Other
 Teach health management classes	2.54	Other	0	Other	
 Cultivate micro-organisms for study, testing, or medical preparations	2.53	Other	0	Other	
 Care for patients with mental illnesses	2.53		0	Clinical personnel	yes
-Evaluate patient functioning, capabilities, or health	2.52	Clinical care task	2	Clinical personnel	yes
+Evaluate patient functioning, capabilities, or health	2.52	Clinical care task	5	Clinical personnel	yes
 Assess patient work, living, or social environments	2.52	Clinical care task	0	Clinical personnel	yes
 Establish nursing policies or standards	2.51	Other	0	Other	
 Administer standardized physical or psychological tests	2.51		0	Clinical personnel	yes
@@ -171,8 +171,8 @@ Treat acute illnesses, infections, or injuries	2.25	Clinical care task	0	Clinica
 Test facilities for environmental hazards	2.21	Other	0	Other	
 Design psychological or educational treatment procedures or programs	2.16	Other	0	Other	
 Develop exercise or conditioning programs	2.15	Other	0	Other	
-Diagnose neural or psychological disorders	2.14	Clinical care task	2	Clinical personnel	yes
-Diagnose medical conditions	2.12	Clinical care task	1	Clinical personnel	yes
+Diagnose neural or psychological disorders	2.14	Clinical care task	4	Clinical personnel	yes
+Diagnose medical conditions	2.12	Clinical care task	3	Clinical personnel	yes
 Operate on patients to treat conditions	2.12		0	Clinical personnel	no
 Select medical equipment for addressing patient needs	2.1		0	Clinical personnel	yes
 Adjust tuning or functioning of musical instruments	2.07	Other	0	Other	
