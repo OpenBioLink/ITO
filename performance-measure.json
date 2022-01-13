@@ -1,0 +1,6488 @@
+{
+  "name": "Performance measure",
+  "children": [
+    {
+      "name": "F-measure",
+      "children": [
+        {
+          "name": "F1 score",
+          "children": [
+            {
+              "name": "S\u00f8rensen\u2013Dice coefficient",
+              "children": [
+                {
+                  "name": "Dice Score"
+                },
+                {
+                  "name": "Dice"
+                },
+                {
+                  "name": "Dice (Average)"
+                },
+                {
+                  "name": "Dice (SE)"
+                },
+                {
+                  "name": "Dice Scoe"
+                }
+              ]
+            },
+            {
+              "name": "Macro F1 score",
+              "children": [
+                {
+                  "name": "Macro F1"
+                },
+                {
+                  "name": "Macro-F1"
+                },
+                {
+                  "name": "Macro-F1-at-2%"
+                },
+                {
+                  "name": "Macro-F1 (20% training data)"
+                },
+                {
+                  "name": "Macro-F1 (60% training data)"
+                },
+                {
+                  "name": "Macro-F1 (80% training data)"
+                }
+              ]
+            },
+            {
+              "name": "Micro F1 score",
+              "children": [
+                {
+                  "name": "Micro F1"
+                },
+                {
+                  "name": "Micro-F1"
+                },
+                {
+                  "name": "Micro-F1-at-50%"
+                },
+                {
+                  "name": "Micro-F1-at-10%"
+                },
+                {
+                  "name": "Micro-F1-at-2%"
+                },
+                {
+                  "name": "Micro-F1 (20% training data)"
+                },
+                {
+                  "name": "Micro-F1 (80% training data)"
+                }
+              ]
+            },
+            {
+              "name": "F1 (H50)"
+            },
+            {
+              "name": "F1-Score"
+            },
+            {
+              "name": "F1-score"
+            },
+            {
+              "name": "F1"
+            },
+            {
+              "name": "Avg F1"
+            },
+            {
+              "name": "F1 score"
+            },
+            {
+              "name": "Entity+Relation F1"
+            },
+            {
+              "name": "Entity F1"
+            },
+            {
+              "name": "Relation F1"
+            },
+            {
+              "name": "Relation F1"
+            },
+            {
+              "name": "F1-score (Canonical)"
+            },
+            {
+              "name": "F1-score (Augmented)"
+            },
+            {
+              "name": "H-Mean"
+            },
+            {
+              "name": "Joint F1"
+            },
+            {
+              "name": "F1a"
+            },
+            {
+              "name": "F1 (Long)"
+            },
+            {
+              "name": "F1 (Short)"
+            },
+            {
+              "name": "F1 (Quasar-T)"
+            },
+            {
+              "name": "N-gram F1"
+            },
+            {
+              "name": "F1 (Hidden Test Set)"
+            },
+            {
+              "name": "ReVerb45k",
+              "comment": "Name of a benchmark. The main metric used for evaluating the benchmark was used to select the superclass."
+            },
+            {
+              "name": "Senseval 2",
+              "comment": "Name of a benchmark. The main metric used for evaluating the benchmark was used to select the superclass."
+            },
+            {
+              "name": "Senseval 3",
+              "comment": "Name of a benchmark. The main metric used for evaluating the benchmark was used to select the superclass."
+            },
+            {
+              "name": "SemEval 2007",
+              "comment": "Name of a benchmark. The main metric used for evaluating the benchmark was used to select the superclass."
+            },
+            {
+              "name": "SemEval 2013",
+              "comment": "Name of a benchmark. The main metric used for evaluating the benchmark was used to select the superclass."
+            },
+            {
+              "name": "SemEval 2015",
+              "comment": "Name of a benchmark. The main metric used for evaluating the benchmark was used to select the superclass."
+            },
+            {
+              "name": "F1-score (at-IoU = 0.3)"
+            },
+            {
+              "name": "ODS"
+            },
+            {
+              "name": "Maximum F-measure"
+            },
+            {
+              "name": "F-Score"
+            },
+            {
+              "name": "Aspect",
+              "comment": "Metrics manually assigned based on source paper."
+            },
+            {
+              "name": "Sentiment",
+              "comment": "Metric manually assigned based on source paper"
+            },
+            {
+              "name": "Laptop (F1)"
+            },
+            {
+              "name": "Mean F1 (Laptop + Restaurant)"
+            },
+            {
+              "name": "Restaurant (F1)"
+            },
+            {
+              "name": "Holder Binary F1"
+            },
+            {
+              "name": "Target Binary F1"
+            },
+            {
+              "name": "F1 (surface form)"
+            },
+            {
+              "name": "Exact Span F1"
+            },
+            {
+              "name": "F1 (Sequence)"
+            },
+            {
+              "name": "F1 (Set)"
+            },
+            {
+              "name": "F1 (1dAVb)"
+            },
+            {
+              "name": "F1 (RBBB)"
+            },
+            {
+              "name": "F1 (LBBB)"
+            },
+            {
+              "name": "F1 (SB)"
+            },
+            {
+              "name": "F1 (AF)"
+            },
+            {
+              "name": "F1 (ST)"
+            },
+            {
+              "name": "F1 Newswire"
+            },
+            {
+              "name": "F1 Full"
+            },
+            {
+              "name": "Mean F1 (WSJ)"
+            },
+            {
+              "name": "Max F1 (WSJ)"
+            },
+            {
+              "name": "Mean F1 (WSJ10)"
+            },
+            {
+              "name": "Max F1 (WSJ10)"
+            },
+            {
+              "name": "Macro-averaged F1"
+            },
+            {
+              "name": "F1 Score"
+            },
+            {
+              "name": "Shen F-1"
+            },
+            {
+              "name": "RE Macro F1"
+            },
+            {
+              "name": "NER Macro F1"
+            },
+            {
+              "name": "RE+ Micro F1"
+            },
+            {
+              "name": "RE Micro F1"
+            },
+            {
+              "name": "NER Micro F1"
+            },
+            {
+              "name": "Ign F1"
+            },
+            {
+              "name": "RE+ Macro F1"
+            },
+            {
+              "name": "F1 (v2)"
+            },
+            {
+              "name": "F1c (v2)"
+            },
+            {
+              "name": "F1 (v1)"
+            },
+            {
+              "name": "F1c (v1)"
+            },
+            {
+              "name": "F1 (Chinese)"
+            },
+            {
+              "name": "Average F1"
+            },
+            {
+              "name": "Overall: F1"
+            },
+            {
+              "name": "D(BiDAF): F1"
+            },
+            {
+              "name": "D(BERT): F1"
+            },
+            {
+              "name": "D(RoBERTa): F1"
+            },
+            {
+              "name": "Token F1"
+            },
+            {
+              "name": "Macro F1 (10-fold)"
+            },
+            {
+              "name": "SUP-F1"
+            },
+            {
+              "name": "F1 (QE-PE)"
+            },
+            {
+              "name": "F1 (QE-PH)"
+            },
+            {
+              "name": "F1(QH-PE)"
+            },
+            {
+              "name": "F1(QH-PH)"
+            },
+            {
+              "name": "f1_score"
+            },
+            {
+              "name": "F1-score (@IoU = 0.2)"
+            },
+            {
+              "name": "F1 score (5-fold)"
+            },
+            {
+              "name": "F1 (micro)"
+            },
+            {
+              "name": "Weighted Average F1-score"
+            },
+            {
+              "name": "Pairwise F1"
+            },
+            {
+              "name": "Weighted Macro-F1"
+            },
+            {
+              "name": "Weighted-F1"
+            },
+            {
+              "name": "F1@50%"
+            },
+            {
+              "name": "F1@25%"
+            },
+            {
+              "name": "F1@10%"
+            },
+            {
+              "name": "English-Wiki (open) F1"
+            },
+            {
+              "name": "English-20K (open) F1"
+            },
+            {
+              "name": "Full UCCA F1"
+            },
+            {
+              "name": "Full MRP F1"
+            },
+            {
+              "name": "LPP UCCA F1"
+            },
+            {
+              "name": "LPP MRP F1"
+            },
+            {
+              "name": "Weighted F1"
+            },
+            {
+              "name": "Restaurant 2014 (F1)"
+            },
+            {
+              "name": "Laptop 2014 (F1)"
+            },
+            {
+              "name": "Restaurant 2015 (F1)"
+            },
+            {
+              "name": "Restaurant 2016 (F1)"
+            },
+            {
+              "name": "Micro-F1 strong"
+            },
+            {
+              "name": "Macro-F1 strong"
+            },
+            {
+              "name": "F1-Measure"
+            },
+            {
+              "name": "Micro F1 (Exact Span)"
+            },
+            {
+              "name": "Micro F1 (Tokens)"
+            },
+            {
+              "name": "F1(stratified10-fold)"
+            },
+            {
+              "name": "Slot F1 Score"
+            },
+            {
+              "name": "event-based F1 score"
+            },
+            {
+              "name": "F1 - macro"
+            },
+            {
+              "name": "CoNLL F1"
+            },
+            {
+              "name": "Overall F1"
+            },
+            {
+              "name": "Masculine F1 (M)"
+            },
+            {
+              "name": "Feminine F1 (F)"
+            },
+            {
+              "name": "Content F1"
+            },
+            {
+              "name": "F1(10-fold)"
+            },
+            {
+              "name": "Region level (200 km)"
+            },
+            {
+              "name": "PCM-F1 (dev)"
+            },
+            {
+              "name": "PCM-F1 (test)"
+            },
+            {
+              "name": "Soft-F1"
+            },
+            {
+              "name": "macro F1"
+            },
+            {
+              "name": "Restaurant8k (F-1)"
+            },
+            {
+              "name": "DSTC8 (F-1)"
+            },
+            {
+              "name": "F1(Pos)"
+            },
+            {
+              "name": "F1(Neg)"
+            },
+            {
+              "name": "Pos. F1"
+            },
+            {
+              "name": "Neg. F1"
+            },
+            {
+              "name": "Correction F1"
+            },
+            {
+              "name": "Detection F1"
+            },
+            {
+              "name": "F1@10"
+            },
+            {
+              "name": "Test F1 score"
+            },
+            {
+              "name": "Validation F1 score"
+            }
+          ]
+        },
+        {
+          "name": "F-Measure (Seen)"
+        },
+        {
+          "name": "F-Measure (Unseen)"
+        },
+        {
+          "name": "F-measure (Mean)"
+        },
+        {
+          "name": "F-measure (Recall)"
+        },
+        {
+          "name": "F-measure (Decay)"
+        },
+        {
+          "name": "F-measure (%)"
+        },
+        {
+          "name": "Train F-measure"
+        },
+        {
+          "name": "F0.5"
+        },
+        {
+          "name": "F-Measure",
+          "children": [
+            {
+              "name": "Mean F-measure"
+            },
+            {
+              "name": "F-Score@1%"
+            }
+          ]
+        },
+        {
+          "name": "F-measure",
+          "children": [
+            {
+              "name": "max F-Measure"
+            },
+            {
+              "name": "Mean F-measure"
+            },
+            {
+              "name": "Weighted F-Measure"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hits-at-k",
+      "children": [
+        {
+          "name": "Hit Ratio-at-K",
+          "children": [
+            {
+              "name": "HR-at-10"
+            }
+          ]
+        },
+        {
+          "name": "Hits-at-10"
+        },
+        {
+          "name": "Hits-at-1"
+        },
+        {
+          "name": "Hits-at-3"
+        },
+        {
+          "name": "Hits-at-5"
+        },
+        {
+          "name": "Hit-at-1"
+        },
+        {
+          "name": "Hit-at-5"
+        },
+        {
+          "name": "Video hit-at-1"
+        },
+        {
+          "name": "Video hit-at-5"
+        },
+        {
+          "name": "Video hit-at-1"
+        },
+        {
+          "name": "Clip Hit-at-1"
+        },
+        {
+          "name": "Hits-at-20"
+        },
+        {
+          "name": "Hit-at-10"
+        },
+        {
+          "name": "HITS@3"
+        },
+        {
+          "name": "Hit@20"
+        },
+        {
+          "name": "HR@20"
+        },
+        {
+          "name": "Test Hits@100"
+        },
+        {
+          "name": "Validation Hits@100"
+        },
+        {
+          "name": "Test Hits@20"
+        },
+        {
+          "name": "Validation Hits@20"
+        },
+        {
+          "name": "Test Hits@50"
+        },
+        {
+          "name": "Validation Hits@50"
+        }
+      ]
+    },
+    {
+      "name": "Intersection over Union",
+      "children": [
+        {
+          "name": "Jaccard index",
+          "children": [
+            {
+              "name": "Jaccard (Seen)"
+            },
+            {
+              "name": "Jaccard (Unseen)"
+            },
+            {
+              "name": "Jaccard (Mean)"
+            },
+            {
+              "name": "Jaccard (Recall)"
+            },
+            {
+              "name": "Jaccard (Decay)"
+            },
+            {
+              "name": "Jaccard Index"
+            },
+            {
+              "name": "Jaccard"
+            }
+          ]
+        },
+        {
+          "name": "3DIoU"
+        },
+        {
+          "name": "mIoU"
+        },
+        {
+          "name": "Class IOU"
+        },
+        {
+          "name": "fwIOU"
+        },
+        {
+          "name": "IoU"
+        },
+        {
+          "name": "Mean IoU"
+        },
+        {
+          "name": "Mean IoU (class)"
+        },
+        {
+          "name": "Validation mIoU"
+        },
+        {
+          "name": "Class Average IoU"
+        },
+        {
+          "name": "Instance Average IoU"
+        },
+        {
+          "name": "IoU [32 distractors]"
+        },
+        {
+          "name": "IoU [4 distractors]"
+        },
+        {
+          "name": "IoU [256 distractors]"
+        },
+        {
+          "name": "IOU25"
+        },
+        {
+          "name": "IoU-2D"
+        },
+        {
+          "name": "IoU-3D"
+        },
+        {
+          "name": "TIoU"
+        },
+        {
+          "name": "meanIOU"
+        },
+        {
+          "name": "Average IOU"
+        },
+        {
+          "name": "MIoU (16 classes)"
+        },
+        {
+          "name": "MIoU (13 classes)"
+        },
+        {
+          "name": "Mean IoU (test)"
+        },
+        {
+          "name": "Mean IoU (val)"
+        },
+        {
+          "name": "Category mIoU"
+        },
+        {
+          "name": "IoU (weak)"
+        },
+        {
+          "name": "IoU overall"
+        },
+        {
+          "name": "IoU mean"
+        }
+      ]
+    },
+    {
+      "name": "ROUGE metric",
+      "description": "ROUGE, or Recall-Oriented Understudy for Gisting Evaluation, is a set of metrics and a software package used for evaluating automatic summarization and machine translation in natural language processing. The metrics compare the overlap of tokens or N-grams of an automatically produced summary or translation against a reference or a set of references (human-produced) summary or translation. (Sources: Wikipedia, BioASQ).",
+      "children": [
+        {
+          "name": "CNN",
+          "comment": "Name of a benchmark: CNN / Daily Mail. The main metrics used for evaluating the benchmark were used to select the superclasses."
+        },
+        {
+          "name": "Rouge-L"
+        },
+        {
+          "name": "ROUGE-L"
+        },
+        {
+          "name": "ROUGE"
+        },
+        {
+          "name": "ROUGE-1"
+        },
+        {
+          "name": "ROUGE-2",
+          "description": "ROUGE-2 is a variant of the ROUGE metric that is calculated based on the overlap of bigrams between the system and reference summaries."
+        },
+        {
+          "name": "ROUGE-SU4"
+        },
+        {
+          "name": "Rouge-1"
+        },
+        {
+          "name": "Rouge-2"
+        },
+        {
+          "name": "ROUGE-3"
+        },
+        {
+          "name": "Test ROGUE-1"
+        },
+        {
+          "name": "Test ROGUE-2"
+        },
+        {
+          "name": "Test ROGUE-L"
+        },
+        {
+          "name": "Test ROGUE-Lsum"
+        },
+        {
+          "name": "Validation ROGUE-1"
+        },
+        {
+          "name": "Validation ROGUE-2"
+        },
+        {
+          "name": "Validation ROGUE-L"
+        },
+        {
+          "name": "Validation ROGUE-Lsum"
+        }
+      ]
+    },
+    {
+      "name": "ROC AUC",
+      "children": [
+        {
+          "name": "ROC AUC",
+          "children": [
+            {
+              "name": "AUC (ABPA)"
+            },
+            {
+              "name": "AUC (Diabetes)"
+            },
+            {
+              "name": "AUC (I. Obstruction)"
+            },
+            {
+              "name": "I. Obstruction",
+              "comment": "Metric manually assigned based on source paper"
+            },
+            {
+              "name": "AUC (K. Pneumonia)"
+            },
+            {
+              "name": "AUC (E. Coli)"
+            },
+            {
+              "name": "AUC (Aspergillus)"
+            },
+            {
+              "name": "AUC (outlier ratio = 0.5)"
+            },
+            {
+              "name": "AUC Stdev"
+            },
+            {
+              "name": "Aspect",
+              "comment": "Metrics manually assigned based on source paper."
+            },
+            {
+              "name": "Sentiment",
+              "comment": "Metric manually assigned based on source paper"
+            },
+            {
+              "name": "AUC-at-80%Train"
+            }
+          ]
+        },
+        {
+          "name": "AUROC"
+        },
+        {
+          "name": "Detection AUROC"
+        },
+        {
+          "name": "Test ROC-AUC"
+        }
+      ]
+    },
+    {
+      "name": "Area under curve (AUC), unspecified",
+      "children": [
+        {
+          "name": "AUC"
+        },
+        {
+          "name": "AUC0.07"
+        },
+        {
+          "name": "AUC0.08 private"
+        },
+        {
+          "name": "AUC-at-0.1 (all)"
+        },
+        {
+          "name": "AUC (val)"
+        },
+        {
+          "name": "AUC (test)"
+        },
+        {
+          "name": "Test AUC top 1"
+        },
+        {
+          "name": "Test AUC top 2"
+        },
+        {
+          "name": "Test AUC top 3"
+        },
+        {
+          "name": "Val AUC top 1"
+        },
+        {
+          "name": "Val AUC top 2"
+        },
+        {
+          "name": "Val AUC top 3"
+        },
+        {
+          "name": "Mean AUC"
+        },
+        {
+          "name": "ADDS AUC"
+        },
+        {
+          "name": "AUC (horizon error)"
+        },
+        {
+          "name": "AUC score"
+        }
+      ]
+    },
+    {
+      "name": "Time",
+      "children": [
+        {
+          "name": "training time (s)"
+        },
+        {
+          "name": "Test Time"
+        },
+        {
+          "name": "Absolute Time (ms)"
+        },
+        {
+          "name": "Time (ms)"
+        },
+        {
+          "name": "Search Time (GPU days)"
+        },
+        {
+          "name": "runtime (ms)"
+        },
+        {
+          "name": "Inference Time (ms)"
+        },
+        {
+          "name": "runtime (s)"
+        },
+        {
+          "name": "Runtime(s)"
+        },
+        {
+          "name": "Time Per Frame (ms)"
+        },
+        {
+          "name": "Time Per Frame(ms)"
+        },
+        {
+          "name": "Runtime [ms]"
+        },
+        {
+          "name": "Runtime (s)"
+        },
+        {
+          "name": "Training time (min)"
+        },
+        {
+          "name": "Training time (hours)"
+        }
+      ]
+    },
+    {
+      "name": "BLEU score",
+      "children": [
+        {
+          "name": "BLEU"
+        },
+        {
+          "name": "BLEU score",
+          "children": [
+            {
+              "name": "Cased sacreBLEU"
+            },
+            {
+              "name": "BLEU (EN-DE)"
+            },
+            {
+              "name": "BLEU (EN-FR)"
+            },
+            {
+              "name": "Case-sensitive sacreBLEU"
+            },
+            {
+              "name": "Case-insensitive sacreBLEU"
+            },
+            {
+              "name": "Case-insensitive tokenized BLEU"
+            },
+            {
+              "name": "Case-sensitive tokenized BLEU"
+            }
+          ]
+        },
+        {
+          "name": "SacreBLEU"
+        },
+        {
+          "name": "BLEU-1",
+          "children": [
+            {
+              "name": "B1"
+            }
+          ]
+        },
+        {
+          "name": "BLEU-4",
+          "children": [
+            {
+              "name": "Smoothed BLEU-4",
+              "comment": "Mean Term Weighted Value"
+            },
+            {
+              "name": "B4"
+            },
+            {
+              "name": "BLEU4"
+            }
+          ]
+        },
+        {
+          "name": "BLEU-2",
+          "children": [
+            {
+              "name": "B2"
+            }
+          ]
+        },
+        {
+          "name": "BLEU-3",
+          "children": [
+            {
+              "name": "B3"
+            }
+          ]
+        },
+        {
+          "name": "BLEU-5"
+        },
+        {
+          "name": "iBLEU"
+        }
+      ]
+    },
+    {
+      "name": "Root mean square deviation",
+      "children": [
+        {
+          "name": "Optical-depth root mean squared error",
+          "children": [
+            {
+              "name": "ODRMSE"
+            }
+          ]
+        },
+        {
+          "name": "RMSE"
+        },
+        {
+          "name": "RMS"
+        },
+        {
+          "name": "RMSE (Subject-na\u00efve)"
+        },
+        {
+          "name": "RMSE (Subject-exposed)"
+        },
+        {
+          "name": "RMSE (SE, Gluteus Maximus)"
+        },
+        {
+          "name": "RMSE (SE, Gluteus Medius)"
+        },
+        {
+          "name": "RMSE (SE, Quadriceps)"
+        },
+        {
+          "name": "RMSE (SE, Hamstrings)"
+        },
+        {
+          "name": "mRMSE"
+        },
+        {
+          "name": "mRMSE-nz"
+        },
+        {
+          "name": "RMSE-at-80%Train"
+        },
+        {
+          "name": "RMSE log"
+        },
+        {
+          "name": "RMSE (SE, Gluteus Medius)"
+        },
+        {
+          "name": "RMSE (Subject-exposed)"
+        },
+        {
+          "name": "RMSE (u1 Splits)"
+        },
+        {
+          "name": "RMSE (Random 90/10 Splits)"
+        },
+        {
+          "name": "RMSE"
+        }
+      ]
+    },
+    {
+      "name": "Mean squared error",
+      "children": [
+        {
+          "name": "MSE"
+        },
+        {
+          "name": "mse (10^-3)"
+        },
+        {
+          "name": "MSE (10^2, 50% missing)"
+        },
+        {
+          "name": "MSE (10% missing)"
+        },
+        {
+          "name": "MSE stdev"
+        },
+        {
+          "name": "MSE (10^-2, 50% missing)"
+        },
+        {
+          "name": "MSE(0.5)"
+        },
+        {
+          "name": "MSE(1.0)"
+        },
+        {
+          "name": "MSE(1.5)"
+        },
+        {
+          "name": "MSE"
+        },
+        {
+          "name": "MSE normalized by inter-ocular distance"
+        }
+      ]
+    },
+    {
+      "name": "Recall",
+      "children": [
+        {
+          "name": "Sensitivity",
+          "children": [
+            {
+              "name": "Sensitivity (VEB)"
+            },
+            {
+              "name": "Sensitivity (VEB+)"
+            },
+            {
+              "name": "Sensitivity"
+            }
+          ]
+        },
+        {
+          "name": "Recall",
+          "children": [
+            {
+              "name": "ARL"
+            }
+          ]
+        },
+        {
+          "name": "Average Recall",
+          "children": [
+            {
+              "name": "AR@100"
+            },
+            {
+              "name": "AR@1000"
+            },
+            {
+              "name": "AR@200"
+            },
+            {
+              "name": "AR@50"
+            },
+            {
+              "name": "AR@500"
+            },
+            {
+              "name": "AR"
+            },
+            {
+              "name": "AR50"
+            },
+            {
+              "name": "AR75"
+            },
+            {
+              "name": "ARM"
+            },
+            {
+              "name": "ARm"
+            },
+            {
+              "name": "ARs"
+            }
+          ]
+        },
+        {
+          "name": "ReVerb45k",
+          "comment": "Name of a benchmark. The main metric used for evaluating the benchmark was used to select the superclass."
+        },
+        {
+          "name": "Recall (VSD)"
+        },
+        {
+          "name": "Mean Recall"
+        },
+        {
+          "name": "mRec"
+        },
+        {
+          "name": "Macro Recall"
+        },
+        {
+          "name": "Micro Recall"
+        }
+      ]
+    },
+    {
+      "name": "Mean absolute error",
+      "children": [
+        {
+          "name": "MAE"
+        },
+        {
+          "name": "MAE (10% missing)"
+        },
+        {
+          "name": "MAE (10% of data as GT)"
+        },
+        {
+          "name": "MAE (PM2.5)"
+        },
+        {
+          "name": "MAE (Valence)"
+        },
+        {
+          "name": "MAE (Arousal)"
+        },
+        {
+          "name": "MAE (Expectancy)"
+        },
+        {
+          "name": "MAE (Power)"
+        },
+        {
+          "name": "MAR, walking, 400ms"
+        },
+        {
+          "name": "MAR, walking, 1,000ms"
+        },
+        {
+          "name": "MAE [bpm, session-wise]"
+        },
+        {
+          "name": "MAE for SBP [mmHg]"
+        },
+        {
+          "name": "MAE for DBP [mmHg]"
+        },
+        {
+          "name": "MAE (60 min)"
+        },
+        {
+          "name": "MAE @ 12 step"
+        },
+        {
+          "name": "iMAE"
+        },
+        {
+          "name": "MAE (trained with other data)"
+        },
+        {
+          "name": "MAE (trained with BIWI data)"
+        },
+        {
+          "name": "MAE (VAS)"
+        },
+        {
+          "name": "MAE (70 min)"
+        }
+      ]
+    },
+    {
+      "name": "Precision",
+      "children": [
+        {
+          "name": "Mean average precision",
+          "children": [
+            {
+              "name": "MAP"
+            },
+            {
+              "name": "mAP-at-0.50"
+            },
+            {
+              "name": "mAP at-0.5:0.95"
+            },
+            {
+              "name": "mAP"
+            },
+            {
+              "name": "mAP-at-0.5"
+            },
+            {
+              "name": "mAP (at-0.1, Through-wall)"
+            },
+            {
+              "name": "mAP-at-0.50 (CV)"
+            },
+            {
+              "name": "mAP-at-0.50 (CS)"
+            },
+            {
+              "name": "mAP-at-0.1"
+            },
+            {
+              "name": "mAP-at-0.2"
+            },
+            {
+              "name": "mAP-at-0.3"
+            },
+            {
+              "name": "mAP-at-0.4"
+            },
+            {
+              "name": "mAP (Val)"
+            },
+            {
+              "name": "Frame-mAP"
+            },
+            {
+              "name": "Video-mAP 0.2"
+            },
+            {
+              "name": "Video-mAP 0.5"
+            },
+            {
+              "name": "Video-mAP 0.75"
+            },
+            {
+              "name": "mAP IOU-at-0.5"
+            },
+            {
+              "name": "mAP IOU-at-0.7"
+            },
+            {
+              "name": "mAP IOU-at-0.75"
+            },
+            {
+              "name": "mAP IOU-at-0.9"
+            },
+            {
+              "name": "mAP IOU-at-0.95"
+            },
+            {
+              "name": "mAP IOU-at-0.1"
+            },
+            {
+              "name": "mAP IOU-at-0.2"
+            },
+            {
+              "name": "mAP IOU-at-0.3"
+            },
+            {
+              "name": "mAP IOU-at-0.4"
+            },
+            {
+              "name": "mAP IOU-at-0.6"
+            },
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Tags(Object, Scene, etc)",
+              "comment": "Metric manually assigned based on source paper"
+            },
+            {
+              "name": "Mean mAP"
+            },
+            {
+              "name": "mAP 10, 10cm"
+            },
+            {
+              "name": "mAP 10, 5cm"
+            },
+            {
+              "name": "mAP 3DIou-at-25"
+            },
+            {
+              "name": "mAP 3DIou-at-50"
+            },
+            {
+              "name": "mAP 5, 5cm"
+            },
+            {
+              "name": "mAP (at-0.1, Visible)"
+            },
+            {
+              "name": "Video-mAP 0.1"
+            },
+            {
+              "name": "mAP-at-10"
+            },
+            {
+              "name": "mAP-at-0.25"
+            },
+            {
+              "name": "mAP@50"
+            },
+            {
+              "name": "mAP (All-search & Single-shot)"
+            },
+            {
+              "name": "mAP(V2T)"
+            },
+            {
+              "name": "mAP@0.1:0.7"
+            },
+            {
+              "name": "mAP@0.1:0.5"
+            },
+            {
+              "name": "mAP@AVG(0.1:0.9)"
+            },
+            {
+              "name": "avg-mAP (0.1-0.9)"
+            },
+            {
+              "name": "avg-mAP (0.1-0.5)"
+            },
+            {
+              "name": "avg-mAP (0.3-0.7)"
+            },
+            {
+              "name": "mAP IOU@0.8"
+            },
+            {
+              "name": "mAP@100"
+            },
+            {
+              "name": "mAP@0.5 role"
+            },
+            {
+              "name": "mAP50"
+            },
+            {
+              "name": "mAP@0.75"
+            }
+          ]
+        },
+        {
+          "name": "Average Precision",
+          "children": [
+            {
+              "name": "AP"
+            },
+            {
+              "name": "Mean AP"
+            },
+            {
+              "name": "AIOU"
+            },
+            {
+              "name": "AP-at-0.7"
+            },
+            {
+              "name": "Average Precision",
+              "children": [
+                {
+                  "name": "AP(l)"
+                },
+                {
+                  "name": "AP(m)"
+                },
+                {
+                  "name": "AP(s)"
+                },
+                {
+                  "name": "AP85"
+                },
+                {
+                  "name": "AP/L2"
+                },
+                {
+                  "name": "AP@0.15"
+                },
+                {
+                  "name": "AP75-R-Val"
+                },
+                {
+                  "name": "AP75-H-Val"
+                },
+                {
+                  "name": "AP75-R-Test"
+                },
+                {
+                  "name": "AP75-H-Test"
+                },
+                {
+                  "name": "AP (Detection)"
+                }
+              ]
+            },
+            {
+              "name": "AP50"
+            },
+            {
+              "name": "AP75"
+            },
+            {
+              "name": "APM"
+            },
+            {
+              "name": "Test AP"
+            },
+            {
+              "name": "Validation AP"
+            },
+            {
+              "name": "AP Easy"
+            },
+            {
+              "name": "AP Medium"
+            },
+            {
+              "name": "AP Hard"
+            },
+            {
+              "name": "box AP"
+            },
+            {
+              "name": "APS"
+            },
+            {
+              "name": "AP 0.5"
+            },
+            {
+              "name": "mask AP"
+            },
+            {
+              "name": "Mean AP at 0.5"
+            },
+            {
+              "name": "Bounding Box AP"
+            },
+            {
+              "name": "mesh AP"
+            }
+          ]
+        },
+        {
+          "name": "Multiple Object Tracking Precision",
+          "children": [
+            {
+              "name": "MOTP"
+            }
+          ]
+        },
+        {
+          "name": "Positive predictive value",
+          "children": [
+            {
+              "name": "PPV (VEB)"
+            },
+            {
+              "name": "PPV (VEB+)"
+            }
+          ]
+        },
+        {
+          "name": "Normalized Precision"
+        },
+        {
+          "name": "ReVerb45k",
+          "comment": "Name of a benchmark. The main metric used for evaluating the benchmark was used to select the superclass."
+        },
+        {
+          "name": "APL"
+        },
+        {
+          "name": "DF",
+          "comment": "Name of a benchmark. The main metric used for evaluating the benchmark was used to select the superclass."
+        },
+        {
+          "name": "FS",
+          "comment": "Name of a benchmark. The main metric used for evaluating the benchmark was used to select the superclass."
+        },
+        {
+          "name": "NT",
+          "comment": "Name of a benchmark. The main metric used for evaluating the benchmark was used to select the superclass."
+        },
+        {
+          "name": "Real"
+        },
+        {
+          "name": "mPrec"
+        },
+        {
+          "name": "Macro Precision"
+        },
+        {
+          "name": "Micro Precision"
+        }
+      ]
+    },
+    {
+      "name": "Percentage of correct keypoints",
+      "children": [
+        {
+          "name": "PCK3D"
+        },
+        {
+          "name": "PCK3D (CA)"
+        },
+        {
+          "name": "PCKh"
+        },
+        {
+          "name": "PCK-at-0.1"
+        },
+        {
+          "name": "PCK-at-0.2"
+        },
+        {
+          "name": "PCK-at-0.3"
+        },
+        {
+          "name": "PCK-at-0.4"
+        },
+        {
+          "name": "PCK-at-0.5"
+        },
+        {
+          "name": "Mean PCK",
+          "children": [
+            {
+              "name": "Mean PCK-at-0.2"
+            }
+          ]
+        },
+        {
+          "name": "PCKh-0.5"
+        },
+        {
+          "name": "PCK"
+        },
+        {
+          "name": "PC"
+        },
+        {
+          "name": "PCKh@0.1"
+        },
+        {
+          "name": "PCK (weak)"
+        },
+        {
+          "name": "PCK-5px"
+        },
+        {
+          "name": "PCK-1px"
+        },
+        {
+          "name": "PCK-3px"
+        }
+      ]
+    },
+    {
+      "name": "Peak signal-to-noise ratio",
+      "children": [
+        {
+          "name": "Average PSNR"
+        },
+        {
+          "name": "PSNR"
+        },
+        {
+          "name": "40-50% Mask PSNR"
+        },
+        {
+          "name": "10-20% Mask PSNR"
+        },
+        {
+          "name": "20-30% Mask PSNR"
+        },
+        {
+          "name": "30-40% Mask PSNR"
+        },
+        {
+          "name": "PSNR (sRGB)"
+        },
+        {
+          "name": "PSNR-B"
+        },
+        {
+          "name": "PSNR (Raw)"
+        }
+      ]
+    },
+    {
+      "name": "Genuine Acceptance Rate",
+      "children": [
+        {
+          "name": "GAR at-0.1% FAR"
+        },
+        {
+          "name": "GAR at-1% FAR"
+        },
+        {
+          "name": "GAR at-10% FAR"
+        },
+        {
+          "name": "GAR at-0.1% FAR Impersonation"
+        },
+        {
+          "name": "GAR at-0.1% FAR Obfuscation"
+        },
+        {
+          "name": "GAR at-0.1% FAR Overall"
+        },
+        {
+          "name": "GAR at-1% FAR Impersonation"
+        },
+        {
+          "name": "GAR at-1% FAR Obfuscation"
+        },
+        {
+          "name": "GAR at-1% FAR Overall"
+        }
+      ]
+    },
+    {
+      "name": "Error rate",
+      "children": [
+        {
+          "name": "Bit error rate",
+          "children": [
+            {
+              "name": "BER"
+            }
+          ]
+        },
+        {
+          "name": "Out of bag error rate"
+        },
+        {
+          "name": "Equal Error Rate",
+          "children": [
+            {
+              "name": "EER"
+            }
+          ]
+        },
+        {
+          "name": "Top-1 (%)"
+        },
+        {
+          "name": "Top-5 (%)"
+        },
+        {
+          "name": "Error ratio"
+        },
+        {
+          "name": "Top-5 Error"
+        },
+        {
+          "name": "Top-1 Error Rate"
+        },
+        {
+          "name": "Balanced Error Rate"
+        },
+        {
+          "name": "Error Rate"
+        }
+      ]
+    },
+    {
+      "name": "Breakeven Point",
+      "children": [
+        {
+          "name": "BEP"
+        }
+      ]
+    },
+    {
+      "name": "Normalized Discounted Cumulative Gain",
+      "children": [
+        {
+          "name": "NDCG"
+        },
+        {
+          "name": "nDCG-at-20"
+        },
+        {
+          "name": "nDCG-at-5"
+        },
+        {
+          "name": "nDCG-at-3"
+        },
+        {
+          "name": "nDCG-at-1"
+        },
+        {
+          "name": "nDCG-at-10"
+        },
+        {
+          "name": "nDCG-at-100"
+        },
+        {
+          "name": "infNDCG"
+        }
+      ]
+    },
+    {
+      "name": "Average End-point Error",
+      "children": [
+        {
+          "name": "Average End-Point Error"
+        },
+        {
+          "name": "Viewpoint I AEPE"
+        },
+        {
+          "name": "Viewpoint II AEPE"
+        },
+        {
+          "name": "Viewpoint III AEPE"
+        },
+        {
+          "name": "Viewpoint IV AEPE"
+        },
+        {
+          "name": "Viewpoint V AEPE"
+        }
+      ]
+    },
+    {
+      "name": "Average classification error rate",
+      "children": [
+        {
+          "name": "ACER"
+        }
+      ]
+    },
+    {
+      "name": "Adjusted Rand Index",
+      "children": [
+        {
+          "name": "ARI"
+        },
+        {
+          "name": "Adjusted Rand Index"
+        }
+      ]
+    },
+    {
+      "name": "Signal-to-distortion ratio",
+      "children": [
+        {
+          "name": "Normalized signal-to-distortion ratio",
+          "children": [
+            {
+              "name": "NSDR"
+            }
+          ]
+        },
+        {
+          "name": "SDR (vocals)"
+        },
+        {
+          "name": "SDR (drums)"
+        },
+        {
+          "name": "SDR (bass)"
+        },
+        {
+          "name": "SDR (other)"
+        },
+        {
+          "name": "SDR"
+        }
+      ]
+    },
+    {
+      "name": "Average Path Length"
+    },
+    {
+      "name": "Median relative target registration error",
+      "children": [
+        {
+          "name": "Average median relative target registration error",
+          "children": [
+            {
+              "name": "AMrTRE"
+            }
+          ]
+        },
+        {
+          "name": "Median median relative target registration error",
+          "children": [
+            {
+              "name": "MMrTRE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "3D percentage of correct keypoints",
+      "children": [
+        {
+          "name": "3DPCK"
+        },
+        {
+          "name": "PCK3D (CS)"
+        }
+      ]
+    },
+    {
+      "name": "Average Run Length"
+    },
+    {
+      "name": "Average Distance Error",
+      "children": [
+        {
+          "name": "ADE-8/12"
+        },
+        {
+          "name": "ADE"
+        },
+        {
+          "name": "MinADE_5"
+        },
+        {
+          "name": "MinADE_10"
+        }
+      ]
+    },
+    {
+      "name": "Average Transaction Value",
+      "children": [
+        {
+          "name": "ATV"
+        }
+      ]
+    },
+    {
+      "name": "Bit per character",
+      "children": [
+        {
+          "name": "Bit per Character (BPC)"
+        }
+      ]
+    },
+    {
+      "name": "Human Equivalence Score",
+      "children": [
+        {
+          "name": "HEQ-Q",
+          "children": [
+            {
+              "name": "HEQQ"
+            }
+          ]
+        },
+        {
+          "name": "HEQ-D",
+          "children": [
+            {
+              "name": "HEQD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Floating Point Operations Per Second",
+      "children": [
+        {
+          "name": "GFlops"
+        },
+        {
+          "name": "GFLOPs"
+        }
+      ]
+    },
+    {
+      "name": "Hausdorff distance",
+      "children": [
+        {
+          "name": "Hausdorff"
+        },
+        {
+          "name": "Hausdorff Distance (mm)"
+        }
+      ]
+    },
+    {
+      "name": "Color peak signal-to-noise ratio",
+      "children": [
+        {
+          "name": "Normalized cPSNR"
+        }
+      ]
+    },
+    {
+      "name": "Frames per second",
+      "children": [
+        {
+          "name": "Speed  (FPS)"
+        },
+        {
+          "name": "Frame (fps)"
+        },
+        {
+          "name": "FPS"
+        }
+      ]
+    },
+    {
+      "name": "Mean reciprocal rank",
+      "children": [
+        {
+          "name": "MRR"
+        },
+        {
+          "name": "MRR filtered"
+        },
+        {
+          "name": "MRR raw"
+        }
+      ]
+    },
+    {
+      "name": "Structural similarity index",
+      "children": [
+        {
+          "name": "Multiscale structural similarity",
+          "children": [
+            {
+              "name": "Ms-ssim"
+            }
+          ]
+        },
+        {
+          "name": "SSIM"
+        },
+        {
+          "name": "mask-SSIM"
+        }
+      ]
+    },
+    {
+      "name": "Precision-at-k",
+      "children": [
+        {
+          "name": "Precision at equal recall rate",
+          "children": [
+            {
+              "name": "PERR"
+            }
+          ]
+        },
+        {
+          "name": "Precision@20"
+        },
+        {
+          "name": "Precision@0.5"
+        },
+        {
+          "name": "Precision@0.6"
+        },
+        {
+          "name": "Precision@0.7"
+        },
+        {
+          "name": "Precision@0.8"
+        },
+        {
+          "name": "Precision@0.9"
+        },
+        {
+          "name": "Pr@0.5"
+        },
+        {
+          "name": "Pr@0.7"
+        },
+        {
+          "name": "Pr@0.9"
+        },
+        {
+          "name": "Precision@10"
+        }
+      ]
+    },
+    {
+      "name": "Consensus-based Image Description Evaluation",
+      "children": [
+        {
+          "name": "CIDEr",
+          "children": [
+            {
+              "name": "CIDr"
+            },
+            {
+              "name": "CIDER"
+            },
+            {
+              "name": "CIDEr-D"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mean corruption error",
+      "children": [
+        {
+          "name": "mean Corruption Error (mCE)"
+        }
+      ]
+    },
+    {
+      "name": "nuScenes detection score",
+      "children": [
+        {
+          "name": "NDS"
+        }
+      ]
+    },
+    {
+      "name": "Feature Similarity Index",
+      "children": [
+        {
+          "name": "FSIM"
+        }
+      ]
+    },
+    {
+      "name": "Final Displacement Error",
+      "children": [
+        {
+          "name": "FDE-8/12"
+        }
+      ]
+    },
+    {
+      "name": "Kullback\u2013Leibler divergence",
+      "children": [
+        {
+          "name": "KL"
+        }
+      ]
+    },
+    {
+      "name": "Underwater image quality measure",
+      "children": [
+        {
+          "name": "UIQM"
+        }
+      ]
+    },
+    {
+      "name": "Mean-Per-Joint-Position-Error",
+      "children": [
+        {
+          "name": "MPJPE"
+        },
+        {
+          "name": "Average MPJPE (mm)"
+        },
+        {
+          "name": "MPJPE (CS)"
+        },
+        {
+          "name": "MPJPE (CA)"
+        }
+      ]
+    },
+    {
+      "name": "Labeled attachment score",
+      "children": [
+        {
+          "name": "LAS"
+        }
+      ]
+    },
+    {
+      "name": "Accuracy",
+      "children": [
+        {
+          "name": "Multiple Object Tracking Accuracy",
+          "children": [
+            {
+              "name": "MOTA"
+            }
+          ]
+        },
+        {
+          "name": "User accuracy",
+          "children": [
+            {
+              "name": "UA"
+            }
+          ]
+        },
+        {
+          "name": "Rank-1 accuracy",
+          "children": [
+            {
+              "name": "R1"
+            }
+          ]
+        },
+        {
+          "name": "Q8 accuracy",
+          "children": [
+            {
+              "name": "Q8"
+            }
+          ]
+        },
+        {
+          "name": "Q3 accuracy",
+          "children": [
+            {
+              "name": "Q3"
+            }
+          ]
+        },
+        {
+          "name": "Accuracy",
+          "children": [
+            {
+              "name": "Semantic object accuracy",
+              "children": [
+                {
+                  "name": "SOA-C"
+                }
+              ]
+            },
+            {
+              "name": "Accuracy (5-fold)"
+            },
+            {
+              "name": "Accuracy (8 emotion)"
+            },
+            {
+              "name": "Accuracy (7 emotion)"
+            },
+            {
+              "name": "Avg. Accuracy"
+            },
+            {
+              "name": "Accuracy (Body + Fingers joints)"
+            },
+            {
+              "name": "Accuracy (Body joints)"
+            },
+            {
+              "name": "Accuracy (Body + Fingers + Face joints)"
+            },
+            {
+              "name": "1:3 Accuracy"
+            },
+            {
+              "name": "1:1 Accuracy"
+            },
+            {
+              "name": "3:1 Accuracy"
+            },
+            {
+              "name": "Cross-person Accuracy"
+            },
+            {
+              "name": "ACC"
+            },
+            {
+              "name": "Pair-level 13-class Acc"
+            },
+            {
+              "name": "Pair-level 4-class Acc"
+            },
+            {
+              "name": "Pair-level 6-class Acc"
+            },
+            {
+              "name": "Session-level 13-class Acc",
+              "comment": "System output Against References and against the Input sentence"
+            },
+            {
+              "name": "Session-level 4-class Acc"
+            },
+            {
+              "name": "Session-level 6-class Acc"
+            },
+            {
+              "name": "Accuracy (max)"
+            },
+            {
+              "name": "Accuracy (mean)"
+            },
+            {
+              "name": "Vid acc@1"
+            },
+            {
+              "name": "Vid acc@5"
+            },
+            {
+              "name": "Position Accuracy"
+            },
+            {
+              "name": "Armstand Accuracy"
+            },
+            {
+              "name": "No. of Somersaults Accuracy"
+            },
+            {
+              "name": "No. of Twists Accuracy"
+            },
+            {
+              "name": "2-Class Accuracy"
+            },
+            {
+              "name": "Accuracy (5 unseen classes)"
+            },
+            {
+              "name": "Accuracy (easy)"
+            },
+            {
+              "name": "Accuracy (hard)"
+            },
+            {
+              "name": "ACCURACY"
+            },
+            {
+              "name": "Long-Tailed Accuracy"
+            },
+            {
+              "name": "average top-1 classification accuracy"
+            },
+            {
+              "name": "Test Accuracy"
+            },
+            {
+              "name": "Accuracy (training-test)"
+            },
+            {
+              "name": "Accuracy (Set 1)"
+            },
+            {
+              "name": "Accuracy (Set 2)"
+            },
+            {
+              "name": "Accuracy (Cross-View)"
+            },
+            {
+              "name": "Mean class accuracy"
+            },
+            {
+              "name": "Task 1 Accuracy: all"
+            },
+            {
+              "name": "Task 1 Accuracy: general purpose"
+            },
+            {
+              "name": "Task 1 Accuracy: domain specific"
+            },
+            {
+              "name": "Task 2 Accuracy: all"
+            },
+            {
+              "name": "Task 2 Accuracy: general purpose"
+            },
+            {
+              "name": "Task 2 Accuracy: domain specific"
+            },
+            {
+              "name": "Task 3 Accuracy: all"
+            },
+            {
+              "name": "Task 3 Accuracy: general purpose"
+            },
+            {
+              "name": "Task 3 Accuracy: domain specific"
+            },
+            {
+              "name": "Detection Accuracy"
+            },
+            {
+              "name": "Unweighted Accuracy"
+            },
+            {
+              "name": "Acc @ .25m, 2\u00b0"
+            },
+            {
+              "name": "Acc @ .5m, 5\u00b0"
+            },
+            {
+              "name": "Accuracy (Test)"
+            },
+            {
+              "name": "Denotation accuracy (test)"
+            },
+            {
+              "name": "IMDB (Acc)"
+            },
+            {
+              "name": "Yelp 2013 (Acc)"
+            },
+            {
+              "name": "Yelp 2014 (Acc)"
+            },
+            {
+              "name": "Accuracy-NM"
+            },
+            {
+              "name": "Accuracy(stratified10-fold)"
+            },
+            {
+              "name": "Intent Accuracy"
+            },
+            {
+              "name": "Accuracy (Val)"
+            },
+            {
+              "name": "Accuracy (val)"
+            },
+            {
+              "name": "Accuracy@5"
+            },
+            {
+              "name": "Accuracy (Cross-View, Avg)"
+            },
+            {
+              "name": "matching accuracy"
+            },
+            {
+              "name": "ImageNet Top-1 Accuracy"
+            },
+            {
+              "name": "ImageNet Top-5 Accuracy"
+            },
+            {
+              "name": "Validation Accuracy"
+            },
+            {
+              "name": "Validation Acc"
+            },
+            {
+              "name": "Top 1 Accuracy (kNN, k=20)"
+            },
+            {
+              "name": "Top-10 Accuracy"
+            },
+            {
+              "name": "In-KB Accuracy"
+            },
+            {
+              "name": "Top 1 Accuracy - Act."
+            },
+            {
+              "name": "Top 1 Accuracy - Noun"
+            },
+            {
+              "name": "Top 1 Accuracy - Verb"
+            },
+            {
+              "name": "Top 5 Accuracy - Act."
+            },
+            {
+              "name": "Top 5 Accuracy - Noun"
+            },
+            {
+              "name": "Top 5 Accuracy - Verb"
+            },
+            {
+              "name": "Average Incremental Accuracy"
+            },
+            {
+              "name": "ACC@1-50Clients"
+            },
+            {
+              "name": "ACC@1-10Clients"
+            },
+            {
+              "name": "ACC@1-100Clients"
+            },
+            {
+              "name": "Per-Class Accuracy (1-shot)"
+            },
+            {
+              "name": "Per-Class Accuracy (2-shots)"
+            },
+            {
+              "name": "Per-Class Accuracy (5-shots)"
+            },
+            {
+              "name": "Per-Class Accuracy (10-shots)"
+            },
+            {
+              "name": "Per-Class Accuracy (20-shots)"
+            },
+            {
+              "name": "Per-Class Accuracy  (2-shots)"
+            },
+            {
+              "name": "Banking77 (Acc)"
+            },
+            {
+              "name": "CLINC150 (Acc)"
+            },
+            {
+              "name": "HWU64 (Acc)"
+            }
+          ]
+        },
+        {
+          "name": "Contour accuracy",
+          "children": [
+            {
+              "name": "O (Average of Measures)",
+              "comment": "Metric manually assigned based on source paper"
+            }
+          ]
+        },
+        {
+          "name": "Blank-level accuracy",
+          "children": [
+            {
+              "name": "BA"
+            }
+          ]
+        },
+        {
+          "name": "Matched accuracy",
+          "children": [
+            {
+              "name": "Matched"
+            }
+          ]
+        },
+        {
+          "name": "Mismatched accuracy",
+          "children": [
+            {
+              "name": "Mismatched"
+            }
+          ]
+        },
+        {
+          "name": "Accuracy (H50)"
+        },
+        {
+          "name": "Rank-1 Recognition Rate"
+        },
+        {
+          "name": "Accuracy (10-fold)"
+        },
+        {
+          "name": "Accuracy(on validation set)"
+        },
+        {
+          "name": "14 gestures accuracy"
+        },
+        {
+          "name": "Average Accuracy",
+          "children": [
+            {
+              "name": "Avg accuracy"
+            }
+          ]
+        },
+        {
+          "name": "16x16 Accuracy"
+        },
+        {
+          "name": "24x24 Accuracy"
+        },
+        {
+          "name": "32x32 Accuracy"
+        },
+        {
+          "name": "48x48 Accuracy"
+        },
+        {
+          "name": "Per-class Accuracy"
+        },
+        {
+          "name": "Per-pixel Accuracy"
+        },
+        {
+          "name": "Classification Accuracy"
+        },
+        {
+          "name": "Top-1 accuracy %"
+        },
+        {
+          "name": "Request"
+        },
+        {
+          "name": "Mean Rank"
+        },
+        {
+          "name": "Top 1 Accuracy"
+        },
+        {
+          "name": "Top 5 Accuracy"
+        },
+        {
+          "name": "1-of-100 Accuracy"
+        },
+        {
+          "name": "Accuracy (median)"
+        },
+        {
+          "name": "Rank-1"
+        },
+        {
+          "name": "Rank-20"
+        },
+        {
+          "name": "Rank-5"
+        },
+        {
+          "name": "Rank-10"
+        },
+        {
+          "name": "Object Top 5 Accuracy"
+        },
+        {
+          "name": "Object Top-1 Accuracy"
+        },
+        {
+          "name": "Verb Top-1 Accuracy"
+        },
+        {
+          "name": "Verb Top-5 Accuracy"
+        },
+        {
+          "name": "Top-1 Accuracy"
+        },
+        {
+          "name": "Top-5 Accuracy"
+        },
+        {
+          "name": "Accuracy (CV)"
+        },
+        {
+          "name": "Accuracy (CS)"
+        },
+        {
+          "name": "28 gestures accuracy"
+        },
+        {
+          "name": "Accuracy (RGB+pose)"
+        },
+        {
+          "name": "Accuracy (pose)"
+        },
+        {
+          "name": "Average accuracy of 3 splits"
+        },
+        {
+          "name": "Accuracy (Cross-Subject)"
+        },
+        {
+          "name": "Accuracy (Cross-Setup)"
+        },
+        {
+          "name": "Accuracy (CV I)"
+        },
+        {
+          "name": "Accuracy (CV II)"
+        },
+        {
+          "name": "Accuracy (AV I)"
+        },
+        {
+          "name": "Accuracy (AV II)"
+        },
+        {
+          "name": "3-fold Accuracy"
+        },
+        {
+          "name": "Accuracy (High)"
+        },
+        {
+          "name": "Accuracy (Middle)"
+        },
+        {
+          "name": "Acc"
+        },
+        {
+          "name": "Average Per-Class Accuracy"
+        },
+        {
+          "name": "Top-2 accuracy %"
+        },
+        {
+          "name": "Top-3 accuracy %"
+        },
+        {
+          "name": "Seen accuracy"
+        },
+        {
+          "name": "Unseen accuracy"
+        },
+        {
+          "name": "Daily Mail",
+          "comment": "Name of a benchmark. The main metric used for evaluating the benchmark was used to select the superclass."
+        },
+        {
+          "name": "Accuracy-CN"
+        },
+        {
+          "name": "Accuracy-NE"
+        },
+        {
+          "name": "RACE-m",
+          "comment": "Name of a benchmark. The main metric used for evaluating the benchmark was used to select the superclass."
+        },
+        {
+          "name": "RACE-h",
+          "comment": "Name of a benchmark. The main metric used for evaluating the benchmark was used to select the superclass."
+        },
+        {
+          "name": "RACE",
+          "comment": "Name of a benchmark. The main metric used for evaluating the benchmark was used to select the superclass."
+        },
+        {
+          "name": "Accuracy (trained on 10k)"
+        },
+        {
+          "name": "Accuracy (trained on 1k)"
+        },
+        {
+          "name": "Out-of-domain",
+          "comment": "Metric manually assigned based on source paper"
+        },
+        {
+          "name": "Unigram Acc"
+        },
+        {
+          "name": "Accuracy(10-fold)"
+        },
+        {
+          "name": "Percentage correct"
+        },
+        {
+          "name": "Accuracy (LOS>3 Days)"
+        },
+        {
+          "name": "Accuracy (LOS>7 Days)"
+        },
+        {
+          "name": "Execution Accuracy"
+        },
+        {
+          "name": "Exact Match Accuracy"
+        },
+        {
+          "name": "Accuracy (Dev)"
+        },
+        {
+          "name": "Accuracy (Test-P)"
+        },
+        {
+          "name": "Accuracy (Test-U)"
+        },
+        {
+          "name": "% Test Accuracy"
+        },
+        {
+          "name": "% Train Accuracy"
+        },
+        {
+          "name": "Per-Class Accuracy"
+        },
+        {
+          "name": "Global Accuracy"
+        },
+        {
+          "name": "Pixel Accuracy"
+        },
+        {
+          "name": "mAcc"
+        },
+        {
+          "name": "oAcc"
+        },
+        {
+          "name": "Accuracy (anywhere)"
+        },
+        {
+          "name": "Top-1 Localization Accuracy"
+        },
+        {
+          "name": "Accuracy (MoF)"
+        },
+        {
+          "name": "MRPC",
+          "comment": "Name of a benchmark. The main metric used for evaluating the benchmark was used to select the superclass."
+        },
+        {
+          "name": "SICK-E",
+          "comment": "Name of a benchmark. The main metric used for evaluating the benchmark was used to select the superclass."
+        },
+        {
+          "name": "Accuracy (ADD)"
+        },
+        {
+          "name": "DVD",
+          "comment": "Metric manually assigned based on source paper"
+        },
+        {
+          "name": "Books",
+          "comment": "Metric manually assigned based on source paper"
+        },
+        {
+          "name": "Electronics",
+          "comment": "Metric manually assigned based on source paper"
+        },
+        {
+          "name": "Kitchen",
+          "comment": "Metric manually assigned based on source paper"
+        },
+        {
+          "name": "Mean Acc (Restaurant + Laptop)"
+        },
+        {
+          "name": "Restaurant (Acc)"
+        },
+        {
+          "name": "Laptop (Acc)"
+        },
+        {
+          "name": "Accuracy (3-way)"
+        },
+        {
+          "name": "Accuracy (4-way)"
+        },
+        {
+          "name": "Binary Accuracy"
+        },
+        {
+          "name": "Aspect",
+          "comment": "Metrics manually assigned based on source paper."
+        },
+        {
+          "name": "Sentiment",
+          "comment": "Metric manually assigned based on source paper"
+        },
+        {
+          "name": "Accuracy (Inter-Patient)"
+        },
+        {
+          "name": "Accuracy (Intra-Patient)"
+        },
+        {
+          "name": "Accuracy (TEST-DB)"
+        },
+        {
+          "name": "Accuracy (TRAIN-DB)"
+        },
+        {
+          "name": "Accuracy (VEB+)"
+        },
+        {
+          "name": "Acc-at-0.5m, 2\u00b0"
+        },
+        {
+          "name": "Acc-at-1m, 5\u00b0"
+        },
+        {
+          "name": "Acc-at-5m, 10\u00b0"
+        },
+        {
+          "name": "Weighted Accuracy"
+        },
+        {
+          "name": "Per-class Accuracy (Unrelated)"
+        },
+        {
+          "name": "Per-class Accuracy (Agree)"
+        },
+        {
+          "name": "Per-class Accuracy (Disagree)"
+        },
+        {
+          "name": "Per-class Accuracy (Discuss)"
+        },
+        {
+          "name": "Unpaired Accuracy"
+        },
+        {
+          "name": "Real World Accuracy"
+        },
+        {
+          "name": "Overall Accuracy"
+        },
+        {
+          "name": "Pointing Game Accuracy"
+        },
+        {
+          "name": "Mean Accuracy"
+        },
+        {
+          "name": "Permuted Accuracy"
+        },
+        {
+          "name": "Unpermuted Accuracy"
+        },
+        {
+          "name": "Average Class Accuracy"
+        },
+        {
+          "name": "Blur Segmentation Accuracy"
+        },
+        {
+          "name": "FSF",
+          "comment": "Metric manually assigned based on source paper"
+        },
+        {
+          "name": "Total Accuracy"
+        },
+        {
+          "name": "Accuracy (agg)"
+        },
+        {
+          "name": "Accuracy (sel)"
+        },
+        {
+          "name": "Accuracy (%)"
+        },
+        {
+          "name": "Accuracy"
+        },
+        {
+          "name": "Accuracy (10 unseen classes)"
+        },
+        {
+          "name": "Accuracy (24 unseen classes)"
+        },
+        {
+          "name": "Accuracy (12 unseen classes)"
+        },
+        {
+          "name": "Acc. (test)"
+        },
+        {
+          "name": "Accuracy (2 classes)"
+        },
+        {
+          "name": "Accuracy (10 classes)"
+        }
+      ]
+    },
+    {
+      "name": "Unlabeled attachment score",
+      "children": [
+        {
+          "name": "UAS"
+        }
+      ]
+    },
+    {
+      "name": "Value of Information",
+      "children": [
+        {
+          "name": "VOI"
+        }
+      ]
+    },
+    {
+      "name": "Damerau\u2013Levenshtein distance",
+      "children": [
+        {
+          "name": "DLD"
+        }
+      ]
+    },
+    {
+      "name": "Learned perceptual similarity metric",
+      "children": [
+        {
+          "name": "LPIPS"
+        }
+      ]
+    },
+    {
+      "name": "Maximum mean discrepancy",
+      "children": [
+        {
+          "name": "MMD-CD"
+        },
+        {
+          "name": "MMD"
+        }
+      ]
+    },
+    {
+      "name": "Scale-invariant signal-to-distortion ratio",
+      "children": [
+        {
+          "name": "SI-SDR"
+        }
+      ]
+    },
+    {
+      "name": "Word Error Rate",
+      "children": [
+        {
+          "name": "CallHome",
+          "comment": "Name of a benchmark. The main metric used for evaluating the benchmark was used to select the superclass."
+        },
+        {
+          "name": "SwitchBoard",
+          "comment": "Name of a benchmark. The main metric used for evaluating the benchmark was used to select the superclass."
+        },
+        {
+          "name": "Word Error Rate (WER)"
+        },
+        {
+          "name": "WER for Arabic"
+        },
+        {
+          "name": "WER for French"
+        },
+        {
+          "name": "WER for Spanish"
+        },
+        {
+          "name": "WER for Turkish"
+        },
+        {
+          "name": "WAR"
+        },
+        {
+          "name": "WER"
+        }
+      ]
+    },
+    {
+      "name": "Mean 3D joint position error",
+      "children": [
+        {
+          "name": "MJPE"
+        }
+      ]
+    },
+    {
+      "name": "Vertex-to-vertex metric",
+      "children": [
+        {
+          "name": "v2v error"
+        }
+      ]
+    },
+    {
+      "name": "Intensive Care After Thrombolysis Score",
+      "children": [
+        {
+          "name": "ICAT Score"
+        }
+      ]
+    },
+    {
+      "name": "Power-angular-spectrum Similarity Percentage"
+    },
+    {
+      "name": "Average 3D distance of model points",
+      "children": [
+        {
+          "name": "Mean ADD"
+        },
+        {
+          "name": "Mean ADD-S"
+        }
+      ]
+    },
+    {
+      "name": "Reprojection error",
+      "children": [
+        {
+          "name": "Reprojection Error (CPM)"
+        }
+      ]
+    },
+    {
+      "name": "Specificity",
+      "children": [
+        {
+          "name": "Specificity (VEB+)"
+        }
+      ]
+    },
+    {
+      "name": "Inception Score",
+      "children": [
+        {
+          "name": "Conditional inception score",
+          "children": [
+            {
+              "name": "CIS"
+            },
+            {
+              "name": "Cls"
+            }
+          ]
+        },
+        {
+          "name": "IS"
+        },
+        {
+          "name": "Inception score",
+          "children": [
+            {
+              "name": "mask-IS"
+            }
+          ]
+        },
+        {
+          "name": "Inception Score"
+        }
+      ]
+    },
+    {
+      "name": "Cross View Ground Truth Consistency Error",
+      "children": [
+        {
+          "name": "CVGTCE"
+        }
+      ]
+    },
+    {
+      "name": "Ground Truth Error",
+      "children": [
+        {
+          "name": "GTE"
+        }
+      ]
+    },
+    {
+      "name": "Perceptual Evaluation of Speech Quality",
+      "children": [
+        {
+          "name": "PESQ"
+        }
+      ]
+    },
+    {
+      "name": "Absolute relative error",
+      "children": [
+        {
+          "name": "absolute relative error"
+        }
+      ]
+    },
+    {
+      "name": "Logarithmic loss",
+      "children": [
+        {
+          "name": "Log Loss"
+        },
+        {
+          "name": "LogLoss"
+        }
+      ]
+    },
+    {
+      "name": "P-at-K",
+      "children": [
+        {
+          "name": "P-at-1"
+        },
+        {
+          "name": "P-at-10%"
+        },
+        {
+          "name": "P-at-30%"
+        },
+        {
+          "name": "P-at-5"
+        },
+        {
+          "name": "P-at-20"
+        },
+        {
+          "name": "P-at-3"
+        },
+        {
+          "name": "P-at-10"
+        },
+        {
+          "name": "P@100"
+        },
+        {
+          "name": "P@200"
+        },
+        {
+          "name": "P@300"
+        },
+        {
+          "name": "PA-MPVPE"
+        },
+        {
+          "name": "P@5K"
+        },
+        {
+          "name": "P@50K"
+        }
+      ]
+    },
+    {
+      "name": "R-at-K",
+      "children": [
+        {
+          "name": "1 in 2 R-at-1"
+        },
+        {
+          "name": "1 in 10 R-at-2"
+        },
+        {
+          "name": "R-at-1"
+        },
+        {
+          "name": "R-at-10"
+        },
+        {
+          "name": "R-at-5"
+        },
+        {
+          "name": "text-to-video Median Rank"
+        },
+        {
+          "name": "text-to-video R-at-1"
+        },
+        {
+          "name": "text-to-video R-at-5"
+        },
+        {
+          "name": "text-to-video R-at-10"
+        },
+        {
+          "name": "text-to-video Mean Rank"
+        },
+        {
+          "name": "text-to-video R-at-50"
+        },
+        {
+          "name": "video-to-text Mean Rank"
+        },
+        {
+          "name": "video-to-text Median Rank"
+        },
+        {
+          "name": "video-to-text R-at-1"
+        },
+        {
+          "name": "video-to-text R-at-10"
+        },
+        {
+          "name": "video-to-text R-at-5"
+        },
+        {
+          "name": "1 in 10 R-at-1"
+        },
+        {
+          "name": "1 in 10 R-at-5"
+        },
+        {
+          "name": "Recall-at-50"
+        },
+        {
+          "name": "Recall-at-10"
+        },
+        {
+          "name": "recall-at-1"
+        },
+        {
+          "name": "recall-at-5"
+        },
+        {
+          "name": "recall-at-top1%"
+        },
+        {
+          "name": "Image-to-text R-at-1"
+        },
+        {
+          "name": "Image-to-text R-at-10"
+        },
+        {
+          "name": "Image-to-text R-at-5"
+        },
+        {
+          "name": "Recall-at-20"
+        },
+        {
+          "name": "Recall-at-100"
+        },
+        {
+          "name": "Recall-at-2"
+        },
+        {
+          "name": "Recall-at-1"
+        },
+        {
+          "name": "R-at-16"
+        },
+        {
+          "name": "R-at-2"
+        },
+        {
+          "name": "R-at-32"
+        },
+        {
+          "name": "R-at-4"
+        },
+        {
+          "name": "R-at-8"
+        },
+        {
+          "name": "R10-at-1"
+        },
+        {
+          "name": "R10-at-2"
+        },
+        {
+          "name": "R10-at-5"
+        },
+        {
+          "name": "R2-at-1"
+        },
+        {
+          "name": "Recall at 80% precision (Landmarks Visibility)"
+        },
+        {
+          "name": "R@100"
+        },
+        {
+          "name": "Recall@5"
+        },
+        {
+          "name": "Recall@40"
+        },
+        {
+          "name": "R@50"
+        },
+        {
+          "name": "Recall @ 10"
+        }
+      ]
+    },
+    {
+      "name": "Energy above hull",
+      "children": [
+        {
+          "name": "EaH-at-95"
+        },
+        {
+          "name": "EaH-at-99"
+        }
+      ]
+    },
+    {
+      "name": "True accept rate",
+      "children": [
+        {
+          "name": "TAR at FAR=0.001"
+        },
+        {
+          "name": "TAR at FAR=0.01"
+        },
+        {
+          "name": "TAR at FAR=0.1"
+        }
+      ]
+    },
+    {
+      "name": "Bits per sub-pixel",
+      "children": [
+        {
+          "name": "bpsp"
+        }
+      ]
+    },
+    {
+      "name": "Variation of information",
+      "children": [
+        {
+          "name": "Total Variation of Information"
+        },
+        {
+          "name": "VI Split"
+        },
+        {
+          "name": "VI Merge"
+        }
+      ]
+    },
+    {
+      "name": "Panoptic quality",
+      "children": [
+        {
+          "name": "PQ"
+        },
+        {
+          "name": "PQst"
+        },
+        {
+          "name": "PQth"
+        }
+      ]
+    },
+    {
+      "name": "Mean performance under corruption",
+      "children": [
+        {
+          "name": "mPC [AP50]"
+        },
+        {
+          "name": "mPC [AP]"
+        }
+      ]
+    },
+    {
+      "name": "Undetermined",
+      "comment": "Unknown metric. Requires further tracking back to source of origin.",
+      "children": [
+        {
+          "name": "Joint goals"
+        },
+        {
+          "name": "Delta1"
+        },
+        {
+          "name": "10 fold Cross validation"
+        },
+        {
+          "name": "Fullset (public)"
+        },
+        {
+          "name": "Failure private"
+        },
+        {
+          "name": "NI"
+        },
+        {
+          "name": "SD"
+        },
+        {
+          "name": "Joint"
+        },
+        {
+          "name": "Area"
+        },
+        {
+          "name": "Food"
+        },
+        {
+          "name": "Price"
+        },
+        {
+          "name": "Speedup"
+        },
+        {
+          "name": "Using 2D ground-truth joints"
+        },
+        {
+          "name": "Multi-View or Monocular"
+        },
+        {
+          "name": "AVD"
+        },
+        {
+          "name": "IED"
+        },
+        {
+          "name": "10%"
+        },
+        {
+          "name": "Val"
+        },
+        {
+          "name": "Test"
+        },
+        {
+          "name": "In-domain"
+        },
+        {
+          "name": "Overall"
+        },
+        {
+          "name": "count"
+        },
+        {
+          "name": "Actions Top-1 (S2)"
+        },
+        {
+          "name": "Ambiguous dataset"
+        },
+        {
+          "name": "Base Dataset"
+        },
+        {
+          "name": "Dev"
+        },
+        {
+          "name": "All"
+        },
+        {
+          "name": "Success"
+        },
+        {
+          "name": "5 fold cross validation"
+        },
+        {
+          "name": "D-1"
+        },
+        {
+          "name": "D-2"
+        },
+        {
+          "name": "Test Score"
+        },
+        {
+          "name": "Edit"
+        },
+        {
+          "name": "AMT"
+        },
+        {
+          "name": "AOP"
+        },
+        {
+          "name": "5\u00b05 cm"
+        },
+        {
+          "name": "Average"
+        },
+        {
+          "name": "Return"
+        },
+        {
+          "name": "Goal Progress"
+        },
+        {
+          "name": "HP"
+        },
+        {
+          "name": "Size (MB)"
+        },
+        {
+          "name": "Fl-all"
+        },
+        {
+          "name": "Validation"
+        },
+        {
+          "name": "# of clusters (k)"
+        },
+        {
+          "name": "CPU (sec)"
+        },
+        {
+          "name": "GPU sec"
+        },
+        {
+          "name": "ERR-at-20"
+        },
+        {
+          "name": "Training Split"
+        },
+        {
+          "name": "99.46%"
+        },
+        {
+          "name": "verification"
+        },
+        {
+          "name": "Gender"
+        },
+        {
+          "name": "Hat"
+        },
+        {
+          "name": "0..5sec"
+        },
+        {
+          "name": "3 sec"
+        },
+        {
+          "name": "30 sec"
+        },
+        {
+          "name": "Consistent"
+        },
+        {
+          "name": "Flexible"
+        },
+        {
+          "name": "Informative"
+        },
+        {
+          "name": "Inquisitive"
+        },
+        {
+          "name": "Cnxe"
+        },
+        {
+          "name": "Avg."
+        },
+        {
+          "name": "Animals"
+        },
+        {
+          "name": "J&F"
+        },
+        {
+          "name": "J&F@60s"
+        },
+        {
+          "name": "Frozen"
+        },
+        {
+          "name": "Pretraining Dataset"
+        },
+        {
+          "name": "Pretrain"
+        },
+        {
+          "name": "Decidability"
+        },
+        {
+          "name": "overall"
+        },
+        {
+          "name": "yes/no"
+        },
+        {
+          "name": "other"
+        },
+        {
+          "name": "Binary"
+        },
+        {
+          "name": "Open"
+        },
+        {
+          "name": "1/4"
+        },
+        {
+          "name": "1/2"
+        },
+        {
+          "name": "4 Hops"
+        },
+        {
+          "name": "520"
+        },
+        {
+          "name": "Prior"
+        },
+        {
+          "name": "4"
+        },
+        {
+          "name": "PRE-TRAINING DATASET"
+        },
+        {
+          "name": "Emoji"
+        },
+        {
+          "name": "Emotion"
+        },
+        {
+          "name": "Hate"
+        },
+        {
+          "name": "Irony"
+        },
+        {
+          "name": "Avg"
+        },
+        {
+          "name": "Network"
+        },
+        {
+          "name": "Country level (750 km)"
+        },
+        {
+          "name": "Continent level (2500 km)"
+        },
+        {
+          "name": "StreetMover"
+        },
+        {
+          "name": "J&F 1st frame"
+        },
+        {
+          "name": "J&F Full video"
+        },
+        {
+          "name": "Figure"
+        },
+        {
+          "name": "% < 11.25"
+        },
+        {
+          "name": "% < 22.5"
+        },
+        {
+          "name": "% < 30"
+        },
+        {
+          "name": "Conn"
+        },
+        {
+          "name": "Pretrained"
+        },
+        {
+          "name": "Pretrained/Transfer Learning"
+        },
+        {
+          "name": "success"
+        },
+        {
+          "name": "oracle success"
+        },
+        {
+          "name": "Final_score"
+        }
+      ]
+    },
+    {
+      "name": "Three-pixel-error",
+      "children": [
+        {
+          "name": "three pixel error"
+        }
+      ]
+    },
+    {
+      "name": "Final agent reward",
+      "children": [
+        {
+          "name": "final agent reward"
+        }
+      ]
+    },
+    {
+      "name": "Interest",
+      "children": [
+        {
+          "name": "interest (human)"
+        }
+      ]
+    },
+    {
+      "name": "Relevance",
+      "children": [
+        {
+          "name": "relevance (human)"
+        }
+      ]
+    },
+    {
+      "name": "Relative Performance under Corruption",
+      "children": [
+        {
+          "name": "rPC [%]"
+        }
+      ]
+    },
+    {
+      "name": "Coverage",
+      "children": [
+        {
+          "name": "Mean Weighted Coverage",
+          "children": [
+            {
+              "name": "mWCov"
+            }
+          ]
+        },
+        {
+          "name": "Mean coverage",
+          "children": [
+            {
+              "name": "mCov"
+            }
+          ]
+        },
+        {
+          "name": "coverage"
+        }
+      ]
+    },
+    {
+      "name": "Bits per dimension",
+      "children": [
+        {
+          "name": "bpd"
+        }
+      ]
+    },
+    {
+      "name": "RSim",
+      "children": [
+        {
+          "name": "rsim"
+        }
+      ]
+    },
+    {
+      "name": "Visual surface similarity",
+      "children": [
+        {
+          "name": "VSS-2D"
+        },
+        {
+          "name": "VSS-3D"
+        }
+      ]
+    },
+    {
+      "name": "Cohens Kappa",
+      "children": [
+        {
+          "name": "Kappa"
+        },
+        {
+          "name": "Kappa@200"
+        },
+        {
+          "name": "Kappa@1%"
+        }
+      ]
+    },
+    {
+      "name": "Average Displacement Error",
+      "children": [
+        {
+          "name": "ADE-8/12 @K = 20"
+        },
+        {
+          "name": "ADE (8/12) @K=5"
+        },
+        {
+          "name": "ADE (in world coordinates)"
+        },
+        {
+          "name": "ADE(0.5)"
+        },
+        {
+          "name": "ADE(1.0)"
+        },
+        {
+          "name": "ADE(1.5)"
+        }
+      ]
+    },
+    {
+      "name": "METEOR",
+      "children": [
+        {
+          "name": "Meteor (EN-DE)"
+        },
+        {
+          "name": "Meteor (EN-FR)"
+        }
+      ]
+    },
+    {
+      "name": "Polyphonic Sound Detection Score",
+      "children": [
+        {
+          "name": "PSDS (gtc=dtc=0.5,emax=100,cttc=0.3,ct=1,st=0)"
+        },
+        {
+          "name": "PSDS1"
+        },
+        {
+          "name": "PSDS2"
+        }
+      ]
+    },
+    {
+      "name": "Number of clicks",
+      "children": [
+        {
+          "name": "NoC@90"
+        },
+        {
+          "name": "NoC@85"
+        },
+        {
+          "name": "NoC@80"
+        }
+      ]
+    },
+    {
+      "name": "1-Nearest Neighbor Accuracy",
+      "children": [
+        {
+          "name": "1-NNA-CD"
+        }
+      ]
+    },
+    {
+      "name": "GAR at FAR",
+      "children": [
+        {
+          "name": "GAR @0.01% FAR Impersonation"
+        },
+        {
+          "name": "GAR @0.01% FAR Obfuscation"
+        },
+        {
+          "name": "GAR @0.01% FAR Overall"
+        },
+        {
+          "name": "GAR @0.01% FAR Plastic Surgery"
+        },
+        {
+          "name": "GAR @0.1% FAR Plastic Surgery"
+        }
+      ]
+    },
+    {
+      "name": "Hops",
+      "children": [
+        {
+          "name": "5 Hops"
+        },
+        {
+          "name": "6 Hops"
+        },
+        {
+          "name": "7 Hops"
+        },
+        {
+          "name": "8 Hops"
+        },
+        {
+          "name": "9 Hops"
+        },
+        {
+          "name": "10 Hops"
+        }
+      ]
+    },
+    {
+      "name": "ABX",
+      "children": [
+        {
+          "name": "ABX-across"
+        },
+        {
+          "name": "ABX-within"
+        }
+      ]
+    },
+    {
+      "name": "Rand index",
+      "children": [
+        {
+          "name": "VInfo"
+        },
+        {
+          "name": "VRand"
+        }
+      ]
+    },
+    {
+      "name": "Universal POS tag set",
+      "children": [
+        {
+          "name": "UPOS"
+        }
+      ]
+    },
+    {
+      "name": "PR AUC",
+      "children": [
+        {
+          "name": "PR AUC"
+        },
+        {
+          "name": "AUPR"
+        },
+        {
+          "name": "AUC Stdev"
+        },
+        {
+          "name": "AUPRC"
+        },
+        {
+          "name": "PR-AUC"
+        }
+      ]
+    },
+    {
+      "name": "Translation error",
+      "children": [
+        {
+          "name": "Terr"
+        }
+      ]
+    },
+    {
+      "name": "Orientation error",
+      "children": [
+        {
+          "name": "Rerr"
+        }
+      ]
+    },
+    {
+      "name": "Normalized mutual information",
+      "children": [
+        {
+          "name": "NMI"
+        },
+        {
+          "name": "NMI (physiology_6_hours)"
+        },
+        {
+          "name": "NMI (physiology_12_hours)"
+        },
+        {
+          "name": "NMI (physiology_24_hours)"
+        }
+      ]
+    },
+    {
+      "name": "Mean per joint position error after Procrustes Alignment",
+      "children": [
+        {
+          "name": "PA-MPJPE"
+        }
+      ]
+    },
+    {
+      "name": "Mean magnitude of the gradients of the determinant of the Jacobian",
+      "children": [
+        {
+          "name": "Grad Det-Jac"
+        }
+      ]
+    },
+    {
+      "name": "Negative log-likelihood",
+      "children": [
+        {
+          "name": "NLL Test"
+        },
+        {
+          "name": "NegLL"
+        },
+        {
+          "name": "NLL"
+        }
+      ]
+    },
+    {
+      "name": "Negative Jacobian determinant",
+      "children": [
+        {
+          "name": "Neg Jacob Det"
+        }
+      ]
+    },
+    {
+      "name": "Mean surface distance",
+      "children": [
+        {
+          "name": "MSD"
+        }
+      ]
+    },
+    {
+      "name": "R-squared",
+      "children": [
+        {
+          "name": "R^2"
+        }
+      ]
+    },
+    {
+      "name": "Normalized mean error",
+      "children": [
+        {
+          "name": "NME"
+        },
+        {
+          "name": "Mean NME"
+        },
+        {
+          "name": "Mean NME"
+        }
+      ]
+    },
+    {
+      "name": "R-Precision-at-K",
+      "children": [
+        {
+          "name": "RP-at-5"
+        }
+      ]
+    },
+    {
+      "name": "Negative evidence lower bound",
+      "children": [
+        {
+          "name": "Negative ELBO"
+        }
+      ]
+    },
+    {
+      "name": "Part-of-speech",
+      "children": [
+        {
+          "name": "POS"
+        }
+      ]
+    },
+    {
+      "name": "FPR-at-K",
+      "children": [
+        {
+          "name": "FPR95"
+        }
+      ]
+    },
+    {
+      "name": "Human-targeted translation error rate",
+      "children": [
+        {
+          "name": "HTER"
+        }
+      ]
+    },
+    {
+      "name": "Procrustes alignment",
+      "children": [
+        {
+          "name": "PA"
+        }
+      ]
+    },
+    {
+      "name": "Volume similarity",
+      "children": [
+        {
+          "name": "VS"
+        }
+      ]
+    },
+    {
+      "name": "Apnea-hypopnoea index",
+      "children": [
+        {
+          "name": "Mean AHI Error"
+        }
+      ]
+    },
+    {
+      "name": "Exact match",
+      "children": [
+        {
+          "name": "EM"
+        },
+        {
+          "name": "EM (Quasar-T)"
+        },
+        {
+          "name": "Exact Match"
+        }
+      ]
+    },
+    {
+      "name": "Frechet Inception Distance",
+      "children": [
+        {
+          "name": "FID"
+        },
+        {
+          "name": "FIOU(1.5)"
+        },
+        {
+          "name": "FID-10k-training-steps"
+        },
+        {
+          "name": "FID-5k-training-steps"
+        },
+        {
+          "name": "FID-10k-test"
+        },
+        {
+          "name": "FID-50k"
+        },
+        {
+          "name": "FID-0"
+        },
+        {
+          "name": "FID-1"
+        },
+        {
+          "name": "FID-2"
+        },
+        {
+          "name": "FID-4"
+        },
+        {
+          "name": "FID-8"
+        },
+        {
+          "name": "FID (All Surfaces)"
+        },
+        {
+          "name": "FEVER"
+        }
+      ]
+    },
+    {
+      "name": "Expected average overlap",
+      "children": [
+        {
+          "name": "Expected Average Overlap (EAO)"
+        }
+      ]
+    },
+    {
+      "name": "Resource requirements",
+      "children": [
+        {
+          "name": "Number of model parameters",
+          "children": [
+            {
+              "name": "Number of parameters",
+              "children": [
+                {
+                  "name": "No. parameters"
+                },
+                {
+                  "name": "Params (M)"
+                },
+                {
+                  "name": "Parameters"
+                },
+                {
+                  "name": "Params"
+                },
+                {
+                  "name": "Number of params"
+                },
+                {
+                  "name": "Parameters (M)"
+                }
+              ]
+            },
+            {
+              "name": "No. parameters"
+            },
+            {
+              "name": "Params (M)"
+            },
+            {
+              "name": "Parameters"
+            },
+            {
+              "name": "Params"
+            },
+            {
+              "name": "Number of params"
+            },
+            {
+              "name": "Parameters (M)"
+            },
+            {
+              "name": "Number of Params"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Weighted average precision",
+      "children": [
+        {
+          "name": "WAP",
+          "comment": "Label was changed from WA to WAP (wrongly annotated in PWC)."
+        }
+      ]
+    },
+    {
+      "name": "User rating",
+      "comment": "Scores originating from human ratings in user studies",
+      "children": [
+        {
+          "name": "User Study Score"
+        }
+      ]
+    },
+    {
+      "name": "Success rate weighted by path length",
+      "children": [
+        {
+          "name": "spl"
+        }
+      ]
+    },
+    {
+      "name": "Image quality",
+      "children": [
+        {
+          "name": "Quality"
+        }
+      ]
+    },
+    {
+      "name": "Turn-level requests"
+    },
+    {
+      "name": "Out of bound error",
+      "children": [
+        {
+          "name": "OOB Rate (10^\u22123)",
+          "comment": "Metric manually assigned based on source paper"
+        }
+      ]
+    },
+    {
+      "name": "Miss rate",
+      "children": [
+        {
+          "name": "Heavy MR^-2"
+        },
+        {
+          "name": "Partial MR^-2"
+        },
+        {
+          "name": "Bare MR^-2"
+        },
+        {
+          "name": "Small MR^-2"
+        },
+        {
+          "name": "Medium MR^-2"
+        },
+        {
+          "name": "Large MR^-2"
+        },
+        {
+          "name": "MissRateTopK_2_5"
+        },
+        {
+          "name": "MissRateTopK_2_10"
+        }
+      ]
+    },
+    {
+      "name": "Mean rank",
+      "children": [
+        {
+          "name": "MR"
+        }
+      ]
+    },
+    {
+      "name": "Detection score",
+      "children": [
+        {
+          "name": "DS"
+        }
+      ]
+    },
+    {
+      "name": "Compression rate",
+      "children": [
+        {
+          "name": "CR"
+        }
+      ]
+    },
+    {
+      "name": "MOVIE index",
+      "children": [
+        {
+          "name": "MOVIE"
+        }
+      ]
+    },
+    {
+      "name": "Distractor error",
+      "children": [
+        {
+          "name": "DE"
+        }
+      ]
+    },
+    {
+      "name": "Failure rate",
+      "children": [
+        {
+          "name": "FR-at-0.1(%, all)"
+        }
+      ]
+    },
+    {
+      "name": "Frechet ResNet Distance",
+      "children": [
+        {
+          "name": "FRD"
+        }
+      ]
+    },
+    {
+      "name": "Milliseconds per frame",
+      "children": [
+        {
+          "name": "Speed(ms/f)"
+        }
+      ]
+    },
+    {
+      "name": "Mean average distance",
+      "children": [
+        {
+          "name": "Mean ADI"
+        }
+      ]
+    },
+    {
+      "name": "Relative root mean square deviation",
+      "children": [
+        {
+          "name": "m-reIRMSE"
+        },
+        {
+          "name": "m-reIRMSE-nz"
+        },
+        {
+          "name": "m-relRMSE"
+        }
+      ]
+    },
+    {
+      "name": "Integrated root mean-square deviation",
+      "children": [
+        {
+          "name": "iRMSE"
+        }
+      ]
+    },
+    {
+      "name": "AR-AN",
+      "description": "Average Recall vs. Average Number of Proposals per Video"
+    },
+    {
+      "name": "Sequence error"
+    },
+    {
+      "name": "Average daily returns"
+    },
+    {
+      "name": "Mean Opinion Score",
+      "children": [
+        {
+          "name": "MOS"
+        }
+      ]
+    },
+    {
+      "name": "Log-Spectral Distance"
+    },
+    {
+      "name": "Mean Error Rate",
+      "children": [
+        {
+          "name": "Mean Error Rate private"
+        },
+        {
+          "name": "ME (%, all)"
+        }
+      ]
+    },
+    {
+      "name": "LMD"
+    },
+    {
+      "name": "Average 3D Error"
+    },
+    {
+      "name": "Pearson Correlation",
+      "children": [
+        {
+          "name": "SICK-R",
+          "comment": "Name of a benchmark. The main metric used for evaluating the benchmark was used to select the superclass."
+        },
+        {
+          "name": "STS",
+          "comment": "Name of a benchmark. The main metric used for evaluating the benchmark was used to select the superclass."
+        },
+        {
+          "name": "Pearson R"
+        },
+        {
+          "name": "Pearson Correlation Coefficient"
+        },
+        {
+          "name": "Pearson correlation coefficient (PCC)"
+        }
+      ]
+    },
+    {
+      "name": "Reasonable Miss Rate",
+      "children": [
+        {
+          "name": "Reasonable MR^-2"
+        }
+      ]
+    },
+    {
+      "name": "Kernel Inception Distance"
+    },
+    {
+      "name": "Classification Error"
+    },
+    {
+      "name": "Diversity"
+    },
+    {
+      "name": "Mean Angle Error"
+    },
+    {
+      "name": "Percentage error"
+    },
+    {
+      "name": "Phoneme Error Rate"
+    },
+    {
+      "name": "Mean Reconstruction Error (mm)"
+    },
+    {
+      "name": "Path Length"
+    },
+    {
+      "name": "Step Change (10^\u22123)"
+    },
+    {
+      "name": "Path Difference"
+    },
+    {
+      "name": "Player Distance"
+    },
+    {
+      "name": "L2",
+      "children": [
+        {
+          "name": "L2 Loss (10^-4)"
+        },
+        {
+          "name": "rect mask l2 err"
+        },
+        {
+          "name": "free-form mask l2 err"
+        },
+        {
+          "name": "L2 Norm"
+        }
+      ]
+    },
+    {
+      "name": "Warping Error"
+    },
+    {
+      "name": "CREMI Score"
+    },
+    {
+      "name": "Model Entropy"
+    },
+    {
+      "name": "Bits per byte"
+    },
+    {
+      "name": "L1",
+      "children": [
+        {
+          "name": "rect mask l1 error"
+        },
+        {
+          "name": "free-form mask l1 err"
+        },
+        {
+          "name": "L1 error"
+        },
+        {
+          "name": "L1-loss"
+        }
+      ]
+    },
+    {
+      "name": "SceneFID"
+    },
+    {
+      "name": "Test error",
+      "children": [
+        {
+          "name": "Test Error"
+        }
+      ]
+    },
+    {
+      "name": "Interpolation Error"
+    },
+    {
+      "name": "NAB score",
+      "children": [
+        {
+          "name": "NAB (standard)"
+        },
+        {
+          "name": "NAB (lowFP)"
+        },
+        {
+          "name": "NAB (LowFN)"
+        }
+      ]
+    },
+    {
+      "name": "Score",
+      "children": [
+        {
+          "name": "Max Score"
+        },
+        {
+          "name": "Average Score"
+        },
+        {
+          "name": "Best Score"
+        }
+      ]
+    },
+    {
+      "name": "Median Relighting Error"
+    },
+    {
+      "name": "CIDEr",
+      "children": [
+        {
+          "name": "CIDr"
+        },
+        {
+          "name": "CIDER"
+        },
+        {
+          "name": "CIDEr-D"
+        }
+      ]
+    },
+    {
+      "name": "Perplexity",
+      "children": [
+        {
+          "name": "Test perplexity"
+        },
+        {
+          "name": "Validation perplexity"
+        },
+        {
+          "name": "PPL"
+        }
+      ]
+    },
+    {
+      "name": "NIST",
+      "comment": "Both the name of a metric and of a benchmark dataset."
+    },
+    {
+      "name": "Spearman Correlation"
+    },
+    {
+      "name": "Temporal awareness"
+    },
+    {
+      "name": "BPE Perplexity"
+    },
+    {
+      "name": "Error"
+    },
+    {
+      "name": "GLEU"
+    },
+    {
+      "name": "SPICE"
+    },
+    {
+      "name": "Medium Human-Normalized Score"
+    },
+    {
+      "name": "Modularity"
+    },
+    {
+      "name": "Angular Error"
+    },
+    {
+      "name": "Consistency"
+    },
+    {
+      "name": "Average Treatment Effect Error"
+    },
+    {
+      "name": "Mean target overlap ratio"
+    },
+    {
+      "name": "Chamfer Distance",
+      "children": [
+        {
+          "name": "Coherent"
+        },
+        {
+          "name": "Chamfer (cm)"
+        }
+      ]
+    },
+    {
+      "name": "ELO Rating"
+    },
+    {
+      "name": "Average Success Rate"
+    },
+    {
+      "name": "MACE"
+    },
+    {
+      "name": "Log-likelihood"
+    },
+    {
+      "name": "Cumulative regret"
+    },
+    {
+      "name": "Edit Distance"
+    },
+    {
+      "name": "Sparsity"
+    },
+    {
+      "name": "Diacritic Error Rate"
+    },
+    {
+      "name": "Cross Entropy Loss"
+    },
+    {
+      "name": "Epochs"
+    },
+    {
+      "name": "PERCENTAGE ERROR"
+    },
+    {
+      "name": "SSIM (sRGB)"
+    },
+    {
+      "name": "Negative CLL"
+    },
+    {
+      "name": "FDE"
+    },
+    {
+      "name": "COL"
+    },
+    {
+      "name": "minADE3"
+    },
+    {
+      "name": "minFDE3"
+    },
+    {
+      "name": "FDE-8/12 @K= 20"
+    },
+    {
+      "name": "FDE(8/12) @K=5"
+    },
+    {
+      "name": "FDE (in world coordinates)"
+    },
+    {
+      "name": "FDE(1.5)"
+    },
+    {
+      "name": "C_MSE(1.5)"
+    },
+    {
+      "name": "CF_MSE(1.5)"
+    },
+    {
+      "name": "minADE6"
+    },
+    {
+      "name": "minFDE6"
+    },
+    {
+      "name": "MinFDE_1"
+    },
+    {
+      "name": "OffRoadRate"
+    },
+    {
+      "name": "Average mean absolute error"
+    },
+    {
+      "name": "Delta < 1.25"
+    },
+    {
+      "name": "Delta < 1.25^2"
+    },
+    {
+      "name": "Delta < 1.25^3"
+    },
+    {
+      "name": "BadPix(0.01)"
+    },
+    {
+      "name": "BadPix(0.03)"
+    },
+    {
+      "name": "BadPix(0.07)"
+    },
+    {
+      "name": "Abs Rel"
+    },
+    {
+      "name": "Sq Rel"
+    },
+    {
+      "name": "ORD"
+    },
+    {
+      "name": "D3R"
+    },
+    {
+      "name": "\u03b41.25"
+    },
+    {
+      "name": "ORD"
+    },
+    {
+      "name": "SQ Rel"
+    },
+    {
+      "name": "three pixel error"
+    },
+    {
+      "name": "Hits"
+    },
+    {
+      "name": "Evaluation Protocol"
+    },
+    {
+      "name": "NIQE"
+    },
+    {
+      "name": "Perceptual Index"
+    },
+    {
+      "name": "LLE"
+    },
+    {
+      "name": "FED"
+    },
+    {
+      "name": "HDR-VDP2 Q SCORE"
+    },
+    {
+      "name": "Average Accuracy (10 times)"
+    },
+    {
+      "name": "TAR @ FAR=0.0001"
+    },
+    {
+      "name": "ME (%, all)"
+    },
+    {
+      "name": "CSIM"
+    },
+    {
+      "name": "Normalized Pose Error"
+    },
+    {
+      "name": "inference time (ms)"
+    },
+    {
+      "name": "LSE-C"
+    },
+    {
+      "name": "LSE-D"
+    },
+    {
+      "name": "ICC"
+    },
+    {
+      "name": "pose"
+    },
+    {
+      "name": "ID retrieval"
+    },
+    {
+      "name": "expression"
+    },
+    {
+      "name": "landmarks"
+    },
+    {
+      "name": "perceptual loss"
+    },
+    {
+      "name": "SSIM"
+    },
+    {
+      "name": "NLDA"
+    },
+    {
+      "name": "race-top1"
+    },
+    {
+      "name": "gender-top1"
+    },
+    {
+      "name": "age-top1"
+    },
+    {
+      "name": "A3DP"
+    },
+    {
+      "name": "RC"
+    },
+    {
+      "name": "Driving Score"
+    },
+    {
+      "name": "Route Completion"
+    },
+    {
+      "name": "brier-minFDE (K=6)"
+    },
+    {
+      "name": "minFDE (K=6)"
+    },
+    {
+      "name": "MR (K=6)"
+    },
+    {
+      "name": "minADE (K=6)"
+    },
+    {
+      "name": "DAC (K=6)"
+    },
+    {
+      "name": "minFDE (K=1)"
+    },
+    {
+      "name": "MR (K=1)"
+    },
+    {
+      "name": "minADE (K=1)"
+    },
+    {
+      "name": "Backpack"
+    },
+    {
+      "name": "LCC"
+    },
+    {
+      "name": "LCS"
+    },
+    {
+      "name": "UCC"
+    },
+    {
+      "name": "UCS"
+    },
+    {
+      "name": "Frechet Inception Distance"
+    },
+    {
+      "name": "classification score"
+    },
+    {
+      "name": "DFID"
+    },
+    {
+      "name": "mIoU (13 classes)"
+    },
+    {
+      "name": "10 way 1~2 shot"
+    },
+    {
+      "name": "MIoU (16 classes)"
+    },
+    {
+      "name": "mIOU"
+    },
+    {
+      "name": "rank-1"
+    },
+    {
+      "name": "rank-5"
+    },
+    {
+      "name": "rank-10"
+    },
+    {
+      "name": "Top 1 Error"
+    },
+    {
+      "name": "Test WER"
+    },
+    {
+      "name": "Test CER"
+    },
+    {
+      "name": "Eval2000"
+    },
+    {
+      "name": "Hub5'00"
+    },
+    {
+      "name": "Validation WER"
+    },
+    {
+      "name": "ESTOI"
+    },
+    {
+      "name": "STOI"
+    },
+    {
+      "name": "NDCG (x 100)"
+    },
+    {
+      "name": "MRR (x 100)"
+    },
+    {
+      "name": "Mean"
+    },
+    {
+      "name": "Embedding Average"
+    },
+    {
+      "name": "Greedy Matching"
+    },
+    {
+      "name": "Vector Extrema"
+    },
+    {
+      "name": "5..20sec"
+    },
+    {
+      "name": "10 sec"
+    },
+    {
+      "name": "EC"
+    },
+    {
+      "name": "EO"
+    },
+    {
+      "name": "PO"
+    },
+    {
+      "name": "PRC"
+    },
+    {
+      "name": "RCL"
+    },
+    {
+      "name": "MultiWOZ (Inform)"
+    },
+    {
+      "name": "MultiWOZ (Success)"
+    },
+    {
+      "name": "VI"
+    },
+    {
+      "name": "1-1"
+    },
+    {
+      "name": "P"
+    },
+    {
+      "name": "R"
+    },
+    {
+      "name": "F"
+    },
+    {
+      "name": "Local"
+    },
+    {
+      "name": "Overall Human Rating"
+    },
+    {
+      "name": "Error Recovery"
+    },
+    {
+      "name": "Topic Depth"
+    },
+    {
+      "name": "Likeable"
+    },
+    {
+      "name": "Understanding"
+    },
+    {
+      "name": "Audio Quality MOS"
+    },
+    {
+      "name": "Pleasantness MOS"
+    },
+    {
+      "name": "RE+ Macro F1"
+    },
+    {
+      "name": "Sentence Encoder"
+    },
+    {
+      "name": "Relation classification F1"
+    },
+    {
+      "name": "ROC-AUC"
+    },
+    {
+      "name": "Kendall's Tau"
+    },
+    {
+      "name": "Top-1"
+    },
+    {
+      "name": "TFMA"
+    },
+    {
+      "name": "MinCnxe"
+    },
+    {
+      "name": "ATWV"
+    },
+    {
+      "name": "MTWV"
+    },
+    {
+      "name": "SSF"
+    },
+    {
+      "name": "PMUs"
+    },
+    {
+      "name": "ISF"
+    },
+    {
+      "name": "PMUi"
+    },
+    {
+      "name": "PL"
+    },
+    {
+      "name": "lowerbound"
+    },
+    {
+      "name": "Google Speech Commands V1 12"
+    },
+    {
+      "name": "Google Speech Commands V2 12"
+    },
+    {
+      "name": "Google Speech Commands V2 2"
+    },
+    {
+      "name": "Google Speech Commands V2 20"
+    },
+    {
+      "name": "Google Speech Commands V2 35"
+    },
+    {
+      "name": "Google Speech Commands V1 2"
+    },
+    {
+      "name": "Google Speech Commands V1 20"
+    },
+    {
+      "name": "Google Speech Commands V1 35"
+    },
+    {
+      "name": "Google Speech Commands V1 6"
+    },
+    {
+      "name": "10-keyword Speech Commands dataset"
+    },
+    {
+      "name": "Latency (STM32F746ZG)"
+    },
+    {
+      "name": "MPVPE"
+    },
+    {
+      "name": "acceleration error"
+    },
+    {
+      "name": "MPJAE"
+    },
+    {
+      "name": "Use Video Sequence"
+    },
+    {
+      "name": "Frames Needed"
+    },
+    {
+      "name": "Need Ground Truth 2D Pose"
+    },
+    {
+      "name": "Number of Views"
+    },
+    {
+      "name": "Number of Frames Per View"
+    },
+    {
+      "name": "3D Annotations"
+    },
+    {
+      "name": "PCP3D"
+    },
+    {
+      "name": "MRPE"
+    },
+    {
+      "name": "1*1"
+    },
+    {
+      "name": "bits/dimension"
+    },
+    {
+      "name": "nats"
+    },
+    {
+      "name": "Bits per dim"
+    },
+    {
+      "name": "Intra-FID"
+    },
+    {
+      "name": "P-IDS"
+    },
+    {
+      "name": "U-IDS"
+    },
+    {
+      "name": "Adversarial"
+    },
+    {
+      "name": "SAM"
+    },
+    {
+      "name": "CapS"
+    },
+    {
+      "name": "Retrieval Top10 Recall"
+    },
+    {
+      "name": "MPS"
+    },
+    {
+      "name": "SIMM"
+    },
+    {
+      "name": "Median Relative Edit Distance"
+    },
+    {
+      "name": "ALI"
+    },
+    {
+      "name": "DSC"
+    },
+    {
+      "name": "Avg DSC"
+    },
+    {
+      "name": "mean Dice"
+    },
+    {
+      "name": "Average MAE"
+    },
+    {
+      "name": "S-Measure"
+    },
+    {
+      "name": "max E-Measure"
+    },
+    {
+      "name": "Specificity"
+    },
+    {
+      "name": "precision"
+    },
+    {
+      "name": "Avg HD"
+    },
+    {
+      "name": "TC"
+    },
+    {
+      "name": "ET"
+    },
+    {
+      "name": "WT"
+    },
+    {
+      "name": "SwAV-FID"
+    },
+    {
+      "name": "Rank-1"
+    },
+    {
+      "name": "Rank-5"
+    },
+    {
+      "name": "rank1"
+    },
+    {
+      "name": "rank1(V2T)"
+    },
+    {
+      "name": "SDR (avg)"
+    },
+    {
+      "name": "Humans"
+    },
+    {
+      "name": "Success Rate"
+    },
+    {
+      "name": "Average Overlap"
+    },
+    {
+      "name": "Success Rate 0.5"
+    },
+    {
+      "name": "sMOTSA"
+    },
+    {
+      "name": "Track mAP"
+    },
+    {
+      "name": "IDF1"
+    },
+    {
+      "name": "amota"
+    },
+    {
+      "name": "mIDF1"
+    },
+    {
+      "name": "mMOTA"
+    },
+    {
+      "name": "MOTA/L1"
+    },
+    {
+      "name": "Flops x views"
+    },
+    {
+      "name": "Clip acc@1"
+    },
+    {
+      "name": "Clip acc@5"
+    },
+    {
+      "name": "CS"
+    },
+    {
+      "name": "CV1"
+    },
+    {
+      "name": "CV2"
+    },
+    {
+      "name": "Speed (FPS)"
+    },
+    {
+      "name": "MAX E-MEASURE"
+    },
+    {
+      "name": "MAX F-MEASURE"
+    },
+    {
+      "name": "AVERAGE MAE"
+    },
+    {
+      "name": "max E-measure"
+    },
+    {
+      "name": "AUC-J&F"
+    },
+    {
+      "name": "AUC-J"
+    },
+    {
+      "name": "J@60s"
+    },
+    {
+      "name": "FVD score"
+    },
+    {
+      "name": "Global Average Precision"
+    },
+    {
+      "name": "Action@1"
+    },
+    {
+      "name": "Verb@1"
+    },
+    {
+      "name": "Noun@1"
+    },
+    {
+      "name": "Rotation Type Accuracy"
+    },
+    {
+      "name": "Param."
+    },
+    {
+      "name": "Pre-Training Dataset"
+    },
+    {
+      "name": "Harmonic mean",
+      "children": [
+        {
+          "name": "Harmonic Mean (12 unseen classes)"
+        },
+        {
+          "name": "Harmonic Mean (5 unseen classes)"
+        },
+        {
+          "name": "Harmonic Mean (10 unseen classes)"
+        },
+        {
+          "name": "Harmonic Mean (24 unseen classes)"
+        }
+      ]
+    },
+    {
+      "name": "Average-AP"
+    },
+    {
+      "name": "tOF"
+    },
+    {
+      "name": "Spearman's Rho"
+    },
+    {
+      "name": "AUC-ROC"
+    },
+    {
+      "name": "Average-mAP"
+    },
+    {
+      "name": "FPS on CPU"
+    },
+    {
+      "name": "Segmentation AUROC"
+    },
+    {
+      "name": "Overall AUC"
+    },
+    {
+      "name": "EM"
+    },
+    {
+      "name": "k=10 mIOU"
+    },
+    {
+      "name": "JOINT-F1"
+    },
+    {
+      "name": "ANS-EM"
+    },
+    {
+      "name": "ANS-F1"
+    },
+    {
+      "name": "SUP-EM"
+    },
+    {
+      "name": "JOINT-EM"
+    },
+    {
+      "name": "KILT-EM"
+    },
+    {
+      "name": "R-Prec"
+    },
+    {
+      "name": "KILT-F1"
+    },
+    {
+      "name": "KILT-RL"
+    },
+    {
+      "name": "EM(QE-PE)"
+    },
+    {
+      "name": "EM(QE-PH)"
+    },
+    {
+      "name": "EM(QH-PE)"
+    },
+    {
+      "name": "EM(QH-PH)"
+    },
+    {
+      "name": "ANLS"
+    },
+    {
+      "name": "number"
+    },
+    {
+      "name": "average_precision"
+    },
+    {
+      "name": "unanswerable"
+    },
+    {
+      "name": "Plausibility"
+    },
+    {
+      "name": "Validity"
+    },
+    {
+      "name": "Distribution"
+    },
+    {
+      "name": "RRSE"
+    },
+    {
+      "name": "CRPS"
+    },
+    {
+      "name": "KLD"
+    },
+    {
+      "name": "OMQ"
+    },
+    {
+      "name": "avg_pairwise"
+    },
+    {
+      "name": "avg_label"
+    },
+    {
+      "name": "avg_spatial"
+    },
+    {
+      "name": "avg_fp_quality"
+    },
+    {
+      "name": "mean Recall @20"
+    },
+    {
+      "name": "COLOR (All Surfaces)"
+    },
+    {
+      "name": "FREQ (All Surfaces)"
+    },
+    {
+      "name": "SUBS (All Surfaces)"
+    },
+    {
+      "name": "TILE (All Surfaces)"
+    },
+    {
+      "name": "NLLgen"
+    },
+    {
+      "name": "JS-4"
+    },
+    {
+      "name": "Validation Perplexity"
+    },
+    {
+      "name": "PARENT"
+    },
+    {
+      "name": "G-Score (BLEU, Accuracy)"
+    },
+    {
+      "name": "ADD"
+    },
+    {
+      "name": "DELETE"
+    },
+    {
+      "name": "KEEP"
+    },
+    {
+      "name": "SARI",
+      "children": [
+        {
+          "name": "SARI (EASSE>=0.2.1)"
+        }
+      ]
+    },
+    {
+      "name": "Actions Top-1 (S1)"
+    },
+    {
+      "name": "Test MRR"
+    },
+    {
+      "name": "Validation MRR"
+    },
+    {
+      "name": "FSD"
+    },
+    {
+      "name": "AUCCESS"
+    },
+    {
+      "name": "Average-per ques."
+    },
+    {
+      "name": "Descriptive"
+    },
+    {
+      "name": "Explanatory-per opt."
+    },
+    {
+      "name": "Explanatory-per ques."
+    },
+    {
+      "name": "Predictive-per opt."
+    },
+    {
+      "name": "Predictive-per ques."
+    },
+    {
+      "name": "Counterfactual-per opt."
+    },
+    {
+      "name": "Counterfactual-per ques."
+    },
+    {
+      "name": "SI-SDRi"
+    },
+    {
+      "name": "SDRi"
+    },
+    {
+      "name": "recall@10"
+    },
+    {
+      "name": "Average Cross-Ent"
+    },
+    {
+      "name": "V-Measure"
+    },
+    {
+      "name": "AVG"
+    },
+    {
+      "name": "F-BC"
+    },
+    {
+      "name": "F_NMI"
+    },
+    {
+      "name": "Cohen's kappa",
+      "children": [
+        {
+          "name": "Cohen\u2019s Kappa score"
+        }
+      ]
+    },
+    {
+      "name": "MCC"
+    },
+    {
+      "name": "A1"
+    },
+    {
+      "name": "A2"
+    },
+    {
+      "name": "A3"
+    },
+    {
+      "name": "ANLI"
+    },
+    {
+      "name": "RMSE (SE, Gluteus Maximus)"
+    },
+    {
+      "name": "RMSE (SE, Quadriceps)"
+    },
+    {
+      "name": "RMSE (SE, Hamstrings)"
+    },
+    {
+      "name": "V"
+    },
+    {
+      "name": "Fw\u03b2"
+    },
+    {
+      "name": "Sm"
+    },
+    {
+      "name": "relaxFb\u03b2"
+    },
+    {
+      "name": "{max}F\u03b2"
+    },
+    {
+      "name": "NSS"
+    },
+    {
+      "name": "CC"
+    },
+    {
+      "name": "mean E-Measure"
+    },
+    {
+      "name": "s-AUC"
+    },
+    {
+      "name": "AAA"
+    },
+    {
+      "name": "Hamming Loss"
+    },
+    {
+      "name": "Attack: AutoAttack"
+    },
+    {
+      "name": "Attack: DeepFool"
+    },
+    {
+      "name": "Attack: PGD20"
+    },
+    {
+      "name": "autoattack"
+    },
+    {
+      "name": "Average Reward"
+    },
+    {
+      "name": "mBA"
+    },
+    {
+      "name": "RQ"
+    },
+    {
+      "name": "SQ"
+    },
+    {
+      "name": "RQst"
+    },
+    {
+      "name": "RQth"
+    },
+    {
+      "name": "SQst"
+    },
+    {
+      "name": "SQth"
+    },
+    {
+      "name": "boxAP"
+    },
+    {
+      "name": "maskAP"
+    },
+    {
+      "name": "PQ_dagger"
+    },
+    {
+      "name": "mIoU (KMeans)"
+    },
+    {
+      "name": "CorLoc"
+    },
+    {
+      "name": "RGSPL"
+    },
+    {
+      "name": "Nav-Succ"
+    },
+    {
+      "name": "Nav-OSucc"
+    },
+    {
+      "name": "Nav-SPL"
+    },
+    {
+      "name": "Nav-Length"
+    },
+    {
+      "name": "RGS"
+    },
+    {
+      "name": "PDJ@5mm"
+    },
+    {
+      "name": "Average question accuracy"
+    },
+    {
+      "name": "Smatch"
+    },
+    {
+      "name": "BLEX",
+      "comment": "Bilexical dependency score"
+    },
+    {
+      "name": "Test mAP"
+    },
+    {
+      "name": "d-prime"
+    },
+    {
+      "name": "Top 5 Error"
+    },
+    {
+      "name": "PCKh@0.5"
+    },
+    {
+      "name": "MAE_t"
+    },
+    {
+      "name": "Average Orientation Similarity"
+    },
+    {
+      "name": "Offensive"
+    },
+    {
+      "name": "Stance"
+    },
+    {
+      "name": "ALL"
+    },
+    {
+      "name": "KILT-AC"
+    },
+    {
+      "name": "5 way 1~2 shot"
+    },
+    {
+      "name": "5 way 5~10 shot"
+    },
+    {
+      "name": "10 way 5~10 shot"
+    },
+    {
+      "name": "F2(stratified10-fold)"
+    },
+    {
+      "name": "G2(stratified10-fold)"
+    },
+    {
+      "name": "PhysioNet/CinC Challenge Score(stratified10-fold)"
+    },
+    {
+      "name": "FITB"
+    },
+    {
+      "name": "validation mean average precision"
+    },
+    {
+      "name": "mean average precision"
+    },
+    {
+      "name": "Image-Level Recall"
+    },
+    {
+      "name": "SPL"
+    },
+    {
+      "name": "SOFT_SPL"
+    },
+    {
+      "name": "DISTANCE_TO_GOAL"
+    },
+    {
+      "name": "SUCCESS"
+    },
+    {
+      "name": "dist_to_end_reduction"
+    },
+    {
+      "name": "Rank-50"
+    },
+    {
+      "name": "QPS"
+    },
+    {
+      "name": "Earth Mover's Distance"
+    },
+    {
+      "name": "Frechet Point cloud Distance"
+    },
+    {
+      "name": "Search time (s)"
+    },
+    {
+      "name": "FLOPS"
+    },
+    {
+      "name": "PARAMS"
+    },
+    {
+      "name": "Percentage Error"
+    },
+    {
+      "name": "MACs"
+    },
+    {
+      "name": "R2"
+    },
+    {
+      "name": "Success rate @budget 100"
+    },
+    {
+      "name": "Text-to-image R@1"
+    },
+    {
+      "name": "Text-to-image R@5"
+    },
+    {
+      "name": "Text-to-image R@10"
+    },
+    {
+      "name": "Sentence-pair Classification"
+    },
+    {
+      "name": "Structured prediction"
+    },
+    {
+      "name": "Question answering"
+    },
+    {
+      "name": "Question answering"
+    },
+    {
+      "name": "Sentence Retrieval"
+    },
+    {
+      "name": "DSSIM"
+    },
+    {
+      "name": "ACCURACY"
+    },
+    {
+      "name": "Train Split"
+    },
+    {
+      "name": "Backbone"
+    },
+    {
+      "name": "Train Set"
+    },
+    {
+      "name": "Train set"
+    },
+    {
+      "name": "Average AUC on 14 label"
+    },
+    {
+      "name": "AVERAGE AUC ON 14 LABEL"
+    },
+    {
+      "name": "NUM RADS BELOW CURVE"
+    },
+    {
+      "name": "Memory"
+    },
+    {
+      "name": "Total Column Score"
+    },
+    {
+      "name": "Bias (F/M)"
+    },
+    {
+      "name": "Bit rate"
+    },
+    {
+      "name": "Point-to-surface distance (cm)"
+    },
+    {
+      "name": "Surface normal consistency"
+    },
+    {
+      "name": "Duplicate Event Rate (DERate)"
+    },
+    {
+      "name": "Number of Events"
+    },
+    {
+      "name": "NM#5-6"
+    },
+    {
+      "name": "BG#1-2"
+    },
+    {
+      "name": "CL#1-2"
+    },
+    {
+      "name": "SSIM (Raw)"
+    },
+    {
+      "name": "AA@200"
+    },
+    {
+      "name": "OA@200"
+    },
+    {
+      "name": "Entropy Difference"
+    },
+    {
+      "name": "Purity"
+    },
+    {
+      "name": "MSE*100"
+    },
+    {
+      "name": "BadPix(0.05)"
+    },
+    {
+      "name": "CER"
+    },
+    {
+      "name": "Average Return (NoOp)"
+    },
+    {
+      "name": "Silhouette Score"
+    },
+    {
+      "name": "Error (mm)"
+    },
+    {
+      "name": "nDCG@40"
+    },
+    {
+      "name": "MRR@20"
+    },
+    {
+      "name": "COCO-style AP"
+    },
+    {
+      "name": "AR(l)"
+    },
+    {
+      "name": "AR(m)"
+    },
+    {
+      "name": "AR(s)"
+    },
+    {
+      "name": "mMR"
+    },
+    {
+      "name": "mCAP"
+    },
+    {
+      "name": "mAR (COCO+ XS)"
+    },
+    {
+      "name": "Latency, ms"
+    },
+    {
+      "name": "Number of sources"
+    },
+    {
+      "name": "APH/L2"
+    },
+    {
+      "name": "AVG-CDS"
+    },
+    {
+      "name": "mATE"
+    },
+    {
+      "name": "mASE"
+    },
+    {
+      "name": "mAOE"
+    },
+    {
+      "name": "mAVE"
+    },
+    {
+      "name": "mAAE"
+    },
+    {
+      "name": "Average Precision at 0.5 3D IoU"
+    },
+    {
+      "name": "MPE"
+    },
+    {
+      "name": "AP at 15' Azimuth error"
+    },
+    {
+      "name": "AP at 10' Elevation error"
+    },
+    {
+      "name": "mean F-Measure"
+    },
+    {
+      "name": "APbb75"
+    },
+    {
+      "name": "MAP"
+    },
+    {
+      "name": "APr"
+    },
+    {
+      "name": "APc"
+    },
+    {
+      "name": "APf"
+    },
+    {
+      "name": "E-Measure"
+    },
+    {
+      "name": "A-OSE"
+    },
+    {
+      "name": "WI"
+    },
+    {
+      "name": "MACC"
+    },
+    {
+      "name": "Topic coherence@5"
+    },
+    {
+      "name": "Topic Coherence@50"
+    },
+    {
+      "name": "SNR"
+    },
+    {
+      "name": "Trainable Parameters"
+    },
+    {
+      "name": "Top 3 Error"
+    },
+    {
+      "name": "prec@1"
+    },
+    {
+      "name": "Top-3"
+    },
+    {
+      "name": "ImageNet Pretrained"
+    },
+    {
+      "name": "Street level (1 km)"
+    },
+    {
+      "name": "City level (25 km)"
+    },
+    {
+      "name": "Training images"
+    },
+    {
+      "name": "Reference images"
+    },
+    {
+      "name": "12 Steps MAE"
+    },
+    {
+      "name": "Speaker Similarity"
+    },
+    {
+      "name": "Test MAE"
+    },
+    {
+      "name": "Validation MAE"
+    },
+    {
+      "name": "LT-ACC"
+    },
+    {
+      "name": "LT-ACC (weak)"
+    },
+    {
+      "name": "Patch matching"
+    },
+    {
+      "name": "Patch Retrieval"
+    },
+    {
+      "name": "Patch Verification"
+    },
+    {
+      "name": "ACER@0.2BPCER"
+    },
+    {
+      "name": "CD"
+    },
+    {
+      "name": "EMD"
+    },
+    {
+      "name": "AED"
+    },
+    {
+      "name": "AKD"
+    },
+    {
+      "name": "MKR"
+    },
+    {
+      "name": "CMC1"
+    },
+    {
+      "name": "CMC5"
+    },
+    {
+      "name": "CMC10"
+    },
+    {
+      "name": "Rank1"
+    },
+    {
+      "name": "Rank5"
+    },
+    {
+      "name": "REL"
+    },
+    {
+      "name": "Average Best Overlap"
+    },
+    {
+      "name": "Avg #Steps"
+    },
+    {
+      "name": "Overall IoU"
+    },
+    {
+      "name": "FAR"
+    },
+    {
+      "name": "Title"
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Table"
+    },
+    {
+      "name": "List"
+    },
+    {
+      "name": "3DMOTA"
+    },
+    {
+      "name": "D1-all"
+    },
+    {
+      "name": "D2-all"
+    },
+    {
+      "name": "SF-all"
+    },
+    {
+      "name": "Runtime (s)"
+    },
+    {
+      "name": "sAP5"
+    },
+    {
+      "name": "sAP10"
+    },
+    {
+      "name": "sAP15"
+    },
+    {
+      "name": "LAP"
+    },
+    {
+      "name": "AEPE (rate=3)"
+    },
+    {
+      "name": "AEPE (rate=5)"
+    },
+    {
+      "name": "MAD"
+    },
+    {
+      "name": "SAD"
+    },
+    {
+      "name": "Grad"
+    },
+    {
+      "name": "MSE(10^3)"
+    },
+    {
+      "name": "HIT-THE-BEST"
+    },
+    {
+      "name": "Rank difference"
+    },
+    {
+      "name": "\u0394PESQ"
+    },
+    {
+      "name": "PESQ-NB"
+    },
+    {
+      "name": "PESQ-WB"
+    },
+    {
+      "name": "CBAK"
+    },
+    {
+      "name": "COVL"
+    },
+    {
+      "name": "CSIG"
+    },
+    {
+      "name": "Meta-test success rate"
+    },
+    {
+      "name": "Meta-train success rate"
+    },
+    {
+      "name": "PSIM"
+    },
+    {
+      "name": "decathlon discipline (Score)"
+    },
+    {
+      "name": "MLP Hidden Layers-width"
+    },
+    {
+      "name": "avg. log MAE"
+    },
+    {
+      "name": "ARI-FG"
+    },
+    {
+      "name": "Scaled time-delay embeddings"
+    },
+    {
+      "name": "String-edit distance"
+    },
+    {
+      "name": "LD"
+    },
+    {
+      "name": "H-Score"
+    },
+    {
+      "name": "R-Score"
+    },
+    {
+      "name": "H-score"
+    },
+    {
+      "name": "Detection Rate"
+    },
+    {
+      "name": "KS-GoF"
+    },
+    {
+      "name": "TTA"
+    },
+    {
+      "name": "Rewriting F3"
+    },
+    {
+      "name": "Rewriting F1"
+    },
+    {
+      "name": "Rewriting F2"
+    },
+    {
+      "name": "QAE"
+    },
+    {
+      "name": "R-QAE"
+    },
+    {
+      "name": "RST-Parseval (Span)"
+    },
+    {
+      "name": "RST-Parseval (Nuclearity)"
+    },
+    {
+      "name": "RST-Parseval (Relation)"
+    },
+    {
+      "name": "RST-Parseval (Full)"
+    },
+    {
+      "name": "SPL (Sucess Weighted by Path Length)"
+    },
+    {
+      "name": "length"
+    },
+    {
+      "name": "error"
+    },
+    {
+      "name": "AVG-RANK"
+    },
+    {
+      "name": "SRC"
+    },
+    {
+      "name": "avg_state_quality"
+    },
+    {
+      "name": "TEDS (all samples)"
+    },
+    {
+      "name": "TEDS (simple samples)"
+    },
+    {
+      "name": "TEDS (complex samples)"
+    },
+    {
+      "name": "TOP (EM)"
+    },
+    {
+      "name": "MultiWOZ (Joint Goal Acc)"
+    },
+    {
+      "name": "AR1"
+    },
+    {
+      "name": "AR10"
+    },
+    {
+      "name": "Si-L2"
+    },
+    {
+      "name": "Si-MSE"
+    },
+    {
+      "name": "Euclidean Distance (ED)"
+    },
+    {
+      "name": "Average Return"
+    },
+    {
+      "name": "MRCP(70)"
+    },
+    {
+      "name": "SAR"
+    },
+    {
+      "name": "SIR"
+    },
+    {
+      "name": "1x1 NLL"
+    },
+    {
+      "name": "Model Size (MB)"
+    },
+    {
+      "name": "Balanced Accuracy"
+    },
+    {
+      "name": "Validation ROC-AUC"
+    },
+    {
+      "name": "Goal Probability"
+    },
+    {
+      "name": "Word similarity"
+    }
+  ]
+}

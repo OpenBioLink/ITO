@@ -26,6 +26,8 @@ ITO is made available as an OWL (Web Ontology Language) file. You can use the [P
 
 Example: [Google Colab notebook demonstrating SPARQL queries with ITO](https://colab.research.google.com/drive/1g3gDgakBcmAfIi4opXX99KXB7yALK66S?usp=sharing).
 
+We also make light-weight JSON files containing an export of the curated hierarchies of AI process / task classes and performance metrics. Note that these exports do not contain the bulk of data from the OWL file, such as benchmark results.
+
 ### Citing ITO
 
 > Kathrin Blagec, Adriano Barbosa-Silva, Simon Ott, Matthias Samwald. „A curated, ontology-based, large-scale knowledge graph of artificial intelligence tasks and benchmarks“. arXiv:2110.01434 [cs], October 2021. http://arxiv.org/abs/2110.01434
