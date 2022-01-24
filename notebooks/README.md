@@ -18,6 +18,9 @@
 
 ## Exporting ITO
 
-**/performance_metrics_json_export:** Export of the curated AI performance metric hierarchy
+**/JSON-export-of-terminology-hierarchies:** Light-weight JSON export of AI process hierarchy and performance hierarchy (part of main distribution)
 
-**/NLP_task_hierarchy_json_export:** Example of a selective export of parts of the ITO class hiearchy to JSON
+**/performance_metrics_json_export:** Export of the curated AI performance metric hierarchy (legacy)
+
+**/NLP_task_hierarchy_json_export:** Example of a selective export of parts of the ITO class hiearchy to JSON (legacy)
+

@@ -26,13 +26,15 @@ ITO is made available as an OWL (Web Ontology Language) file. You can use the [P
 
 Example: [Google Colab notebook demonstrating SPARQL queries with ITO](https://colab.research.google.com/drive/1g3gDgakBcmAfIi4opXX99KXB7yALK66S?usp=sharing).
 
+We also make light-weight JSON files containing an export of the curated hierarchies of AI process / task classes and performance metrics. Note that these exports do not contain the bulk of data from the OWL file, such as benchmark results.
+
 ### Citing ITO
 
 > Kathrin Blagec, Adriano Barbosa-Silva, Simon Ott, Matthias Samwald. „A curated, ontology-based, large-scale knowledge graph of artificial intelligence tasks and benchmarks“. arXiv:2110.01434 [cs], October 2021. http://arxiv.org/abs/2110.01434
 
 ### Licensing
 
-The ontology file is distributed under a [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license.
+The ontology file and JSON extract files are distributed under a [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
 ITO includes data from the Papers With Code project (https://paperswithcode.com/). Papers With Code is licensed under the CC-BY-SA license. Data from Papers With Code are partially altered (manual curation to improve ontological structure and data quality).
 
