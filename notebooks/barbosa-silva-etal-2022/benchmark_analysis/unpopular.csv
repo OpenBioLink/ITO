@@ -1,3 +1,4 @@
+benchmark_label,first_date,n_entries,n_tasks,tasks,url
 SK-LARGE,2018-01-05,2,1,{'Object Skeleton Detection'},https://paperswithcode.com/dataset/sk-large
 Sim10k,2018-12-12,2,1,{'Unsupervised Domain Adaptation'},https://paperswithcode.com/dataset/sim10k
 Cluttered Omniglot,2018-03-26,2,1,{'One-Shot Segmentation'},https://paperswithcode.com/dataset/cluttered-omniglot

@@ -1,3 +1,4 @@
+benchmark_label,first_date,n_entries,n_tasks,tasks,url
 RefCOCO,2018-01-24,47,1,{'Referring Expression Segmentation'},https://paperswithcode.com/dataset/refcoco
 Oxford-IIIT Pets,2018-05-24,30,3,"{'Image Classification', 'Image Compression', 'Fine-Grained Image Classification'}",https://paperswithcode.com/dataset/oxford-iiit-pets
 ImageNet-C,2018-11-29,27,2,"{'Unsupervised Domain Adaptation', 'Domain Generalization'}",https://paperswithcode.com/dataset/imagenet-c

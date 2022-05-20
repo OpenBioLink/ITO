@@ -1,3 +1,4 @@
+benchmark_label,first_date,n_entries,n_tasks,tasks,url
 ImageNet,2012-12-01,806,25,"{'Weakly-Supervised Object Localization', 'Domain Generalization', 'Image Classification', '5-shot - Few-Shot Image Classification', '0-Shot - Few-Shot Image Classification', 'Image Clustering', 'Unsupervised Image Classification', 'Self-Supervised Image Classification', 'Image Compression', 'Weakly Supervised Object Detection', '10-shot - Few-Shot Image Classification', 'Quantization', '1-shot - Few-Shot Image Classification', 'Zero-Shot Object Detection', '10% labeled data - Semi-Supervised Image Classification', '1% labeled data - Semi-Supervised Image Classification', 'Image Generation', 'Unsupervised Domain Adaptation', '10% labeled data - Image Generation', 'Classification Consistency', 'Partial Domain Adaptation', 'Long-tail Learning', 'Conditional Image Generation', 'Image Recognition', 'Color Image Denoising'}",https://paperswithcode.com/dataset/imagenet
 COCO,2014-12-07,711,30,"{'Single-object discovery', 'Few-Shot Object Detection', 'Keypoint Detection', 'Visual Question Answering', 'Text-Image Retrieval', 'Instance Segmentation', 'Homography Estimation', 'Activeness Detection', 'Panoptic Segmentation', 'Object Detection', 'Pose Estimation', 'One-Shot Object Detection', 'Weakly Supervised Object Detection', 'Real-time Instance Segmentation', 'Cross-Modal Retrieval', 'Text-to-Image Generation', 'Zero-Shot Text-to-Image Generation', 'Zero-Shot Object Detection', 'Image Captioning', 'Object Counting', 'Multi-object discovery', 'Robust Object Detection', 'Conditional Image Generation', 'Real-Time Object Detection', 'Open World Object Detection', 'Active Object Detection', 'One-Shot Instance Segmentation', 'Layout-to-Image Generation', 'Interactive Segmentation', 'Multi-Person Pose Estimation'}",https://paperswithcode.com/dataset/coco
 KITTI,2014-07-23,419,24,"{'Dense Pixel Correspondence Estimation', 'Vehicle Pose Estimation', 'Birds Eye View Object Detection', '4x upscaling - Image Super-Resolution', 'Panoptic Segmentation', 'Optical Flow Estimation', 'Object Detection', '3D Multi-Object Tracking', '2x upscaling - Image Super-Resolution', 'Multiple Object Tracking', 'Novel View Synthesis', 'Semantic Segmentation', '3D Object Detection', 'Unsupervised Domain Adaptation', 'Monocular 3D Object Detection', 'Scene Flow Estimation', 'Horizon Line Estimation', 'Point Cloud Registration', 'Object Localization', 'Stereo Depth Estimation', 'Image-to-Image Translation', 'Depth Completion', 'Monocular Depth Estimation', 'Visual Place Recognition'}",https://paperswithcode.com/dataset/kitti
@@ -310,7 +311,7 @@ G3D,2016-06-27,6,2,"{'Pose Prediction', 'Skeleton Based Action Recognition'}",ht
 UAVDT,2018-03-26,6,1,{'Object Detection'},https://paperswithcode.com/dataset/uavdt
 Syn2Real,2015-05-28,6,1,{'Synthetic-to-Real Translation'},https://paperswithcode.com/dataset/syn2real
 FoodSeg103,2018-11-28,6,1,{'Semantic Segmentation'},https://paperswithcode.com/dataset/foodseg103
-GRID Dataset,2016-11-05,6,3,"{'Lipreading', 'Lip Reading', 'Speaker-Specific Lip to Speech Synthesis'}",https://paperswithcode.com/dataset/grid
+GRID Dataset,2016-11-05,6,3,"{'Speaker-Specific Lip to Speech Synthesis', 'Lipreading', 'Lip Reading'}",https://paperswithcode.com/dataset/grid
 Nighttime Driving,2018-10-05,6,1,{'Semantic Segmentation'},https://paperswithcode.com/dataset/nighttime-driving
 smallNORB,2017-10-26,6,1,{'Image Classification'},https://paperswithcode.com/dataset/smallnorb
 Flickr30K Entities,2015-11-12,6,1,{'Phrase Grounding'},https://paperswithcode.com/dataset/flickr30k-entities
@@ -366,7 +367,7 @@ BIG,2020-05-06,4,1,{'Semantic Segmentation'},https://paperswithcode.com/dataset/
 Argoverse,2020-08-19,4,1,{'Motion Forecasting'},https://paperswithcode.com/dataset/argoverse
 BraTS 2018,2018-10-27,4,1,{'Brain Tumor Segmentation'},https://paperswithcode.com/dataset/brats-2018-1
 Shelf&Tote Training Dataset,2021-04-20,4,1,{'Unsupervised Object Segmentation'},https://paperswithcode.com/dataset/shelf-tote-training-dataset
-Sintel 4D LFV,2020-12-05,4,4,"{'ambushfight5 - Disparity Estimation', 'thebigfight2 - Disparity Estimation', 'shaman2 - Disparity Estimation', 'bamboo3 - Disparity Estimation'}",https://paperswithcode.com/dataset/sintel-4d-lfv
+Sintel 4D LFV,2020-12-05,4,4,"{'ambushfight5 - Disparity Estimation', 'shaman2 - Disparity Estimation', 'thebigfight2 - Disparity Estimation', 'bamboo3 - Disparity Estimation'}",https://paperswithcode.com/dataset/sintel-4d-lfv
 MoNuSeg,2021-02-21,4,1,{'Medical Image Segmentation'},https://paperswithcode.com/dataset/monuseg
 NVGesture,2018-04-19,4,1,{'Hand Gesture Recognition'},https://paperswithcode.com/dataset/nvgesture-1
 Places-LT,2019-04-10,4,1,{'Long-tail Learning'},https://paperswithcode.com/dataset/places-lt
@@ -385,7 +386,7 @@ DomainNet,2020-08-28,4,2,"{'Domain Adaptation', 'Domain Generalization'}",https:
 ImageNet-32,2017-03-10,4,1,{'Image Compression'},https://paperswithcode.com/dataset/imagenet-32
 PhraseCut,2020-08-03,4,1,{'Referring Expression Segmentation'},https://paperswithcode.com/dataset/phrasecut
 RELLIS-3D,2020-11-17,4,2,"{'Semantic Segmentation', '3D Semantic Segmentation'}",https://paperswithcode.com/dataset/rellis-3d
-IJB-B,2017-08-24,4,2,"{'Face Identification', 'Face Verification'}",https://paperswithcode.com/dataset/ijb-b
+IJB-B,2017-08-24,4,2,"{'Face Verification', 'Face Identification'}",https://paperswithcode.com/dataset/ijb-b
 RECCON,2020-12-22,4,2,"{'Causal Emotion Entailment', 'Recognizing Emotion Cause in Conversations'}",https://paperswithcode.com/dataset/reccon
 HAA500,2020-09-11,4,1,{'Action Recognition'},https://paperswithcode.com/dataset/haa500
 VeRi-776,2018-11-13,4,1,{'Vehicle Re-Identification'},https://paperswithcode.com/dataset/veri-776
