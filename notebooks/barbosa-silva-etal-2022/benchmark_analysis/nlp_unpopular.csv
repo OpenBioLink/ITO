@@ -1,0 +1,14 @@
+benchmark_label,first_date,n_entries,n_tasks,tasks,url
+CliCR,2018-03-26,2,1,{'Question Answering'},https://paperswithcode.com/dataset/clicr
+Wikipedia Person and Animal Dataset,2018-09-06,2,2,"{'Table-to-Text Generation', 'KB-to-Language Generation'}",https://paperswithcode.com/dataset/wikipedia-person-and-animal-dataset
+MemexQA,2018-06-05,2,1,{'Memex Question Answering'},https://paperswithcode.com/dataset/memexqa
+IPM NEL,2018-08-23,2,1,{'Entity Linking'},https://paperswithcode.com/dataset/ipm-nel
+Flickr30k,2018-11-28,2,2,"{'Phrase Grounding', 'Image Captioning'}",https://paperswithcode.com/dataset/flickr30k
+QuAC,2018-10-06,2,1,{'Question Answering'},https://paperswithcode.com/dataset/quac
+ACL Title and Abstract Dataset,2018-05-15,1,1,{'Paper generation'},https://paperswithcode.com/dataset/acl-title-and-abstract-dataset
+VQG,2018-08-12,1,1,{'Question Generation'},https://paperswithcode.com/dataset/vqg
+UTD-MHAD,2018-12-14,1,1,{'Action Recognition'},https://paperswithcode.com/dataset/utd-mhad
+VIST,2018-04-24,1,1,{'Visual Storytelling'},https://paperswithcode.com/dataset/vist
+TallyQA,2018-10-29,1,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/tallyqa
+LeNER-Br,2018-09-24,1,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/lener-br
+Hate Speech and Offensive Language,2018-09-23,1,1,{'Hate Speech Detection'},https://paperswithcode.com/dataset/hate-speech-and-offensive-language

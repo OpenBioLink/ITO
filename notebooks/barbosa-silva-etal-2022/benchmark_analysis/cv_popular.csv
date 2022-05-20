@@ -1,0 +1,26 @@
+benchmark_label,first_date,n_entries,n_tasks,tasks,url
+RefCOCO,2018-01-24,47,1,{'Referring Expression Segmentation'},https://paperswithcode.com/dataset/refcoco
+Oxford-IIIT Pets,2018-05-24,30,3,"{'Fine-Grained Image Classification', 'Image Classification', 'Image Compression'}",https://paperswithcode.com/dataset/oxford-iiit-pets
+ImageNet-C,2018-11-29,27,2,"{'Domain Generalization', 'Unsupervised Domain Adaptation'}",https://paperswithcode.com/dataset/imagenet-c
+FC100,2018-05-23,25,1,{'Few-Shot Image Classification'},https://paperswithcode.com/dataset/fc100
+SoccerNet-v2,2018-04-12,18,4,"{'Camera shot boundary detection', 'Replay Grounding', 'Camera shot segmentation', 'Action Spotting'}",https://paperswithcode.com/dataset/soccernet-v2
+ICDAR 2017,2018-01-05,14,1,{'Scene Text Detection'},https://paperswithcode.com/dataset/icdar-2017
+SHREC,2018-01-21,14,4,"{'3D Object Recognition', 'Skeleton Based Action Recognition', 'Point Cloud Super Resolution', 'Hand Gesture Recognition'}",https://paperswithcode.com/dataset/shrec
+ETH,2018-03-29,13,1,{'Trajectory Prediction'},https://paperswithcode.com/dataset/eth
+Foggy Cityscapes,2018-03-08,12,3,"{'Unsupervised Domain Adaptation', 'Image-to-Image Translation', 'Weakly Supervised Object Detection'}",https://paperswithcode.com/dataset/foggy-cityscapes
+VehicleID,2018-11-13,12,1,{'Vehicle Re-Identification'},https://paperswithcode.com/dataset/vehicleid
+Mapillary Vistas Dataset,2018-09-06,11,3,"{'Semantic Segmentation', 'Panoptic Segmentation', 'Visual Place Recognition'}",https://paperswithcode.com/dataset/mapillary-vistas-dataset
+V-COCO,2018-08-23,11,1,{'Human-Object Interaction Detection'},https://paperswithcode.com/dataset/v-coco
+SIDD,2018-07-12,11,1,{'Image Denoising'},https://paperswithcode.com/dataset/sidd
+CAS-VSR-W1k (LRW-1000),2018-10-16,10,1,{'Lipreading'},https://paperswithcode.com/dataset/lrw-1000
+DND,2018-07-12,10,1,{'Image Denoising'},https://paperswithcode.com/dataset/dnd
+LRS2,2018-09-06,10,2,"{'Lipreading', 'Unconstrained Lip-synchronization'}",https://paperswithcode.com/dataset/lrs2
+RESIDE,2018-05-31,9,1,{'Image Dehazing'},https://paperswithcode.com/dataset/reside
+VQA-CP,2018-08-01,9,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/vqa-cp
+COFW,2018-02-19,9,1,{'Face Alignment'},https://paperswithcode.com/dataset/cofw
+CUHK-PEDES,2018-08-05,9,1,{'Text based Person Retrieval'},https://paperswithcode.com/dataset/cuhk-pedes
+Caltech-101,2018-05-02,9,2,"{'Fine-Grained Image Classification', 'Semantic correspondence'}",https://paperswithcode.com/dataset/caltech-101
+LaSOT,2018-11-19,8,1,{'Visual Object Tracking'},https://paperswithcode.com/dataset/lasot
+PASCAL-S,2018-06-01,8,3,"{'Saliency Detection', 'RGB Salient Object Detection', 'Salient Object Detection'}",https://paperswithcode.com/dataset/pascal-s
+VoxCeleb1,2018-09-01,8,4,"{'Video Reconstruction', '8-shot learning - Talking Head Generation', '1-shot learning - Talking Head Generation', '32-shot learning - Talking Head Generation'}",https://paperswithcode.com/dataset/voxceleb1
+CrowdHuman,2018-04-30,8,1,{'Object Detection'},https://paperswithcode.com/dataset/crowdhuman

@@ -1,0 +1,14 @@
+benchmark_label,first_date,n_entries,n_tasks,tasks,url
+SuperGLUE,2018-10-11,50,5,"{'Word Sense Disambiguation', 'Coreference Resolution', 'Question Answering', 'Common Sense Reasoning', 'Natural Language Inference'}",https://paperswithcode.com/dataset/superglue
+MLDoc,2018-05-24,35,1,{'Cross-Lingual Document Classification'},https://paperswithcode.com/dataset/mldoc
+GENIA,2018-06-01,26,5,"{'Nested Named Entity Recognition', 'LAS - Dependency Parsing', 'Event Extraction', 'Named Entity Recognition', 'UAS - Dependency Parsing'}",https://paperswithcode.com/dataset/genia
+BC5CDR,2018-09-21,22,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/bc5cdr
+HotpotQA,2018-09-25,18,1,{'Question Answering'},https://paperswithcode.com/dataset/hotpotqa
+RACE,2018-03-24,16,3,"{'Reading Comprehension', 'Distractor Generation', 'Question Answering'}",https://paperswithcode.com/dataset/race
+Weibo NER,2018-05-05,14,2,"{'Named Entity Recognition', 'Chinese Named Entity Recognition'}",https://paperswithcode.com/dataset/weibo-ner
+NCBI Disease,2018-10-11,14,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/ncbi-disease-1
+XSum,2018-08-27,13,2,"{'Text Summarization', 'Document Summarization'}",https://paperswithcode.com/dataset/xsum
+JFLEG,2018-01-26,12,2,"{'Grammatical Error Correction', 'Grammatical Error Detection'}",https://paperswithcode.com/dataset/jfleg
+CommonsenseQA,2018-11-02,12,2,"{'Common Sense Reasoning', 'Question Answering'}",https://paperswithcode.com/dataset/commonsenseqa
+CoNLL-2014 Shared Task: Grammatical Error Correction,2018-01-26,12,1,{'Grammatical Error Correction'},https://paperswithcode.com/dataset/conll-2014-shared-task-grammatical-error
+CoQA,2018-08-21,12,2,"{'Generative Question Answering', 'Question Answering'}",https://paperswithcode.com/dataset/coqa

@@ -7,7 +7,7 @@ Color FERET,2018-10-26,2,1,{'Face Recognition'},https://paperswithcode.com/datas
 Comic2k,2018-03-30,2,1,{'Weakly Supervised Object Detection'},https://paperswithcode.com/dataset/comic2k
 IconArt,2018-10-05,2,1,{'Weakly Supervised Object Detection'},https://paperswithcode.com/dataset/iconart
 Letter,2018-12-11,2,1,{'Image Clustering'},https://paperswithcode.com/dataset/letter
-MSRC-12,2018-11-17,2,2,"{'Gesture Recognition', 'Skeleton Based Action Recognition'}",https://paperswithcode.com/dataset/msrc-12
+MSRC-12,2018-11-17,2,2,"{'Skeleton Based Action Recognition', 'Gesture Recognition'}",https://paperswithcode.com/dataset/msrc-12
 Make3D,2018-06-04,2,1,{'Monocular Depth Estimation'},https://paperswithcode.com/dataset/make3d
 UFPR-ALPR,2018-02-26,2,1,{'License Plate Recognition'},https://paperswithcode.com/dataset/ufpr-alpr
 TallyQA,2018-10-29,1,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/tallyqa
