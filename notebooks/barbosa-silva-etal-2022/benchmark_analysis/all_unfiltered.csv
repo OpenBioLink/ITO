@@ -1,0 +1,700 @@
+ImageNet,2012-12-01,806,25,"{'Weakly-Supervised Object Localization', 'Domain Generalization', 'Image Classification', '5-shot - Few-Shot Image Classification', '0-Shot - Few-Shot Image Classification', 'Image Clustering', 'Unsupervised Image Classification', 'Self-Supervised Image Classification', 'Image Compression', 'Weakly Supervised Object Detection', '10-shot - Few-Shot Image Classification', 'Quantization', '1-shot - Few-Shot Image Classification', 'Zero-Shot Object Detection', '10% labeled data - Semi-Supervised Image Classification', '1% labeled data - Semi-Supervised Image Classification', 'Image Generation', 'Unsupervised Domain Adaptation', '10% labeled data - Image Generation', 'Classification Consistency', 'Partial Domain Adaptation', 'Long-tail Learning', 'Conditional Image Generation', 'Image Recognition', 'Color Image Denoising'}",https://paperswithcode.com/dataset/imagenet
+COCO,2014-12-07,711,30,"{'Single-object discovery', 'Few-Shot Object Detection', 'Keypoint Detection', 'Visual Question Answering', 'Text-Image Retrieval', 'Instance Segmentation', 'Homography Estimation', 'Activeness Detection', 'Panoptic Segmentation', 'Object Detection', 'Pose Estimation', 'One-Shot Object Detection', 'Weakly Supervised Object Detection', 'Real-time Instance Segmentation', 'Cross-Modal Retrieval', 'Text-to-Image Generation', 'Zero-Shot Text-to-Image Generation', 'Zero-Shot Object Detection', 'Image Captioning', 'Object Counting', 'Multi-object discovery', 'Robust Object Detection', 'Conditional Image Generation', 'Real-Time Object Detection', 'Open World Object Detection', 'Active Object Detection', 'One-Shot Instance Segmentation', 'Layout-to-Image Generation', 'Interactive Segmentation', 'Multi-Person Pose Estimation'}",https://paperswithcode.com/dataset/coco
+KITTI,2014-07-23,419,24,"{'Dense Pixel Correspondence Estimation', 'Vehicle Pose Estimation', 'Birds Eye View Object Detection', '4x upscaling - Image Super-Resolution', 'Panoptic Segmentation', 'Optical Flow Estimation', 'Object Detection', '3D Multi-Object Tracking', '2x upscaling - Image Super-Resolution', 'Multiple Object Tracking', 'Novel View Synthesis', 'Semantic Segmentation', '3D Object Detection', 'Unsupervised Domain Adaptation', 'Monocular 3D Object Detection', 'Scene Flow Estimation', 'Horizon Line Estimation', 'Point Cloud Registration', 'Object Localization', 'Stereo Depth Estimation', 'Image-to-Image Translation', 'Depth Completion', 'Monocular Depth Estimation', 'Visual Place Recognition'}",https://paperswithcode.com/dataset/kitti
+CIFAR-10,2012-02-13,411,11,"{'Unsupervised Image Classification', 'Conditional Image Generation', 'Out-of-Distribution Detection', 'Image Generation', 'Long-tail Learning', 'Image Compression', 'Image Classification', 'Small Data Image Classification', 'Image Clustering', 'Quantization', 'Semi-Supervised Image Classification'}",https://paperswithcode.com/dataset/cifar-10
+PASCAL VOC,2014-03-05,294,18,"{'Object Localization', 'Single-object discovery', 'Weakly-Supervised Semantic Segmentation', 'Semantic Segmentation', 'Object Proposal Generation', 'Object Counting', 'Real-Time Object Detection', 'Image Classification', 'Object Detection', 'Open World Object Detection', 'One-Shot Object Detection', 'Unsupervised Semantic Segmentation', 'Semi-Supervised Semantic Segmentation', 'Multi-object colocalization', 'Weakly Supervised Object Detection', 'Weakly-supervised instance segmentation', 'Multi-object discovery', 'Robust Object Detection'}",https://paperswithcode.com/dataset/pascal-voc
+Cityscapes,2014-12-22,283,13,"{'Image-to-Image Translation', 'Edge Detection', 'Instance Segmentation', 'Semantic Segmentation', 'Image Generation', 'Panoptic Segmentation', 'Depth Estimation', 'Scene Parsing', 'Video Semantic Segmentation', 'Semi-Supervised Semantic Segmentation', 'Interactive Segmentation', 'Real-Time Semantic Segmentation', 'Robust Object Detection'}",https://paperswithcode.com/dataset/cityscapes
+CIFAR-100,2013-01-16,188,9,"{'Conditional Image Generation', 'Out-of-Distribution Detection', 'Few-Shot Image Classification', 'Image Generation', 'Image Classification', 'Small Data Image Classification', 'Image Clustering', 'Long-tail Learning', 'Semi-Supervised Image Classification'}",https://paperswithcode.com/dataset/cifar-100
+miniImageNet,2016-06-13,187,1,{'Few-Shot Image Classification'},https://paperswithcode.com/dataset/miniimagenet-1
+STL-10,2007-12-01,161,8,"{'Unsupervised Image Classification', 'Out-of-Distribution Detection', 'Image Generation', 'Image Classification', 'Image Clustering', 'Fine-Grained Image Classification', 'Self-Supervised Learning', 'Semi-Supervised Image Classification'}",https://paperswithcode.com/dataset/stl-10
+Market-1501,2014-06-17,157,5,"{'Generalizable Person Re-identification', 'Unsupervised Person Re-Identification', 'Unsupervised Domain Adaptation', 'Pose Transfer', 'Person Re-Identification'}",https://paperswithcode.com/dataset/market-1501
+NTU RGB+D,2014-06-23,157,8,"{'Zero Shot Skeletal Action Recognition', 'Action Recognition', 'Human Action Generation', 'One-Shot 3D Action Recognition', 'Pose Prediction', 'Generalized Zero Shot skeletal action recognition', 'Human Interaction Recognition', 'Skeleton Based Action Recognition'}",https://paperswithcode.com/dataset/ntu-rgb-d
+CUB-200-2011,2013-06-01,154,13,"{'Text-to-Image Generation', 'Generalized Zero-Shot Learning', 'Weakly-Supervised Object Localization', 'Few-Shot Image Classification', 'Image Generation', 'Metric Learning', 'Image Classification', 'Image Retrieval', 'Small Data Image Classification', 'Image Clustering', '0-Shot - Few-Shot Image Classification', 'Long-tail learning with class descriptors', 'Fine-Grained Image Classification'}",https://paperswithcode.com/dataset/cub-200-2011
+Kinetics,2016-08-02,153,4,"{'Boundary Detection', 'Action Classification', 'Video Classification', 'Self-Supervised Action Recognition'}",https://paperswithcode.com/dataset/kinetics
+UCF101,2012-12-03,144,6,"{'Video Generation', 'Video Frame Interpolation', 'Action Recognition', 'Action Detection', 'Self-Supervised Action Recognition', 'Temporal Action Localization'}",https://paperswithcode.com/dataset/ucf101
+MNIST,2012-02-13,129,12,"{'Superpixel Image Classification', 'Unsupervised Image Classification', 'Rotated MNIST', 'Video Prediction', 'Unsupervised Image-To-Image Translation', 'Handwritten Digit Recognition', 'Sequential Image Classification', 'Image Generation', 'Image Classification', 'Domain Adaptation', 'Image Clustering', 'Fine-Grained Image Classification'}",https://paperswithcode.com/dataset/mnist
+Human3.6M,2013-12-12,120,9,"{'Pose Retrieval', '3D Human Pose Estimation', 'Video Prediction', '3D Absolute Human Pose Estimation', '3D Pose Estimation', 'Human Action Generation', 'Weakly-supervised 3D Human Pose Estimation', 'Human Pose Forecasting', 'Monocular 3D Human Pose Estimation'}",https://paperswithcode.com/dataset/human3-6m
+HMDB51,2014-06-01,113,3,"{'Action Recognition', 'Domain Adaptation', 'Self-Supervised Action Recognition'}",https://paperswithcode.com/dataset/hmdb51
+Set5,2014-12-31,111,5,"{'4x upscaling - Image Super-Resolution', '8x upscaling - Image Super-Resolution', 'Compressive Sensing', '3x upscaling - Image Super-Resolution', '2x upscaling - Image Super-Resolution'}",https://paperswithcode.com/dataset/set5
+SVHN,2013-01-16,102,5,"{'Unsupervised Image Classification', 'Sparse Representation-based Classification', 'Image Classification', 'Domain Adaptation', 'Semi-Supervised Image Classification'}",https://paperswithcode.com/dataset/svhn
+Set14,2014-12-31,99,4,"{'4x upscaling - Image Super-Resolution', '2x upscaling - Image Super-Resolution', '8x upscaling - Image Super-Resolution', '3x upscaling - Image Super-Resolution'}",https://paperswithcode.com/dataset/set14
+ADE20K,2014-11-14,97,3,"{'Semantic Segmentation', 'Image-to-Image Translation', 'Scene Understanding'}",https://paperswithcode.com/dataset/ade20k
+Urban100,2014-12-31,94,8,"{'4x upscaling - Image Super-Resolution', 'Grayscale Image Denoising', '16x upscaling - Image Super-Resolution', '8x upscaling - Image Super-Resolution', '2x upscaling - Compressive Sensing', 'Color Image Denoising', '3x upscaling - Image Super-Resolution', '2x upscaling - Image Super-Resolution'}",https://paperswithcode.com/dataset/urban100
+tieredImageNet,2017-03-09,91,2,"{'Image Classification', 'Few-Shot Image Classification'}",https://paperswithcode.com/dataset/tieredimagenet
+BSD100,2014-12-31,88,5,"{'4x upscaling - Image Super-Resolution', '16x upscaling - Image Super-Resolution', '8x upscaling - Image Super-Resolution', '3x upscaling - Image Super-Resolution', '2x upscaling - Image Super-Resolution'}",https://paperswithcode.com/dataset/bsd100
+DukeMTMC-reID,2014-06-17,88,3,"{'Generalizable Person Re-identification', 'Unsupervised Person Re-Identification', 'Person Re-Identification'}",https://paperswithcode.com/dataset/dukemtmc-reid
+Stanford Cars,2015-12-10,84,5,"{'Few-Shot Image Classification', 'Image Generation', 'Image Classification', 'Image Clustering', 'Fine-Grained Image Classification'}",https://paperswithcode.com/dataset/stanford-cars
+BSD,2015-08-12,83,4,"{'Salt-And-Pepper Noise Removal', 'Grayscale Image Denoising', 'Color Image Denoising', 'Compressive Sensing'}",https://paperswithcode.com/dataset/bsd
+DAVIS 2016,2014-06-01,80,4,"{'Unsupervised Video Object Segmentation', 'Video Object Segmentation', 'Video Salient Object Detection', 'Semi-Supervised Video Object Segmentation'}",https://paperswithcode.com/dataset/davis-2016
+THUMOS14,2015-11-22,70,6,"{'Action Classification', 'Weakly-supervised Temporal Action Localization', 'Action Recognition', 'Weakly Supervised Action Localization', 'Temporal Action Localization', 'Temporal Action Proposal Generation'}",https://paperswithcode.com/dataset/thumos14-1
+NYUv2,2014-11-18,64,8,"{'Real-Time Semantic Segmentation', 'Instance Segmentation', 'Semantic Segmentation', 'Depth Completion', '3D Object Detection', 'Surface Normals Estimation', 'Depth Estimation', 'Monocular Depth Estimation'}",https://paperswithcode.com/dataset/nyuv2
+Oxford 102 Flower,2016-05-17,61,7,"{'Text-to-Image Generation', 'Generalized Zero-Shot Learning', 'Few-Shot Image Classification', 'Image Generation', 'Image Classification', '0-Shot - Few-Shot Image Classification', 'Fine-Grained Image Classification'}",https://paperswithcode.com/dataset/oxford-102-flower
+CUHK03,2016-04-07,60,3,"{'Blur Detection Dataset - Defocus Estimation', 'Face Sketch Synthesis', 'Person Re-Identification'}",https://paperswithcode.com/dataset/cuhk03
+ScanNet,2016-12-02,58,10,"{'3D Semantic Instance Segmentation', 'Semantic Segmentation', '3D Instance Segmentation', '3D Object Detection', '3D Reconstruction', 'Panoptic Segmentation', 'Surface Normals Estimation', 'Depth Estimation', 'Scene Segmentation', 'Scene Recognition'}",https://paperswithcode.com/dataset/scannet
+SYNTHIA,2016-12-08,55,5,"{'Image-to-Image Translation', 'Novel View Synthesis', 'Semantic Segmentation', 'Synthetic-to-Real Translation', 'Domain Adaptation'}",https://paperswithcode.com/dataset/synthia
+WIDER FACE,2014-07-15,55,1,{'Face Detection'},https://paperswithcode.com/dataset/wider-face-1
+Manga109,2014-12-31,54,6,"{'4x upscaling - Image Super-Resolution', '16x upscaling - Image Super-Resolution', '8x upscaling - Image Super-Resolution', 'Object Detection', '3x upscaling - Image Super-Resolution', '2x upscaling - Image Super-Resolution'}",https://paperswithcode.com/dataset/manga109
+ModelNet,2014-06-22,53,3,"{'3D Object Recognition', '3D Point Cloud Classification', '3D Object Classification'}",https://paperswithcode.com/dataset/modelnet
+CodeSearchNet,2020-02-19,52,7,"{'Ruby - Code Documentation Generation', 'JavaScript - Code Documentation Generation', 'Go - Code Documentation Generation', 'Python - Code Documentation Generation', 'Java - Code Documentation Generation', 'Php - Code Documentation Generation', 'Code Documentation Generation'}",https://paperswithcode.com/dataset/codesearchnet
+FFHQ,2014-12-31,52,4,"{'4x upscaling - Image Super-Resolution', 'Image Generation', 'Facial Inpainting', 'Image Inpainting'}",https://paperswithcode.com/dataset/ffhq
+Something-Something V2,2017-06-13,51,2,"{'Action Recognition', 'Video Classification'}",https://paperswithcode.com/dataset/something-something-v2
+ActivityNet,2015-12-22,50,6,"{'Action Classification', 'Video Retrieval', 'Action Recognition', 'Weakly Supervised Action Localization', 'Temporal Action Localization', 'Temporal Action Proposal Generation'}",https://paperswithcode.com/dataset/activitynet
+Something-Something V1,2017-11-21,48,2,"{'Action Recognition', 'Video Classification'}",https://paperswithcode.com/dataset/something-something-v1
+Visual Question Answering v2.0,2016-06-06,48,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/visual-question-answering-v2-0
+RefCOCO,2018-01-24,47,1,{'Referring Expression Segmentation'},https://paperswithcode.com/dataset/refcoco
+GTA5,2014-09-04,47,3,"{'Semantic Segmentation', 'Image-to-Image Translation', 'Synthetic-to-Real Translation'}",https://paperswithcode.com/dataset/gta5
+S3DIS,2016-12-02,47,3,"{'Semantic Segmentation', '3D Instance Segmentation', '3D Semantic Segmentation'}",https://paperswithcode.com/dataset/s3dis
+Charades,2014-06-09,46,4,"{'Action Detection', 'Action Classification', 'Video Classification', 'Weakly Supervised Object Detection'}",https://paperswithcode.com/dataset/charades
+Synthetic Rain Datasets,2016-09-07,45,1,{'Single Image Deraining'},https://paperswithcode.com/dataset/synthetic-rain-datasets
+CIFAR-FS,2017-11-16,44,3,"{'1-Shot Learning - Few-Shot Image Classification', '5-Shot Learning - Few-Shot Image Classification', 'Few-Shot Image Classification'}",https://paperswithcode.com/dataset/cifar-fs
+PASCAL Context,2014-11-14,43,1,{'Semantic Segmentation'},https://paperswithcode.com/dataset/pascal-context
+MOTChallenge,2015-04-09,43,2,"{'Multi-Object Tracking', 'Online Multi-Object Tracking'}",https://paperswithcode.com/dataset/motchallenge
+JHMDB,2014-11-21,42,4,"{'Pose Estimation', 'Temporal Action Localization', 'Referring Expression Segmentation', 'Skeleton Based Action Recognition'}",https://paperswithcode.com/dataset/jhmdb
+LIVE1,2015-04-27,42,1,{'JPEG Artifact Correction'},https://paperswithcode.com/dataset/live1
+Referring Expressions for DAVIS 2016 & 2017,2016-11-16,41,3,"{'Referring Expression Segmentation', 'Unsupervised Video Object Segmentation', 'Semi-Supervised Video Object Segmentation'}",https://paperswithcode.com/dataset/referring-expressions-for-davis-2016-2017
+MPII Human Pose,2014-11-16,39,1,{'Pose Estimation'},https://paperswithcode.com/dataset/mpii-human-pose
+CamVid,2014-12-22,38,3,"{'Semantic Segmentation', 'Real-Time Semantic Segmentation', 'Video Semantic Segmentation'}",https://paperswithcode.com/dataset/camvid
+CelebA-HQ,2017-10-27,37,6,"{'Image-to-Image Translation', 'Blind Face Restoration', 'Multimodal Unsupervised Image-To-Image Translation', 'Image Generation', 'Image Quality Assessment', 'Image Super-Resolution'}",https://paperswithcode.com/dataset/celeba-hq
+VisDial,2016-05-31,37,1,{'Visual Dialog'},https://paperswithcode.com/dataset/visdial
+COCO-Stuff,2014-11-14,37,5,"{'Image-to-Image Translation', 'Semantic Segmentation', 'Unsupervised Semantic Segmentation', 'Layout-to-Image Generation', 'Real-Time Semantic Segmentation'}",https://paperswithcode.com/dataset/coco-stuff
+ShanghaiTech,2015-06-01,36,1,{'Crowd Counting'},https://paperswithcode.com/dataset/shanghaitech
+LSUN,2017-06-26,36,1,{'Image Generation'},https://paperswithcode.com/dataset/lsun
+iNaturalist,2017-07-20,36,4,"{'Image Classification', 'Image Retrieval', 'Few-Shot Image Classification', 'Fine-Grained Image Classification'}",https://paperswithcode.com/dataset/inaturalist
+USPS,2012-08-25,35,2,"{'Domain Adaptation', 'Image Clustering'}",https://paperswithcode.com/dataset/usps
+300W,2015-11-23,35,4,"{'3D Reconstruction', 'Unsupervised Facial Landmark Detection', 'Face Alignment', 'Facial Landmark Detection'}",https://paperswithcode.com/dataset/300w
+CBSD68,2016-08-13,35,1,{'Color Image Denoising'},https://paperswithcode.com/dataset/cbsd68
+ICDAR 2015,2016-04-14,35,1,{'Scene Text Detection'},https://paperswithcode.com/dataset/icdar-2015
+MSMT17,2016-11-17,34,3,"{'Generalizable Person Re-identification', 'Unsupervised Person Re-Identification', 'Person Re-Identification'}",https://paperswithcode.com/dataset/msmt17
+Office-31,2015-12-10,34,3,"{'Domain Adaptation', 'Unsupervised Domain Adaptation', 'Partial Domain Adaptation'}",https://paperswithcode.com/dataset/office-31
+FGVC-Aircraft,2016-11-29,33,1,{'Fine-Grained Image Classification'},https://paperswithcode.com/dataset/fgvc-aircraft-1
+LFW,2009-01-01,33,4,"{'Face Verification', 'Face Quality Assessement', '3D FACE MODELING', 'Face Recognition'}",https://paperswithcode.com/dataset/lfw
+PyBullet,2020-05-12,32,1,{'Continuous Control'},https://paperswithcode.com/dataset/pybullet
+ICDAR 2013,2014-06-09,32,2,"{'Scene Text Recognition', 'Scene Text Detection'}",https://paperswithcode.com/dataset/icdar-2013
+DAVIS 2017,2016-11-16,32,3,"{'Video Object Segmentation', 'Unsupervised Video Object Segmentation', 'Semi-Supervised Video Object Segmentation'}",https://paperswithcode.com/dataset/davis-2017
+SemanticKITTI,2016-12-02,32,4,"{'LIDAR Semantic Segmentation', '3D Semantic Segmentation', 'Real-Time 3D Semantic Segmentation', 'Panoptic Segmentation'}",https://paperswithcode.com/dataset/semantickitti
+AVA,2017-05-23,31,2,"{'Action Recognition', 'Audio-Visual Active Speaker Detection'}",https://paperswithcode.com/dataset/ava
+Office-Home,2012-12-01,31,4,"{'Domain Adaptation', 'Unsupervised Domain Adaptation', 'Domain Generalization', 'Partial Domain Adaptation'}",https://paperswithcode.com/dataset/office-home
+DF20,2021-03-18,30,2,"{'Mini - Fine-Grained Image Classification', 'Fine-Grained Image Classification'}",https://paperswithcode.com/dataset/df20
+Oxford-IIIT Pets,2018-05-24,30,3,"{'Image Classification', 'Image Compression', 'Fine-Grained Image Classification'}",https://paperswithcode.com/dataset/oxford-iiit-pets
+CelebA,2017-11-17,30,4,"{'Image Classification', 'Face Alignment', 'Unsupervised Facial Landmark Detection', 'Image Generation'}",https://paperswithcode.com/dataset/celeba
+AFLW2000-3D,2014-06-01,29,4,"{'Head Pose Estimation', '3D Face Reconstruction', 'Face Alignment', 'Facial Landmark Detection'}",https://paperswithcode.com/dataset/aflw2000-3d
+WebVision,2016-09-13,29,1,{'Image Classification'},https://paperswithcode.com/dataset/webvision-database
+MPI Sintel,2016-11-03,28,1,{'Optical Flow Estimation'},https://paperswithcode.com/dataset/mpi-sintel
+MSR-VTT,2016-09-26,28,3,"{'Video Captioning', 'Visual Question Answering', 'Video Retrieval'}",https://paperswithcode.com/dataset/msr-vtt
+AFLW,2016-09-21,28,5,"{'Unsupervised Facial Landmark Detection', 'Facial Landmark Detection', 'Head Pose Estimation', 'Face Alignment', 'Low-Light Image Enhancement'}",https://paperswithcode.com/dataset/aflw
+Flickr30k,2014-12-07,28,5,"{'Text-Image Retrieval', 'Image Captioning', 'Phrase Grounding', 'Image Retrieval', 'Cross-Modal Retrieval'}",https://paperswithcode.com/dataset/flickr30k
+ImageNet-C,2018-11-29,27,2,"{'Unsupervised Domain Adaptation', 'Domain Generalization'}",https://paperswithcode.com/dataset/imagenet-c
+Meta-Dataset,2016-06-13,27,1,{'Few-Shot Image Classification'},https://paperswithcode.com/dataset/meta-dataset
+DAVIS,2016-03-13,26,5,"{'Interactive Video Object Segmentation', 'Video Inpainting', 'Video Object Detection', 'Interactive Segmentation', 'Video Denoising'}",https://paperswithcode.com/dataset/davis
+Real Blur Dataset,2013-06-01,26,1,{'Deblurring'},https://paperswithcode.com/dataset/real-blur-dataset
+HICO-DET,2015-05-05,26,2,"{'Human-Object Interaction Detection', 'Weakly Supervised Object Detection'}",https://paperswithcode.com/dataset/hico-det
+Moments in Time,2017-05-08,26,2,"{'Action Classification', 'Multimodal Activity Recognition'}",https://paperswithcode.com/dataset/moments-in-time
+NJU2K,2016-06-01,25,1,{'RGB-D Salient Object Detection'},https://paperswithcode.com/dataset/nju2k
+FC100,2018-05-23,25,1,{'Few-Shot Image Classification'},https://paperswithcode.com/dataset/fc100
+IEMOCAP,2017-07-01,25,3,"{'Speech Emotion Recognition', 'Emotion Recognition in Conversation', 'Multimodal Emotion Recognition'}",https://paperswithcode.com/dataset/iemocap
+SUN RGB-D,2014-12-22,25,6,"{'Semantic Segmentation', '3D Object Detection', 'Object Detection', 'Monocular 3D Object Detection', 'Scene Segmentation', 'Scene Recognition'}",https://paperswithcode.com/dataset/sun-rgb-d
+Clothing1M,2017-11-20,25,1,{'Image Classification'},https://paperswithcode.com/dataset/clothing1m
+ICB,2015-04-27,24,1,{'JPEG Artifact Correction'},https://paperswithcode.com/dataset/icb
+Stanford Dogs,2016-04-13,24,4,"{'Few-Shot Image Classification', 'Image Generation', 'Image Clustering', 'Fine-Grained Image Classification'}",https://paperswithcode.com/dataset/stanford-dogs
+AffectNet,2017-08-14,24,1,{'Facial Expression Recognition'},https://paperswithcode.com/dataset/affectnet
+CULane,2017-12-17,23,1,{'Lane Detection'},https://paperswithcode.com/dataset/culane
+GoPro,2016-12-07,23,1,{'Deblurring'},https://paperswithcode.com/dataset/gopro
+TuSimple,2017-08-08,23,1,{'Lane Detection'},https://paperswithcode.com/dataset/tusimple
+DUTS,2016-03-07,23,3,"{'RGB Salient Object Detection', 'Salient Object Detection', 'Saliency Detection'}",https://paperswithcode.com/dataset/duts
+Fashion-MNIST,2012-08-25,23,5,"{'Domain Generalization', 'Out-of-Distribution Detection', 'Image Generation', 'Image Classification', 'Image Clustering'}",https://paperswithcode.com/dataset/fashion-mnist
+nuScenes,2019-03-26,22,7,"{'LIDAR Semantic Segmentation', 'Instance Segmentation', '3D Object Detection', 'Object Detection', '3D Multi-Object Tracking', '3D Semantic Segmentation', 'Trajectory Prediction'}",https://paperswithcode.com/dataset/nuscenes
+Kuzushiji-MNIST,2016-03-16,22,2,"{'Image Classification', 'Fine-Grained Image Classification'}",https://paperswithcode.com/dataset/kuzushiji-mnist
+ShapeNet,2017-06-07,22,6,"{'Point Cloud Generation', 'Single-View 3D Reconstruction', 'Novel View Synthesis', 'Semantic Segmentation', '3D Reconstruction', 'Point Cloud Completion'}",https://paperswithcode.com/dataset/shapenet
+Waymo Open Dataset,2019-12-31,22,3,"{'Object Detection', '3D Object Detection', 'Multiple Object Tracking'}",https://paperswithcode.com/dataset/waymo-open-dataset
+MPI-INF-3DHP,2017-05-03,21,2,"{'Pose Retrieval', '3D Human Pose Estimation'}",https://paperswithcode.com/dataset/mpi-inf-3dhp
+VCR,2019-08-09,21,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/vcr
+Visual Genome,2015-11-24,21,5,"{'Visual Question Answering', 'Phrase Grounding', 'Scene Graph Generation', 'Object Detection', 'Layout-to-Image Generation'}",https://paperswithcode.com/dataset/visual-genome
+EMNIST,2017-02-17,20,3,"{'Image Classification', 'Image Clustering', 'Fine-Grained Image Classification'}",https://paperswithcode.com/dataset/emnist
+Adience,2015-10-26,20,3,"{'Age And Gender Classification', 'Face Quality Assessement', 'Face Recognition'}",https://paperswithcode.com/dataset/adience
+MegaFace,2015-03-12,19,3,"{'Face Identification', 'Disguised Face Verification', 'Face Verification'}",https://paperswithcode.com/dataset/megaface
+PoseTrack,2017-10-27,19,3,"{'Multi-Person Pose Estimation and Tracking', 'Pose Tracking', 'Multi-Person Pose Estimation'}",https://paperswithcode.com/dataset/posetrack
+3DPW,2017-12-18,19,1,{'3D Human Pose Estimation'},https://paperswithcode.com/dataset/3dpw
+CLEVR,2017-05-10,19,2,"{'Visual Question Answering', 'Image Generation'}",https://paperswithcode.com/dataset/clevr
+OTB,2016-06-30,19,1,{'Visual Object Tracking'},https://paperswithcode.com/dataset/otb
+MuPoTS-3D,2017-07-01,18,3,"{'3D Multi-Person Pose Estimation (root-relative)', '3D Multi-Person Pose Estimation', '3D Multi-Person Pose Estimation (absolute)'}",https://paperswithcode.com/dataset/mupots-3d
+SoccerNet-v2,2018-04-12,18,4,"{'Camera shot segmentation', 'Action Spotting', 'Replay Grounding', 'Camera shot boundary detection'}",https://paperswithcode.com/dataset/soccernet-v2
+MPII,2016-05-10,18,2,"{'Keypoint Detection', 'Multi-Person Pose Estimation'}",https://paperswithcode.com/dataset/mpii
+MELD,2017-07-01,18,1,{'Emotion Recognition in Conversation'},https://paperswithcode.com/dataset/meld
+VOT2017,2016-11-25,18,1,{'Visual Object Tracking'},https://paperswithcode.com/dataset/vot2017
+IJB-A,2015-07-26,18,2,"{'Face Verification', 'Face Identification'}",https://paperswithcode.com/dataset/ijb-a
+Tiny ImageNet,2013-12-20,18,3,"{'Image Classification', 'Weakly-Supervised Object Localization', 'Image Clustering'}",https://paperswithcode.com/dataset/tiny-imagenet
+LRW,2017-03-12,18,5,"{'Talking Face Generation', 'Lip Reading', 'Lipreading', 'Unconstrained Lip-synchronization', 'Lip to Speech Synthesis'}",https://paperswithcode.com/dataset/lrw
+SumMe,2017-08-31,17,3,"{'Unsupervised Video Summarization', 'Video Summarization', 'Supervised Video Summarization'}",https://paperswithcode.com/dataset/summe
+Kvasir,2015-05-18,17,2,"{'Medical Image Segmentation', 'Polyp Segmentation'}",https://paperswithcode.com/dataset/kvasir
+Kumar,2014-11-14,17,1,{'Multi-tissue Nucleus Segmentation'},https://paperswithcode.com/dataset/kumar
+Total-Text,2017-04-11,16,1,{'Scene Text Detection'},https://paperswithcode.com/dataset/total-text
+YouTubeVIS,2017-03-21,16,1,{'Video Instance Segmentation'},https://paperswithcode.com/dataset/youtubevis
+PCam,2015-12-10,16,2,"{'Breast Tumour Classification', 'Image Compression'}",https://paperswithcode.com/dataset/pcam
+Classic5,2016-08-13,16,1,{'JPEG Artifact Correction'},https://paperswithcode.com/dataset/classic5
+DeepFashion,2017-05-25,16,5,"{'Image-to-Image Translation', 'Virtual Try-on', 'Image Retrieval', 'Consumer-to-shop - Image Retrieval', 'Pose Transfer'}",https://paperswithcode.com/dataset/deepfashion
+SVT,2014-06-09,16,1,{'Scene Text Recognition'},https://paperswithcode.com/dataset/svt
+Food-101,2017-11-20,16,3,"{'Image Classification', 'Image Compression', 'Fine-Grained Image Classification'}",https://paperswithcode.com/dataset/food-101
+MARS,2017-03-22,15,1,{'Person Re-Identification'},https://paperswithcode.com/dataset/mars
+A2D Sentences,2016-03-20,15,1,{'Referring Expression Segmentation'},https://paperswithcode.com/dataset/a2d-sentences
+3DMatch,2009-05-12,15,3,"{'3D Feature Matching', 'Low-Light Image Enhancement', 'Point Cloud Registration'}",https://paperswithcode.com/dataset/3dmatch
+Semantic3D,2016-03-07,15,1,{'Semantic Segmentation'},https://paperswithcode.com/dataset/semantic3d
+Set12,2017-10-11,15,1,{'Grayscale Image Denoising'},https://paperswithcode.com/dataset/set12
+York Urban Line Segment Database,2016-04-07,15,2,"{'Line Segment Detection', 'Horizon Line Estimation'}",https://paperswithcode.com/dataset/york-urban-line-segment-database
+YCB-Video,2017-11-01,15,4,"{'6D Pose Estimation', '6D Pose Estimation using RGBD', 'Occluded 3D Object Symmetry Detection', '6D Pose Estimation using RGB'}",https://paperswithcode.com/dataset/ycb-video
+CVC-ClinicDB,2015-05-18,15,1,{'Medical Image Segmentation'},https://paperswithcode.com/dataset/cvc-clinicdb
+ICDAR 2017,2018-01-05,14,1,{'Scene Text Detection'},https://paperswithcode.com/dataset/icdar-2017
+VisDA-2017,2016-05-21,14,3,"{'Domain Adaptation', 'Unsupervised Domain Adaptation', 'Partial Domain Adaptation'}",https://paperswithcode.com/dataset/visda-2017
+QM9,2017-02-17,14,1,{'Formation Energy'},https://paperswithcode.com/dataset/qm9
+CityPersons,2017-02-19,14,1,{'Pedestrian Detection'},https://paperswithcode.com/dataset/citypersons
+SHREC,2018-01-21,14,4,"{'3D Object Recognition', 'Hand Gesture Recognition', 'Skeleton Based Action Recognition', 'Point Cloud Super Resolution'}",https://paperswithcode.com/dataset/shrec
+EPIC-KITCHENS-100,2020-06-23,14,1,{'Action Recognition'},https://paperswithcode.com/dataset/epic-kitchens-100
+SCUT-CTW1500,2015-05-17,14,2,"{'Scene Text Detection', 'Curved Text Detection'}",https://paperswithcode.com/dataset/scut-ctw1500
+DRIVE,2015-05-18,14,2,"{'Retinal Vessel Segmentation', 'Medical Image Segmentation'}",https://paperswithcode.com/dataset/drive
+GQA,2017-07-25,14,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/gqa
+GTSRB,2012-02-13,14,2,"{'Domain Adaptation', 'Traffic Sign Recognition'}",https://paperswithcode.com/dataset/gtsrb
+ImageCLEF-DA,2015-02-10,14,1,{'Domain Adaptation'},https://paperswithcode.com/dataset/imageclef-da
+LSP,2014-07-12,13,1,{'Pose Estimation'},https://paperswithcode.com/dataset/lsp
+ETH,2018-03-29,13,1,{'Trajectory Prediction'},https://paperswithcode.com/dataset/eth
+UBI-Fights,2016-04-15,13,2,"{'Semi-supervised Anomaly Detection', 'Abnormal Event Detection In Video'}",https://paperswithcode.com/dataset/ubi-fights
+SIP,2019-06-01,13,1,{'RGB-D Salient Object Detection'},https://paperswithcode.com/dataset/sip
+Visual Question Answering,2015-11-07,13,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/visual-question-answering
+Jester,2017-11-22,13,2,"{'Action Recognition', 'Hand Gesture Recognition'}",https://paperswithcode.com/dataset/jester
+FBMS,2014-06-01,13,3,"{'Unsupervised Video Object Segmentation', 'Video Object Segmentation', 'Video Salient Object Detection'}",https://paperswithcode.com/dataset/fbms
+UCF-QNRF,2013-06-01,13,1,{'Crowd Counting'},https://paperswithcode.com/dataset/ucf-qnrf
+MSVD,2017-04-14,13,3,"{'Video Captioning', 'Visual Question Answering', 'Video Retrieval'}",https://paperswithcode.com/dataset/msvd
+PACS,2019-03-16,13,1,{'Domain Generalization'},https://paperswithcode.com/dataset/pacs
+BIWI,2015-11-23,13,1,{'Head Pose Estimation'},https://paperswithcode.com/dataset/biwi
+nocaps,2020-09-28,12,1,{'Image Captioning'},https://paperswithcode.com/dataset/nocaps
+NLPR,2019-06-01,12,1,{'RGB-D Salient Object Detection'},https://paperswithcode.com/dataset/nlpr
+UAV-Human,2015-12-10,12,4,"{'Pose Estimation', 'Pedestrian Attribute Recognition', 'Skeleton Based Action Recognition', 'Person Re-Identification'}",https://paperswithcode.com/dataset/uav-human
+Foggy Cityscapes,2018-03-08,12,3,"{'Image-to-Image Translation', 'Unsupervised Domain Adaptation', 'Weakly Supervised Object Detection'}",https://paperswithcode.com/dataset/foggy-cityscapes
+Penn Action,2016-03-13,12,3,"{'Pose Estimation', 'Skeleton Based Action Recognition', 'Video Alignment'}",https://paperswithcode.com/dataset/penn-action
+Electricity,2017-03-21,12,1,{'Univariate Time Series Forecasting'},https://paperswithcode.com/dataset/electricity
+VehicleID,2018-11-13,12,1,{'Vehicle Re-Identification'},https://paperswithcode.com/dataset/vehicleid
+ObjectNet,2019-12-01,12,1,{'Image Classification'},https://paperswithcode.com/dataset/objectnet
+Wireframe,2017-07-01,12,1,{'Line Segment Detection'},https://paperswithcode.com/dataset/wireframe
+LSMDC,2016-10-10,12,1,{'Video Retrieval'},https://paperswithcode.com/dataset/lsmdc
+UFPR-ADMR-v1,2020-05-06,11,1,{'Meter Reading'},https://paperswithcode.com/dataset/ufpr-admr-v1-dataset
+Mapillary Vistas Dataset,2018-09-06,11,3,"{'Semantic Segmentation', 'Visual Place Recognition', 'Panoptic Segmentation'}",https://paperswithcode.com/dataset/mapillary-vistas-dataset
+SegTrack-v2,2015-06-01,11,3,"{'Unsupervised Video Object Segmentation', 'Video Segmentation', 'Video Salient Object Detection'}",https://paperswithcode.com/dataset/segtrack-v2-1
+CHASE_DB1,2015-05-18,11,2,"{'Retinal Vessel Segmentation', 'Medical Image Segmentation'}",https://paperswithcode.com/dataset/chase-db1
+YouCook2,2015-06-01,11,4,"{'Video Captioning', 'Action Classification', 'Dense Video Captioning', 'Video Retrieval'}",https://paperswithcode.com/dataset/youcook2
+V-COCO,2018-08-23,11,1,{'Human-Object Interaction Detection'},https://paperswithcode.com/dataset/v-coco
+SIDD,2018-07-12,11,1,{'Image Denoising'},https://paperswithcode.com/dataset/sidd
+irc-disentanglement,2008-06-01,11,1,{'Conversation Disentanglement'},https://paperswithcode.com/dataset/irc-disentanglement
+DUT-OMRON,2017-08-07,11,2,"{'RGB Salient Object Detection', 'Saliency Detection'}",https://paperswithcode.com/dataset/dut-omron
+WFLW,2015-06-07,11,1,{'Face Alignment'},https://paperswithcode.com/dataset/wflw
+PASCAL-Part,2015-11-21,11,2,"{'Multi-Human Parsing', 'Human Part Segmentation'}",https://paperswithcode.com/dataset/pascal-person-part
+PRID2011,2017-09-27,11,1,{'Person Re-Identification'},https://paperswithcode.com/dataset/prid2011
+HPatches,2015-06-25,10,3,"{'Patch Matching', 'Dense Pixel Correspondence Estimation', 'Image Stitching'}",https://paperswithcode.com/dataset/hpatches
+Breakfast,2019-03-05,10,1,{'Action Segmentation'},https://paperswithcode.com/dataset/breakfast
+CAS-VSR-W1k (LRW-1000),2018-10-16,10,1,{'Lipreading'},https://paperswithcode.com/dataset/lrw-1000
+AViD,2020-07-10,10,1,{'Action Classification'},https://paperswithcode.com/dataset/avid
+FDDB,2014-08-06,10,1,{'Face Detection'},https://paperswithcode.com/dataset/fddb
+NYU Hand,2017-02-08,10,1,{'Hand Pose Estimation'},https://paperswithcode.com/dataset/nyu-hand
+Pavia University,2016-12-01,10,2,"{'Hyperspectral Image Classification', 'Classification Of Hyperspectral Images'}",https://paperswithcode.com/dataset/pavia-university
+RVL-CDIP,2015-02-25,10,2,"{'Document Image Classification', 'Document Layout Analysis'}",https://paperswithcode.com/dataset/rvl-cdip
+MSRA-TD500,2017-03-19,10,1,{'Scene Text Detection'},https://paperswithcode.com/dataset/msra-td500
+HKU-IS,2019-03-01,10,3,"{'RGB Salient Object Detection', 'Salient Object Detection', 'Saliency Detection'}",https://paperswithcode.com/dataset/hku-is
+GTEA,2016-02-09,10,1,{'Action Segmentation'},https://paperswithcode.com/dataset/gtea
+DND,2018-07-12,10,1,{'Image Denoising'},https://paperswithcode.com/dataset/dnd
+DES,2019-06-01,10,1,{'RGB-D Salient Object Detection'},https://paperswithcode.com/dataset/des
+MORPH,2016-11-06,10,2,"{'Age Estimation', 'Age-Invariant Face Recognition'}",https://paperswithcode.com/dataset/morph
+TrackingNet,2015-12-04,10,1,{'Visual Object Tracking'},https://paperswithcode.com/dataset/trackingnet
+LRS2,2018-09-06,10,2,"{'Lipreading', 'Unconstrained Lip-synchronization'}",https://paperswithcode.com/dataset/lrs2
+TotalCapture,2016-01-30,10,2,"{'3D Absolute Human Pose Estimation', '3D Human Pose Estimation'}",https://paperswithcode.com/dataset/totalcapture
+LIP,2017-03-16,10,1,{'Semantic Segmentation'},https://paperswithcode.com/dataset/lip
+Sports-1M,2014-06-23,10,1,{'Action Recognition'},https://paperswithcode.com/dataset/sports-1m
+Oulu-CASIA,2014-12-03,9,2,"{'Face Verification', 'Facial Expression Recognition'}",https://paperswithcode.com/dataset/oulu-casia
+Toyota Smarthome dataset,2016-04-29,9,1,{'Action Classification'},https://paperswithcode.com/dataset/toyota-smarthome-dataset
+RESIDE,2018-05-31,9,1,{'Image Dehazing'},https://paperswithcode.com/dataset/reside
+VQA-CP,2018-08-01,9,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/vqa-cp
+Middlebury,2017-08-05,9,3,"{'4x upscaling - Image Super-Resolution', '2x upscaling - Image Super-Resolution', 'Video Frame Interpolation'}",https://paperswithcode.com/dataset/middlebury
+VoxForge,2019-10-09,9,1,{'Spoken language identification'},https://paperswithcode.com/dataset/voxforge
+iSAID,2017-03-20,9,3,"{'Semantic Segmentation', 'Object Detection', 'Instance Segmentation'}",https://paperswithcode.com/dataset/isaid
+CAMO,2019-06-01,9,1,{'Camouflaged Object Segmentation'},https://paperswithcode.com/dataset/camo
+CARPK,2015-06-04,9,1,{'Object Counting'},https://paperswithcode.com/dataset/carpk
+AFW,2014-08-06,9,1,{'Face Detection'},https://paperswithcode.com/dataset/afw
+50 Salads,2019-03-05,9,1,{'Action Segmentation'},https://paperswithcode.com/dataset/50-salads
+COFW,2018-02-19,9,1,{'Face Alignment'},https://paperswithcode.com/dataset/cofw
+Rel3D,2020-12-03,9,1,{'Spatial Relation Recognition'},https://paperswithcode.com/dataset/rel3d
+CUHK-PEDES,2018-08-05,9,1,{'Text based Person Retrieval'},https://paperswithcode.com/dataset/cuhk-pedes
+CUHK-SYSU,2016-10-17,9,2,"{'Person Search', 'Person Re-Identification'}",https://paperswithcode.com/dataset/cuhk-sysu
+SBD,2015-11-24,9,2,"{'Edge Detection', 'Interactive Segmentation'}",https://paperswithcode.com/dataset/sbd
+PhysioNet Challenge 2012,2010-11-30,9,2,"{'Imputation', 'Multivariate Time Series Imputation'}",https://paperswithcode.com/dataset/physionet-challenge-2012
+ICDAR 2003,2015-07-21,9,1,{'Scene Text Recognition'},https://paperswithcode.com/dataset/icdar-2003
+ECSSD,2019-03-01,9,3,"{'RGB Salient Object Detection', 'Salient Object Detection', 'Saliency Detection'}",https://paperswithcode.com/dataset/ecssd
+Caltech-101,2018-05-02,9,2,"{'Semantic correspondence', 'Fine-Grained Image Classification'}",https://paperswithcode.com/dataset/caltech-101
+NABirds,2017-05-22,9,1,{'Fine-Grained Image Classification'},https://paperswithcode.com/dataset/nabirds
+Extended Yale B,2012-03-05,9,1,{'Image Clustering'},https://paperswithcode.com/dataset/extended-yale-b-1
+Aesthetic Visual Analysis,2015-12-01,9,2,"{'Image Cropping', 'Aesthetics Quality Assessment'}",https://paperswithcode.com/dataset/aesthetic-visual-analysis
+ActivityNet Captions,2020-03-17,8,3,"{'Video Captioning', 'Temporal Action Proposal Generation', 'Dense Video Captioning'}",https://paperswithcode.com/dataset/activitynet-captions
+HIDE,2016-12-07,8,1,{'Deblurring'},https://paperswithcode.com/dataset/hide
+Florence,2015-11-23,8,1,{'3D Face Reconstruction'},https://paperswithcode.com/dataset/florence
+NoW Benchmark,2016-12-15,8,1,{'3D Face Reconstruction'},https://paperswithcode.com/dataset/now-benchmark
+ACDC,2008-02-01,8,2,"{'Diffeomorphic Medical Image Registration', 'Medical Image Segmentation'}",https://paperswithcode.com/dataset/acdc
+PHYRE,2019-08-15,8,1,{'Visual Reasoning'},https://paperswithcode.com/dataset/phyre
+Indian Pines,2016-12-01,8,1,{'Hyperspectral Image Classification'},https://paperswithcode.com/dataset/indian-pines
+X4K1000FPS,2019-04-01,8,1,{'Video Frame Interpolation'},https://paperswithcode.com/dataset/x4k1000fps
+MAFL,2014-08-18,8,1,{'Unsupervised Facial Landmark Detection'},https://paperswithcode.com/dataset/mafl
+MHP,2017-03-20,8,2,"{'Multi-Human Parsing', 'Human Part Segmentation'}",https://paperswithcode.com/dataset/mhp
+LaSOT,2018-11-19,8,1,{'Visual Object Tracking'},https://paperswithcode.com/dataset/lasot
+PASCAL-S,2018-06-01,8,3,"{'RGB Salient Object Detection', 'Salient Object Detection', 'Saliency Detection'}",https://paperswithcode.com/dataset/pascal-s
+DailyDialog,2019-09-24,8,1,{'Emotion Recognition in Conversation'},https://paperswithcode.com/dataset/dailydialog
+Chairs,2016-06-01,8,1,{'Sketch-Based Image Retrieval'},https://paperswithcode.com/dataset/chairs
+DialogRE,2020-04-17,8,1,{'Dialog Relation Extraction'},https://paperswithcode.com/dataset/dialogre
+VoxCeleb2,2019-05-20,8,3,"{'1-shot learning - Talking Head Generation', '8-shot learning - Talking Head Generation', '32-shot learning - Talking Head Generation'}",https://paperswithcode.com/dataset/voxceleb2
+DocVQA,2020-07-01,8,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/docvqa
+VoxCeleb1,2018-09-01,8,4,"{'Video Reconstruction', '1-shot learning - Talking Head Generation', '8-shot learning - Talking Head Generation', '32-shot learning - Talking Head Generation'}",https://paperswithcode.com/dataset/voxceleb1
+Volleyball,2016-11-28,8,2,"{'Action Recognition', 'Group Activity Recognition'}",https://paperswithcode.com/dataset/volleyball
+fastMRI,2020-04-14,8,1,{'MRI Reconstruction'},https://paperswithcode.com/dataset/fastmri
+LFSD,2019-06-01,8,1,{'RGB-D Salient Object Detection'},https://paperswithcode.com/dataset/lfsd
+VGGFace2,2015-11-14,8,2,"{'8x upscaling - Image Super-Resolution', 'Facial Inpainting'}",https://paperswithcode.com/dataset/vggface2-1
+CrowdHuman,2018-04-30,8,1,{'Object Detection'},https://paperswithcode.com/dataset/crowdhuman
+CASIA-WebFace,2015-11-14,8,2,"{'8x upscaling - Image Super-Resolution', 'Facial Inpainting'}",https://paperswithcode.com/dataset/casia-webface
+EmoContext,2019-03-30,8,1,{'Emotion Recognition in Conversation'},https://paperswithcode.com/dataset/emocontext
+FaceForensics++,2020-04-16,8,2,"{'Face Swapping', 'DeepFake Detection'}",https://paperswithcode.com/dataset/faceforensics-1
+ScanObjectNN,2016-12-02,8,1,{'3D Point Cloud Classification'},https://paperswithcode.com/dataset/scanobjectnn
+MSRA Hand,2017-02-08,8,1,{'Hand Pose Estimation'},https://paperswithcode.com/dataset/msra-hand
+Binarized MNIST,2013-10-07,8,1,{'Image Generation'},https://paperswithcode.com/dataset/binarized-mnist
+CAD-120,2012-10-04,8,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/cad-120
+USB,2021-03-25,8,1,{'Object Detection'},https://paperswithcode.com/dataset/usb
+FER2013,2013-07-01,8,2,"{'Image Compression', 'Facial Expression Recognition'}",https://paperswithcode.com/dataset/fer2013
+PF-PASCAL,2018-10-24,7,1,{'Semantic correspondence'},https://paperswithcode.com/dataset/pf-pascal
+Materials Project,2017-10-27,7,1,{'Formation Energy'},https://paperswithcode.com/dataset/materials-project
+UTD-MHAD,2018-06-01,7,2,"{'Action Recognition', 'Multimodal Activity Recognition'}",https://paperswithcode.com/dataset/utd-mhad
+IJB-C,2015-03-12,7,1,{'Face Verification'},https://paperswithcode.com/dataset/ijb-c
+NLVR,2019-08-09,7,1,{'Visual Reasoning'},https://paperswithcode.com/dataset/nlvr
+PASCAL Face,2014-08-06,7,1,{'Face Detection'},https://paperswithcode.com/dataset/pascal-face
+ITOP,2016-03-23,7,1,{'Pose Estimation'},https://paperswithcode.com/dataset/itop
+MOT15,2019-03-13,7,2,"{'Multi-Object Tracking', 'Online Multi-Object Tracking'}",https://paperswithcode.com/dataset/mot15
+ObjectsRoom,2021-04-20,7,2,"{'Image Generation', 'Unsupervised Object Segmentation'}",https://paperswithcode.com/dataset/objectsroom
+Pix3D,2016-10-24,7,3,"{'3D Shape Classification', '3D Shape Modeling', '3D Shape Reconstruction'}",https://paperswithcode.com/dataset/pix3d
+MultiWOZ,2019-11-24,7,1,{'End-To-End Dialogue Modelling'},https://paperswithcode.com/dataset/multiwoz
+ISTD,2016-11-15,7,1,{'RGB Salient Object Detection'},https://paperswithcode.com/dataset/istd
+EPIC-KITCHENS-55,2018-11-26,7,2,"{'Action Recognition', 'Egocentric Activity Recognition'}",https://paperswithcode.com/dataset/epic-kitchens
+ShapeStacks,2021-04-20,7,2,"{'Image Generation', 'Unsupervised Object Segmentation'}",https://paperswithcode.com/dataset/shapestacks
+Stanford Online Products,2019-12-01,7,1,{'Metric Learning'},https://paperswithcode.com/dataset/stanford-online-products
+BAIR Robot Pushing,2017-10-30,7,1,{'Video Generation'},https://paperswithcode.com/dataset/bair-robot-pushing
+COCO Captions,2019-08-30,7,2,"{'Text-Image Retrieval', 'Image Captioning'}",https://paperswithcode.com/dataset/coco-captions
+EGTEA,2017-08-07,7,2,"{'Long-tail Learning', 'Egocentric Activity Recognition'}",https://paperswithcode.com/dataset/egtea
+BSDS500,2019-04-30,7,2,"{'Edge Detection', 'JPEG Artifact Correction'}",https://paperswithcode.com/dataset/bsds500
+Acted Facial Expressions In The Wild (AFEW),2019-06-29,7,1,{'Facial Expression Recognition'},https://paperswithcode.com/dataset/acted-facial-expressions-in-the-wild-afew
+SOC,2017-07-01,7,1,{'RGB Salient Object Detection'},https://paperswithcode.com/dataset/soc
+SEMAINE,2017-07-01,7,1,{'Emotion Recognition in Conversation'},https://paperswithcode.com/dataset/semaine
+CINIC-10,2018-10-02,7,1,{'Image Classification'},https://paperswithcode.com/dataset/cinic-10
+UT-Kinect,2014-06-23,6,2,"{'Multimodal Activity Recognition', 'Skeleton Based Action Recognition'}",https://paperswithcode.com/dataset/ut-kinect
+SPair-71k,2019-08-18,6,1,{'Semantic correspondence'},https://paperswithcode.com/dataset/spair-71k
+FG-NET,2018-04-08,6,2,"{'Age Estimation', 'Age-Invariant Face Recognition'}",https://paperswithcode.com/dataset/fg-net
+Multi-News,2021-01-02,6,1,{'Cross-Document Language Modeling'},https://paperswithcode.com/dataset/multi-news
+PROBA-V,2018-08-27,6,1,{'Multi-Frame Super-Resolution'},https://paperswithcode.com/dataset/proba-v
+Multi-Modal CelebA-HQ,2017-11-28,6,1,{'Text-to-Image Generation'},https://paperswithcode.com/dataset/multi-modal-celeba-hq-1
+CK+,2016-09-21,6,2,"{'Face Verification', 'Facial Expression Recognition'}",https://paperswithcode.com/dataset/ck
+EmoryNLP,2019-09-24,6,1,{'Emotion Recognition in Conversation'},https://paperswithcode.com/dataset/emorynlp
+BDD100K,2018-11-07,6,5,"{'Multiple Object Tracking', 'Lane Detection', 'Semantic Segmentation', 'Steering Control', 'Object Detection'}",https://paperswithcode.com/dataset/bdd100k
+MSRDailyActivity3D,2014-03-03,6,1,{'Multimodal Activity Recognition'},https://paperswithcode.com/dataset/msrdailyactivity3d
+EMOTIC,2019-08-16,6,1,{'Emotion Recognition in Context'},https://paperswithcode.com/dataset/emotic
+CDD Dataset (season-varying),2019-06-10,6,1,{'Change detection for remote sensing images'},https://paperswithcode.com/dataset/cdd-dataset-season-varying
+DeepMind Control Suite,2018-11-12,6,1,{'Continuous Control'},https://paperswithcode.com/dataset/deepmind-control-suite
+Cell,2016-03-27,6,3,"{'Medical Image Segmentation', 'Color Image Denoising', 'Nuclear Segmentation'}",https://paperswithcode.com/dataset/cell
+SUN Attribute,2017-12-04,6,1,{'Generalized Zero-Shot Learning'},https://paperswithcode.com/dataset/sun-attribute
+DFW,2018-04-25,6,2,"{'Disguised Face Verification', 'Heterogeneous Face Recognition'}",https://paperswithcode.com/dataset/dfw
+STARE,2015-05-18,6,1,{'Retinal Vessel Segmentation'},https://paperswithcode.com/dataset/stare
+CompCars,2015-06-30,6,1,{'Fine-Grained Image Classification'},https://paperswithcode.com/dataset/compcars
+PRW,2021-03-18,6,1,{'Person Search'},https://paperswithcode.com/dataset/prw
+COCO-Text,2016-06-29,6,1,{'Scene Text Detection'},https://paperswithcode.com/dataset/coco-text
+HACS,2020-06-15,6,1,{'Action Recognition'},https://paperswithcode.com/dataset/hacs
+RAF-DB,2018-05-13,6,1,{'Facial Expression Recognition'},https://paperswithcode.com/dataset/raf-db
+GOT-10k,2018-11-19,6,1,{'Visual Object Tracking'},https://paperswithcode.com/dataset/got-10k
+G3D,2016-06-27,6,2,"{'Pose Prediction', 'Skeleton Based Action Recognition'}",https://paperswithcode.com/dataset/g3d
+UAVDT,2018-03-26,6,1,{'Object Detection'},https://paperswithcode.com/dataset/uavdt
+Syn2Real,2015-05-28,6,1,{'Synthetic-to-Real Translation'},https://paperswithcode.com/dataset/syn2real
+FoodSeg103,2018-11-28,6,1,{'Semantic Segmentation'},https://paperswithcode.com/dataset/foodseg103
+GRID Dataset,2016-11-05,6,3,"{'Lipreading', 'Lip Reading', 'Speaker-Specific Lip to Speech Synthesis'}",https://paperswithcode.com/dataset/grid
+Nighttime Driving,2018-10-05,6,1,{'Semantic Segmentation'},https://paperswithcode.com/dataset/nighttime-driving
+smallNORB,2017-10-26,6,1,{'Image Classification'},https://paperswithcode.com/dataset/smallnorb
+Flickr30K Entities,2015-11-12,6,1,{'Phrase Grounding'},https://paperswithcode.com/dataset/flickr30k-entities
+ANIMAL,2019-06-15,6,1,{'Learning with noisy labels'},https://paperswithcode.com/dataset/animal
+HICO,2015-05-05,6,1,{'Human-Object Interaction Detection'},https://paperswithcode.com/dataset/hico
+WebEdit,2020-07-02,5,1,{'Fact-based Text Editing'},https://paperswithcode.com/dataset/webedit
+NUS-WIDE,2016-05-31,5,2,"{'Image Retrieval', 'Multi-label zero-shot learning'}",https://paperswithcode.com/dataset/nus-wide
+BraTS 2013,2015-05-13,5,1,{'Brain Tumor Segmentation'},https://paperswithcode.com/dataset/brats-2013-1
+UCF-Crime,2018-01-12,5,1,{'Anomaly Detection In Surveillance Videos'},https://paperswithcode.com/dataset/ucf-crime
+PF-WILLOW,2019-08-18,5,1,{'Semantic correspondence'},https://paperswithcode.com/dataset/pf-willow
+CrowdPose,2017-03-20,5,1,{'Multi-Person Pose Estimation'},https://paperswithcode.com/dataset/crowdpose
+LiTS17,2019-08-19,5,2,"{'Liver Segmentation', 'Medical Image Segmentation'}",https://paperswithcode.com/dataset/lits17
+MEF,2016-06-01,5,1,{'Low-Light Image Enhancement'},https://paperswithcode.com/dataset/mef
+MultiTHUMOS,2015-07-21,5,1,{'Action Detection'},https://paperswithcode.com/dataset/multithumos
+REFUGE Challenge,2020-11-20,5,4,"{'Optic Cup Detection', 'Optic Cup Segmentation', 'Optic Disc Detection', 'Fovea Detection'}",https://paperswithcode.com/dataset/refuge-challenge
+Composition-1K,2017-03-10,5,1,{'Image Matting'},https://paperswithcode.com/dataset/composition-1k
+BraTS 2015,2016-03-18,5,1,{'Brain Tumor Segmentation'},https://paperswithcode.com/dataset/brats-2015-1
+SKU110K,2015-06-04,5,1,{'Dense Object Detection'},https://paperswithcode.com/dataset/sku110k
+SSD,2019-06-01,5,1,{'RGB-D Salient Object Detection'},https://paperswithcode.com/dataset/ssd-1
+MIT-States,2014-11-17,5,1,{'Image Retrieval with Multi-Modal Query'},https://paperswithcode.com/dataset/mit-states
+MTL-AQA,2019-04-08,5,2,"{'Action Recognition', 'Action Quality Assessment'}",https://paperswithcode.com/dataset/mtl-aqa
+Cholec80,2016-02-09,5,1,{'Surgical tool detection'},https://paperswithcode.com/dataset/cholec80
+Tai-Chi-HD,2020-02-29,5,1,{'Video Reconstruction'},https://paperswithcode.com/dataset/tai-chi-hd
+Places,2018-01-24,5,2,"{'Image Inpainting', 'Image Classification'}",https://paperswithcode.com/dataset/places
+CLEVR-Humans,2017-05-10,5,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/clevr-humans
+PIE,2017-11-24,5,1,{'Trajectory Prediction'},https://paperswithcode.com/dataset/pie
+VOT2016,2017-04-20,5,1,{'Visual Object Tracking'},https://paperswithcode.com/dataset/vot2016
+Paris-Lille-3D,2017-11-30,5,1,{'LIDAR Semantic Segmentation'},https://paperswithcode.com/dataset/paris-lille-3d
+LLAMAS,2020-04-23,5,1,{'Lane Detection'},https://paperswithcode.com/dataset/llamas
+UFPR-AMR,2019-02-25,5,1,{'Meter Reading'},https://paperswithcode.com/dataset/ufpr-amr-dataset
+FER+,2018-08-16,5,1,{'Facial Expression Recognition'},https://paperswithcode.com/dataset/fer
+ImageNet-LT,2019-04-10,5,1,{'Long-tail learning with class descriptors'},https://paperswithcode.com/dataset/imagenet-lt
+MuJoCo,2016-06-06,5,1,{'Multivariate Time Series Imputation'},https://paperswithcode.com/dataset/mujoco
+AwA,2019-06-01,5,1,{'Long-tail learning with class descriptors'},https://paperswithcode.com/dataset/awa-1
+Freiburg Forest,2017-03-02,5,2,"{'Semantic Segmentation', 'Unsupervised Image-To-Image Translation'}",https://paperswithcode.com/dataset/freiburg-forest
+PPMI,2008-02-01,5,2,"{'Diffeomorphic Medical Image Registration', 'Medical Image Registration'}",https://paperswithcode.com/dataset/ppmi
+Florence3D,2014-06-23,5,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/florence3d
+DICM,2016-06-01,5,1,{'Low-Light Image Enhancement'},https://paperswithcode.com/dataset/dicm
+Mid-Air Dataset,2016-09-13,5,1,{'Monocular Depth Estimation'},https://paperswithcode.com/dataset/mid-air-dataset
+AFHQ,2018-04-12,5,2,"{'Image-to-Image Translation', 'Multimodal Unsupervised Image-To-Image Translation'}",https://paperswithcode.com/dataset/afhq
+LUNA,2015-05-18,5,1,{'Lung Nodule Segmentation'},https://paperswithcode.com/dataset/luna
+Birdsnap,2018-11-16,5,1,{'Fine-Grained Image Classification'},https://paperswithcode.com/dataset/birdsnap
+McMaster,2017-10-11,5,1,{'Color Image Denoising'},https://paperswithcode.com/dataset/mcmaster
+selfie2anime,2021-06-11,4,1,{'Image-to-Image Translation'},https://paperswithcode.com/dataset/selfie2anime
+AUTSL,2020-08-03,4,1,{'Sign Language Recognition'},https://paperswithcode.com/dataset/autsl
+AOLP,2018-09-01,4,1,{'License Plate Recognition'},https://paperswithcode.com/dataset/aolp
+UCI Machine Learning Repository,2010-11-30,4,1,{'Multivariate Time Series Imputation'},https://paperswithcode.com/dataset/uci-machine-learning-repository
+UMIST,2016-04-13,4,1,{'Image Clustering'},https://paperswithcode.com/dataset/umist-1
+O-HAZE,2018-05-14,4,1,{'Image Dehazing'},https://paperswithcode.com/dataset/o-haze-1
+BP4D,2017-02-14,4,3,"{'Facial Action Unit Detection', 'Action Unit Detection', 'Facial Expression Recognition'}",https://paperswithcode.com/dataset/bp4d
+YouTube-8M,2016-09-27,4,2,"{'Video Classification', 'Video Prediction'}",https://paperswithcode.com/dataset/youtube-8m
+BIG,2020-05-06,4,1,{'Semantic Segmentation'},https://paperswithcode.com/dataset/big
+Argoverse,2020-08-19,4,1,{'Motion Forecasting'},https://paperswithcode.com/dataset/argoverse
+BraTS 2018,2018-10-27,4,1,{'Brain Tumor Segmentation'},https://paperswithcode.com/dataset/brats-2018-1
+Shelf&Tote Training Dataset,2021-04-20,4,1,{'Unsupervised Object Segmentation'},https://paperswithcode.com/dataset/shelf-tote-training-dataset
+Sintel 4D LFV,2020-12-05,4,4,"{'ambushfight5 - Disparity Estimation', 'thebigfight2 - Disparity Estimation', 'shaman2 - Disparity Estimation', 'bamboo3 - Disparity Estimation'}",https://paperswithcode.com/dataset/sintel-4d-lfv
+MoNuSeg,2021-02-21,4,1,{'Medical Image Segmentation'},https://paperswithcode.com/dataset/monuseg
+NVGesture,2018-04-19,4,1,{'Hand Gesture Recognition'},https://paperswithcode.com/dataset/nvgesture-1
+Places-LT,2019-04-10,4,1,{'Long-tail Learning'},https://paperswithcode.com/dataset/places-lt
+Completion3D,2018-02-15,4,1,{'Point Cloud Completion'},https://paperswithcode.com/dataset/completion3d
+MPIIGaze,2018-09-01,4,1,{'Gaze Estimation'},https://paperswithcode.com/dataset/mpiigaze
+RaFD,2016-10-18,4,1,{'Image-to-Image Translation'},https://paperswithcode.com/dataset/rafd
+Kvasir-Instrument,2015-05-18,4,2,"{'Semantic Segmentation', 'Medical Image Segmentation'}",https://paperswithcode.com/dataset/kvasir-instrument
+EgoGesture,2017-05-22,4,2,"{'Action Recognition', 'Hand Gesture Recognition'}",https://paperswithcode.com/dataset/egogesture
+Kinetics-600,2019-07-15,4,2,"{'Video Generation', 'Video Prediction'}",https://paperswithcode.com/dataset/kinetics-600
+VizDoom,2016-05-06,4,2,"{'Scene Generation', 'Playing Game of Doom'}",https://paperswithcode.com/dataset/vizdoom
+VCTK,2017-08-02,4,1,{'Audio Super-Resolution'},https://paperswithcode.com/dataset/vctk
+PanoContext,2018-03-23,4,1,{'3D Room Layouts From A Single RGB Panorama'},https://paperswithcode.com/dataset/panocontext
+FLIC,2016-01-30,4,1,{'Pose Estimation'},https://paperswithcode.com/dataset/flic
+JFT-300M,2021-06-10,4,1,{'Image Classification'},https://paperswithcode.com/dataset/jft-300m
+DomainNet,2020-08-28,4,2,"{'Domain Adaptation', 'Domain Generalization'}",https://paperswithcode.com/dataset/domainnet
+ImageNet-32,2017-03-10,4,1,{'Image Compression'},https://paperswithcode.com/dataset/imagenet-32
+PhraseCut,2020-08-03,4,1,{'Referring Expression Segmentation'},https://paperswithcode.com/dataset/phrasecut
+RELLIS-3D,2020-11-17,4,2,"{'Semantic Segmentation', '3D Semantic Segmentation'}",https://paperswithcode.com/dataset/rellis-3d
+IJB-B,2017-08-24,4,2,"{'Face Identification', 'Face Verification'}",https://paperswithcode.com/dataset/ijb-b
+RECCON,2020-12-22,4,2,"{'Causal Emotion Entailment', 'Recognizing Emotion Cause in Conversations'}",https://paperswithcode.com/dataset/reccon
+HAA500,2020-09-11,4,1,{'Action Recognition'},https://paperswithcode.com/dataset/haa500
+VeRi-776,2018-11-13,4,1,{'Vehicle Re-Identification'},https://paperswithcode.com/dataset/veri-776
+EYEDIAP,2018-05-08,4,1,{'Gaze Estimation'},https://paperswithcode.com/dataset/eyediap
+OQMD v1.2,2019-05-27,4,1,{'Formation Energy'},https://paperswithcode.com/dataset/oqmd-v1-2
+SUTD-TrafficQA,2015-05-08,4,1,{'Video Question Answering'},https://paperswithcode.com/dataset/trafficqa
+MNIST-M,2015-02-10,4,1,{'Domain Adaptation'},https://paperswithcode.com/dataset/mnist-m
+TrajNet,2020-07-07,4,2,"{'Trajectory Forecasting', 'Trajectory Prediction'}",https://paperswithcode.com/dataset/trajnet-1
+CoSal2015,2019-06-01,4,1,{'Co-Salient Object Detection'},https://paperswithcode.com/dataset/cosal2015
+Hopkins155,2012-03-05,4,1,{'Motion Segmentation'},https://paperswithcode.com/dataset/hopkins155
+CUFS,2017-12-04,4,1,{'Face Sketch Synthesis'},https://paperswithcode.com/dataset/cufs
+LVIS,2019-12-17,4,3,"{'Object Detection', 'Few-Shot Object Detection', 'Instance Segmentation'}",https://paperswithcode.com/dataset/lvis
+WiderPerson,2019-09-25,4,1,{'Object Detection'},https://paperswithcode.com/dataset/widerperson
+CrossTask,2015-06-30,4,1,{'Temporal Action Localization'},https://paperswithcode.com/dataset/crosstask
+MAMe,2020-07-27,4,1,{'Image Classification'},https://paperswithcode.com/dataset/mame
+SURREAL,2017-12-04,3,1,{'3D Human Pose Estimation'},https://paperswithcode.com/dataset/surreal-1
+SunYs,2018-05-04,3,1,{'Pulmonary Artery–Vein Classification'},https://paperswithcode.com/dataset/sunys
+OVIS,2021-02-02,3,1,{'Video Instance Segmentation'},https://paperswithcode.com/dataset/ovis
+PIRM,2016-09-15,3,1,{'Image Super-Resolution'},https://paperswithcode.com/dataset/pirm
+T-LESS,2019-02-04,3,2,"{'6D Pose Estimation using RGBD', '6D Pose Estimation using RGB'}",https://paperswithcode.com/dataset/t-less
+SceneNN,2019-04-01,3,1,{'3D Instance Segmentation'},https://paperswithcode.com/dataset/scenenn
+SYSU-MM01,2017-10-01,3,1,{'Cross-Modal  Person Re-Identification'},https://paperswithcode.com/dataset/sysu-mm01
+UAV123,2019-09-26,3,1,{'Visual Object Tracking'},https://paperswithcode.com/dataset/uav123
+R2R,2018-11-25,3,1,{'Vision-Language Navigation'},https://paperswithcode.com/dataset/room-to-room
+PeopleArt,2016-10-27,3,2,"{'Object Detection', 'Weakly Supervised Object Detection'}",https://paperswithcode.com/dataset/peopleart
+PASCAL-5i,2019-07-01,3,1,{'Few-Shot Semantic Segmentation'},https://paperswithcode.com/dataset/pascal-5i
+RITE,2015-05-18,3,1,{'Medical Image Segmentation'},https://paperswithcode.com/dataset/rite
+PartNet,2018-12-06,3,1,{'3D Semantic Segmentation'},https://paperswithcode.com/dataset/partnet
+RWTH-PHOENIX-Weather 2014,2017-10-01,3,1,{'Sign Language Recognition'},https://paperswithcode.com/dataset/rwth-phoenix-weather-2014
+Tsinghua-Tencent 100K,2018-06-20,3,1,{'Traffic Sign Recognition'},https://paperswithcode.com/dataset/tsinghua-tencent-100k
+Stacked MNIST,2019-10-09,3,1,{'Image Generation'},https://paperswithcode.com/dataset/stacked-mnist
+Sprites,2020-01-08,3,2,"{'Imputation', 'Video Prediction'}",https://paperswithcode.com/dataset/sprites
+Replay-Attack,2014-08-24,3,1,{'Face Anti-Spoofing'},https://paperswithcode.com/dataset/replay-attack
+PA-100K,2017-09-28,3,1,{'Pedestrian Attribute Recognition'},https://paperswithcode.com/dataset/pa-100k
+Salinas,2019-02-18,3,1,{'Hyperspectral Image Classification'},https://paperswithcode.com/dataset/salinas
+TbD,2019-05-09,3,1,{'Video Super-Resolution'},https://paperswithcode.com/dataset/tbd
+SFEW,2017-10-09,3,1,{'Facial Expression Recognition'},https://paperswithcode.com/dataset/sfew
+TbD-3D,2019-05-09,3,1,{'Video Super-Resolution'},https://paperswithcode.com/dataset/tbd-3d
+PKU-MMD,2017-04-25,3,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/pku-mmd
+Replica,2020-07-05,3,1,{'Scene Generation'},https://paperswithcode.com/dataset/replica
+2018 Data Science Bowl,2018-07-18,3,1,{'Medical Image Segmentation'},https://paperswithcode.com/dataset/2018-data-science-bowl
+ORL,2018-04-17,3,1,{'Multi-view Subspace Clustering'},https://paperswithcode.com/dataset/orl
+Clipart1k,2018-03-30,3,1,{'Weakly Supervised Object Detection'},https://paperswithcode.com/dataset/clipart1k
+VIVA,2014-06-09,3,1,{'Hand Gesture Recognition'},https://paperswithcode.com/dataset/viva
+JAFFE,2015-05-15,3,2,"{'Image/Document Clustering', 'Facial Expression Recognition'}",https://paperswithcode.com/dataset/jaffe
+JAAD,2019-10-01,3,1,{'Trajectory Prediction'},https://paperswithcode.com/dataset/jaad
+CMU Panoptic Studio Dataset,2020-04-06,3,1,{'3D Multi-Person Pose Estimation'},https://paperswithcode.com/dataset/cmu-panoptic-studio-dataset
+DOTA,2018-07-07,3,3,"{'2D Object Detection', 'Object Detection', 'Object Detection In Aerial Images'}",https://paperswithcode.com/dataset/dota
+INTERACTION Dataset,2017-04-14,3,1,{'Validation - Trajectory Prediction'},https://paperswithcode.com/dataset/interaction-dataset
+VLCS,2020-07-05,3,1,{'Domain Generalization'},https://paperswithcode.com/dataset/vlcs
+CUFSF,2017-12-04,3,1,{'Face Sketch Synthesis'},https://paperswithcode.com/dataset/cufsf
+IFCNet,2021-06-17,3,1,{'IFC Entity Classification'},https://paperswithcode.com/dataset/ifcnet
+Caltech-256,2018-05-02,3,2,"{'Few-Shot Image Classification', 'Semi-Supervised Image Classification'}",https://paperswithcode.com/dataset/caltech-256
+Horse-10,2019-09-24,3,1,{'Animal Pose Estimation'},https://paperswithcode.com/dataset/horse-10
+Clinical Admission Notes from MIMIC-III,2021-02-08,3,1,{'Medical Diagnosis'},https://paperswithcode.com/dataset/hospital-admission-notes-from-mimic-iii
+Collective Activity,2015-11-13,3,1,{'Group Activity Recognition'},https://paperswithcode.com/dataset/collective-activity
+CATS,2017-03-02,3,1,{'Multimodal Unsupervised Image-To-Image Translation'},https://paperswithcode.com/dataset/cats
+GlaS,2021-02-21,3,1,{'Medical Image Segmentation'},https://paperswithcode.com/dataset/glas
+WMCA,2019-09-19,3,1,{'Face Presentation Attack Detection'},https://paperswithcode.com/dataset/wmca
+FreiHAND,2020-08-09,3,1,{'3D Hand Pose Estimation'},https://paperswithcode.com/dataset/freihand
+Fashion IQ,2018-09-01,3,2,"{'Image Retrieval with Multi-Modal Query', 'Virtual Try-on'}",https://paperswithcode.com/dataset/fashion-iq
+Falling Objects,2019-05-09,3,1,{'Video Super-Resolution'},https://paperswithcode.com/dataset/falling-objects
+FSS-1000,2019-07-29,3,1,{'Few-Shot Semantic Segmentation'},https://paperswithcode.com/dataset/fss-1000
+FRGC,2016-04-13,3,1,{'Image Clustering'},https://paperswithcode.com/dataset/frgc
+Exact Street2Shop,2020-03-09,3,1,{'Image Retrieval'},https://paperswithcode.com/dataset/exact-street2shop
+Visual7W,2016-06-06,3,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/visual7w
+NTU-X,2021-01-27,3,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/ntu-x
+VizWiz,2019-04-18,3,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/vizwiz
+DiDeMo,2019-07-31,3,1,{'Video Retrieval'},https://paperswithcode.com/dataset/didemo
+CIHP,2018-08-01,3,1,{'Human Part Segmentation'},https://paperswithcode.com/dataset/cihp
+TVQA,2019-04-25,3,1,{'Video Question Answering'},https://paperswithcode.com/dataset/tvqa
+AQA-7,2018-12-15,3,1,{'Action Quality Assessment'},https://paperswithcode.com/dataset/aqa-7
+MICCAI 2015 Multi-Atlas Abdomen Labeling Challenge,2021-02-08,3,1,{'Medical Image Segmentation'},https://paperswithcode.com/dataset/miccai-2015-multi-atlas-abdomen-labeling
+300-VW,2017-03-21,3,2,"{'Face Alignment', 'Facial Landmark Detection'}",https://paperswithcode.com/dataset/300-vw
+MultiSubs,2021-03-02,3,1,{'Multimodal Lexical Translation'},https://paperswithcode.com/dataset/multisubs
+A3D,2016-04-15,3,1,{'Traffic Accident Detection'},https://paperswithcode.com/dataset/a3d
+ACID,2021-04-15,3,1,{'Novel View Synthesis'},https://paperswithcode.com/dataset/acid
+Matterport3D,2019-08-22,3,2,"{'Depth Completion', 'Depth Estimation'}",https://paperswithcode.com/dataset/matterport3d
+AM-2k,2020-10-30,3,1,{'Image Matting'},https://paperswithcode.com/dataset/am-2k-1
+CASIA-B,2018-11-15,3,1,{'Multiview Gait Recognition'},https://paperswithcode.com/dataset/casia-b
+AVD,2020-07-05,3,1,{'Scene Generation'},https://paperswithcode.com/dataset/avd
+iLIDS-VID,2019-03-01,3,1,{'Person Re-Identification'},https://paperswithcode.com/dataset/ilids-vid
+BIPED,2015-04-24,3,1,{'Edge Detection'},https://paperswithcode.com/dataset/biped
+BIRD,2020-07-07,3,1,{'Fine-Grained Image Classification'},https://paperswithcode.com/dataset/bird
+Dark Zurich,2019-01-17,3,1,{'Semantic Segmentation'},https://paperswithcode.com/dataset/dark-zurich
+MECCANO,2020-10-12,3,3,"{'Action Recognition', 'Object Recognition', 'Human-Object Interaction Detection'}",https://paperswithcode.com/dataset/meccano
+Brain US,2021-02-21,3,1,{'Medical Image Segmentation'},https://paperswithcode.com/dataset/brain-us
+CARLA,2019-12-27,3,1,{'Autonomous Driving'},https://paperswithcode.com/dataset/carla
+SK-LARGE,2018-01-05,2,1,{'Object Skeleton Detection'},https://paperswithcode.com/dataset/sk-large
+Sydney Urban Objects,2016-04-12,2,1,{'3D Point Cloud Classification'},https://paperswithcode.com/dataset/sydney-urban-objects
+3DFAW,2016-09-29,2,2,"{'3D Facial Landmark Localization', 'Face Alignment'}",https://paperswithcode.com/dataset/3dfaw
+SIPaKMeD,2021-06-09,2,1,{'Image Classification'},https://paperswithcode.com/dataset/sipakmed
+WIT,2021-03-02,2,1,{'Text-Image Retrieval'},https://paperswithcode.com/dataset/wit
+3D Platelet EM,2021-01-28,2,2,"{'3D Semantic Segmentation', 'Electron Microscopy Image Segmentation'}",https://paperswithcode.com/dataset/3d-platelet-em
+DFDC,2020-04-16,2,1,{'DeepFake Detection'},https://paperswithcode.com/dataset/dfdc
+BUFF,2020-04-01,2,1,{'3D Object Reconstruction From A Single Image'},https://paperswithcode.com/dataset/buff
+DHF1K,2019-08-15,2,1,{'Video Saliency Detection'},https://paperswithcode.com/dataset/dhf1k
+DIODE,2020-07-13,2,2,"{'Depth Estimation', 'Indoor Monocular Depth Estimation'}",https://paperswithcode.com/dataset/diode
+SEED,2019-07-18,2,1,{'Emotion Recognition'},https://paperswithcode.com/dataset/seed-1
+CEDAR Signature,2017-07-07,2,1,{'Handwriting Verification'},https://paperswithcode.com/dataset/cedar-signature
+TDIUC,2019-02-25,2,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/tdiuc
+TED-talks,2021-04-22,2,1,{'Video Reconstruction'},https://paperswithcode.com/dataset/ted-talks
+DISFA,2016-01-30,2,2,"{'Smile Recognition', 'Facial Expression Recognition'}",https://paperswithcode.com/dataset/disfa
+CCD,2020-08-01,2,1,{'Accident Anticipation'},https://paperswithcode.com/dataset/ccd
+XD-Violence,2020-07-09,2,1,{'Anomaly Detection In Surveillance Videos'},https://paperswithcode.com/dataset/xd-violence
+Taskonomy,2020-06-01,2,2,"{'Surface Normals Estimation', 'Depth Estimation'}",https://paperswithcode.com/dataset/taskonomy
+Book Cover Dataset,2016-10-28,2,1,{'Genre classification'},https://paperswithcode.com/dataset/book-cover-dataset
+Win-Fail Action Understanding,2021-02-15,2,2,"{'Action Recognition', 'Action Understanding'}",https://paperswithcode.com/dataset/win-fail-action-understanding
+COVID-19 Twitter Chatter Dataset,2019-06-08,2,1,{'Out-of-Distribution Detection'},https://paperswithcode.com/dataset/covid-19-twitter-chatter-dataset
+Sim10k,2018-12-12,2,1,{'Unsupervised Domain Adaptation'},https://paperswithcode.com/dataset/sim10k
+CamGes,2013-03-25,2,1,{'Hand Gesture Recognition'},https://paperswithcode.com/dataset/camgesdata
+CarFusion,2019-06-01,2,2,"{'3D Pose Estimation', 'Vehicle Pose Estimation'}",https://paperswithcode.com/dataset/vehicle-pose-estimation
+Scan2CAD,2016-03-27,2,1,{'3D Reconstruction'},https://paperswithcode.com/dataset/scan2cad
+ChangeSim,2021-03-09,2,1,{'Scene Change Detection'},https://paperswithcode.com/dataset/changesim
+Amazon Product Data,2019-05-19,2,1,{'Domain Adaptation'},https://paperswithcode.com/dataset/amazon-product-data
+CACD,2019-01-20,2,1,{'Age Estimation'},https://paperswithcode.com/dataset/cacd
+Cluttered Omniglot,2018-03-26,2,1,{'One-Shot Segmentation'},https://paperswithcode.com/dataset/cluttered-omniglot
+BraTS 2017,2017-09-01,2,1,{'Brain Tumor Segmentation'},https://paperswithcode.com/dataset/brats-2017-1
+SSIG-SegPlate,2018-02-26,2,1,{'License Plate Recognition'},https://paperswithcode.com/dataset/ssig-segplate
+Color FERET,2018-10-26,2,1,{'Face Recognition'},https://paperswithcode.com/dataset/color-feret
+Comic2k,2018-03-30,2,1,{'Weakly Supervised Object Detection'},https://paperswithcode.com/dataset/comic2k
+Copel-AMR,2020-09-21,2,1,{'Meter Reading'},https://paperswithcode.com/dataset/copel-amr-dataset
+CASIA-MFSD,2014-08-24,2,1,{'Face Anti-Spoofing'},https://paperswithcode.com/dataset/casia-mfsd
+UA-DETRAC,2020-02-13,2,1,{'Object Detection'},https://paperswithcode.com/dataset/ua-detrac
+ETH3D,2021-03-25,2,1,{'Dense Pixel Correspondence Estimation'},https://paperswithcode.com/dataset/eth3d
+IconArt,2018-10-05,2,1,{'Weakly Supervised Object Detection'},https://paperswithcode.com/dataset/iconart
+K2HPD,2019-08-27,2,2,"{'Hand Pose Estimation', '3D Pose Estimation'}",https://paperswithcode.com/dataset/k2hpd
+PROMISE12,2016-06-15,2,1,{'Volumetric Medical Image Segmentation'},https://paperswithcode.com/dataset/promise12
+Kaggle EyePACS,2019-06-06,2,1,{'Diabetic Retinopathy Grading'},https://paperswithcode.com/dataset/kaggle-eyepacs
+LEVIR-CD,2020-05-22,2,1,{'Building change detection for remote sensing images'},https://paperswithcode.com/dataset/levir-cd
+LIDC-IDRI,2019-08-19,2,1,{'Lung Nodule Segmentation'},https://paperswithcode.com/dataset/lidc-idri
+VATEX,2020-02-26,2,2,"{'Video Captioning', 'Video Retrieval'}",https://paperswithcode.com/dataset/vatex
+Letter,2018-12-11,2,1,{'Image Clustering'},https://paperswithcode.com/dataset/letter
+University-1652,2020-02-27,2,2,"{'Drone navigation', 'Drone-view target localization'}",https://paperswithcode.com/dataset/university-1652
+UTKFace,2019-01-20,2,1,{'Age Estimation'},https://paperswithcode.com/dataset/utkface
+PETA,2017-09-28,2,1,{'Pedestrian Attribute Recognition'},https://paperswithcode.com/dataset/peta
+MGif,2021-04-22,2,1,{'Video Reconstruction'},https://paperswithcode.com/dataset/mgif
+MMI,2015-09-17,2,1,{'Facial Expression Recognition'},https://paperswithcode.com/dataset/mmi
+MNIST Large Scale dataset,2021-06-11,2,1,{'Scale Generalisation'},https://paperswithcode.com/dataset/mnist-large-scale-dataset
+MSRC-12,2018-11-17,2,2,"{'Gesture Recognition', 'Skeleton Based Action Recognition'}",https://paperswithcode.com/dataset/msrc-12
+MSU-MFSD,2015-11-19,2,1,{'Face Anti-Spoofing'},https://paperswithcode.com/dataset/msu-mfsd
+Make3D,2018-06-04,2,1,{'Monocular Depth Estimation'},https://paperswithcode.com/dataset/make3d
+Medico automatic polyp segmentation challenge (dataset),2020-12-30,2,1,{'Medical Image Segmentation'},https://paperswithcode.com/dataset/medico-automatic-polyp-segmentation-challenge
+Middlebury 2014,2021-05-28,2,1,{'Monocular Depth Estimation'},https://paperswithcode.com/dataset/middlebury-2014
+OpenAI Gym,2017-09-01,2,1,{'Continuous Control'},https://paperswithcode.com/dataset/openai-gym
+MovieQA,2017-09-27,2,1,{'Video Story QA'},https://paperswithcode.com/dataset/movieqa
+UFPR-ALPR,2018-02-26,2,1,{'License Plate Recognition'},https://paperswithcode.com/dataset/ufpr-alpr
+Multimodal PISA,2021-01-13,2,2,"{'Video Classification', 'Skills Assessment'}",https://paperswithcode.com/dataset/multimodal-pisa
+Object Discovery,2019-04-05,2,1,{'Single-object discovery'},https://paperswithcode.com/dataset/object-discovery
+ImageNet VIPriors subset,2020-07-15,2,1,{'Object Classification'},https://paperswithcode.com/dataset/imagenet-vipriors-subset
+KvasirCapsule-SEG,2019-11-16,2,1,{'Medical Image Segmentation'},https://paperswithcode.com/dataset/kvasircapsule-seg
+TVR,2020-01-24,2,1,{'Video Retrieval'},https://paperswithcode.com/dataset/tvr
+EuroSAT,2021-03-18,2,1,{'Image Classification'},https://paperswithcode.com/dataset/eurosat
+REDS,2017-11-19,2,1,{'Deblurring'},https://paperswithcode.com/dataset/reds
+Google Landmarks Dataset v2,2020-04-03,2,1,{'Image Retrieval'},https://paperswithcode.com/dataset/google-landmarks-dataset-v2
+RC-49,2020-11-15,2,1,{'Image Generation'},https://paperswithcode.com/dataset/rc-49
+RAP,2017-09-28,2,1,{'Pedestrian Attribute Recognition'},https://paperswithcode.com/dataset/rap
+FMD,2020-06-23,2,2,"{'intensity image denoising', 'Image Denoising'}",https://paperswithcode.com/dataset/fmd
+RealEstate10K,2021-04-15,2,1,{'Novel View Synthesis'},https://paperswithcode.com/dataset/realestate10k
+HAR,2019-08-16,2,2,"{'Recognizing And Localizing Human Actions', 'Image Clustering'}",https://paperswithcode.com/dataset/har
+HEV-I,2019-03-02,2,1,{'Trajectory Prediction'},https://paperswithcode.com/dataset/hev-i
+QMNIST,2020-02-19,2,2,"{'Image Classification', 'Fine-Grained Image Classification'}",https://paperswithcode.com/dataset/qmnist
+VRD,2016-07-31,2,1,{'Scene Graph Generation'},https://paperswithcode.com/dataset/vrd
+VOT2019,2019-07-08,2,1,{'Visual Object Tracking'},https://paperswithcode.com/dataset/vot2019
+Places365,2019-04-15,2,2,"{'Image Outpainting', 'Scene Classification'}",https://paperswithcode.com/dataset/places365
+VOID,2019-05-15,2,1,{'Depth Completion'},https://paperswithcode.com/dataset/void
+IBims-1,2021-05-28,2,1,{'Monocular Depth Estimation'},https://paperswithcode.com/dataset/ibims-1
+Essays,2020-07-09,2,1,{'Personality Trait Recognition'},https://paperswithcode.com/dataset/essays
+HowTo100M,2020-05-01,2,1,{'Video Question Answering'},https://paperswithcode.com/dataset/howto100m
+RegDB,2020-08-14,2,1,{'Cross-Modal  Person Re-Identification'},https://paperswithcode.com/dataset/regdb
+Gaze360,2019-10-22,2,1,{'Gaze Estimation'},https://paperswithcode.com/dataset/gaze360
+UI-PRMD,2019-01-29,1,1,{'Action Quality Assessment'},https://paperswithcode.com/dataset/ui-prmd
+TallyQA,2018-10-29,1,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/tallyqa
+ssTEM,2020-06-01,1,1,{'Interactive Segmentation'},https://paperswithcode.com/dataset/sstem
+WISDOM,2018-09-16,1,1,{'Unseen Object Instance Segmentation'},https://paperswithcode.com/dataset/wisdom
+UCSD Ped2,2020-08-03,1,1,{'Multimodal Activity Recognition'},https://paperswithcode.com/dataset/ucsd
+UIEB,2020-09-21,1,1,{'Single Image Dehazing'},https://paperswithcode.com/dataset/uieb
+WHO-COVID19 Dataset,2020-08-06,1,1,{'COVID-19 Modelling'},https://paperswithcode.com/dataset/who
+warpPIE10P,2020-11-20,1,1,{'Image/Document Clustering'},https://paperswithcode.com/dataset/warppie10p
+Virtual KITTI,2020-06-07,1,1,{'Monocular 3D Object Detection'},https://paperswithcode.com/dataset/virtual-kitti
+Wizard of Wikipedia,2020-10-02,1,1,{'Visual Dialog'},https://paperswithcode.com/dataset/wizard-of-wikipedia
+pixraw10P,2020-11-20,1,1,{'Image/Document Clustering'},https://paperswithcode.com/dataset/pixraw10p
+UT-Interaction,2019-10-11,1,1,{'Human Interaction Recognition'},https://paperswithcode.com/dataset/ut-interaction
+UAVVaste,2021-05-12,1,1,{'Object Detection'},https://paperswithcode.com/dataset/uavvaste
+comma.ai,2018-11-07,1,1,{'Steering Control'},https://paperswithcode.com/dataset/comma-ai-1
+TerraIncognita,2021-02-17,1,1,{'Domain Generalization'},https://paperswithcode.com/dataset/terraincognita
+australian,2020-11-20,1,1,{'Image/Document Clustering'},https://paperswithcode.com/dataset/australian
+aPY,2019-04-11,1,1,{'0-Shot - Few-Shot Image Classification'},https://paperswithcode.com/dataset/apy
+Udacity,2018-11-07,1,1,{'Steering Control'},https://paperswithcode.com/dataset/udacity
+WildDash,2021-07-13,1,1,{'Domain Generalization'},https://paperswithcode.com/dataset/wilddash
+VOT2018,2020-06-18,1,1,{'Visual Object Tracking'},https://paperswithcode.com/dataset/vot2018
+UASOL,2019-08-29,1,1,{'Monocular Depth Estimation'},https://paperswithcode.com/dataset/uasol
+YUP++,2019-12-10,1,1,{'Scene Recognition'},https://paperswithcode.com/dataset/yup
+VITON,2021-02-16,1,1,{'Virtual Try-on'},https://paperswithcode.com/dataset/viton
+Wine,2020-11-20,1,1,{'Image/Document Clustering'},https://paperswithcode.com/dataset/wine
+iBugMask,2021-02-04,1,1,{'Face Parsing'},https://paperswithcode.com/dataset/ibugmask
+MERL-RAV,2020-04-06,1,1,{'Face Alignment'},https://paperswithcode.com/dataset/merl-rav-dataset
+TSU,2021-01-05,1,1,{'Action Detection'},https://paperswithcode.com/dataset/tsu
+CREMI,2017-09-09,1,1,{'Brain Image Segmentation'},https://paperswithcode.com/dataset/cremi
+ChestX-ray14,2020-10-07,1,1,{'Medical Image Generation'},https://paperswithcode.com/dataset/chestx-ray14
+CholecT50,2020-07-10,1,1,{'Action Triplet Recognition'},https://paperswithcode.com/dataset/cholect50
+CityFlow,2021-04-22,1,1,{'Vehicle Re-Identification'},https://paperswithcode.com/dataset/cityflow
+Cityscapes VIPriors subset,2020-09-14,1,1,{'Semantic Segmentation'},https://paperswithcode.com/dataset/cityscapes-vipriors-subset
+ConvAI2,2020-10-02,1,1,{'Visual Dialog'},https://paperswithcode.com/dataset/convai2
+Cube++,2020-06-09,1,1,{'3D Object Recognition'},https://paperswithcode.com/dataset/cube
+Custom FINNgers,2021-05-26,1,1,{'Hand Pose Estimation'},https://paperswithcode.com/dataset/custom-finngers
+DDRel,2020-12-04,1,1,{'Dialog Relation Extraction'},https://paperswithcode.com/dataset/ddrel
+DEIC Benchmark,2020-03-31,1,1,{'Small Data Image Classification'},https://paperswithcode.com/dataset/deic-benchmark
+DENSE,2020-08-15,1,1,{'Image Dehazing'},https://paperswithcode.com/dataset/dense
+DIR-LAB COPDgene,2021-06-14,1,1,{'Image Registration'},https://paperswithcode.com/dataset/dir-lab-copdgene
+DTD,2021-04-29,1,1,{'Image Classification'},https://paperswithcode.com/dataset/dtd
+DeepTrash,2021-05-05,1,1,{'Object Detection'},https://paperswithcode.com/dataset/deeptrash
+Dialogue State Tracking Challenge,2021-04-16,1,1,{'Deblurring'},https://paperswithcode.com/dataset/dialogue-state-tracking-challenge
+Drinking Waste Classification,2021-05-12,1,1,{'Object Detection'},https://paperswithcode.com/dataset/drinking-waste-classification
+DroneDeploy,2020-12-03,1,1,{'Semantic Segmentation'},https://paperswithcode.com/dataset/dronedeploy
+EmotionLines,2020-02-18,1,1,{'Emotion Recognition in Conversation'},https://paperswithcode.com/dataset/emotionlines
+EmpatheticDialogues,2020-10-02,1,1,{'Visual Dialog'},https://paperswithcode.com/dataset/empatheticdialogues
+Endotect Polyp Segmentation Challenge Dataset,2020-12-30,1,1,{'Medical Image Segmentation'},https://paperswithcode.com/dataset/endotect-polyp-segmentation
+FERG,2019-02-04,1,1,{'Facial Expression Recognition'},https://paperswithcode.com/dataset/ferg
+FMA,2017-07-16,1,1,{'Genre classification'},https://paperswithcode.com/dataset/fma
+FaceForensics,2019-01-25,1,1,{'DeepFake Detection'},https://paperswithcode.com/dataset/faceforensics
+FairFace,2019-08-14,1,1,{'Facial Attribute Classification'},https://paperswithcode.com/dataset/fairface
+First-Person Hand Action Benchmark,2021-03-03,1,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/first-person-hand-action-benchmark
+FixaTons,2019-06-04,1,1,{'Scanpath prediction'},https://paperswithcode.com/dataset/fixatons
+Cam2BEV,2020-05-08,1,1,{'Cross-View Image-to-Image Translation'},https://paperswithcode.com/dataset/cam2bev
+CPM-Synt-2,2021-04-05,1,1,{'Facial Makeup Transfer'},https://paperswithcode.com/dataset/cpm-synt-2
+HDM05,2020-06-21,1,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/hdm05
+CPM-Synt-1,2021-04-05,1,1,{'Facial Makeup Transfer'},https://paperswithcode.com/dataset/cpm-synt-1
+4D Light Field Dataset,2020-02-07,1,1,{'Depth Estimation'},https://paperswithcode.com/dataset/4d-light-field-dataset
+A2Dre,2020-10-01,1,1,{'Referring Expression Segmentation'},https://paperswithcode.com/dataset/a2d-referring-expressions
+AFAD,2019-01-20,1,1,{'Age Estimation'},https://paperswithcode.com/dataset/afad
+AIRS,2019-12-19,1,1,{'Semantic Segmentation'},https://paperswithcode.com/dataset/airs
+AND Dataset,2020-09-07,1,1,{'Handwriting Verification'},https://paperswithcode.com/dataset/and-dataset
+ASLG-PC12,2020-04-01,1,1,{'Sign Language Translation'},https://paperswithcode.com/dataset/aslg-pc12
+AVSD,2019-06-01,1,1,{'Scene-Aware Dialogue'},https://paperswithcode.com/dataset/avsd
+Aachen Day-Night,2019-12-01,1,1,{'Camera Localization'},https://paperswithcode.com/dataset/aachen-day-night
+ApolloCar3D,2020-07-26,1,1,{'Autonomous Vehicle task'},https://paperswithcode.com/dataset/apollocar3d
+Apolloscape Inpainting,2020-07-17,1,1,{'Image Inpainting'},https://paperswithcode.com/dataset/apolloscape-inpainting
+Apolloscape Trajectory,2018-11-06,1,1,{'Trajectory Prediction'},https://paperswithcode.com/dataset/apolloscape-trajectory
+ArtDL,2020-10-06,1,1,{'Image Classification'},https://paperswithcode.com/dataset/artdl
+BA,2020-11-20,1,1,{'Image/Document Clustering'},https://paperswithcode.com/dataset/ba
+BanglaLekha-Isolated,2020-08-29,1,1,{'Handwriting Recognition'},https://paperswithcode.com/dataset/banglalekha-isolated
+BanglaLekhaImageCaptions,2021-02-14,1,1,{'Image Captioning'},https://paperswithcode.com/dataset/banglalekhaimagecaptions
+Bee4Exp Honeybee Detection,2021-02-11,1,1,{'Small Object Detection'},https://paperswithcode.com/dataset/bee4exp-honeybee-detection
+Blended Skill Talk,2020-10-02,1,1,{'Visual Dialog'},https://paperswithcode.com/dataset/blended-skill-talk
+BraTS 2014,2017-09-01,1,1,{'Brain Tumor Segmentation'},https://paperswithcode.com/dataset/brats-2014-1
+CAT2000,2017-12-01,1,1,{'Saliency Detection'},https://paperswithcode.com/dataset/cat2000
+CDCP,2021-02-24,1,1,{'Component Classification'},https://paperswithcode.com/dataset/cdcp
+CHAOS,2021-06-12,1,1,{'Medical Image Segmentation'},https://paperswithcode.com/dataset/chaos
+CID,2019-09-04,1,1,{'Edge Detection'},https://paperswithcode.com/dataset/cid
+CIFAR10-DVS,2020-03-27,1,1,{'Event data classification'},https://paperswithcode.com/dataset/cifar10-dvs
+CLEVR-Ref+,2019-01-03,1,1,{'Referring Expression Segmentation'},https://paperswithcode.com/dataset/clevr-ref
+CMU Panoptic,2021-06-16,1,1,{'3D Human Pose Tracking'},https://paperswithcode.com/dataset/cmu-panoptic
+Google Refexp,2021-04-21,1,1,{'Referring Expression Segmentation'},https://paperswithcode.com/dataset/google-refexp
+HErlev,2021-06-09,1,1,{'Image Classification'},https://paperswithcode.com/dataset/herlev
+TRECVID,2019-11-10,1,1,{'Camera shot boundary detection'},https://paperswithcode.com/dataset/trecvid
+MultiMNIST,2017-10-26,1,1,{'Image Classification'},https://paperswithcode.com/dataset/multimnist
+OCHuman,2018-03-28,1,1,{'Human Instance Segmentation'},https://paperswithcode.com/dataset/ochuman
+Office-Caltech-10,2018-07-19,1,1,{'Domain Adaptation'},https://paperswithcode.com/dataset/office-caltech-10
+PASCAL VOC 2011,2019-01-02,1,1,{'Semantic Segmentation'},https://paperswithcode.com/dataset/pascal-voc-2011
+PH2,2019-11-15,1,1,{'Skin Cancer Segmentation'},https://paperswithcode.com/dataset/ph2
+Paris6k,2017-07-14,1,1,{'Image Retrieval'},https://paperswithcode.com/dataset/paris6k
+PhC-U373,2015-05-18,1,1,{'Cell Segmentation'},https://paperswithcode.com/dataset/phc-u373
+PhotoShape,2021-05-13,1,1,{'Novel View Synthesis'},https://paperswithcode.com/dataset/photoshape
+RACE,2020-10-12,1,1,{'Distractor Generation'},https://paperswithcode.com/dataset/race
+RT-GENE,2018-09-01,1,1,{'Gaze Estimation'},https://paperswithcode.com/dataset/rt-gene
+Rent3D++,2021-06-09,1,1,{'Plan2Scene'},https://paperswithcode.com/dataset/rent3d-1
+Replay-Mobile,2019-07-09,1,1,{'Face Anti-Spoofing'},https://paperswithcode.com/dataset/replay-mobile-1
+RotoEdit,2020-07-02,1,1,{'Fact-based Text Editing'},https://paperswithcode.com/dataset/rotoedit
+SBCoseg,2021-03-19,1,1,{'Semantic Segmentation'},https://paperswithcode.com/dataset/sbcoseg
+SEN12MS-CR,2020-07-02,1,1,{'Cloud Removal'},https://paperswithcode.com/dataset/sen12ms-cr
+SST,2021-05-15,1,1,{'Out-of-Distribution Detection'},https://paperswithcode.com/dataset/sst
+SUN360,2016-11-19,1,1,{'Outdoor Light Source Estimation'},https://paperswithcode.com/dataset/sun360
+SUN397,2021-04-29,1,1,{'Fine-Grained Image Classification'},https://paperswithcode.com/dataset/sun397
+Set11,2020-10-14,1,1,{'Compressive Sensing'},https://paperswithcode.com/dataset/set11
+Skeletics 152,2020-07-04,1,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/skeletics-152-1
+Skeleton-Mimetics,2020-07-04,1,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/skeleton-mimetics
+Solar-Power,2017-03-21,1,1,{'Univariate Time Series Forecasting'},https://paperswithcode.com/dataset/solar-power
+Sports10,2021-06-18,1,1,{'Image Classification'},https://paperswithcode.com/dataset/sports10
+Street Scene,2019-10-28,1,1,{'Video-to-Video Synthesis'},https://paperswithcode.com/dataset/street-scene
+TAO,2021-01-20,1,1,{'Multi-Object Tracking'},https://paperswithcode.com/dataset/tao
+TCG,2020-07-31,1,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/tcg
+NASA Worldview,2020-09-27,1,1,{'Satellite Image Classification'},https://paperswithcode.com/dataset/nasa-worldview
+Multi-dSprites,2019-07-30,1,1,{'Image Generation'},https://paperswithcode.com/dataset/multi-dsprites
+HRF,2018-06-06,1,1,{'Retinal Vessel Segmentation'},https://paperswithcode.com/dataset/hrf
+Multi-PIE,2019-10-01,1,1,{'Single-Image Portrait Relighting'},https://paperswithcode.com/dataset/multi-pie
+Hateful Memes,2020-12-23,1,1,{'Meme Classification'},https://paperswithcode.com/dataset/hateful-memes
+Home Action Genome,2021-05-11,1,1,{'Video Classification'},https://paperswithcode.com/dataset/home-action-genome
+I-HAZE,2020-08-15,1,1,{'Image Dehazing'},https://paperswithcode.com/dataset/i-haze-1
+INRIA Aerial Image Labeling,2019-12-19,1,1,{'Semantic Segmentation'},https://paperswithcode.com/dataset/inria-aerial-image-labeling
+INRIA Holidays Dataset,2019-12-01,1,1,{'Content-Based Image Retrieval'},https://paperswithcode.com/dataset/inria-holidays-dataset
+INSTRE,2017-07-14,1,1,{'Image Retrieval'},https://paperswithcode.com/dataset/instre
+JSRT,2021-06-12,1,1,{'Medical Image Segmentation'},https://paperswithcode.com/dataset/jsrt
+KINS,2021-03-23,1,1,{'Instance Segmentation'},https://paperswithcode.com/dataset/kins
+KT3DMoSeg,2018-04-06,1,1,{'Motion Segmentation'},https://paperswithcode.com/dataset/kt3dmoseg
+KTH,2021-03-17,1,1,{'Video Prediction'},https://paperswithcode.com/dataset/kth
+Kennedy Space Center,2020-12-24,1,1,{'Hyperspectral Image Classification'},https://paperswithcode.com/dataset/kennedy-space-center
+LOL,2019-05-04,1,1,{'Low-Light Image Enhancement'},https://paperswithcode.com/dataset/lol
+LS3D-W,2017-03-21,1,1,{'Face Alignment'},https://paperswithcode.com/dataset/ls3d-w
+LabelMe,2020-12-24,1,1,{'Image Classification'},https://paperswithcode.com/dataset/labelme
+Localized Narratives,2019-12-06,1,1,{'Image Captioning'},https://paperswithcode.com/dataset/localized-narratives
+Lorenz Dataset,2019-03-29,1,1,{'Probabilistic Time Series Forecasting'},https://paperswithcode.com/dataset/lorenz-dataset-1
+2D-3D-S,2018-07-24,1,1,{'3D Face Animation'},https://paperswithcode.com/dataset/2d-3d-s
+MIRACL-VC1,2020-12-04,1,1,{'Lip password classification'},https://paperswithcode.com/dataset/miracl-vc1
+MIT-Adobe FiveK,2019-11-29,1,1,{'Image Enhancement'},https://paperswithcode.com/dataset/mit-adobe-fivek
+MJU-Waste,2021-05-12,1,1,{'Object Detection'},https://paperswithcode.com/dataset/mju-waste
+MLFP,2020-07-22,1,1,{'Face Anti-Spoofing'},https://paperswithcode.com/dataset/mlfp
+MSR ActionPairs,2020-06-21,1,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/msr-actionpairs
+MSU Deinterlacer Benchmark,2017-08-01,1,1,{'Video Deinterlacing'},https://paperswithcode.com/dataset/msu-deinterlacer-benchmark-2020
+Mall,2018-06-20,1,1,{'Object Localization'},https://paperswithcode.com/dataset/mall
+MitoEM,2021-04-16,1,1,{'3D Instance Segmentation'},https://paperswithcode.com/dataset/mitoem
+xView,2018-02-22,1,1,{'2D Object Detection'},https://paperswithcode.com/dataset/xview

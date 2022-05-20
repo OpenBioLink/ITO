@@ -1,0 +1,24 @@
+SK-LARGE,2018-01-05,2,1,{'Object Skeleton Detection'},https://paperswithcode.com/dataset/sk-large
+Sim10k,2018-12-12,2,1,{'Unsupervised Domain Adaptation'},https://paperswithcode.com/dataset/sim10k
+Cluttered Omniglot,2018-03-26,2,1,{'One-Shot Segmentation'},https://paperswithcode.com/dataset/cluttered-omniglot
+SSIG-SegPlate,2018-02-26,2,1,{'License Plate Recognition'},https://paperswithcode.com/dataset/ssig-segplate
+Color FERET,2018-10-26,2,1,{'Face Recognition'},https://paperswithcode.com/dataset/color-feret
+Comic2k,2018-03-30,2,1,{'Weakly Supervised Object Detection'},https://paperswithcode.com/dataset/comic2k
+IconArt,2018-10-05,2,1,{'Weakly Supervised Object Detection'},https://paperswithcode.com/dataset/iconart
+Letter,2018-12-11,2,1,{'Image Clustering'},https://paperswithcode.com/dataset/letter
+MSRC-12,2018-11-17,2,2,"{'Gesture Recognition', 'Skeleton Based Action Recognition'}",https://paperswithcode.com/dataset/msrc-12
+Make3D,2018-06-04,2,1,{'Monocular Depth Estimation'},https://paperswithcode.com/dataset/make3d
+UFPR-ALPR,2018-02-26,2,1,{'License Plate Recognition'},https://paperswithcode.com/dataset/ufpr-alpr
+TallyQA,2018-10-29,1,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/tallyqa
+WISDOM,2018-09-16,1,1,{'Unseen Object Instance Segmentation'},https://paperswithcode.com/dataset/wisdom
+comma.ai,2018-11-07,1,1,{'Steering Control'},https://paperswithcode.com/dataset/comma-ai-1
+Udacity,2018-11-07,1,1,{'Steering Control'},https://paperswithcode.com/dataset/udacity
+Apolloscape Trajectory,2018-11-06,1,1,{'Trajectory Prediction'},https://paperswithcode.com/dataset/apolloscape-trajectory
+OCHuman,2018-03-28,1,1,{'Human Instance Segmentation'},https://paperswithcode.com/dataset/ochuman
+Office-Caltech-10,2018-07-19,1,1,{'Domain Adaptation'},https://paperswithcode.com/dataset/office-caltech-10
+RT-GENE,2018-09-01,1,1,{'Gaze Estimation'},https://paperswithcode.com/dataset/rt-gene
+HRF,2018-06-06,1,1,{'Retinal Vessel Segmentation'},https://paperswithcode.com/dataset/hrf
+KT3DMoSeg,2018-04-06,1,1,{'Motion Segmentation'},https://paperswithcode.com/dataset/kt3dmoseg
+2D-3D-S,2018-07-24,1,1,{'3D Face Animation'},https://paperswithcode.com/dataset/2d-3d-s
+Mall,2018-06-20,1,1,{'Object Localization'},https://paperswithcode.com/dataset/mall
+xView,2018-02-22,1,1,{'2D Object Detection'},https://paperswithcode.com/dataset/xview
