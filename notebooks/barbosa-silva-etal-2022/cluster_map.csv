@@ -1,0 +1,116 @@
+Series,Cluster
+"CIFAR-10, 250 Labels - Semi-Supervised Image Classification benchmarking - CVP",Cluster 1
+STL-10 - Image Clustering benchmarking - CVP,Cluster 1
+Office-Home - Unsupervised Domain Adaptation benchmarking - CVP,Cluster 1
+Extended Yale-B - Image Clustering benchmarking - CVP,Cluster 1
+VIVA Hand Gestures Dataset - Hand Gesture Recognition benchmarking - CVP,Cluster 1
+CommonsenseQA - Common Sense Reasoning benchmarking - NLP,Cluster 1
+VisDA2017 - Domain Adaptation benchmarking - CVP,Cluster 1
+USPS - Image Clustering benchmarking - CVP,Cluster 1
+MLDoc Zero-Shot English-to-Spanish - Cross-Lingual Document Classification benchmarking - NLP,Cluster 1
+MLDoc Zero-Shot English-to-French - Cross-Lingual Document Classification benchmarking - NLP,Cluster 1
+Stanford Cars - Image Clustering benchmarking - CVP,Cluster 1
+SVNH-to-MNIST - Domain Adaptation benchmarking - CVP,Cluster 1
+Kinetics-Skeleton dataset - Skeleton Based Action Recognition benchmarking - CVP,Cluster 1
+MLDoc Zero-Shot English-to-Russian - Cross-Lingual Document Classification benchmarking - NLP,Cluster 1
+MegaFace - Face Identification benchmarking - CVP,Cluster 1
+Mini-ImageNet - 1-Shot Learning - Few-Shot Image Classification benchmarking - CVP,Cluster 1
+EV-Action - Multimodal Activity Recognition benchmarking - CVP,Cluster 1
+COCO-Stuff Labels-to-Photos - Image-to-Image Translation benchmarking - CVP,Cluster 1
+Syn2Real-C - Synthetic-to-Real Translation benchmarking - CVP,Cluster 1
+"STL-10, 1000 Labels - Semi-Supervised Image Classification benchmarking - CVP",Cluster 1
+TrackingNet - Visual Object Tracking benchmarking - CVP,Cluster 1
+CUB 200 5-way 5-shot - Few-Shot Image Classification benchmarking - CVP,Cluster 1
+CUB 200 5-way 1-shot - Few-Shot Image Classification benchmarking - CVP,Cluster 1
+Trillion Pairs Dataset - Face Verification benchmarking - CVP,Cluster 2
+Tiny-ImageNet - Image Clustering benchmarking - CVP,Cluster 2
+ImageNet-10 - Image Clustering benchmarking - CVP,Cluster 2
+Imagenet-dog-15 - Image Clustering benchmarking - CVP,Cluster 2
+UWA3D - Skeleton Based Action Recognition benchmarking - CVP,Cluster 2
+CIFAR-100 - Image Clustering benchmarking - CVP,Cluster 2
+CIFAR-10 - Image Clustering benchmarking - CVP,Cluster 2
+Stanford Dogs - Image Clustering benchmarking - CVP,Cluster 2
+CUB Birds - Image Clustering benchmarking - CVP,Cluster 2
+Ohsumed - Text Classification benchmarking - NLP,Cluster 2
+Trillion Pairs Dataset - Face Identification benchmarking - CVP,Cluster 2
+"OMNIGLOT - 1-Shot, 5-way - Few-Shot Image Classification benchmarking - CVP",Cluster 3
+AVA - Aesthetics Quality Assessment benchmarking - CVP,Cluster 3
+"OMNIGLOT - 5-Shot, 20-way - Few-Shot Image Classification benchmarking - CVP",Cluster 3
+"OMNIGLOT - 1-Shot, 20-way - Few-Shot Image Classification benchmarking - CVP",Cluster 3
+"SVHN, 1000 labels - Semi-Supervised Image Classification benchmarking - CVP",Cluster 3
+CMU-PIE - Image Clustering benchmarking - CVP,Cluster 3
+Stanford Cars - Fine-Grained Image Classification benchmarking - CVP,Cluster 3
+Kuzushiji-MNIST - Image Classification benchmarking - CVP,Cluster 3
+VQA v2 test-dev - Visual Question Answering benchmarking - CVP,Cluster 3
+SST-2 Binary classification - Sentiment Analysis benchmarking - NLP,Cluster 3
+"SVHN, 250 Labels - Semi-Supervised Image Classification benchmarking - CVP",Cluster 3
+MNIST-test - Image Clustering benchmarking - CVP,Cluster 3
+Oxford-IIIT Pets - Fine-Grained Image Classification benchmarking - CVP,Cluster 3
+N-UCLA - Skeleton Based Action Recognition benchmarking - CVP,Cluster 3
+TuSimple - Lane Detection benchmarking - CVP,Cluster 3
+ADE20K Labels-to-Photos - Image-to-Image Translation benchmarking - CVP,Cluster 3
+ADE20K-Outdoor Labels-to-Photos - Image-to-Image Translation benchmarking - CVP,Cluster 3
+IEMOCAP - Emotion Recognition in Conversation benchmarking - CVP,Cluster 3
+Oxford 102 Flowers - Fine-Grained Image Classification benchmarking - CVP,Cluster 3
+Stanford Dogs - Fine-Grained Image Classification benchmarking - CVP,Cluster 3
+"cifar-100, 10000 Labels - Semi-Supervised Image Classification benchmarking - CVP",Cluster 3
+NABirds - Fine-Grained Image Classification benchmarking - CVP,Cluster 3
+MSVD-QA - Visual Question Answering benchmarking - CVP,Cluster 3
+MSRVTT-QA - Visual Question Answering benchmarking - CVP,Cluster 3
+Volleyball - Group Activity Recognition benchmarking - CVP,Cluster 3
+LineMOD - 6D Pose Estimation using RGB benchmarking - CVP,Cluster 3
+MNIST-to-USPS - Domain Adaptation benchmarking - CVP,Cluster 3
+SVHN-to-MNIST - Domain Adaptation benchmarking - CVP,Cluster 3
+SYSU 3D - Skeleton Based Action Recognition benchmarking - CVP,Cluster 3
+FGVC Aircraft - Fine-Grained Image Classification benchmarking - CVP,Cluster 3
+Collective Activity - Group Activity Recognition benchmarking - CVP,Cluster 3
+EgoGesture - Hand Gesture Recognition benchmarking - CVP,Cluster 3
+MegaFace - Face Verification benchmarking - CVP,Cluster 3
+RVL-CDIP - Document Image Classification benchmarking - CVP,Cluster 3
+VQA v1 test-dev - Visual Question Answering benchmarking - CVP,Cluster 3
+MLDoc Zero-Shot English-to-German - Cross-Lingual Document Classification benchmarking - NLP,Cluster 3
+MPQA - Sentiment Analysis benchmarking - NLP,Cluster 3
+SciTail - Natural Language Inference benchmarking - NLP,Cluster 3
+IEMOCAP - Emotion Recognition in Conversation benchmarking - NLP,Cluster 3
+MSRVTT-QA - Visual Question Answering benchmarking - NLP,Cluster 3
+MSVD-QA - Visual Question Answering benchmarking - NLP,Cluster 3
+Quora Question Pairs - Paraphrase Identification benchmarking - NLP,Cluster 3
+MR - Sentiment Analysis benchmarking - NLP,Cluster 3
+Yahoo! Answers - Text Classification benchmarking - NLP,Cluster 3
+R8 - Text Classification benchmarking - NLP,Cluster 3
+VQA v2 test-dev - Visual Question Answering benchmarking - NLP,Cluster 3
+VQA v1 test-dev - Visual Question Answering benchmarking - NLP,Cluster 3
+VQA v1 test-std - Visual Question Answering benchmarking - NLP,Cluster 3
+IMDb - Sentiment Analysis benchmarking - NLP,Cluster 3
+ATIS - Semantic Parsing benchmarking - NLP,Cluster 3
+Cora - Document Classification benchmarking - NLP,Cluster 3
+Reuters RCV1/RCV2 German-to-English - Cross-Lingual Document Classification benchmarking - NLP,Cluster 3
+Reuters RCV1/RCV2 English-to-German - Cross-Lingual Document Classification benchmarking - NLP,Cluster 3
+SST-5 Fine-grained classification - Sentiment Analysis benchmarking - NLP,Cluster 3
+MRPC - Semantic Textual Similarity benchmarking - NLP,Cluster 3
+Switchboard corpus - Dialog Act Classification benchmarking - NLP,Cluster 3
+CACDVS - Age-Invariant Face Recognition benchmarking - CVP,Cluster 3
+R52 - Text Classification benchmarking - NLP,Cluster 3
+QNLI - Natural Language Inference benchmarking - NLP,Cluster 3
+VQA v1 test-std - Visual Question Answering benchmarking - CVP,Cluster 3
+SAT-4 - Satellite Image Classification benchmarking - CVP,Cluster 3
+"CIFAR-10, 4000 Labels - Semi-Supervised Image Classification benchmarking - CVP",Cluster 3
+Office-Home - Domain Adaptation benchmarking - CVP,Cluster 3
+MNIST-to-MNIST-M - Domain Adaptation benchmarking - CVP,Cluster 3
+ImageCLEF-DA - Domain Adaptation benchmarking - CVP,Cluster 3
+Synth Digits-to-SVHN - Domain Adaptation benchmarking - CVP,Cluster 3
+YouTube Faces DB - Face Verification benchmarking - CVP,Cluster 3
+BIT - Human Interaction Recognition benchmarking - CVP,Cluster 3
+CoLA - Linguistic Acceptability Assessment benchmarking - NLP,Cluster 3
+UCF-to-HMDBfull - Domain Adaptation benchmarking - CVP,Cluster 3
+CUB-200-2011 - Fine-Grained Image Classification benchmarking - CVP,Cluster 3
+Florence 3D - Skeleton Based Action Recognition benchmarking - CVP,Cluster 3
+Olympic-to-HMDBsmall - Domain Adaptation benchmarking - CVP,Cluster 3
+HMDBsmall-to-UCF - Domain Adaptation benchmarking - CVP,Cluster 3
+Labeled Faces in the Wild - Face Verification benchmarking - CVP,Cluster 3
+MNIST - Image Classification benchmarking - CVP,Cluster 3
+UT - Human Interaction Recognition benchmarking - CVP,Cluster 3
+ImageNet ReaL - Image Classification benchmarking - CVP,Cluster 3
+RTE - Natural Language Inference benchmarking - NLP,Cluster 3
+DogCentric - Activity Recognition In Videos benchmarking - CVP,Cluster 3
+CFP-FP - Face Verification benchmarking - CVP,Cluster 3

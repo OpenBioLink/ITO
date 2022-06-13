@@ -1,0 +1,192 @@
+task_type,n
+Image Classification,16
+Image Generation,13
+Semantic Segmentation,12
+Image Clustering,9
+Image-to-Image Translation,7
+4x upscaling - Image Super-Resolution,7
+Few-Shot Image Classification,7
+Fine-Grained Image Classification,7
+Domain Adaptation,7
+Action Recognition,7
+2x upscaling - Image Super-Resolution,6
+Weakly Supervised Object Detection,5
+Unsupervised Domain Adaptation,5
+Unsupervised Image Classification,5
+Object Detection,5
+Panoptic Segmentation,5
+3x upscaling - Image Super-Resolution,5
+8x upscaling - Image Super-Resolution,5
+Conditional Image Generation,4
+Semi-Supervised Image Classification,4
+Out-of-Distribution Detection,4
+3D Object Detection,4
+Person Re-Identification,4
+Temporal Action Localization,4
+Action Classification,4
+Video Classification,4
+Long-tail Learning,3
+Domain Generalization,3
+Partial Domain Adaptation,3
+0-Shot - Few-Shot Image Classification,3
+Instance Segmentation,3
+Pose Estimation,3
+Robust Object Detection,3
+Text-to-Image Generation,3
+Unsupervised Semantic Segmentation,3
+Small Data Image Classification,3
+Real-Time Semantic Segmentation,3
+Depth Estimation,3
+Video Prediction,3
+Image Retrieval,3
+Skeleton Based Action Recognition,3
+Generalizable Person Re-identification,3
+Unsupervised Person Re-Identification,3
+Self-Supervised Action Recognition,3
+Unsupervised Video Object Segmentation,3
+Semi-Supervised Video Object Segmentation,3
+16x upscaling - Image Super-Resolution,3
+Referring Expression Segmentation,3
+Unsupervised Facial Landmark Detection,3
+Face Alignment,3
+Zero-Shot Object Detection,2
+Weakly-Supervised Object Localization,2
+Image Compression,2
+Quantization,2
+Color Image Denoising,2
+Text-Image Retrieval,2
+Real-Time Object Detection,2
+Visual Question Answering,2
+Open World Object Detection,2
+Image Captioning,2
+Layout-to-Image Generation,2
+Object Counting,2
+Interactive Segmentation,2
+Single-object discovery,2
+One-Shot Object Detection,2
+Multi-object discovery,2
+Cross-Modal Retrieval,2
+Object Localization,2
+Semi-Supervised Semantic Segmentation,2
+Depth Completion,2
+Novel View Synthesis,2
+Face Verification,2
+Monocular 3D Object Detection,2
+Monocular Depth Estimation,2
+Human Interaction Recognition,2
+Human Action Generation,2
+Video Generation,2
+Action Detection,2
+Video Object Segmentation,2
+Temporal Action Proposal Generation,2
+Weakly Supervised Action Localization,2
+3D Instance Segmentation,2
+Scene Segmentation,2
+Surface Normals Estimation,2
+3D Reconstruction,2
+Scene Recognition,2
+Synthetic-to-Real Translation,2
+3D Semantic Segmentation,2
+Scene Text Detection,2
+Facial Landmark Detection,2
+10-shot - Few-Shot Image Classification,1
+Image Recognition,1
+1-shot - Few-Shot Image Classification,1
+Classification Consistency,1
+5-shot - Few-Shot Image Classification,1
+10% labeled data - Semi-Supervised Image Classification,1
+10% labeled data - Image Generation,1
+Self-Supervised Image Classification,1
+1% labeled data - Semi-Supervised Image Classification,1
+Zero-Shot Text-to-Image Generation,1
+Activeness Detection,1
+One-Shot Instance Segmentation,1
+Active Object Detection,1
+Multi-Person Pose Estimation,1
+Few-Shot Object Detection,1
+Real-time Instance Segmentation,1
+Homography Estimation,1
+Keypoint Detection,1
+Weakly-supervised instance segmentation,1
+Weakly-Supervised Semantic Segmentation,1
+Object Proposal Generation,1
+Multi-object colocalization,1
+Scene Parsing,1
+Edge Detection,1
+Video Semantic Segmentation,1
+Visual Place Recognition,1
+Vehicle Pose Estimation,1
+Horizon Line Estimation,1
+Multiple Object Tracking,1
+3D Multi-Object Tracking,1
+Stereo Depth Estimation,1
+Dense Pixel Correspondence Estimation,1
+Birds Eye View Object Detection,1
+Optical Flow Estimation,1
+Point Cloud Registration,1
+Scene Flow Estimation,1
+Face Anonymization,1
+Superpixel Image Classification,1
+Sequential Image Classification,1
+Unsupervised Image-To-Image Translation,1
+Rotated MNIST,1
+Handwritten Digit Recognition,1
+Metric Learning,1
+Long-tail learning with class descriptors,1
+Generalized Zero Shot skeletal action recognition,1
+Pose Prediction,1
+Zero Shot Skeletal Action Recognition,1
+One-Shot 3D Action Recognition,1
+Pose Transfer,1
+Video Frame Interpolation,1
+Weakly-supervised 3D Human Pose Estimation,1
+3D Absolute Human Pose Estimation,1
+3D Pose Estimation,1
+Human Pose Forecasting,1
+3D Human Pose Estimation,1
+Monocular 3D Human Pose Estimation,1
+Pose Retrieval,1
+Self-Supervised Learning,1
+Sparse Representation-based Classification,1
+Video Salient Object Detection,1
+Compressive Sensing,1
+Boundary Detection,1
+Scene Understanding,1
+Grayscale Image Denoising,1
+2x upscaling - Compressive Sensing,1
+Weakly-supervised Temporal Action Localization,1
+3D Object Classification,1
+3D Point Cloud Classification,1
+3D Object Recognition,1
+3D Semantic Instance Segmentation,1
+3D Part Segmentation,1
+Video Retrieval,1
+Face Sketch Synthesis,1
+Blur Detection Dataset - Defocus Estimation,1
+Image Inpainting,1
+Facial Inpainting,1
+Scene Text Recognition,1
+Face Recognition,1
+3D FACE MODELING,1
+Face Quality Assessement,1
+Real-Time 3D Semantic Segmentation,1
+LIDAR Semantic Segmentation,1
+Blind Face Restoration,1
+Multimodal Unsupervised Image-To-Image Translation,1
+Image Quality Assessment,1
+Image Super-Resolution,1
+RGB-D Salient Object Detection,1
+Phrase Grounding,1
+Face Detection,1
+RGB Salient Object Detection,1
+Shadow Detection,1
+Low-Light Image Enhancement,1
+Head Pose Estimation,1
+Multimodal Emotion Recognition,1
+Speech Emotion Recognition,1
+Emotion Recognition in Conversation,1
+Pedestrian Detection,1
+Human-Object Interaction Detection,1
+Multi-Object Tracking,1
+Online Multi-Object Tracking,1
+Deblurring,1

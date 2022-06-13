@@ -1,451 +1,725 @@
-benchmark_label,first_date,n_entries,n_tasks,tasks,url
-SQuAD,2016-08-29,545,3,"{'Question Answering', 'Question Generation', 'Open-Domain Question Answering'}",https://paperswithcode.com/dataset/squad
-GLUE,2013-10-01,216,7,"{'Question Answering', 'Natural Language Understanding', 'Semantic Textual Similarity', 'Linguistic Acceptability Assessment', 'Paraphrase Generation', 'Paraphrase Identification', 'Natural Language Inference'}",https://paperswithcode.com/dataset/glue
-WMT 2014,2014-06-03,152,2,"{'Machine Translation', 'Unsupervised Machine Translation'}",https://paperswithcode.com/dataset/wmt-2014
-NTU RGB+D,2014-06-23,145,4,"{'Action Recognition', 'Zero Shot Skeletal Action Recognition', 'Skeleton Based Action Recognition', 'Generalized Zero Shot skeletal action recognition'}",https://paperswithcode.com/dataset/ntu-rgb-d
-Penn Treebank,2004-07-01,141,7,"{'Constituency Parsing', 'Language Modelling', 'Unsupervised Dependency Parsing', 'Chunking', 'Dependency Parsing', 'Part-Of-Speech Tagging', 'Constituency Grammar Induction'}",https://paperswithcode.com/dataset/penn-treebank
-KILT,2020-09-04,130,5,"{'Fact Verification', 'Slot Filling', 'Open-Domain Dialog', 'Open-Domain Question Answering', 'Entity Linking'}",https://paperswithcode.com/dataset/kilt
-GQA,2017-07-25,126,2,"{'Graph Question Answering', 'Visual Question Answering'}",https://paperswithcode.com/dataset/gqa
-UCF101,2012-12-03,117,2,"{'Self-Supervised Action Recognition', 'Action Recognition'}",https://paperswithcode.com/dataset/ucf101
-SST,2013-10-01,97,1,{'Sentiment Analysis'},https://paperswithcode.com/dataset/sst
-CNN/Daily Mail,2015-06-10,96,5,"{'Question Answering', 'Document Summarization', 'Abstractive Text Summarization', 'Extractive Text Summarization', 'Text Summarization'}",https://paperswithcode.com/dataset/cnn-daily-mail-1
-HMDB51,2014-06-09,95,2,"{'Self-Supervised Action Recognition', 'Action Recognition'}",https://paperswithcode.com/dataset/hmdb51
-SNLI,2014-04-08,90,1,{'Natural Language Inference'},https://paperswithcode.com/dataset/snli
-Visual Question Answering v2.0,2016-06-06,88,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/visual-question-answering-v2-0
-VizWiz,2019-04-18,88,2,"{'Image Captioning', 'Visual Question Answering'}",https://paperswithcode.com/dataset/vizwiz
-VisDial,2016-05-31,80,2,"{'Visual Dialog', 'Common Sense Reasoning'}",https://paperswithcode.com/dataset/visdial
-nocaps,2020-09-28,77,1,{'Image Captioning'},https://paperswithcode.com/dataset/nocaps
-CoNLL-2003,2015-11-26,75,3,"{'Named Entity Recognition', 'Low Resource Named Entity Recognition', 'Chunking'}",https://paperswithcode.com/dataset/conll-2003
-COCO,2014-12-07,64,6,"{'Image Captioning', 'Active Object Detection', 'Zero-Shot Text-to-Image Generation', 'Text-to-Image Generation', 'Question Generation', 'Visual Question Answering'}",https://paperswithcode.com/dataset/coco
-SuperGLUE,2018-10-11,63,5,"{'Question Answering', 'Coreference Resolution', 'Common Sense Reasoning', 'Word Sense Disambiguation', 'Natural Language Inference'}",https://paperswithcode.com/dataset/superglue
-HotpotQA,2018-09-25,61,1,{'Question Answering'},https://paperswithcode.com/dataset/hotpotqa
-WikiText-103,2016-12-13,57,1,{'Language Modelling'},https://paperswithcode.com/dataset/wikitext-103
-CodeSearchNet,2020-02-19,53,8,"{'JavaScript - Code Documentation Generation', 'Java - Code Documentation Generation', 'Ruby - Code Documentation Generation', 'Go - Code Documentation Generation', 'Code Documentation Generation', 'Source Code Summarization', 'Python - Code Documentation Generation', 'Php - Code Documentation Generation'}",https://paperswithcode.com/dataset/codesearchnet
-Something-Something V2,2017-06-13,50,1,{'Action Recognition'},https://paperswithcode.com/dataset/something-something-v2
-IMDb Movie Reviews,2014-05-16,49,2,"{'Sentiment Analysis', 'Text Classification'}",https://paperswithcode.com/dataset/imdb-movie-reviews
-SemEval 2014 Task 4 Sub Task 2,2015-12-03,48,3,"{'Aspect-Based Sentiment Analysis', 'Aspect-oriented  Opinion Extraction', 'Aspect Extraction'}",https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2
-OntoNotes 5.0,2014-01-01,48,4,"{'Named Entity Recognition', 'Semantic Role Labeling', 'Entity Typing', 'Coreference Resolution'}",https://paperswithcode.com/dataset/ontonotes-5-0
-Something-Something V1,2017-11-21,47,1,{'Action Recognition'},https://paperswithcode.com/dataset/something-something-v1
-ACE 2005,2014-06-01,42,4,"{'Named Entity Recognition', 'Nested Named Entity Recognition', 'Relation Extraction', 'Joint Entity and Relation Extraction'}",https://paperswithcode.com/dataset/ace-2005
-WMT 2016 News,2016-06-09,41,2,"{'Machine Translation', 'Unsupervised Machine Translation'}",https://paperswithcode.com/dataset/wmt-2016-news
-Human3.6M,2015-11-30,41,2,"{'Monocular 3D Human Pose Estimation', 'Weakly-supervised 3D Human Pose Estimation'}",https://paperswithcode.com/dataset/human3-6m
-DAVIS 2016,2015-12-01,40,1,{'Semi-Supervised Video Object Segmentation'},https://paperswithcode.com/dataset/davis-2016
-WebNLG,2017-06-07,38,6,"{'Relation Extraction', 'Graph-to-Sequence', 'Data-to-Text Generation', 'Unsupervised semantic parsing', 'Unsupervised KG-to-text', 'KG-to-Text Generation'}",https://paperswithcode.com/dataset/webnlg
-DocRED,2019-06-14,38,2,"{'Relation Extraction', 'Joint Entity and Relation Extraction'}",https://paperswithcode.com/dataset/docred
-MLDoc,2018-05-24,35,1,{'Cross-Lingual Document Classification'},https://paperswithcode.com/dataset/mldoc
-Semantic Textual Similarity (2012 - 2016),2019-08-27,35,1,{'Semantic Textual Similarity'},https://paperswithcode.com/dataset/semantic-textual-similarity-2012-2016
-DBP15K,2016-11-12,33,1,{'Entity Alignment'},https://paperswithcode.com/dataset/dbp15k
-WMT 2016,2016-06-09,33,2,"{'Machine Translation', 'Unsupervised Machine Translation'}",https://paperswithcode.com/dataset/wmt-2016
-Referring Expressions for DAVIS 2016 & 2017,2016-11-16,32,1,{'Semi-Supervised Video Object Segmentation'},https://paperswithcode.com/dataset/referring-expressions-for-davis-2016-2017
-IEMOCAP,2017-07-01,29,3,"{'Multimodal Emotion Recognition', 'Emotion Recognition in Conversation', 'Speech Emotion Recognition'}",https://paperswithcode.com/dataset/iemocap
-TACRED,2017-09-01,28,2,"{'Question Answering', 'Relation Extraction'}",https://paperswithcode.com/dataset/tacred
-DAVIS 2017,2016-11-16,26,1,{'Semi-Supervised Video Object Segmentation'},https://paperswithcode.com/dataset/davis-2017
-ACE 2004,2014-06-01,26,5,"{'Nested Mention Recognition', 'Relation Extraction', 'Named Entity Recognition', 'Nested Named Entity Recognition', 'Entity Disambiguation'}",https://paperswithcode.com/dataset/ace-2004
-GENIA,2018-06-01,26,5,"{'Event Extraction', 'Named Entity Recognition', 'Nested Named Entity Recognition', 'LAS - Dependency Parsing', 'UAS - Dependency Parsing'}",https://paperswithcode.com/dataset/genia
-WikiText-2,2016-11-04,26,1,{'Language Modelling'},https://paperswithcode.com/dataset/wikitext-2
-Natural Questions,2017-03-31,26,3,"{'Question Answering', 'Question Generation', 'Open-Domain Question Answering'}",https://paperswithcode.com/dataset/natural-questions
-Word Sense Disambiguation: a Unified Evaluation Framework and Empirical Comparison,2014-01-01,26,1,{'Word Sense Disambiguation'},https://paperswithcode.com/dataset/word-sense-disambiguation-a-unified
-UDC,2015-06-30,25,3,"{'Dialog Generation', 'Answer Selection', 'Conversational Response Selection'}",https://paperswithcode.com/dataset/ubuntu-dialogue-corpus
-AG News,2015-09-04,25,3,"{'Semi-Supervised Text Classification', 'Short Text Clustering', 'Text Classification'}",https://paperswithcode.com/dataset/ag-news
-TurkCorpus,2012-07-01,23,1,{'Text Simplification'},https://paperswithcode.com/dataset/turkcorpus
-AVA,2017-05-23,23,1,{'Action Recognition'},https://paperswithcode.com/dataset/ava
-SemEval-2018 Task 9: Hypernym Discovery,2016-11-01,23,1,{'Hypernym Discovery'},https://paperswithcode.com/dataset/semeval-2018-task-9-hypernym-discovery
-XNLI,2017-05-05,23,2,"{'Cross-Lingual Natural Language Inference', 'Natural Language Inference'}",https://paperswithcode.com/dataset/xnli
-Billion Word Benchmark,2013-12-11,23,2,"{'Text Generation', 'Language Modelling'}",https://paperswithcode.com/dataset/billion-word-benchmark
-RWSD,2020-10-22,22,1,{'Common Sense Reasoning'},https://paperswithcode.com/dataset/rwsd
-RuCoS,2020-10-22,22,1,{'Common Sense Reasoning'},https://paperswithcode.com/dataset/rucos
-ReClor,2020-02-11,22,2,"{'Reading Comprehension', 'Machine Reading Comprehension'}",https://paperswithcode.com/dataset/reclor
-LiDiRus,2020-10-22,22,1,{'Natural Language Inference'},https://paperswithcode.com/dataset/lidirus
-MuSeRC,2020-10-22,22,1,{'Reading Comprehension'},https://paperswithcode.com/dataset/muserc
-RCB,2020-10-22,22,1,{'Natural Language Inference'},https://paperswithcode.com/dataset/rcb
-BC5CDR,2018-09-21,22,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/bc5cdr
-TERRa,2020-10-22,22,1,{'Natural Language Inference'},https://paperswithcode.com/dataset/terra
-DaNetQA,2020-10-22,22,1,{'Question Answering'},https://paperswithcode.com/dataset/danetqa
-PARus,2020-10-22,22,1,{'Common Sense Reasoning'},https://paperswithcode.com/dataset/parus
-RUSSE,2020-10-29,22,1,{'Word Sense Disambiguation'},https://paperswithcode.com/dataset/russe
-JHMDB,2014-11-21,21,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/jhmdb
-DBpedia,2015-09-04,21,1,{'Text Classification'},https://paperswithcode.com/dataset/dbpedia
-VCR,2019-08-09,21,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/vcr
-SemEval-2010 Task 8,2014-08-01,19,1,{'Relation Extraction'},https://paperswithcode.com/dataset/semeval-2010-task-8
-CUB-200-2011,2016-10-08,19,5,"{'Document Text Classification', 'Generalized Zero-Shot Learning', 'Long-tail learning with class descriptors', 'Multimodal Deep Learning', 'Text-to-Image Generation'}",https://paperswithcode.com/dataset/cub-200-2011
-WikiQA,2014-05-16,19,1,{'Question Answering'},https://paperswithcode.com/dataset/wikiqa
-MELD,2017-07-01,19,1,{'Emotion Recognition in Conversation'},https://paperswithcode.com/dataset/meld
-CoNLL-2012,2017-07-21,18,3,"{'Semantic Role Labeling (predicted predicates)', 'Predicate Detection', 'Coreference Resolution'}",https://paperswithcode.com/dataset/conll-2012-1
-ATIS,2014-11-19,18,3,"{'Intent Detection', 'Semantic Parsing', 'Slot Filling'}",https://paperswithcode.com/dataset/atis
-AIDA CoNLL-YAGO,2011-07-01,18,2,"{'Entity Linking', 'Entity Disambiguation'}",https://paperswithcode.com/dataset/aida-conll-yago
-MuPoTS-3D,2017-07-01,18,3,"{'3D Multi-Person Pose Estimation', '3D Multi-Person Pose Estimation (absolute)', '3D Multi-Person Pose Estimation (root-relative)'}",https://paperswithcode.com/dataset/mupots-3d
-Pubmed,2017-04-14,17,2,"{'Sentence Classification', 'Text Summarization'}",https://paperswithcode.com/dataset/pubmed
-SemEval 2013,2013-06-01,17,2,"{'Word Sense Induction', 'Word Sense Disambiguation'}",https://paperswithcode.com/dataset/semeval-2013
-Hutter Prize,2016-07-12,17,1,{'Language Modelling'},https://paperswithcode.com/dataset/hutter-prize
-SICK,2015-02-28,17,3,"{'Semantic Textual Similarity', 'Semantic Similarity Estimation', 'Natural Language Inference'}",https://paperswithcode.com/dataset/sick
-arXiv,2017-04-14,17,3,"{'Text Classification', 'Topic modeling', 'Text Summarization'}",https://paperswithcode.com/dataset/arxiv
-WNUT 2017,2017-09-01,17,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/wnut-2017-emerging-and-rare-entity
-RACE,2018-03-24,16,3,"{'Question Answering', 'Distractor Generation', 'Reading Comprehension'}",https://paperswithcode.com/dataset/race
-MR,2017-02-05,16,2,"{'Sentiment Analysis', 'Text Classification'}",https://paperswithcode.com/dataset/mr
-RotoWire,2017-07-25,16,1,{'Data-to-Text Generation'},https://paperswithcode.com/dataset/rotowire
-SciERC,2014-09-12,15,3,"{'Named Entity Recognition', 'Relation Extraction', 'Joint Entity and Relation Extraction'}",https://paperswithcode.com/dataset/scierc
-Universal Dependencies,2016-02-04,15,4,"{'Part-Of-Speech Tagging', 'Cross-lingual zero-shot dependency parsing', 'Language Identification', 'Dependency Parsing'}",https://paperswithcode.com/dataset/universal-dependencies
-DUC 2004,2015-09-02,15,3,"{'Extractive Text Summarization', 'Multi-Document Summarization', 'Text Summarization'}",https://paperswithcode.com/dataset/duc-2004
-E2E,2017-12-19,15,1,{'Data-to-Text Generation'},https://paperswithcode.com/dataset/e2e
-SearchQA,2016-03-04,14,1,{'Open-Domain Question Answering'},https://paperswithcode.com/dataset/searchqa
-Weibo NER,2018-05-05,14,2,"{'Named Entity Recognition', 'Chinese Named Entity Recognition'}",https://paperswithcode.com/dataset/weibo-ner
-TriviaQA,2017-05-08,14,2,"{'Question Answering', 'Question Generation'}",https://paperswithcode.com/dataset/triviaqa
-CLEVR,2017-05-10,14,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/clevr
-KP20k,2021-05-28,14,3,"{'Phrase Tagging', 'Keyphrase Extraction', 'Phrase Ranking'}",https://paperswithcode.com/dataset/kp20k
-EPIC-KITCHENS-100,2020-06-23,14,1,{'Action Recognition'},https://paperswithcode.com/dataset/epic-kitchens-100
-SUBJ,2015-04-20,14,1,{'Subjectivity Analysis'},https://paperswithcode.com/dataset/subj
-NCBI Disease,2018-10-11,14,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/ncbi-disease-1
-XTREME,2020-05-26,14,1,{'Zero-Shot Cross-Lingual Transfer'},https://paperswithcode.com/dataset/xtreme
-bAbI,2015-03-31,13,1,{'Question Answering'},https://paperswithcode.com/dataset/babi-1
-Newsela,2012-07-01,13,1,{'Text Simplification'},https://paperswithcode.com/dataset/newsela
-Visual Question Answering,2015-11-07,13,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/visual-question-answering
-XSum,2018-08-27,13,2,"{'Document Summarization', 'Text Summarization'}",https://paperswithcode.com/dataset/xsum
-WSC,2018-06-07,12,2,"{'Common Sense Reasoning', 'Coreference Resolution'}",https://paperswithcode.com/dataset/wsc
-MATH,2021-03-05,12,2,"{'Text Generation', 'Math Word Problem Solving'}",https://paperswithcode.com/dataset/math
-Electricity,2017-03-21,12,1,{'Univariate Time Series Forecasting'},https://paperswithcode.com/dataset/electricity
-COCO Captions,2016-09-18,12,3,"{'Text Generation', 'Image Captioning', 'Concept-To-Text Generation'}",https://paperswithcode.com/dataset/coco-captions
-RST-DT,2009-08-02,12,1,{'Discourse Parsing'},https://paperswithcode.com/dataset/rst-dt
-JFLEG,2018-01-26,12,2,"{'Grammatical Error Detection', 'Grammatical Error Correction'}",https://paperswithcode.com/dataset/jfleg
-KPTimes,2021-05-28,12,3,"{'Phrase Tagging', 'Keyphrase Extraction', 'Phrase Ranking'}",https://paperswithcode.com/dataset/kptimes
-THUMOS14,2015-11-22,12,1,{'Action Recognition'},https://paperswithcode.com/dataset/thumos14-1
-CoNLL-2014 Shared Task: Grammatical Error Correction,2018-01-26,12,1,{'Grammatical Error Correction'},https://paperswithcode.com/dataset/conll-2014-shared-task-grammatical-error
-CommonsenseQA,2018-11-02,12,2,"{'Question Answering', 'Common Sense Reasoning'}",https://paperswithcode.com/dataset/commonsenseqa
-MultiWOZ,2019-05-30,12,2,"{'Data-to-Text Generation', 'End-To-End Dialogue Modelling'}",https://paperswithcode.com/dataset/multiwoz
-CoQA,2018-08-21,12,2,"{'Generative Question Answering', 'Question Answering'}",https://paperswithcode.com/dataset/coqa
-RCV1,2013-12-20,11,3,"{'Cross-Lingual Document Classification', 'Multi-Label Text Classification', 'Text Classification'}",https://paperswithcode.com/dataset/rcv1
-LDC2017T10,2017-05-28,11,1,{'AMR Parsing'},https://paperswithcode.com/dataset/ldc2017t10
-irc-disentanglement,2008-06-01,11,1,{'Conversation Disentanglement'},https://paperswithcode.com/dataset/irc-disentanglement
-CIFAR-100,2019-06-18,11,1,{'Long-tail Learning'},https://paperswithcode.com/dataset/cifar-100
-TextCaps,,11,1,{'Image Captioning'},https://paperswithcode.com/dataset/textcaps
-WikiSQL,2017-08-31,11,2,"{'Semantic Parsing', 'Code Generation'}",https://paperswithcode.com/dataset/wikisql
-OntoNotes 4.0,2018-05-05,11,1,{'Chinese Named Entity Recognition'},https://paperswithcode.com/dataset/ontonotes-4-0
-Jester,2017-11-22,10,1,{'Action Recognition'},https://paperswithcode.com/dataset/jester
-WiC-TSV,2019-08-20,10,2,"{'Word Sense Disambiguation', 'Entity Linking'}",https://paperswithcode.com/dataset/wic-tsv
-Ohsumed,2017-07-06,10,1,{'Text Classification'},https://paperswithcode.com/dataset/ohsumed
-JNLPBA,2019-01-25,10,2,"{'Named Entity Recognition', 'Relation Extraction'}",https://paperswithcode.com/dataset/jnlpba
-ASSET,2012-07-01,10,1,{'Text Simplification'},https://paperswithcode.com/dataset/asset
-ChemProt,2019-01-25,10,1,{'Relation Extraction'},https://paperswithcode.com/dataset/chemprot
-Resume NER,2018-05-05,10,1,{'Chinese Named Entity Recognition'},https://paperswithcode.com/dataset/resume-ner
-DROP,2019-03-01,10,1,{'Question Answering'},https://paperswithcode.com/dataset/drop
-Sports-1M,2014-06-23,10,1,{'Action Recognition'},https://paperswithcode.com/dataset/sports-1m
-DailyDialog,2018-08-27,10,2,"{'Text Generation', 'Emotion Recognition in Conversation'}",https://paperswithcode.com/dataset/dailydialog
-SciCite,2018-01-01,10,2,"{'Citation Intent Classification', 'Sentence Classification'}",https://paperswithcode.com/dataset/scicite
-TextVQA,,10,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/textvqa
-ETHOS,2020-06-11,10,1,{'Hate Speech Detection'},https://paperswithcode.com/dataset/ethos
-Reuters-21578,2019-02-23,10,2,"{'Document Classification', 'Multi-Label Text Classification'}",https://paperswithcode.com/dataset/reuters-21578
-CoNLL 2002,2019-08-19,10,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/conll-2002
-WI-LOCNESS,2019-06-10,9,1,{'Grammatical Error Correction'},https://paperswithcode.com/dataset/locness-corpus
-DDI,2017-10-25,9,3,"{'Drug–drug Interaction Extraction', 'Biomedical Relation Extraction', 'Relation Extraction'}",https://paperswithcode.com/dataset/ddi
-VQA-CP,2018-08-01,9,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/vqa-cp
-SciTail,2017-12-30,9,1,{'Natural Language Inference'},https://paperswithcode.com/dataset/scitail
-NarrativeQA,2016-11-05,9,1,{'Question Answering'},https://paperswithcode.com/dataset/narrativeqa
-WikiHop,2017-10-17,9,2,"{'Question Answering', 'Paraphrase Identification'}",https://paperswithcode.com/dataset/wikihop
-CBT,2016-03-04,9,1,{'Question Answering'},https://paperswithcode.com/dataset/cbt
-Multi-News,2018-08-31,9,2,"{'Cross-Document Language Modeling', 'Multi-Document Summarization'}",https://paperswithcode.com/dataset/multi-news
-VoxForge,2019-10-09,9,1,{'Spoken language identification'},https://paperswithcode.com/dataset/voxforge
-ROCStories,2016-06-01,9,2,"{'Question Answering', 'Emotion Classification'}",https://paperswithcode.com/dataset/rocstories
-Switchboard-1 Corpus,2016-03-12,9,1,{'Dialog Act Classification'},https://paperswithcode.com/dataset/switchboard-1-corpus
-FarsTail,2020-09-18,8,1,{'Natural Language Inference'},https://paperswithcode.com/dataset/farstail
-DialogRE,2020-04-17,8,1,{'Dialog Relation Extraction'},https://paperswithcode.com/dataset/dialogre
-EmoContext,2019-03-30,8,1,{'Emotion Recognition in Conversation'},https://paperswithcode.com/dataset/emocontext
-FNC-1,2017-07-11,8,1,{'Fake News Detection'},https://paperswithcode.com/dataset/fnc-1
-PHYRE,2019-08-15,8,1,{'Visual Reasoning'},https://paperswithcode.com/dataset/phyre
-ACL ARC,2013-06-01,8,2,"{'Citation Intent Classification', 'Sentence Classification'}",https://paperswithcode.com/dataset/acl-arc-1
-ImageNet,2019-10-21,8,1,{'Long-tail Learning'},https://paperswithcode.com/dataset/imagenet
-CAD-120,2012-10-04,8,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/cad-120
-BUCC,2015-11-20,8,1,{'Cross-Lingual Bitext Mining'},https://paperswithcode.com/dataset/bucc
-DocVQA,2020-07-01,8,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/docvqa
-StereoSet,2020-04-20,8,1,{'Bias Detection'},https://paperswithcode.com/dataset/stereoset
-TweetEval,2020-05-20,7,1,{'Sentiment Analysis'},https://paperswithcode.com/dataset/tweeteval
-UBI-Fights,2016-04-15,7,1,{'Semi-supervised Anomaly Detection'},https://paperswithcode.com/dataset/ubi-fights
-MS MARCO,2016-11-05,7,2,"{'Question Answering', 'Passage Re-Ranking'}",https://paperswithcode.com/dataset/ms-marco
-Cora,2014-03-26,7,1,{'Document Classification'},https://paperswithcode.com/dataset/cora
-TrecQA,2014-12-04,7,1,{'Question Answering'},https://paperswithcode.com/dataset/trecqa
-CoNaLa,2018-10-05,7,1,{'Code Generation'},https://paperswithcode.com/dataset/conala
-Wizard-of-Oz,2016-06-12,7,1,{'Dialog State Tracking'},https://paperswithcode.com/dataset/wizard-of-oz
-MPQA Opinion Corpus,2017-11-02,7,3,"{'Sentiment Analysis', 'Fine-Grained Opinion Analysis', 'Document Classification'}",https://paperswithcode.com/dataset/mpqa-opinion-corpus
-CoNLL++,2016-03-04,7,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/conll
-EmoryNLP,2019-09-24,7,1,{'Emotion Recognition in Conversation'},https://paperswithcode.com/dataset/emorynlp
-NEMO-Corpus,2020-07-30,7,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/nemo-corpus
-NLVR,2019-08-09,7,1,{'Visual Reasoning'},https://paperswithcode.com/dataset/nlvr
-B-T4SA,2021-02-16,7,1,{'Multimodal Sentiment Analysis'},https://paperswithcode.com/dataset/b-t4sa
-Russian Event2Mind,2020-06-17,7,1,{'Common Sense Reasoning'},https://paperswithcode.com/dataset/russian-event2mind
-SEMAINE,2017-07-01,7,1,{'Emotion Recognition in Conversation'},https://paperswithcode.com/dataset/semaine
-QUASAR-T,2017-03-31,7,1,{'Question Answering'},https://paperswithcode.com/dataset/quasar-t
-DialoGLUE,,7,1,{'Natural Language Understanding'},https://paperswithcode.com/dataset/dialoglue
-SNIPS,2018-06-01,7,1,{'Intent Detection'},https://paperswithcode.com/dataset/snips
-FQuAD,2020-02-14,7,1,{'Question Answering'},https://paperswithcode.com/dataset/fquad
-HateXplain,2020-12-18,7,1,{'Hate Speech Detection'},https://paperswithcode.com/dataset/hatexplain
-WMT 2015,2015-08-31,7,1,{'Machine Translation'},https://paperswithcode.com/dataset/wmt-2015
-FCE,2016-07-20,7,1,{'Grammatical Error Detection'},https://paperswithcode.com/dataset/fce
-Multimodal Opinionlevel Sentiment Intensity,2017-07-01,7,1,{'Multimodal Sentiment Analysis'},https://paperswithcode.com/dataset/multimodal-opinionlevel-sentiment-intensity
-EMOTIC,2019-08-16,7,1,{'Emotion Recognition in Context'},https://paperswithcode.com/dataset/emotic
-MSR-VTT,2017-04-14,6,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/msr-vtt
-QUASAR,2016-06-05,6,1,{'Open-Domain Question Answering'},https://paperswithcode.com/dataset/quasar-1
-MRDA,2017-09-13,6,1,{'Dialog Act Classification'},https://paperswithcode.com/dataset/mrda
-Multi-Modal CelebA-HQ,2017-11-28,6,1,{'Text-to-Image Generation'},https://paperswithcode.com/dataset/multi-modal-celeba-hq-1
-MSVD,2017-04-14,6,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/msvd
-SUN Attribute,2017-12-04,6,1,{'Generalized Zero-Shot Learning'},https://paperswithcode.com/dataset/sun-attribute
-SentEval,2013-10-01,6,1,{'Semantic Textual Similarity'},https://paperswithcode.com/dataset/senteval
-New York Times Annotated Corpus,2015-09-01,6,1,{'Relationship extraction using distant supervision'},https://paperswithcode.com/dataset/new-york-times-annotated-corpus
-Reddit Corpus,2018-02-15,6,1,{'Conversational Response Selection'},https://paperswithcode.com/dataset/reddit-corpus
-SWAG,2018-08-16,6,1,{'Common Sense Reasoning'},https://paperswithcode.com/dataset/swag
-Multi-Domain Sentiment Dataset v2.0,2015-05-28,6,1,{'Sentiment Analysis'},https://paperswithcode.com/dataset/multi-domain-sentiment-dataset-v2-0
-Sentence Compression,2015-09-01,6,1,{'Sentence Compression'},https://paperswithcode.com/dataset/sentence-compression
-2010 i2b2/VA,2011-05-12,6,2,"{'Clinical Assertion Status Detection', 'Clinical Concept Extraction'}",https://paperswithcode.com/dataset/2010-i2b2-va
-ANIMAL,2019-06-15,6,1,{'Learning with noisy labels'},https://paperswithcode.com/dataset/animal
-HACS,2020-06-15,6,1,{'Action Recognition'},https://paperswithcode.com/dataset/hacs
-DAVIS,2019-04-01,6,1,{'Interactive Video Object Segmentation'},https://paperswithcode.com/dataset/davis
-Arabic Text Diacritization,2019-04-25,6,1,{'Arabic Text Diacritization'},https://paperswithcode.com/dataset/arabic-text-diacritization
-CrowdSpeech,2021-07-02,6,1,{'Crowdsourced Text Aggregation'},https://paperswithcode.com/dataset/crowdspeech
-Contract Discovery,2019-11-10,6,1,{'Semantic Retrieval'},https://paperswithcode.com/dataset/contract-discovery
-BIOSSES,2017-07-15,6,2,"{'Sentence Embeddings For Biomedical Texts', 'Semantic Similarity Estimation'}",https://paperswithcode.com/dataset/biosses
-HopeEDI,2020-12-01,6,3,"{'Hope Speech Detection for Tamil', 'Hope Speech Detection for Malayalam', 'Hope Speech Detection'}",https://paperswithcode.com/dataset/hopeedi
-CCGbank,2016-06-01,6,1,{'Combinatory Categorical Grammar (CCG) Supertagging'},https://paperswithcode.com/dataset/ccgbank
-CoNaLa-Ext,2018-10-05,6,1,{'Code Generation'},https://paperswithcode.com/dataset/conala-ext
-COVID-19 Twitter Chatter Dataset,2015-09-01,6,4,"{'Sentiment Analysis', 'Text Clustering', 'Text Classification', 'Topic modeling'}",https://paperswithcode.com/dataset/covid-19-twitter-chatter-dataset
-Flickr30K Entities,2015-11-12,6,1,{'Phrase Grounding'},https://paperswithcode.com/dataset/flickr30k-entities
-WMT 2018,2018-10-01,5,1,{'Machine Translation'},https://paperswithcode.com/dataset/wmt-2018
-NewsQA,2017-03-14,5,1,{'Question Answering'},https://paperswithcode.com/dataset/newsqa
-Math23K,2019-07-01,5,1,{'Math Word Problem Solving'},https://paperswithcode.com/dataset/math23k
-WNUT 2016 NER,2016-12-01,5,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/wnut-2016-ner
-WebEdit,2020-07-02,5,1,{'Fact-based Text Editing'},https://paperswithcode.com/dataset/webedit
-AwA,2019-06-01,5,1,{'Long-tail learning with class descriptors'},https://paperswithcode.com/dataset/awa-1
-MuST-C,2020-07-01,5,1,{'Speech-to-Text Translation'},https://paperswithcode.com/dataset/must-c
-Visual Genome,2016-11-30,5,4,"{'Phrase Grounding', 'Unsupervised KG-to-text', 'Visual Question Answering', 'Unsupervised semantic parsing'}",https://paperswithcode.com/dataset/visual-genome
-CLEVR-Humans,2017-05-10,5,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/clevr-humans
-UT-Kinect,2014-06-23,5,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/ut-kinect
-PERSONA-CHAT,2014-09-01,5,1,{'Dialog Generation'},https://paperswithcode.com/dataset/persona-chat-1
-UAV-Human,2018-01-23,5,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/uav-human
-WebQuestions,2014-04-16,5,2,"{'Question Answering', 'KG-to-Text Generation'}",https://paperswithcode.com/dataset/webquestions
-ToTTo,2020-04-29,5,1,{'Data-to-Text Generation'},https://paperswithcode.com/dataset/totto
-Florence3D,2014-06-23,5,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/florence3d
-ComplexWebQuestions,2019-07-01,5,2,"{'Semantic Parsing', 'Knowledge Base Question Answering'}",https://paperswithcode.com/dataset/complexwebquestions
-SemEval2017,2021-04-10,5,1,{'Keyword Extraction'},https://paperswithcode.com/dataset/semeval2017
-SARC,2017-04-19,5,1,{'Sarcasm Detection'},https://paperswithcode.com/dataset/sarc
-Django,2016-03-22,5,1,{'Code Generation'},https://paperswithcode.com/dataset/django
-Dialogue State Tracking Challenge,2016-06-12,5,1,{'Dialog State Tracking'},https://paperswithcode.com/dataset/dialogue-state-tracking-challenge
-ImageNet-LT,2019-04-10,5,1,{'Long-tail learning with class descriptors'},https://paperswithcode.com/dataset/imagenet-lt
-DSTC7 Task 1,2018-12-03,5,1,{'Conversational Response Selection'},https://paperswithcode.com/dataset/dstc7-task-1
-MedNLI,2019-06-13,5,1,{'Natural Language Inference'},https://paperswithcode.com/dataset/mednli
-Inspec,2021-04-10,5,1,{'Keyword Extraction'},https://paperswithcode.com/dataset/inspec
-LJSpeech,2018-09-19,5,1,{'Text-To-Speech Synthesis'},https://paperswithcode.com/dataset/ljspeech
-ANLI,2019-06-19,5,1,{'Natural Language Inference'},https://paperswithcode.com/dataset/anli
-Event2Mind,2018-05-17,4,1,{'Common Sense Reasoning'},https://paperswithcode.com/dataset/event2mind
-G3D,2016-06-27,4,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/g3d
-CIFAR-10,2019-06-18,4,1,{'Long-tail Learning'},https://paperswithcode.com/dataset/cifar-10
-LAMBADA,2016-10-26,4,1,{'Language Modelling'},https://paperswithcode.com/dataset/lambada
-PanoContext,2018-03-23,4,1,{'3D Room Layouts From A Single RGB Panorama'},https://paperswithcode.com/dataset/panocontext
-CMU-MOSEI,2018-07-01,4,1,{'Multimodal Sentiment Analysis'},https://paperswithcode.com/dataset/cmu-mosei
-Places-LT,2019-04-10,4,1,{'Long-tail Learning'},https://paperswithcode.com/dataset/places-lt
-TimeBank,2012-05-01,4,2,"{'Timex normalization', 'Temporal Information Extraction'}",https://paperswithcode.com/dataset/timebank
-RECCON,2020-12-22,4,2,"{'Recognizing Emotion Cause in Conversations', 'Causal Emotion Entailment'}",https://paperswithcode.com/dataset/reccon
-TAC 2010,2016-01-06,4,1,{'Entity Disambiguation'},https://paperswithcode.com/dataset/tac-2010
-Re-TACRED,2017-09-01,4,1,{'Relation Extraction'},https://paperswithcode.com/dataset/re-tacred
-Open Entity,2019-05-17,4,1,{'Entity Typing'},https://paperswithcode.com/dataset/open-entity-1
-Reddit,2019-02-28,4,2,"{'Dialog Generation', 'Text Summarization'}",https://paperswithcode.com/dataset/reddit
-ContactDB,2019-04-15,4,1,{'Grasp Contact Prediction'},https://paperswithcode.com/dataset/contactdb
-MAMS,2019-11-01,4,1,{'Aspect-Based Sentiment Analysis'},https://paperswithcode.com/dataset/mams
-SHREC,2019-01-10,4,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/shrec
-DBRD,2019-12-19,4,1,{'Sentiment Analysis'},https://paperswithcode.com/dataset/dbrd
-DeepFix,2018-01-31,4,1,{'Program Repair'},https://paperswithcode.com/dataset/deepfix
-SPIDER,2018-09-24,4,1,{'Semantic Parsing'},https://paperswithcode.com/dataset/spider-1
-SPoC,2019-06-12,4,1,{'Program Synthesis'},https://paperswithcode.com/dataset/spoc
-SVAMP,2021-03-12,4,1,{'Math Word Problem Solving'},https://paperswithcode.com/dataset/svamp
-SUTD-TrafficQA,2015-05-08,4,1,{'Video Question Answering'},https://paperswithcode.com/dataset/trafficqa
-Oxford 102 Flower,2016-12-10,4,2,"{'Text-to-Image Generation', 'Generalized Zero-Shot Learning'}",https://paperswithcode.com/dataset/oxford-102-flower
-ActivityNet,2015-12-22,4,1,{'Action Recognition'},https://paperswithcode.com/dataset/activitynet
-Volleyball,2016-11-28,4,1,{'Action Recognition'},https://paperswithcode.com/dataset/volleyball
-WebQuestionsSP,2016-08-01,4,1,{'Semantic Parsing'},https://paperswithcode.com/dataset/webquestionssp
-NUS-WIDE,2016-05-31,4,1,{'Multi-label zero-shot learning'},https://paperswithcode.com/dataset/nus-wide
-MultiSubs,2021-03-02,4,2,"{'Multimodal Lexical Translation', 'Multimodal Text Prediction'}",https://paperswithcode.com/dataset/multisubs
-WikiBio,2016-03-24,4,1,{'Table-to-Text Generation'},https://paperswithcode.com/dataset/wikibio
-Helsinki Prosody Corpus,2019-08-06,4,1,{'Prosody Prediction'},https://paperswithcode.com/dataset/helsinki-prosody-corpus
-HAA500,2020-09-11,4,1,{'Action Recognition'},https://paperswithcode.com/dataset/haa500
-MCTest,2016-03-29,3,1,{'Question Answering'},https://paperswithcode.com/dataset/mctest
-WikiTableQuestions,2019-09-09,3,1,{'Semantic Parsing'},https://paperswithcode.com/dataset/wikitablequestions
-Summarizing Source Code using a Neural Attention Model,2021-04-06,3,3,"{'Python - Source Code Summarization', 'C# - Source Code Summarization', 'SQL - Source Code Summarization'}",https://paperswithcode.com/dataset/summarizing-source-code-using-a-neural
-BEIR,2021-04-14,3,2,"{'Question Answering', 'Information Retrieval'}",https://paperswithcode.com/dataset/beir
-CoLA,2019-09-23,3,1,{'Linguistic Acceptability Assessment'},https://paperswithcode.com/dataset/cola
-AdversarialQA,2020-02-02,3,1,{'Reading Comprehension'},https://paperswithcode.com/dataset/adversarialqa
-XQuAD,2020-10-24,3,1,{'Cross-Lingual Question Answering'},https://paperswithcode.com/dataset/xquad
-CommonGen,2019-11-09,3,1,{'Text Generation'},https://paperswithcode.com/dataset/commongen
-OpenBookQA,2019-07-24,3,1,{'Question Answering'},https://paperswithcode.com/dataset/openbookqa
-EGTEA,2017-08-07,3,1,{'Long-tail Learning'},https://paperswithcode.com/dataset/egtea
-WikiHow,2018-10-18,3,1,{'Text Summarization'},https://paperswithcode.com/dataset/wikihow
-Few-NERD,2021-05-16,3,2,"{'Named Entity Recognition', 'Few-shot NER'}",https://paperswithcode.com/dataset/few-nerd
-LINNAEUS,2019-08-13,3,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/linnaeus
-Czech restaurant information,2021-02-02,3,1,{'Text Generation'},https://paperswithcode.com/dataset/czech-restaurant-information
-AGENDA,2020-01-29,3,1,{'KG-to-Text Generation'},https://paperswithcode.com/dataset/agenda
-SCDE,2020-04-27,3,1,{'Question Answering'},https://paperswithcode.com/dataset/scde
-SberQuAD,2019-12-20,3,1,{'Question Answering'},https://paperswithcode.com/dataset/sberquad
-WOS,2017-09-24,3,1,{'Document Classification'},https://paperswithcode.com/dataset/web-of-science-dataset
-DebateSum,2020-11-14,3,1,{'Extractive Text Summarization'},https://paperswithcode.com/dataset/debatesum
-LRW,2020-05-17,3,2,"{'Unconstrained Lip-synchronization', 'Lip to Speech Synthesis'}",https://paperswithcode.com/dataset/lrw
-NTU-X,2021-01-27,3,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/ntu-x
-MIMIC-III,2018-02-07,3,2,"{'Multi-Label Classification Of Biomedical Texts', 'Multi-Label Text Classification'}",https://paperswithcode.com/dataset/mimic-iii
-TVQA,2019-04-25,3,1,{'Video Question Answering'},https://paperswithcode.com/dataset/tvqa
-Mathematics Dataset,2019-04-02,3,1,{'Question Answering'},https://paperswithcode.com/dataset/mathematics
-Kinetics,2020-06-29,3,1,{'Self-Supervised Action Recognition'},https://paperswithcode.com/dataset/kinetics
-GAP Coreference Dataset,2019-06-09,3,1,{'Coreference Resolution'},https://paperswithcode.com/dataset/gap-coreference-dataset
-MRPC,2019-09-23,3,2,"{'Semantic Textual Similarity', 'Natural Language Inference'}",https://paperswithcode.com/dataset/mrpc
-Food-101,2020-12-17,3,2,"{'Document Text Classification', 'Multimodal Text and Image Classification'}",https://paperswithcode.com/dataset/food-101
-PKU-MMD,2017-04-25,3,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/pku-mmd
-PNT,2015-09-01,3,1,{'Timex normalization'},https://paperswithcode.com/dataset/pnt
-TabFact,2019-09-05,3,1,{'Table-based Fact Verification'},https://paperswithcode.com/dataset/tabfact
-AQUAINT,2019-09-01,3,1,{'Entity Disambiguation'},https://paperswithcode.com/dataset/aquaint
-Tweebank,2017-09-01,3,1,{'Part-Of-Speech Tagging'},https://paperswithcode.com/dataset/tweebank
-CMU Panoptic Studio Dataset,2020-04-06,3,1,{'3D Multi-Person Pose Estimation'},https://paperswithcode.com/dataset/cmu-panoptic-studio-dataset
-Visual7W,2016-06-06,3,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/visual7w
-TweetQA,2021-05-28,3,1,{'Question Answering'},https://paperswithcode.com/dataset/tweetqa
-MLQA,2020-10-24,3,1,{'Cross-Lingual Question Answering'},https://paperswithcode.com/dataset/mlqa
-MSMT17,2019-04-23,3,1,{'Generalizable Person Re-identification'},https://paperswithcode.com/dataset/msmt17
-TempEval-3,2013-06-01,2,1,{'Temporal Information Extraction'},https://paperswithcode.com/dataset/tempeval-3
-CDCP,2021-02-24,2,2,"{'Relation Classification', 'Component Classification'}",https://paperswithcode.com/dataset/cdcp
-Wikipedia Person and Animal Dataset,2018-09-06,2,2,"{'Table-to-Text Generation', 'KB-to-Language Generation'}",https://paperswithcode.com/dataset/wikipedia-person-and-animal-dataset
-An Amharic News Text classification Dataset,2021-03-10,2,1,{'Text Classification'},https://paperswithcode.com/dataset/an-amharic-news-text-classification-dataset
-BC2GM,2020-07-31,2,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/bc2gm
-CODAH,2019-04-08,2,1,{'Question Answering'},https://paperswithcode.com/dataset/codah
-TDIUC,2019-02-25,2,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/tdiuc
-BC4CHEMD,2019-04-15,2,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/bc4chemd
-italki NLI,2017-09-01,2,1,{'Native Language Identification'},https://paperswithcode.com/dataset/italki-nli
-ViGGO,2019-10-26,2,1,{'Data-to-Text Generation'},https://paperswithcode.com/dataset/viggo
-Business Scene Dialogue,2020-08-05,2,1,{'Machine Translation'},https://paperswithcode.com/dataset/business-scene-dialogue
-SoccerNet-v2,2020-11-26,2,1,{'Replay Grounding'},https://paperswithcode.com/dataset/soccernet-v2
-ToLD-Br,2020-10-09,2,1,{'Hate Speech Detection'},https://paperswithcode.com/dataset/told-br
-ARC,2020-05-28,2,1,{'Common Sense Reasoning'},https://paperswithcode.com/dataset/arc
-TyDi QA,2020-10-24,2,1,{'Cross-Lingual Question Answering'},https://paperswithcode.com/dataset/tydi-qa
-DART,2021-02-02,2,1,{'Text Generation'},https://paperswithcode.com/dataset/dart
-The Pile,2019-02-14,2,1,{'Language Modelling'},https://paperswithcode.com/dataset/the-pile
-Twitter Stance Election 2020,2021-05-26,2,2,"{'Stance Detection (US Election 2020 - Trump)', 'Stance Detection (US Election 2020 - Biden)'}",https://paperswithcode.com/dataset/twitter-stance-election-2020
-XCOPA,2020-04-30,2,1,{'Cross-Lingual Transfer'},https://paperswithcode.com/dataset/xcopa
-CliCR,2018-03-26,2,1,{'Question Answering'},https://paperswithcode.com/dataset/clicr
-Species-800,2019-08-13,2,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/species-800
-AMR Bank,2020-10-12,2,1,{'Semantic Parsing'},https://paperswithcode.com/dataset/amr-bank
-AESLC,2019-06-08,2,1,{'Abstractive Text Summarization'},https://paperswithcode.com/dataset/aeslc
-LRS2,2020-08-23,2,1,{'Unconstrained Lip-synchronization'},https://paperswithcode.com/dataset/lrs2
-MUSE,2020-01-28,2,1,{'Word Alignment'},https://paperswithcode.com/dataset/muse
-MLSUM,2021-02-02,2,1,{'Abstractive Text Summarization'},https://paperswithcode.com/dataset/mlsum
-How2,2019-06-19,2,1,{'Text Summarization'},https://paperswithcode.com/dataset/how2
-HowTo100M,2020-05-01,2,1,{'Video Question Answering'},https://paperswithcode.com/dataset/howto100m
-IMDB-MULTI,2019-06-01,2,1,{'Document Classification'},https://paperswithcode.com/dataset/imdb-multi
-RETWEET,2021-04-21,2,1,{'Tweet-Reply Sentiment Analysis'},https://paperswithcode.com/dataset/retweet
-IPM NEL,2018-08-23,2,1,{'Entity Linking'},https://paperswithcode.com/dataset/ipm-nel
-MemexQA,2018-06-05,2,1,{'Memex Question Answering'},https://paperswithcode.com/dataset/memexqa
-OrangeSum,2020-10-23,2,1,{'Text Summarization'},https://paperswithcode.com/dataset/orangesum
-FEVER,2019-07-22,2,1,{'Fact Verification'},https://paperswithcode.com/dataset/fever
-Flickr30k,2018-11-28,2,2,"{'Phrase Grounding', 'Image Captioning'}",https://paperswithcode.com/dataset/flickr30k
-PubMedQA,2020-07-31,2,1,{'Question Answering'},https://paperswithcode.com/dataset/pubmedqa
-ReVerb Challenge,2014-04-16,2,1,{'Question Answering'},https://paperswithcode.com/dataset/reverb-challenge
-Penn Action,2019-06-01,2,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/penn-action
-Paper Field,2019-03-26,2,1,{'Sentence Classification'},https://paperswithcode.com/dataset/paper-field
-MNIST,2015-10-17,2,1,{'Handwritten Digit Recognition'},https://paperswithcode.com/dataset/mnist
-QuAC,2018-10-06,2,1,{'Question Answering'},https://paperswithcode.com/dataset/quac
-LDC2020T02,2021-05-18,2,1,{'AMR Parsing'},https://paperswithcode.com/dataset/ldc2020t02
-MLB Dataset,2021-02-04,2,1,{'Data-to-Text Generation'},https://paperswithcode.com/dataset/mlb-dataset
-SGD,2021-02-02,2,1,{'Task-Oriented Dialog Systems'},https://paperswithcode.com/dataset/sgd
-SEED,2019-07-18,2,1,{'Emotion Recognition'},https://paperswithcode.com/dataset/seed-1
-SAMSum Corpus,2021-04-15,2,1,{'Text Summarization'},https://paperswithcode.com/dataset/samsum-corpus
-DuReader,2019-07-29,2,1,{'Open-Domain Question Answering'},https://paperswithcode.com/dataset/dureader
-DukeMTMC-reID,2019-04-23,2,1,{'Generalizable Person Re-identification'},https://paperswithcode.com/dataset/dukemtmc-reid
-GAD,2020-07-31,2,1,{'Relation Extraction'},https://paperswithcode.com/dataset/gad
-GitHub-Python,2021-06-11,2,1,{'Program Repair'},https://paperswithcode.com/dataset/github-python
-BigPatent,2020-07-28,1,1,{'Text Summarization'},https://paperswithcode.com/dataset/bigpatent
-CD18,2020-07-09,1,1,{'Multimodal Text and Image Classification'},https://paperswithcode.com/dataset/cd18
-VQG,2018-08-12,1,1,{'Question Generation'},https://paperswithcode.com/dataset/vqg
-GoEmotions,2020-05-01,1,1,{'Emotion Classification'},https://paperswithcode.com/dataset/goemotions
-Blended Skill Talk,2020-10-02,1,1,{'Visual Dialog'},https://paperswithcode.com/dataset/blended-skill-talk
-Hateful Memes,2020-12-23,1,1,{'Meme Classification'},https://paperswithcode.com/dataset/hateful-memes
-BioASQ,2020-07-31,1,1,{'Question Answering'},https://paperswithcode.com/dataset/bioasq
-Hate Speech and Offensive Language,2018-09-23,1,1,{'Hate Speech Detection'},https://paperswithcode.com/dataset/hate-speech-and-offensive-language
-CANARD,2020-08-04,1,1,{'Dialogue Rewriting'},https://paperswithcode.com/dataset/canard
-OpenSubtitles,2021-02-11,1,1,{'Language Identification'},https://paperswithcode.com/dataset/opensubtitles
-HDM05,2020-06-21,1,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/hdm05
-NNE,2020-07-01,1,1,{'Nested Named Entity Recognition'},https://paperswithcode.com/dataset/nne
-WHO-COVID19 Dataset,2020-08-06,1,1,{'COVID-19 Modelling'},https://paperswithcode.com/dataset/who
-BanglaLekha-Isolated,2020-08-29,1,1,{'Handwriting Recognition'},https://paperswithcode.com/dataset/banglalekha-isolated
-GRID Dataset,2020-05-17,1,1,{'Speaker-Specific Lip to Speech Synthesis'},https://paperswithcode.com/dataset/grid
-BanglaLekhaImageCaptions,2021-02-14,1,1,{'Image Captioning'},https://paperswithcode.com/dataset/banglalekhaimagecaptions
-HARD,2020-02-28,1,1,{'Sentiment Analysis'},https://paperswithcode.com/dataset/hard
-DDRel,2020-12-04,1,1,{'Dialog Relation Extraction'},https://paperswithcode.com/dataset/ddrel
-MultiNLI,2019-09-23,1,1,{'Natural Language Inference'},https://paperswithcode.com/dataset/multinli
-LABR,2020-02-28,1,1,{'Sentiment Analysis'},https://paperswithcode.com/dataset/labr
-LeNER-Br,2018-09-24,1,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/lener-br
-ACL Title and Abstract Dataset,2018-05-15,1,1,{'Paper generation'},https://paperswithcode.com/dataset/acl-title-and-abstract-dataset
-iBugMask,2021-02-04,1,1,{'Face Parsing'},https://paperswithcode.com/dataset/ibugmask
-Localized Narratives,2019-12-06,1,1,{'Image Captioning'},https://paperswithcode.com/dataset/localized-narratives
-Lorenz Dataset,2019-03-29,1,1,{'Probabilistic Time Series Forecasting'},https://paperswithcode.com/dataset/lorenz-dataset-1
-MECCANO,2020-10-12,1,1,{'Action Recognition'},https://paperswithcode.com/dataset/meccano
-MED,2021-05-29,1,1,{'Natural Language Inference'},https://paperswithcode.com/dataset/med
-LFW,2020-03-20,1,1,{'Face Quality Assessement'},https://paperswithcode.com/dataset/lfw
-Wizard of Wikipedia,2020-10-02,1,1,{'Visual Dialog'},https://paperswithcode.com/dataset/wizard-of-wikipedia
-Win-Fail Action Understanding,2021-02-15,1,1,{'Action Recognition'},https://paperswithcode.com/dataset/win-fail-action-understanding
-ASTD,2019-08-01,1,1,{'Sentiment Analysis'},https://paperswithcode.com/dataset/astd
-WNUT-2020 Task 2,2020-10-09,1,1,{'Text Classification'},https://paperswithcode.com/dataset/wnut-2020-task-2
-KUAKE-QTR,2021-06-15,1,1,{'Natural Language Inference'},https://paperswithcode.com/dataset/kuake-qtr
-MSR ActionPairs,2020-06-21,1,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/msr-actionpairs
-Adience,2020-03-20,1,1,{'Face Quality Assessement'},https://paperswithcode.com/dataset/adience
-KUAKE-QQR,2021-06-15,1,1,{'Natural Language Inference'},https://paperswithcode.com/dataset/kuake-qqr
-MSRC-12,2020-06-21,1,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/msrc-12
-Advising Corpus,2019-01-09,1,1,{'Conversational Response Selection'},https://paperswithcode.com/dataset/advising-corpus
-KUAKE-QIC,2021-06-15,1,1,{'Intent Classification'},https://paperswithcode.com/dataset/kuake-qic
-WikiAnn,2021-05-28,1,1,{'Cross-Lingual NER'},https://paperswithcode.com/dataset/wikiann-1
-MTL-AQA,2019-04-08,1,1,{'Action Recognition'},https://paperswithcode.com/dataset/mtl-aqa
-Market-1501,2019-04-23,1,1,{'Generalizable Person Re-identification'},https://paperswithcode.com/dataset/market-1501
-VIST,2018-04-24,1,1,{'Visual Storytelling'},https://paperswithcode.com/dataset/vist
-PIQA,2020-05-28,1,1,{'Question Answering'},https://paperswithcode.com/dataset/piqa
-CHIP-CTC,2021-06-15,1,1,{'Sentence Classification'},https://paperswithcode.com/dataset/chip-ctc
-SimpleQuestions,2015-06-05,1,1,{'Question Answering'},https://paperswithcode.com/dataset/simplequestions
-Chinese Treebank,2020-10-10,1,1,{'Dependency Parsing'},https://paperswithcode.com/dataset/chinese-treebank
-Rare Diseases Mentions in MIMIC-III,2021-05-05,1,1,{'Entity Linking'},https://paperswithcode.com/dataset/rare-disease-annotation-from-mimic-iii
-CholecT50,2020-07-10,1,1,{'Action Triplet Recognition'},https://paperswithcode.com/dataset/cholect50
-ReCAM,2021-02-25,1,1,{'Reading Comprehension'},https://paperswithcode.com/dataset/recam
-EmpatheticDialogues,2020-10-02,1,1,{'Visual Dialog'},https://paperswithcode.com/dataset/empatheticdialogues
-CoDesc,2021-05-29,1,1,{'Source Code Summarization'},https://paperswithcode.com/dataset/codesc
-Solar-Power,2017-03-21,1,1,{'Univariate Time Series Forecasting'},https://paperswithcode.com/dataset/solar-power
-RecipeQA,2021-01-12,1,1,{'Question Answering'},https://paperswithcode.com/dataset/recipeqa
-Slashdot,2020-02-24,1,1,{'Multi-Label Text Classification'},https://paperswithcode.com/dataset/slashdot
-Skeleton-Mimetics,2020-07-04,1,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/skeleton-mimetics
-Skeletics 152,2020-07-04,1,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/skeletics-152-1
-Shellcode_IA32,2021-04-27,1,1,{'Code Generation'},https://paperswithcode.com/dataset/shellcode-ia32
-FIGER,2019-05-17,1,1,{'Entity Linking'},https://paperswithcode.com/dataset/figer
-ShARe/CLEF 2014: Task 2 Disorders,2020-08-05,1,1,{'Weakly Supervised Classification'},https://paperswithcode.com/dataset/share-clef-2014-task-2-disorders
-EmotionLines,2020-02-18,1,1,{'Emotion Recognition in Conversation'},https://paperswithcode.com/dataset/emotionlines
-EgoGesture,2020-04-02,1,1,{'Action Recognition'},https://paperswithcode.com/dataset/egogesture
-Rent3D++,2021-06-09,1,1,{'Plan2Scene'},https://paperswithcode.com/dataset/rent3d-1
-EPIC-KITCHENS-55,2020-04-02,1,1,{'Action Recognition'},https://paperswithcode.com/dataset/epic-kitchens
-RotoEdit,2020-07-02,1,1,{'Fact-based Text Editing'},https://paperswithcode.com/dataset/rotoedit
-ContactPose,2020-07-19,1,1,{'Grasp Contact Prediction'},https://paperswithcode.com/dataset/contactpose
-DynaSent,2017-08-19,1,1,{'Sentiment Analysis'},https://paperswithcode.com/dataset/dynasent
-ConvAI2,2020-10-02,1,1,{'Visual Dialog'},https://paperswithcode.com/dataset/convai2
-SILICONE Benchmark,2020-09-23,1,1,{'Text Classification'},https://paperswithcode.com/dataset/silicone-benchmark
-SQA,2020-04-05,1,1,{'Semantic Parsing'},https://paperswithcode.com/dataset/sqa
-CaseHOLD,2021-04-18,1,1,{'Question Answering'},https://paperswithcode.com/dataset/casehold
-TCG,2020-07-31,1,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/tcg
-UTD-MHAD,2018-12-14,1,1,{'Action Recognition'},https://paperswithcode.com/dataset/utd-mhad
-TrajNet,2020-12-21,1,1,{'Trajectory Forecasting'},https://paperswithcode.com/dataset/trajnet-1
-Overruling,2021-04-18,1,1,{'Text Classification'},https://paperswithcode.com/dataset/overruling
-CHIP-STS,2021-06-15,1,1,{'Semantic Similarity Estimation'},https://paperswithcode.com/dataset/chip-sts
-PCD,2019-05-07,1,1,{'Poem meters classification'},https://paperswithcode.com/dataset/pcd
-CL-SciSumm,2019-09-04,1,1,{'Text Summarization'},https://paperswithcode.com/dataset/cl-scisumm
-DRI Corpus,2021-02-24,1,1,{'Relation Classification'},https://paperswithcode.com/dataset/dr-inventor
-PIT,2021-04-14,1,1,{'Paraphrase Identification'},https://paperswithcode.com/dataset/pit
-PWC Leaderboards,2020-04-29,1,1,{'Scientific Results Extraction'},https://paperswithcode.com/dataset/pwc-leaderboards
-Paralex,2021-05-31,1,1,{'Paraphrase Generation'},https://paperswithcode.com/dataset/paralex
-PathQuestion,2021-06-19,1,1,{'KG-to-Text Generation'},https://paperswithcode.com/dataset/pathquestion
-CLUE,2019-06-19,1,1,{'Document Ranking'},https://paperswithcode.com/dataset/clue
-Fluent Speech Commands,2019-04-07,1,1,{'Spoken Language Understanding'},https://paperswithcode.com/dataset/fluent-speech-commands
-Polyvore,2019-02-10,1,1,{'Slot Filling'},https://paperswithcode.com/dataset/polyvore
-FIQA,2021-04-17,1,1,{'Question Answering'},https://paperswithcode.com/dataset/fiqa-1
-QASPER,2021-05-07,1,1,{'Question Answering'},https://paperswithcode.com/dataset/qasper
-CMeEE,2021-06-15,1,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/cmeee
-CMeIE,2021-06-15,1,1,{'Biomedical Relation Extraction'},https://paperswithcode.com/dataset/cmeie
-Terms of Service,2021-04-18,1,1,{'Text Classification'},https://paperswithcode.com/dataset/terms-of-service
-TallyQA,2018-10-29,1,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/tallyqa
-First-Person Hand Action Benchmark,2021-03-03,1,1,{'Skeleton Based Action Recognition'},https://paperswithcode.com/dataset/first-person-hand-action-benchmark
-FewRel,2019-05-17,1,1,{'Relation Extraction'},https://paperswithcode.com/dataset/fewrel
-TURL,2021-04-14,1,1,{'Paraphrase Identification'},https://paperswithcode.com/dataset/twitter-news-url-corpus
-TQA,2021-06-02,1,1,{'Open-Domain Question Answering'},https://paperswithcode.com/dataset/tqa
-THYME-2016,2020-08-05,1,1,{'Weakly Supervised Classification'},https://paperswithcode.com/dataset/thyme-2016
-COVID-19 Fake News Dataset,2021-01-10,1,1,{'Fake News Detection'},https://paperswithcode.com/dataset/covid-19-fake-news-dataset
-Dataset of Propaganda Techniques of the State-Sponsored Information Operation of the People's Republic of China,2021-06-14,1,1,{'Multi-Label Text Classification'},https://paperswithcode.com/dataset/dataset-of-propaganda-techniques-of-the-state
+benchmark_parent_label,first_date,n_variant,n_row_sum,n_row_min,n_row_max,n_row_mean,n_unique_paper_sum,n_paper_min,n_paper_max,n_paper_mean,n_tasks,tasks,url
+Penn Treebank,2004-07-01,4,141,13,71,35.25,101,9.0,55.0,27.25,7,"{'Unsupervised Dependency Parsing', 'Constituency Grammar Induction', 'Dependency Parsing', 'Part-Of-Speech Tagging', 'Constituency Parsing', 'Chunking', 'Language Modelling'}",https://paperswithcode.com/dataset/penn-treebank
+GLUE,2013-10-01,9,313,16,71,34.77777777777778,85,12.0,60.0,26.88888888888889,8,"{'Question Answering', 'Paraphrase Identification', 'Semantic Textual Similarity', 'Linguistic Acceptability Assessment', 'Paraphrase Generation', 'Natural Language Understanding', 'Natural Language Inference', 'Sentiment Analysis'}",https://paperswithcode.com/dataset/glue
+WMT 2014,2014-06-03,5,152,2,73,30.4,72,1.0,57.0,23.6,2,"{'Machine Translation', 'Unsupervised Machine Translation'}",https://paperswithcode.com/dataset/wmt-2014
+SST,2013-10-01,2,97,26,71,48.5,69,23.0,60.0,41.5,1,{'Sentiment Analysis'},https://paperswithcode.com/dataset/sst
+CNN/Daily Mail,2015-06-10,2,96,12,84,48.0,68,11.0,61.0,36.0,5,"{'Question Answering', 'Document Summarization', 'Text Summarization', 'Extractive Text Summarization', 'Abstractive Text Summarization'}",https://paperswithcode.com/dataset/cnn-daily-mail-1
+SQuAD,2016-08-29,5,545,3,270,109.0,67,2.0,45.0,22.6,3,"{'Question Answering', 'Question Generation', 'Open-Domain Question Answering'}",https://paperswithcode.com/dataset/squad
+SNLI,2014-04-08,1,90,90,90,90.0,56,56.0,56.0,56.0,1,{'Natural Language Inference'},https://paperswithcode.com/dataset/snli
+CoNLL-2003,2015-11-26,6,75,1,61,12.5,55,1.0,52.0,10.5,3,"{'Chunking', 'Named Entity Recognition', 'Low Resource Named Entity Recognition'}",https://paperswithcode.com/dataset/conll-2003
+WikiText-2,2016-11-04,2,83,26,57,41.5,50,18.0,37.0,27.5,1,{'Language Modelling'},https://paperswithcode.com/dataset/wikitext-2
+IMDb Movie Reviews,2014-05-16,2,49,8,41,24.5,43,8.0,35.0,21.5,2,"{'Sentiment Analysis', 'Text Classification'}",https://paperswithcode.com/dataset/imdb-movie-reviews
+SemEval 2014 Task 4 Sub Task 2,2015-12-03,1,48,48,48,48.0,42,42.0,42.0,42.0,3,"{'Aspect Extraction', 'Aspect-oriented  Opinion Extraction', 'Aspect-Based Sentiment Analysis'}",https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2
+COCO,2014-12-07,6,64,4,24,10.666666666666666,39,2.0,19.0,8.666666666666666,6,"{'Question Generation', 'Visual Question Answering', 'Active Object Detection', 'Image Captioning', 'Zero-Shot Text-to-Image Generation', 'Text-to-Image Generation'}",https://paperswithcode.com/dataset/coco
+OntoNotes 5.0,2014-01-01,2,48,24,24,24.0,38,18.0,20.0,19.0,4,"{'Coreference Resolution', 'Entity Typing', 'Semantic Role Labeling', 'Named Entity Recognition'}",https://paperswithcode.com/dataset/ontonotes-5-0
+ACE 2005,2014-06-01,1,42,42,42,42.0,35,35.0,35.0,35.0,4,"{'Relation Extraction', 'Joint Entity and Relation Extraction', 'Nested Named Entity Recognition', 'Named Entity Recognition'}",https://paperswithcode.com/dataset/ace-2005
+Visual Question Answering v2.0,2016-06-06,2,88,22,66,44.0,29,21.0,22.0,21.5,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/visual-question-answering-v2-0
+GigaWord,2015-09-02,1,35,35,35,35.0,29,29.0,29.0,29.0,1,{'Text Summarization'},
+WMT 2016,2016-06-09,10,74,1,19,7.4,27,1.0,17.0,5.8,2,"{'Machine Translation', 'Unsupervised Machine Translation'}",https://paperswithcode.com/dataset/wmt-2016
+enwik8,2013-08-04,1,36,36,36,36.0,26,26.0,26.0,26.0,1,{'Language Modelling'},
+IWSLT2014 German-English,2016-07-24,1,25,25,25,25.0,23,23.0,23.0,23.0,1,{'Machine Translation'},
+AG News,2015-09-04,2,25,3,22,12.5,23,1.0,22.0,11.5,3,"{'Short Text Clustering', 'Semi-Supervised Text Classification', 'Text Classification'}",https://paperswithcode.com/dataset/ag-news
+WebNLG,2017-06-07,6,38,1,22,6.333333333333333,23,1.0,17.0,4.333333333333333,6,"{'Unsupervised semantic parsing', 'Unsupervised KG-to-text', 'Graph-to-Sequence', 'KG-to-Text Generation', 'Data-to-Text Generation', 'Relation Extraction'}",https://paperswithcode.com/dataset/webnlg
+SuperGLUE,2018-10-11,8,63,1,26,7.875,22,1.0,20.0,5.25,5,"{'Question Answering', 'Common Sense Reasoning', 'Coreference Resolution', 'Word Sense Disambiguation', 'Natural Language Inference'}",https://paperswithcode.com/dataset/superglue
+TACRED,2017-09-01,1,28,28,28,28.0,22,22.0,22.0,22.0,2,"{'Relation Extraction', 'Question Answering'}",https://paperswithcode.com/dataset/tacred
+IEMOCAP,2017-07-01,1,29,29,29,29.0,22,22.0,22.0,22.0,3,"{'Multimodal Emotion Recognition', 'Speech Emotion Recognition', 'Emotion Recognition in Conversation'}",https://paperswithcode.com/dataset/iemocap
+ACE 2004,2014-06-01,2,26,4,22,13.0,21,3.0,18.0,10.5,5,"{'Named Entity Recognition', 'Entity Disambiguation', 'Nested Named Entity Recognition', 'Nested Mention Recognition', 'Relation Extraction'}",https://paperswithcode.com/dataset/ace-2004
+UDC,2015-06-30,6,25,1,20,4.166666666666667,21,1.0,20.0,4.166666666666667,3,"{'Answer Selection', 'Dialog Generation', 'Conversational Response Selection'}",https://paperswithcode.com/dataset/ubuntu-dialogue-corpus
+VisDial,2016-05-31,5,80,1,57,16.0,20,1.0,15.0,6.4,2,"{'Visual Dialog', 'Common Sense Reasoning'}",https://paperswithcode.com/dataset/visdial
+DBpedia,2015-09-04,1,21,21,21,21.0,20,20.0,20.0,20.0,1,{'Text Classification'},https://paperswithcode.com/dataset/dbpedia
+Natural Questions,2017-03-31,4,27,1,11,6.75,19,1.0,11.0,6.5,3,"{'Question Answering', 'Question Generation', 'Open-Domain Question Answering'}",https://paperswithcode.com/dataset/natural-questions
+Yelp Binary classification,2015-09-04,1,20,20,20,20.0,18,18.0,18.0,18.0,1,{'Sentiment Analysis'},
+HotpotQA,2018-09-25,2,62,1,61,31.0,18,1.0,17.0,9.0,1,{'Question Answering'},https://paperswithcode.com/dataset/hotpotqa
+NYT,2012-07-01,1,18,18,18,18.0,18,18.0,18.0,18.0,4,"{'Relation Extraction', 'Relationship extraction using distant supervision', 'Document Dating', 'Topic modeling'}",
+SemEval-2010 Task 8,2014-08-01,1,19,19,19,19.0,18,18.0,18.0,18.0,1,{'Relation Extraction'},https://paperswithcode.com/dataset/semeval-2010-task-8
+DocRED,2019-06-14,1,38,38,38,38.0,18,18.0,18.0,18.0,2,"{'Relation Extraction', 'Joint Entity and Relation Extraction'}",https://paperswithcode.com/dataset/docred
+GENIA,2018-06-01,4,26,1,19,6.5,18,1.0,16.0,5.25,4,"{'Event Extraction', 'Nested Named Entity Recognition', 'Named Entity Recognition', 'Dependency Parsing'}",https://paperswithcode.com/dataset/genia
+MELD,2017-07-01,1,19,19,19,19.0,17,17.0,17.0,17.0,1,{'Emotion Recognition in Conversation'},https://paperswithcode.com/dataset/meld
+TurkCorpus,2012-07-01,1,23,23,23,23.0,17,17.0,17.0,17.0,1,{'Text Simplification'},https://paperswithcode.com/dataset/turkcorpus
+WNUT 2017,2017-09-01,2,17,4,13,8.5,16,4.0,12.0,8.0,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/wnut-2017-emerging-and-rare-entity
+TREC-6,2015-04-05,1,16,16,16,16.0,16,16.0,16.0,16.0,1,{'Text Classification'},
+Text8,2016-02-26,1,21,21,21,21.0,16,16.0,16.0,16.0,1,{'Language Modelling'},
+WMT 2016 News,2016-06-09,5,41,1,19,8.2,16,1.0,11.0,5.0,2,"{'Machine Translation', 'Unsupervised Machine Translation'}",https://paperswithcode.com/dataset/wmt-2016-news
+IWSLT2015 German-English,2014-09-01,1,15,15,15,15.0,15,15.0,15.0,15.0,1,{'Machine Translation'},
+BC5CDR,2018-09-21,3,22,5,11,7.333333333333333,15,5.0,9.0,6.666666666666667,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/bc5cdr
+Billion Word Benchmark,2013-12-11,1,23,23,23,23.0,15,15.0,15.0,15.0,2,"{'Language Modelling', 'Text Generation'}",https://paperswithcode.com/dataset/billion-word-benchmark
+20NEWS,2015-08-17,1,17,17,17,17.0,15,15.0,15.0,15.0,2,"{'Machine Translation', 'Text Classification'}",
+MR,2017-02-05,1,16,16,16,16.0,15,15.0,15.0,15.0,2,"{'Sentiment Analysis', 'Text Classification'}",https://paperswithcode.com/dataset/mr
+Universal Dependencies,2016-02-04,3,15,3,7,5.0,15,3.0,7.0,5.0,4,"{'Language Identification', 'Cross-lingual zero-shot dependency parsing', 'Part-Of-Speech Tagging', 'Dependency Parsing'}",https://paperswithcode.com/dataset/universal-dependencies
+WikiQA,2014-05-16,1,19,19,19,19.0,15,15.0,15.0,15.0,1,{'Question Answering'},https://paperswithcode.com/dataset/wikiqa
+Yelp Fine-grained classification,2015-09-04,1,17,17,17,17.0,15,15.0,15.0,15.0,1,{'Sentiment Analysis'},
+DBP15K,2016-11-12,3,33,3,27,11.0,14,3.0,14.0,6.666666666666667,1,{'Entity Alignment'},https://paperswithcode.com/dataset/dbp15k
+Word Sense Disambiguation: a Unified Evaluation Framework and Empirical Comparison,2014-01-01,2,26,6,20,13.0,14,5.0,9.0,7.0,1,{'Word Sense Disambiguation'},https://paperswithcode.com/dataset/word-sense-disambiguation-a-unified
+TriviaQA,2017-05-08,2,22,8,14,11.0,14,1.0,13.0,7.0,3,"{'Question Answering', 'Question Generation', 'Open-Domain Question Answering'}",https://paperswithcode.com/dataset/triviaqa
+ATIS,2014-11-19,1,18,18,18,18.0,14,14.0,14.0,14.0,3,"{'Semantic Parsing', 'Intent Detection', 'Slot Filling'}",https://paperswithcode.com/dataset/atis
+CLEVR,2017-05-10,1,14,14,14,14.0,14,14.0,14.0,14.0,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/clevr
+MSRA,2015-09-01,1,18,18,18,18.0,14,14.0,14.0,14.0,3,"{'Chinese Word Segmentation', 'Cross-Lingual NER', 'Chinese Named Entity Recognition'}",
+AIDA CoNLL-YAGO,2011-07-01,1,18,18,18,18.0,14,14.0,14.0,14.0,2,"{'Entity Disambiguation', 'Entity Linking'}",https://paperswithcode.com/dataset/aida-conll-yago
+RACE,2018-03-24,1,16,16,16,16.0,14,14.0,14.0,14.0,3,"{'Question Answering', 'Reading Comprehension', 'Distractor Generation'}",https://paperswithcode.com/dataset/race
+Weibo NER,2018-05-05,1,14,14,14,14.0,13,13.0,13.0,13.0,2,"{'Named Entity Recognition', 'Chinese Named Entity Recognition'}",https://paperswithcode.com/dataset/weibo-ner
+SearchQA,2016-03-04,1,14,14,14,14.0,13,13.0,13.0,13.0,1,{'Open-Domain Question Answering'},https://paperswithcode.com/dataset/searchqa
+CoNLL-2012,2017-07-21,1,18,18,18,18.0,12,12.0,12.0,12.0,3,"{'Coreference Resolution', 'Predicate Detection', 'Semantic Role Labeling (predicted predicates)'}",https://paperswithcode.com/dataset/conll-2012-1
+DUC 2004,2015-09-02,2,15,1,14,7.5,12,1.0,11.0,6.0,3,"{'Multi-Document Summarization', 'Text Summarization', 'Extractive Text Summarization'}",https://paperswithcode.com/dataset/duc-2004
+NCBI Disease,2018-10-11,2,14,1,13,7.0,12,1.0,11.0,6.0,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/ncbi-disease-1
+Pubmed,2017-04-14,2,17,2,15,8.5,12,2.0,10.0,6.0,2,"{'Text Summarization', 'Sentence Classification'}",https://paperswithcode.com/dataset/pubmed
+bAbi,2015-03-31,1,13,13,13,13.0,12,12.0,12.0,12.0,1,{'Question Answering'},
+SUBJ,2015-04-20,1,14,14,14,14.0,12,12.0,12.0,12.0,1,{'Subjectivity Analysis'},https://paperswithcode.com/dataset/subj
+RST-DT,2009-08-02,1,12,12,12,12.0,12,12.0,12.0,12.0,1,{'Discourse Parsing'},https://paperswithcode.com/dataset/rst-dt
+QUASAR-T,2016-06-05,2,13,6,7,6.5,11,6.0,7.0,6.5,2,"{'Question Answering', 'Open-Domain Question Answering'}",https://paperswithcode.com/dataset/quasar-t
+Newsela,2012-07-01,1,13,13,13,13.0,11,11.0,11.0,11.0,1,{'Text Simplification'},https://paperswithcode.com/dataset/newsela
+CommonsenseQA,2018-11-02,1,12,12,12,12.0,11,11.0,11.0,11.0,2,"{'Question Answering', 'Common Sense Reasoning'}",https://paperswithcode.com/dataset/commonsenseqa
+CoNLL04,2014-10-01,1,11,11,11,11.0,11,11.0,11.0,11.0,2,"{'Relation Extraction', 'Cross-Domain Named Entity Recognition'}",
+E2E,2017-12-19,2,15,6,9,7.5,11,3.0,8.0,5.5,1,{'Data-to-Text Generation'},https://paperswithcode.com/dataset/e2e
+Hutter Prize,2016-07-12,1,17,17,17,17.0,11,11.0,11.0,11.0,1,{'Language Modelling'},https://paperswithcode.com/dataset/hutter-prize
+arXiv,2017-04-14,1,17,17,17,17.0,11,11.0,11.0,11.0,3,"{'Text Summarization', 'Topic modeling', 'Text Classification'}",https://paperswithcode.com/dataset/arxiv
+TREC Robust04,2017-04-28,1,21,21,21,21.0,11,11.0,11.0,11.0,1,{'Ad-Hoc Information Retrieval'},
+LDC2017T10,2017-05-28,1,11,11,11,11.0,11,11.0,11.0,11.0,1,{'AMR Parsing'},https://paperswithcode.com/dataset/ldc2017t10
+LDC2014T12,2015-07-01,1,11,11,11,11.0,11,11.0,11.0,11.0,1,{'AMR Parsing'},
+COCO Captions,2016-09-18,2,12,1,11,6.0,11,1.0,10.0,5.5,3,"{'Concept-To-Text Generation', 'Image Captioning', 'Text Generation'}",https://paperswithcode.com/dataset/coco-captions
+OntoNotes 4.0,2018-05-05,1,11,11,11,11.0,10,10.0,10.0,10.0,1,{'Chinese Named Entity Recognition'},https://paperswithcode.com/dataset/ontonotes-4-0
+SICK,2015-02-28,1,17,17,17,17.0,10,10.0,10.0,10.0,3,"{'Semantic Similarity Estimation', 'Semantic Textual Similarity', 'Natural Language Inference'}",https://paperswithcode.com/dataset/sick
+SemEval,2017-04-20,1,12,12,12,12.0,10,10.0,10.0,10.0,3,"{'Aspect Term Extraction and Sentiment Classification', 'Sentiment Analysis', 'Aspect Sentiment Triplet Extraction'}",
+SemEval 2013,2013-06-01,2,17,6,11,8.5,10,4.0,6.0,5.0,2,"{'Word Sense Induction', 'Word Sense Disambiguation'}",https://paperswithcode.com/dataset/semeval-2013
+XNLI,2017-05-05,7,23,3,4,3.2857142857142856,10,2.0,3.0,2.4285714285714284,2,"{'Cross-Lingual Natural Language Inference', 'Natural Language Inference'}",https://paperswithcode.com/dataset/xnli
+CUB-200-2011,2016-10-08,2,13,2,11,6.5,10,1.0,9.0,5.0,3,"{'Text-to-Image Generation', 'Multimodal Deep Learning', 'Document Text Classification'}",https://paperswithcode.com/dataset/cub-200-2011
+Yahoo! Answers,2016-07-06,1,10,10,10,10.0,10,10.0,10.0,10.0,1,{'Text Classification'},
+Multi30K,2017-01-23,1,11,11,11,11.0,10,10.0,10.0,10.0,1,{'Multimodal Machine Translation'},
+GQA,2017-07-25,4,126,2,115,31.5,9,1.0,5.0,3.25,2,"{'Graph Question Answering', 'Visual Question Answering'}",https://paperswithcode.com/dataset/gqa
+IWSLT2015 English-Vietnamese,2015-12-08,1,9,9,9,9.0,9,9.0,9.0,9.0,1,{'Machine Translation'},
+JFLEG,2018-01-26,4,12,2,5,3.0,9,1.0,5.0,2.75,2,"{'Grammatical Error Detection', 'Grammatical Error Correction'}",https://paperswithcode.com/dataset/jfleg
+WikiHop,2017-10-17,1,9,9,9,9.0,9,9.0,9.0,9.0,2,"{'Question Answering', 'Paraphrase Identification'}",https://paperswithcode.com/dataset/wikihop
+ChemProt,2019-01-25,1,10,10,10,10.0,9,9.0,9.0,9.0,1,{'Relation Extraction'},https://paperswithcode.com/dataset/chemprot
+Reuters-21578,2019-02-23,1,10,10,10,10.0,9,9.0,9.0,9.0,2,"{'Document Classification', 'Multi-Label Text Classification'}",https://paperswithcode.com/dataset/reuters-21578
+DDI,2017-10-25,2,9,2,7,4.5,9,2.0,7.0,4.5,3,"{'Relation Extraction', 'Biomedical Relation Extraction', 'Drug–drug Interaction Extraction'}",https://paperswithcode.com/dataset/ddi
+MultiWOZ,2019-05-30,2,12,4,8,6.0,9,4.0,7.0,5.5,2,"{'Data-to-Text Generation', 'End-To-End Dialogue Modelling'}",https://paperswithcode.com/dataset/multiwoz
+Switchboard-1 Corpus,2016-03-12,1,9,9,9,9.0,9,9.0,9.0,9.0,1,{'Dialog Act Classification'},https://paperswithcode.com/dataset/switchboard-1-corpus
+DailyDialog,2018-08-27,1,10,10,10,10.0,9,9.0,9.0,9.0,2,"{'Emotion Recognition in Conversation', 'Text Generation'}",https://paperswithcode.com/dataset/dailydialog
+SemEval-2018 Task 9: Hypernym Discovery,2016-11-01,3,23,7,8,7.666666666666667,9,6.0,7.0,6.666666666666667,1,{'Hypernym Discovery'},https://paperswithcode.com/dataset/semeval-2018-task-9-hypernym-discovery
+Ohsumed,2017-07-06,1,10,10,10,10.0,9,9.0,9.0,9.0,1,{'Text Classification'},https://paperswithcode.com/dataset/ohsumed
+DROP,2019-03-01,1,10,10,10,10.0,9,9.0,9.0,9.0,1,{'Question Answering'},https://paperswithcode.com/dataset/drop
+PWKP / WikiSmall,2012-07-01,1,11,11,11,11.0,9,9.0,9.0,9.0,1,{'Text Simplification'},
+Resume NER,2018-05-05,1,10,10,10,10.0,9,9.0,9.0,9.0,1,{'Chinese Named Entity Recognition'},https://paperswithcode.com/dataset/resume-ner
+SciERC,2014-09-12,1,15,15,15,15.0,9,9.0,9.0,9.0,3,"{'Relation Extraction', 'Joint Entity and Relation Extraction', 'Named Entity Recognition'}",https://paperswithcode.com/dataset/scierc
+ROCStories,2016-06-01,2,9,2,7,4.5,8,2.0,6.0,4.0,2,"{'Question Answering', 'Emotion Classification'}",https://paperswithcode.com/dataset/rocstories
+CoNLL-2014 Shared Task: Grammatical Error Correction,2018-01-26,2,12,2,10,6.0,8,2.0,8.0,5.0,1,{'Grammatical Error Correction'},https://paperswithcode.com/dataset/conll-2014-shared-task-grammatical-error
+CoQA,2018-08-21,1,12,12,12,12.0,8,8.0,8.0,8.0,2,"{'Question Answering', 'Generative Question Answering'}",https://paperswithcode.com/dataset/coqa
+VQA-CP,2018-08-01,1,9,9,9,9.0,8,8.0,8.0,8.0,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/vqa-cp
+WSC,2018-06-07,1,12,12,12,12.0,8,8.0,8.0,8.0,2,"{'Coreference Resolution', 'Common Sense Reasoning'}",https://paperswithcode.com/dataset/wsc
+Amazon Review Full,2016-07-06,1,9,9,9,9.0,8,8.0,8.0,8.0,1,{'Sentiment Analysis'},
+SciTail,2017-12-30,1,9,9,9,9.0,8,8.0,8.0,8.0,1,{'Natural Language Inference'},https://paperswithcode.com/dataset/scitail
+Amazon Review Polarity,2016-07-06,1,9,9,9,9.0,8,8.0,8.0,8.0,1,{'Sentiment Analysis'},
+ASSET,2012-07-01,1,10,10,10,10.0,8,8.0,8.0,8.0,1,{'Text Simplification'},https://paperswithcode.com/dataset/asset
+SemEval 2010 Task 8,2012-07-01,1,11,11,11,11.0,8,8.0,8.0,8.0,2,"{'Keyword Extraction', 'Relation Classification'}",
+WI-LOCNESS,2019-06-10,1,9,9,9,9.0,8,8.0,8.0,8.0,1,{'Grammatical Error Correction'},https://paperswithcode.com/dataset/locness-corpus
+EmoContext,2019-03-30,1,8,8,8,8.0,8,8.0,8.0,8.0,1,{'Emotion Recognition in Conversation'},https://paperswithcode.com/dataset/emocontext
+JNLPBA,2019-01-25,1,10,10,10,10.0,8,8.0,8.0,8.0,2,"{'Relation Extraction', 'Named Entity Recognition'}",https://paperswithcode.com/dataset/jnlpba
+NarrativeQA,2016-11-05,1,9,9,9,9.0,8,8.0,8.0,8.0,1,{'Question Answering'},https://paperswithcode.com/dataset/narrativeqa
+Visual Question Answering,2015-11-07,2,13,6,7,6.5,8,6.0,7.0,6.5,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/visual-question-answering
+RCV1,2013-12-20,4,11,1,4,2.75,7,1.0,4.0,2.75,3,"{'Multi-Label Text Classification', 'Cross-Lingual Document Classification', 'Text Classification'}",https://paperswithcode.com/dataset/rcv1
+SemEval-2016 Task 5 Subtask 1,2018-05-11,1,7,7,7,7.0,7,7.0,7.0,7.0,2,"{'Aspect Extraction', 'Aspect-Based Sentiment Analysis'}",
+Multimodal Opinionlevel Sentiment Intensity,2017-07-01,1,7,7,7,7.0,7,7.0,7.0,7.0,1,{'Multimodal Sentiment Analysis'},https://paperswithcode.com/dataset/multimodal-opinionlevel-sentiment-intensity
+Cora,2014-03-26,1,7,7,7,7.0,7,7.0,7.0,7.0,1,{'Document Classification'},https://paperswithcode.com/dataset/cora
+MS MARCO,2016-11-05,1,7,7,7,7.0,7,7.0,7.0,7.0,2,"{'Question Answering', 'Passage Re-Ranking'}",https://paperswithcode.com/dataset/ms-marco
+ACL ARC,2013-06-01,1,8,8,8,8.0,7,7.0,7.0,7.0,2,"{'Citation Intent Classification', 'Sentence Classification'}",https://paperswithcode.com/dataset/acl-arc-1
+ADE Corpus,2018-04-20,1,8,8,8,8.0,7,7.0,7.0,7.0,1,{'Relation Extraction'},
+SEMAINE,2017-07-01,1,7,7,7,7.0,7,7.0,7.0,7.0,1,{'Emotion Recognition in Conversation'},https://paperswithcode.com/dataset/semaine
+DialogRE,2020-04-17,1,8,8,8,8.0,7,7.0,7.0,7.0,1,{'Dialog Relation Extraction'},https://paperswithcode.com/dataset/dialogre
+MPQA Opinion Corpus,2017-11-02,1,7,7,7,7.0,7,7.0,7.0,7.0,3,"{'Fine-Grained Opinion Analysis', 'Document Classification', 'Sentiment Analysis'}",https://paperswithcode.com/dataset/mpqa-opinion-corpus
+TrecQA,2014-12-04,1,7,7,7,7.0,7,7.0,7.0,7.0,1,{'Question Answering'},https://paperswithcode.com/dataset/trecqa
+NYT Corpus,2012-07-01,1,7,7,7,7.0,7,7.0,7.0,7.0,1,{'Relation Extraction'},
+XSum,2018-08-27,2,13,2,11,6.5,7,2.0,5.0,3.5,2,"{'Document Summarization', 'Text Summarization'}",https://paperswithcode.com/dataset/xsum
+Yelp-5,2019-01-20,1,7,7,7,7.0,7,7.0,7.0,7.0,1,{'Text Classification'},
+R8,2018-06-08,1,9,9,9,9.0,7,7.0,7.0,7.0,1,{'Text Classification'},
+SemEval 2014 Task 4 Subtask 1+2,2018-11-13,1,7,7,7,7.0,7,7.0,7.0,7.0,1,{'Sentiment Analysis'},
+FCE,2016-07-20,1,7,7,7,7.0,7,7.0,7.0,7.0,1,{'Grammatical Error Detection'},https://paperswithcode.com/dataset/fce
+CoNLL++,2016-03-04,2,8,1,7,4.0,7,1.0,6.0,3.5,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/conll
+CoNLL 2000,2017-11-14,1,9,9,9,9.0,7,7.0,7.0,7.0,2,"{'Chunking', 'Named Entity Recognition'}",
+WikiSQL,2017-08-31,1,11,11,11,11.0,7,7.0,7.0,7.0,2,"{'Semantic Parsing', 'Code Generation'}",https://paperswithcode.com/dataset/wikisql
+IWSLT2015 English-German,2016-07-24,1,7,7,7,7.0,7,7.0,7.0,7.0,1,{'Machine Translation'},
+CR,2017-12-01,1,7,7,7,7.0,7,7.0,7.0,7.0,1,{'Sentiment Analysis'},
+KVRET,2017-05-15,1,6,6,6,6.0,6,6.0,6.0,6.0,1,{'Task-Oriented Dialog Systems'},
+Multi-Domain Sentiment Dataset v2.0,2015-05-28,1,6,6,6,6.0,6,6.0,6.0,6.0,1,{'Sentiment Analysis'},https://paperswithcode.com/dataset/multi-domain-sentiment-dataset-v2-0
+SentEval,2013-10-01,1,6,6,6,6.0,6,6.0,6.0,6.0,1,{'Semantic Textual Similarity'},https://paperswithcode.com/dataset/senteval
+Multi-Modal CelebA-HQ,2017-11-28,1,6,6,6,6.0,6,6.0,6.0,6.0,1,{'Text-to-Image Generation'},https://paperswithcode.com/dataset/multi-modal-celeba-hq-1
+Sentence Compression,2015-09-01,1,6,6,6,6.0,6,6.0,6.0,6.0,1,{'Sentence Compression'},https://paperswithcode.com/dataset/sentence-compression
+2010 i2b2/VA,2011-05-12,1,6,6,6,6.0,6,6.0,6.0,6.0,2,"{'Clinical Assertion Status Detection', 'Clinical Concept Extraction'}",https://paperswithcode.com/dataset/2010-i2b2-va
+SemEval 2018 Task 10,2018-04-30,1,6,6,6,6.0,6,6.0,6.0,6.0,1,{'Relation Extraction'},
+CoNLL-2014 A1,2016-07-20,1,8,8,8,8.0,6,6.0,6.0,6.0,1,{'Grammatical Error Detection'},
+CBT,2016-03-04,1,9,9,9,9.0,6,6.0,6.0,6.0,1,{'Question Answering'},https://paperswithcode.com/dataset/cbt
+LDC2015E86,2016-06-01,1,6,6,6,6.0,6,6.0,6.0,6.0,1,{'AMR Parsing'},
+SemEval 2015 Task 12,2017-10-18,1,8,8,8,8.0,6,6.0,6.0,6.0,4,"{'Aspect Extraction', 'Extract Aspect', 'Aspect-Based Sentiment Analysis', 'Extract aspect-polarity tuple'}",
+CoNLL 2005,2017-07-01,1,16,16,16,16.0,6,6.0,6.0,6.0,3,"{'Predicate Detection', 'Semantic Role Labeling', 'Semantic Role Labeling (predicted predicates)'}",
+Wizard-of-Oz,2016-06-12,1,7,7,7,7.0,6,6.0,6.0,6.0,1,{'Dialog State Tracking'},https://paperswithcode.com/dataset/wizard-of-oz
+MRDA,2017-09-13,1,6,6,6,6.0,6,6.0,6.0,6.0,1,{'Dialog Act Classification'},https://paperswithcode.com/dataset/mrda
+CoNLL-2014 A2,2016-07-20,1,8,8,8,8.0,6,6.0,6.0,6.0,1,{'Grammatical Error Detection'},
+MSVD,2017-04-14,1,6,6,6,6.0,6,6.0,6.0,6.0,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/msvd
+CoNLL Spanish,2018-10-08,1,9,9,9,9.0,6,6.0,6.0,6.0,1,{'Cross-Lingual NER'},
+CoNLL Dutch,2018-10-08,1,9,9,9,9.0,6,6.0,6.0,6.0,1,{'Cross-Lingual NER'},
+Google,2015-09-01,1,6,6,6,6.0,6,6.0,6.0,6.0,1,{'Sentence Compression'},https://paperswithcode.com/dataset/google
+PMB-2.2.0,2018-10-30,1,6,6,6,6.0,6,6.0,6.0,6.0,1,{'DRS Parsing'},
+MSR-VTT,2017-04-14,1,6,6,6,6.0,6,6.0,6.0,6.0,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/msr-vtt
+QUASAR,2016-06-05,1,6,6,6,6.0,6,6.0,6.0,6.0,1,{'Open-Domain Question Answering'},https://paperswithcode.com/dataset/quasar-1
+CoNLL German,2018-10-08,1,9,9,9,9.0,6,6.0,6.0,6.0,1,{'Cross-Lingual NER'},
+Semantic Textual Similarity (2012 - 2016),2019-08-27,5,35,7,7,7.0,6,6.0,6.0,6.0,1,{'Semantic Textual Similarity'},https://paperswithcode.com/dataset/semantic-textual-similarity-2012-2016
+COVID-19 Twitter Chatter Dataset,2015-09-01,1,6,6,6,6.0,5,5.0,5.0,5.0,4,"{'Text Clustering', 'Sentiment Analysis', 'Topic modeling', 'Text Classification'}",https://paperswithcode.com/dataset/covid-19-twitter-chatter-dataset
+EmoryNLP,2019-09-24,1,7,7,7,7.0,5,5.0,5.0,5.0,1,{'Emotion Recognition in Conversation'},https://paperswithcode.com/dataset/emorynlp
+MuST-C,2020-07-01,1,5,5,5,5.0,5,5.0,5.0,5.0,1,{'Speech-to-Text Translation'},https://paperswithcode.com/dataset/must-c
+MedNLI,2019-06-13,1,5,5,5,5.0,5,5.0,5.0,5.0,1,{'Natural Language Inference'},https://paperswithcode.com/dataset/mednli
+Flickr30K Entities,2015-11-12,2,6,1,5,3.0,5,1.0,5.0,3.0,1,{'Phrase Grounding'},https://paperswithcode.com/dataset/flickr30k-entities
+Reddit Corpus,2018-02-15,1,6,6,6,6.0,5,5.0,5.0,5.0,1,{'Conversational Response Selection'},https://paperswithcode.com/dataset/reddit-corpus
+ECPE,2019-06-04,1,5,5,5,5.0,5,5.0,5.0,5.0,1,{'Emotion-Cause Pair Extraction'},
+NewsQA,2017-03-14,1,5,5,5,5.0,5,5.0,5.0,5.0,1,{'Question Answering'},https://paperswithcode.com/dataset/newsqa
+New York Times Annotated Corpus,2015-09-01,1,6,6,6,6.0,5,5.0,5.0,5.0,1,{'Relationship extraction using distant supervision'},https://paperswithcode.com/dataset/new-york-times-annotated-corpus
+XTREME,2020-05-26,1,14,14,14,14.0,5,5.0,5.0,5.0,1,{'Zero-Shot Cross-Lingual Transfer'},https://paperswithcode.com/dataset/xtreme
+SemEval 2010 WSI,2014-08-01,1,5,5,5,5.0,5,5.0,5.0,5.0,1,{'Word Sense Induction'},
+CoNaLa,2018-10-05,1,7,7,7,7.0,5,5.0,5.0,5.0,1,{'Code Generation'},https://paperswithcode.com/dataset/conala
+ANLI,2019-06-19,1,5,5,5,5.0,5,5.0,5.0,5.0,1,{'Natural Language Inference'},https://paperswithcode.com/dataset/anli
+Yelp Review Dataset (Small),2017-05-26,1,7,7,7,7.0,5,5.0,5.0,5.0,1,{'Text Style Transfer'},
+MSNBC,2017-04-17,1,7,7,7,7.0,5,5.0,5.0,5.0,2,"{'Entity Disambiguation', 'Entity Linking'}",
+R52,2018-09-15,1,6,6,6,6.0,5,5.0,5.0,5.0,1,{'Text Classification'},
+SNIPS,2018-06-01,1,7,7,7,7.0,5,5.0,5.0,5.0,1,{'Intent Detection'},https://paperswithcode.com/dataset/snips
+WebQuestions,2014-04-16,1,5,5,5,5.0,5,5.0,5.0,5.0,2,"{'Question Answering', 'KG-to-Text Generation'}",https://paperswithcode.com/dataset/webquestions
+SemEvalCQA,2015-03-11,1,5,5,5,5.0,5,5.0,5.0,5.0,1,{'Question Answering'},
+CCGbank,2016-06-01,1,6,6,6,6.0,5,5.0,5.0,5.0,1,{'Combinatory Categorical Grammar (CCG) Supertagging'},https://paperswithcode.com/dataset/ccgbank
+Arabic Text Diacritization,2019-04-25,1,6,6,6,6.0,5,5.0,5.0,5.0,1,{'Arabic Text Diacritization'},https://paperswithcode.com/dataset/arabic-text-diacritization
+WNUT 2016 NER,2016-12-01,1,5,5,5,5.0,5,5.0,5.0,5.0,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/wnut-2016-ner
+CLEVR-Humans,2017-05-10,1,5,5,5,5.0,5,5.0,5.0,5.0,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/clevr-humans
+PERSONA-CHAT,2014-09-01,1,5,5,5,5.0,5,5.0,5.0,5.0,1,{'Dialog Generation'},https://paperswithcode.com/dataset/persona-chat-1
+VCR,2019-08-09,6,21,2,5,3.5,4,1.0,4.0,2.6666666666666665,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/vcr
+WMT 2015,2015-08-31,2,7,1,6,3.5,4,1.0,4.0,2.5,1,{'Machine Translation'},https://paperswithcode.com/dataset/wmt-2015
+Amazon-5,2017-01-23,1,4,4,4,4.0,4,4.0,4.0,4.0,2,"{'Dialog Generation', 'Text Classification'}",
+FNC-1,2017-07-11,1,8,8,8,8.0,4,4.0,4.0,4.0,1,{'Fake News Detection'},https://paperswithcode.com/dataset/fnc-1
+PSD,2018-07-03,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'Semantic Dependency Parsing'},
+Twitter,2019-02-25,1,6,6,6,6.0,4,4.0,4.0,4.0,2,"{'Document Classification', 'Sentiment Analysis'}",
+Re-TACRED,2017-09-01,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'Relation Extraction'},https://paperswithcode.com/dataset/re-tacred
+LDC2014T12:,2016-08-01,1,5,5,5,5.0,4,4.0,4.0,4.0,1,{'AMR Parsing'},
+PAS,2018-07-03,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'Semantic Dependency Parsing'},
+SensEval 3 Task 1,2016-03-22,1,11,11,11,11.0,4,4.0,4.0,4.0,1,{'Word Sense Disambiguation'},
+LAMBADA,2016-10-26,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'Language Modelling'},https://paperswithcode.com/dataset/lambada
+Yelp-2,2019-04-29,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'Text Classification'},
+Sogou News,2016-07-06,1,4,4,4,4.0,4,4.0,4.0,4.0,2,"{'Sentiment Analysis', 'Text Classification'}",
+irc-disentanglement,2008-06-01,3,11,3,5,3.6666666666666665,4,3.0,3.0,3.0,1,{'Conversation Disentanglement'},https://paperswithcode.com/dataset/irc-disentanglement
+PHYRE,2019-08-15,2,8,4,4,4.0,4,4.0,4.0,4.0,1,{'Visual Reasoning'},https://paperswithcode.com/dataset/phyre
+KILT,2020-09-04,11,130,8,26,11.818181818181818,4,1.0,2.0,1.5454545454545454,5,"{'Fact Verification', 'Slot Filling', 'Entity Linking', 'Open-Domain Dialog', 'Open-Domain Question Answering'}",https://paperswithcode.com/dataset/kilt
+Social media,2013-06-01,1,4,4,4,4.0,4,4.0,4.0,4.0,2,"{'Fake News Detection', 'Part-Of-Speech Tagging'}",
+SensEval 2,2016-03-22,1,11,11,11,11.0,4,4.0,4.0,4.0,1,{'Word Sense Disambiguation'},
+SensEval 3 Lexical Sample,2015-05-01,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'Word Sense Disambiguation'},
+BBCSport,2019-04-03,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'Document Classification'},
+RotoWire,2017-07-25,4,16,4,4,4.0,4,4.0,4.0,4.0,1,{'Data-to-Text Generation'},https://paperswithcode.com/dataset/rotowire
+DeepFix,2018-01-31,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'Program Repair'},https://paperswithcode.com/dataset/deepfix
+SemEval 2007 Task 7,2016-03-22,1,9,9,9,9.0,4,4.0,4.0,4.0,1,{'Word Sense Disambiguation'},
+MLDoc,2018-05-24,8,35,1,6,4.375,4,1.0,4.0,3.375,1,{'Cross-Lingual Document Classification'},https://paperswithcode.com/dataset/mldoc
+DSTC7 Task 1,2018-12-03,1,5,5,5,5.0,4,4.0,4.0,4.0,1,{'Conversational Response Selection'},https://paperswithcode.com/dataset/dstc7-task-1
+NLVR,2019-08-09,3,7,1,3,2.3333333333333335,4,1.0,3.0,2.3333333333333335,1,{'Visual Reasoning'},https://paperswithcode.com/dataset/nlvr
+DM,2018-07-03,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'Semantic Dependency Parsing'},
+SPIDER,2018-09-24,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'Semantic Parsing'},https://paperswithcode.com/dataset/spider-1
+AAPD,2019-04-17,1,4,4,4,4.0,4,4.0,4.0,4.0,2,"{'Document Classification', 'Multi-Label Text Classification'}",
+CoNaLa-Ext,2018-10-05,1,6,6,6,6.0,4,4.0,4.0,4.0,1,{'Code Generation'},https://paperswithcode.com/dataset/conala-ext
+CMU-MOSEI,2018-07-01,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'Multimodal Sentiment Analysis'},https://paperswithcode.com/dataset/cmu-mosei
+TAC 2010,2016-01-06,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'Entity Disambiguation'},https://paperswithcode.com/dataset/tac-2010
+Django,2016-03-22,1,5,5,5,5.0,4,4.0,4.0,4.0,1,{'Code Generation'},https://paperswithcode.com/dataset/django
+CoNLL 2002,2019-08-19,2,10,5,5,5.0,4,4.0,4.0,4.0,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/conll-2002
+WebQuestionsSP,2016-08-01,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'Semantic Parsing'},https://paperswithcode.com/dataset/webquestionssp
+SUTD-TrafficQA,2015-05-08,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'Video Question Answering'},https://paperswithcode.com/dataset/trafficqa
+SemEval 2007 Task 17,2016-03-22,1,9,9,9,9.0,4,4.0,4.0,4.0,1,{'Word Sense Disambiguation'},
+WeeBit (Readability Assessment),2019-06-18,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'Text Classification'},
+WiC-TSV,2019-08-20,1,10,10,10,10.0,4,4.0,4.0,4.0,2,"{'Entity Linking', 'Word Sense Disambiguation'}",https://paperswithcode.com/dataset/wic-tsv
+SWAG,2018-08-16,1,6,6,6,6.0,4,4.0,4.0,4.0,1,{'Common Sense Reasoning'},https://paperswithcode.com/dataset/swag
+SciCite,2018-01-01,2,10,2,8,5.0,4,1.0,4.0,2.5,2,"{'Citation Intent Classification', 'Sentence Classification'}",https://paperswithcode.com/dataset/scicite
+Dialogue State Tracking Challenge,2016-06-12,1,5,5,5,5.0,4,4.0,4.0,4.0,1,{'Dialog State Tracking'},https://paperswithcode.com/dataset/dialogue-state-tracking-challenge
+Sentihood,2016-10-12,1,5,5,5,5.0,4,4.0,4.0,4.0,1,{'Aspect-Based Sentiment Analysis'},
+SemEval 2018 Task 1E-c,2018-12-04,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'Emotion Classification'},
+Ritter,2017-09-01,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'Part-Of-Speech Tagging'},
+Reddit,2019-02-28,2,4,1,3,2.0,4,1.0,3.0,2.0,2,"{'Dialog Generation', 'Text Summarization'}",https://paperswithcode.com/dataset/reddit
+SemEval 2019 Task 1,2017-04-03,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'UCCA Parsing'},
+WMT 2017 Latvian-English,2017-09-01,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'Machine Translation'},
+TimeBank,2012-05-01,1,4,4,4,4.0,4,4.0,4.0,4.0,2,"{'Timex normalization', 'Temporal Information Extraction'}",https://paperswithcode.com/dataset/timebank
+LexNorm,2013-10-01,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'Lexical Normalization'},
+EMNLP2017 WMT,2016-09-18,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'Text Generation'},
+Amazon-2,2019-04-29,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'Text Classification'},
+OpenBookQA,2019-07-24,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Question Answering'},https://paperswithcode.com/dataset/openbookqa
+Math23K,2019-07-01,1,5,5,5,5.0,3,3.0,3.0,3.0,1,{'Math Word Problem Solving'},https://paperswithcode.com/dataset/math23k
+"PTG (czech, MRP 2020)",2020-10-12,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Semantic Parsing'},
+PDP60,2018-10-11,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Natural Language Understanding'},
+APW,2012-07-01,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Document Dating'},
+Multi-News,2018-08-31,3,9,3,3,3.0,3,1.0,2.0,1.3333333333333333,2,"{'Multi-Document Summarization', 'Cross-Document Language Modeling'}",https://paperswithcode.com/dataset/multi-news
+ShARe/CLEF eHealth corpus,2015-07-14,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Medical Named Entity Recognition'},
+Open Entity,2019-05-17,1,4,4,4,4.0,3,3.0,3.0,3.0,1,{'Entity Typing'},https://paperswithcode.com/dataset/open-entity-1
+ToTTo,2020-04-29,1,5,5,5,5.0,3,3.0,3.0,3.0,1,{'Data-to-Text Generation'},https://paperswithcode.com/dataset/totto
+PNT,2015-09-01,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Timex normalization'},https://paperswithcode.com/dataset/pnt
+PMB-3.0.0,2018-10-30,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'DRS Parsing'},
+LiDiRus,2020-10-22,1,22,22,22,22.0,3,3.0,3.0,3.0,1,{'Natural Language Inference'},https://paperswithcode.com/dataset/lidirus
+MIMIC-III,2018-02-07,1,3,3,3,3.0,3,3.0,3.0,3.0,2,"{'Multi-Label Text Classification', 'Multi-Label Classification Of Biomedical Texts'}",https://paperswithcode.com/dataset/mimic-iii
+Stackoverflow,2017-01-01,1,4,4,4,4.0,3,3.0,3.0,3.0,1,{'Short Text Clustering'},
+Amazon,2019-04-03,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Document Classification'},
+MRPC,2019-09-23,1,3,3,3,3.0,3,3.0,3.0,3.0,2,"{'Semantic Textual Similarity', 'Natural Language Inference'}",https://paperswithcode.com/dataset/mrpc
+PARus,2020-10-22,1,22,22,22,22.0,3,3.0,3.0,3.0,1,{'Common Sense Reasoning'},https://paperswithcode.com/dataset/parus
+ANIMAL,2019-06-15,1,6,6,6,6.0,3,3.0,3.0,3.0,1,{'Learning with noisy labels'},https://paperswithcode.com/dataset/animal
+Tweebank,2017-09-01,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Part-Of-Speech Tagging'},https://paperswithcode.com/dataset/tweebank
+LJSpeech,2018-09-19,1,5,5,5,5.0,3,3.0,3.0,3.0,1,{'Text-To-Speech Synthesis'},https://paperswithcode.com/dataset/ljspeech
+TweetEval,2020-05-20,1,7,7,7,7.0,3,3.0,3.0,3.0,1,{'Sentiment Analysis'},https://paperswithcode.com/dataset/tweeteval
+NYT-single,2017-06-07,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Relation Extraction'},
+TVQA,2019-04-25,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Video Question Answering'},https://paperswithcode.com/dataset/tvqa
+ARK,2013-06-01,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Part-Of-Speech Tagging'},
+WikiBio,2016-03-24,1,4,4,4,4.0,3,3.0,3.0,3.0,1,{'Table-to-Text Generation'},https://paperswithcode.com/dataset/wikibio
+TERRa,2020-10-22,1,22,22,22,22.0,3,3.0,3.0,3.0,1,{'Natural Language Inference'},https://paperswithcode.com/dataset/terra
+WNED-CWEB,2017-04-17,1,4,4,4,4.0,3,3.0,3.0,3.0,1,{'Entity Disambiguation'},
+DocVQA,2020-07-01,3,8,1,5,2.6666666666666665,3,1.0,3.0,1.6666666666666667,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/docvqa
+Visual7W,2016-06-06,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/visual7w
+RuCoS,2020-10-22,1,22,22,22,22.0,3,3.0,3.0,3.0,1,{'Common Sense Reasoning'},https://paperswithcode.com/dataset/rucos
+VizWiz,2019-04-18,6,88,1,50,14.666666666666666,3,3.0,3.0,3.0,2,"{'Image Captioning', 'Visual Question Answering'}",https://paperswithcode.com/dataset/vizwiz
+RWSD,2020-10-22,1,22,22,22,22.0,3,3.0,3.0,3.0,1,{'Common Sense Reasoning'},https://paperswithcode.com/dataset/rwsd
+WNED-WIKI,2017-04-17,1,4,4,4,4.0,3,3.0,3.0,3.0,1,{'Entity Disambiguation'},
+Yahoo Questions,2017-02-27,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Text Generation'},
+FiQA,2018-04-01,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Sentiment Analysis'},
+ECE,2017-08-18,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Emotion Cause Extraction'},
+CodeSearchNet,2020-02-19,7,53,7,8,7.571428571428571,3,2.0,2.0,2.0,2,"{'Source Code Summarization', 'Code Documentation Generation'}",https://paperswithcode.com/dataset/codesearchnet
+FSNS - Test,2017-02-13,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Optical Character Recognition'},
+FQuAD,2020-02-14,1,7,7,7,7.0,3,3.0,3.0,3.0,1,{'Question Answering'},https://paperswithcode.com/dataset/fquad
+ReClor,2020-02-11,1,22,22,22,22.0,3,3.0,3.0,3.0,2,"{'Reading Comprehension', 'Machine Reading Comprehension'}",https://paperswithcode.com/dataset/reclor
+ComplexWebQuestions,2019-07-01,2,5,1,4,2.5,3,1.0,2.0,1.5,2,"{'Semantic Parsing', 'Knowledge Base Question Answering'}",https://paperswithcode.com/dataset/complexwebquestions
+EMOTIC,2019-08-16,1,7,7,7,7.0,3,3.0,3.0,3.0,1,{'Emotion Recognition in Context'},https://paperswithcode.com/dataset/emotic
+SemEval 2015 Task 13,2018-05-21,1,6,6,6,6.0,3,3.0,3.0,3.0,1,{'Word Sense Disambiguation'},
+WMT 2018,2018-10-01,4,5,1,2,1.25,3,1.0,2.0,1.25,1,{'Machine Translation'},https://paperswithcode.com/dataset/wmt-2018
+SemEval 2014 Task 4 Sub Task 1,2016-03-22,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Aspect-Based Sentiment Analysis'},
+RuSentiment,2018-08-01,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Sentiment Analysis'},
+Visual Genome,2016-11-30,4,5,1,2,1.25,3,1.0,1.0,1.0,4,"{'Visual Question Answering', 'Phrase Grounding', 'Unsupervised KG-to-text', 'Unsupervised semantic parsing'}",https://paperswithcode.com/dataset/visual-genome
+QASent,2014-05-16,1,7,7,7,7.0,3,3.0,3.0,3.0,1,{'Question Answering'},
+MuSeRC,2020-10-22,1,22,22,22,22.0,3,3.0,3.0,3.0,1,{'Reading Comprehension'},https://paperswithcode.com/dataset/muserc
+DaNetQA,2020-10-22,1,22,22,22,22.0,3,3.0,3.0,3.0,1,{'Question Answering'},https://paperswithcode.com/dataset/danetqa
+Searchsnippets,2017-01-01,1,4,4,4,4.0,3,3.0,3.0,3.0,1,{'Short Text Clustering'},
+SemEval 2017 Task 4-A,2017-04-20,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Sentiment Analysis'},
+200k Short Texts for Humor Detection,2016-03-09,1,6,6,6,6.0,3,3.0,3.0,3.0,1,{'Humor Detection'},
+WikiHow,2018-10-18,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Text Summarization'},https://paperswithcode.com/dataset/wikihow
+HoC,2019-06-13,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Document Classification'},
+SensEval 2 Lexical Sample,2015-05-01,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Word Sense Disambiguation'},
+Q2Q Arabic Benchmark,2019-12-28,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Question Similarity'},
+EUR-Lex,2019-05-24,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Multi-Label Text Classification'},
+Chinese Poems,2016-09-18,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Text Generation'},
+WNUT-2020 Task 1,2020-10-27,1,4,4,4,4.0,3,3.0,3.0,3.0,2,"{'Relation Extraction', 'Named Entity Recognition'}",
+BIOSSES,2017-07-15,1,6,6,6,6.0,3,3.0,3.0,3.0,2,"{'Semantic Similarity Estimation', 'Sentence Embeddings For Biomedical Texts'}",https://paperswithcode.com/dataset/biosses
+CoLA,2019-09-23,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Linguistic Acceptability Assessment'},https://paperswithcode.com/dataset/cola
+RCB,2020-10-22,1,22,22,22,22.0,3,3.0,3.0,3.0,1,{'Natural Language Inference'},https://paperswithcode.com/dataset/rcb
+BUCC,2015-11-20,4,8,1,3,2.0,3,1.0,3.0,2.0,1,{'Cross-Lingual Bitext Mining'},https://paperswithcode.com/dataset/bucc
+WikiTableQuestions,2019-09-09,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Semantic Parsing'},https://paperswithcode.com/dataset/wikitablequestions
+GAP Coreference Dataset,2019-06-09,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Coreference Resolution'},https://paperswithcode.com/dataset/gap-coreference-dataset
+YahooCQA,2016-02-11,1,7,7,7,7.0,3,3.0,3.0,3.0,1,{'Question Answering'},
+SARC,2017-04-19,3,5,1,2,1.6666666666666667,2,1.0,2.0,1.6666666666666667,1,{'Sarcasm Detection'},https://paperswithcode.com/dataset/sarc
+SEED,2019-07-18,2,2,1,1,1.0,2,1.0,1.0,1.0,1,{'Emotion Recognition'},https://paperswithcode.com/dataset/seed-1
+ParTUT,2019-04-03,1,3,3,3,3.0,2,2.0,2.0,2.0,2,"{'Part-Of-Speech Tagging', 'Dependency Parsing'}",
+SFU Review Corpus,2019-11-11,1,3,3,3,3.0,2,2.0,2.0,2.0,2,"{'Speculation Scope Resolution', 'Negation Scope Resolution'}",
+nocaps,2020-09-28,8,77,2,17,9.625,2,1.0,2.0,1.5,1,{'Image Captioning'},https://paperswithcode.com/dataset/nocaps
+SPoC,2019-06-12,2,4,2,2,2.0,2,2.0,2.0,2.0,1,{'Program Synthesis'},https://paperswithcode.com/dataset/spoc
+"NLP-TDMS (Exp, arXiv only)",2019-06-21,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Scientific Results Extraction'},
+NEMO-Corpus,2020-07-30,4,7,1,3,1.75,2,1.0,2.0,1.5,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/nemo-corpus
+100 sleep nights of 8 caregivers,2017-05-22,1,2,2,2,2.0,2,2.0,2.0,2.0,2,"{'Code Generation', 'Visual Question Answering'}",
+en-fr,2017-10-11,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Word Alignment'},
+quora,2017-09-15,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Paraphrase Generation'},
+en-es,2017-10-11,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Word Alignment'},
+Multi-Rewrite,2020-08-04,1,3,3,3,3.0,2,2.0,2.0,2.0,1,{'Dialogue Rewriting'},
+_sem 2012 Shared Task: Sherlock Dataset,2019-11-11,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Negation Scope Resolution'},
+relational captioning dataset,2019-03-14,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Relational Captioning'},
+SR11Deep,2018-10-23,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Data-to-Text Generation'},
+AESLC,2019-06-08,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Abstractive Text Summarization'},https://paperswithcode.com/dataset/aeslc
+RumourEval,2017-04-24,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Stance Detection'},
+Species-800,2019-08-13,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/species-800
+AMR Bank,2020-10-12,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Semantic Parsing'},https://paperswithcode.com/dataset/amr-bank
+"PTG (english, MRP 2020)",2020-10-12,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Semantic Parsing'},
+PolyAI AmazonQA,2019-04-13,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Conversational Response Selection'},
+PubMedQA,2020-07-31,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Question Answering'},https://paperswithcode.com/dataset/pubmedqa
+"AMR (chinese, MRP 2020)",2020-10-12,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Semantic Parsing'},
+es-en,2017-10-11,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Word Alignment'},
+QuAC,2018-10-06,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Question Answering'},https://paperswithcode.com/dataset/quac
+fr-en,2017-10-11,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Word Alignment'},
+SemEval2017,2021-04-10,1,5,5,5,5.0,2,2.0,2.0,2.0,1,{'Keyword Extraction'},https://paperswithcode.com/dataset/semeval2017
+italki NLI,2017-09-01,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Native Language Identification'},https://paperswithcode.com/dataset/italki-nli
+Oxford 102 Flower,2016-12-10,1,3,3,3,3.0,2,2.0,2.0,2.0,1,{'Text-to-Image Generation'},https://paperswithcode.com/dataset/oxford-102-flower
+RUSSE,2020-10-29,1,22,22,22,22.0,2,2.0,2.0,2.0,1,{'Word Sense Disambiguation'},https://paperswithcode.com/dataset/russe
+SemEval-2016 Task 5 Subtask 1 (Turkish),2020-04-08,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Aspect Extraction'},
+NYT24,2018-11-09,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Relation Extraction'},
+SemEval-2016 Task 5 Subtask 1 (Spanish),2020-04-08,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Aspect Extraction'},
+SemEval-2016 Task 5 Subtask 1 (Russian),2020-04-08,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Aspect Extraction'},
+ReVerb Challenge,2014-04-16,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Question Answering'},https://paperswithcode.com/dataset/reverb-challenge
+Recipe,2019-04-03,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Document Classification'},
+SemEval-2016 Task 5 Subtask 1 (Dutch),2020-04-08,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Aspect Extraction'},
+ReferIt,2016-06-06,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Phrase Grounding'},
+OneStopEnglish (Readability Assessment),2018-06-01,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Text Classification'},
+AGENDA,2020-01-29,1,3,3,3,3.0,2,2.0,2.0,2.0,1,{'KG-to-Text Generation'},https://paperswithcode.com/dataset/agenda
+Sequoia Treebank,2019-04-03,1,3,3,3,3.0,2,2.0,2.0,2.0,2,"{'Part-Of-Speech Tagging', 'Dependency Parsing'}",
+AQUAINT,2019-09-01,1,3,3,3,3.0,2,2.0,2.0,2.0,1,{'Entity Disambiguation'},https://paperswithcode.com/dataset/aquaint
+Spoken Corpus,2019-04-03,1,3,3,3,3.0,2,2.0,2.0,2.0,2,"{'Part-Of-Speech Tagging', 'Dependency Parsing'}",
+NYT29,2018-11-09,1,3,3,3,3.0,2,2.0,2.0,2.0,1,{'Relation Extraction'},
+COMPLEXQUESTIONS,2017-07-14,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Question Answering'},
+LINNAEUS,2019-08-13,1,3,3,3,3.0,2,2.0,2.0,2.0,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/linnaeus
+TDIUC,2019-02-25,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/tdiuc
+HopeEDI,2020-12-01,1,6,6,6,6.0,2,2.0,2.0,2.0,3,"{'Hope Speech Detection for Malayalam', 'Hope Speech Detection for Tamil', 'Hope Speech Detection'}",https://paperswithcode.com/dataset/hopeedi
+FigLang 2020 Reddit Dataset,2020-06-01,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Sarcasm Detection'},
+FigLang 2020 Twitter Dataset,2020-06-01,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Sarcasm Detection'},
+Flickr30k,2018-11-28,2,2,1,1,1.0,2,1.0,1.0,1.0,2,"{'Image Captioning', 'Phrase Grounding'}",https://paperswithcode.com/dataset/flickr30k
+French GSD,2019-04-03,1,3,3,3,3.0,2,2.0,2.0,2.0,2,"{'Part-Of-Speech Tagging', 'Dependency Parsing'}",
+GAD,2020-07-31,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Relation Extraction'},https://paperswithcode.com/dataset/gad
+GCDC,2018-05-14,2,6,3,3,3.0,2,2.0,2.0,2.0,1,{'Coherence Evaluation'},https://paperswithcode.com/dataset/gcdc
+Yelp Review Dataset (Large),2020-04-08,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Text Style Transfer'},
+ViGGO,2019-10-26,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Data-to-Text Generation'},https://paperswithcode.com/dataset/viggo
+Geo,2018-05-12,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Semantic Parsing'},
+Grover-Mega,2019-05-29,1,5,5,5,5.0,2,2.0,2.0,2.0,1,{'Fake News Detection'},
+BEIR,2021-04-14,4,4,1,1,1.0,2,1.0,1.0,1.0,2,"{'Question Answering', 'Information Retrieval'}",https://paperswithcode.com/dataset/beir
+Inspec,2021-04-10,1,5,5,5,5.0,2,2.0,2.0,2.0,1,{'Keyword Extraction'},https://paperswithcode.com/dataset/inspec
+BC4CHEMD,2019-04-15,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/bc4chemd
+How2,2019-06-19,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Text Summarization'},https://paperswithcode.com/dataset/how2
+HowTo100M,2020-05-01,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Video Question Answering'},https://paperswithcode.com/dataset/howto100m
+BC2GM,2020-07-31,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/bc2gm
+"UCCA (german, MRP 2020)",2020-10-12,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Semantic Parsing'},
+IMDB-MULTI,2019-06-01,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Document Classification'},https://paperswithcode.com/dataset/imdb-multi
+IPM NEL,2018-08-23,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Entity Linking'},https://paperswithcode.com/dataset/ipm-nel
+IWSLT2014 English-German,2020-07-11,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Machine Translation'},
+Automatic Misogynistic Identification,2018-12-17,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Hate Speech Detection'},
+"UCCA (english, MRP 2020)",2020-10-12,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Semantic Parsing'},
+WLPC,2019-04-05,1,4,4,4,4.0,2,2.0,2.0,2.0,2,"{'Relation Extraction', 'Named Entity Recognition'}",
+BioScope : Abstracts,2019-11-11,1,3,3,3,3.0,2,2.0,2.0,2.0,2,"{'Speculation Scope Resolution', 'Negation Scope Resolution'}",
+FEVER,2019-07-22,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Fact Verification'},https://paperswithcode.com/dataset/fever
+BioScope : Full Papers,2019-11-11,1,3,3,3,3.0,2,2.0,2.0,2.0,2,"{'Speculation Scope Resolution', 'Negation Scope Resolution'}",
+CODAH,2019-04-08,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Question Answering'},https://paperswithcode.com/dataset/codah
+Classic,2019-04-03,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Document Classification'},
+CoNLL 2019,2019-11-01,1,3,3,3,3.0,2,2.0,2.0,2.0,1,{'UCCA Parsing'},
+CoNLL-2009,2016-11-06,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Dependency Parsing'},https://paperswithcode.com/dataset/conll-2009
+WebQSP-WD,2018-04-23,1,2,2,2,2.0,2,2.0,2.0,2.0,2,"{'Entity Linking', 'Knowledge Base Question Answering'}",
+CommonGen,2019-11-09,1,3,3,3,3.0,2,2.0,2.0,2.0,1,{'Text Generation'},https://paperswithcode.com/dataset/commongen
+Contract Discovery,2019-11-10,1,6,6,6,6.0,2,2.0,2.0,2.0,1,{'Semantic Retrieval'},https://paperswithcode.com/dataset/contract-discovery
+WSJ10,2019-07-01,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Dependency Grammar Induction'},
+Czech Restaurant NLG,2019-10-01,1,3,3,3,3.0,2,2.0,2.0,2.0,1,{'Data-to-Text Generation'},
+DBRD,2019-12-19,1,4,4,4,4.0,2,2.0,2.0,2.0,1,{'Sentiment Analysis'},https://paperswithcode.com/dataset/dbrd
+XCOPA,2020-04-30,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Cross-Lingual Transfer'},https://paperswithcode.com/dataset/xcopa
+"DRG (english, MRP 2020)",2020-10-12,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Semantic Parsing'},
+"DRG (german, MRP 2020)",2020-10-12,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Semantic Parsing'},
+XQuAD,2020-10-24,1,3,3,3,3.0,2,2.0,2.0,2.0,1,{'Cross-Lingual Question Answering'},https://paperswithcode.com/dataset/xquad
+Debatepedia,2017-04-26,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Query-Based Extractive Summarization'},
+WMT2019 English-German,2019-07-15,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Machine Translation'},
+ECPE-FanSplit,2020-07-01,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Emotion-Cause Pair Extraction'},
+"EDS (english, MRP 2020)",2020-10-12,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Semantic Parsing'},
+WMT2017 Chinese-English,2021-03-01,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Machine Translation'},
+WMT 2017 English-Chinese,2018-03-15,1,3,3,3,3.0,2,2.0,2.0,2.0,1,{'Machine Translation'},
+Biomedical,2017-01-01,1,3,3,3,3.0,2,2.0,2.0,2.0,1,{'Short Text Clustering'},
+TyDi QA,2020-10-24,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Cross-Lingual Question Answering'},https://paperswithcode.com/dataset/tydi-qa
+BEST-2010,2019-11-16,1,3,3,3,3.0,2,2.0,2.0,2.0,1,{'Thai Word Segmentation'},
+MIMIC-III-50,2020-10-29,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Multi-Label Text Classification'},
+LDC2015E86:,2018-05-07,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Graph-to-Sequence'},
+MLQA,2020-10-24,1,3,3,3,3.0,2,2.0,2.0,2.0,1,{'Cross-Lingual Question Answering'},https://paperswithcode.com/dataset/mlqa
+TREC-PM,2018-11-14,1,3,3,3,3.0,2,2.0,2.0,2.0,2,"{'Information Retrieval', 'Passage Re-Ranking'}",
+TempEval-3,2013-06-01,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Temporal Information Extraction'},https://paperswithcode.com/dataset/tempeval-3
+MAMS,2019-11-01,1,4,4,4,4.0,2,2.0,2.0,2.0,1,{'Aspect-Based Sentiment Analysis'},https://paperswithcode.com/dataset/mams
+MNIST,2015-10-17,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Handwritten Digit Recognition'},https://paperswithcode.com/dataset/mnist
+MSR,2019-01-29,1,3,3,3,3.0,2,2.0,2.0,2.0,1,{'Chinese Word Segmentation'},
+MSRA Dev,2019-04-19,1,3,3,3,3.0,2,2.0,2.0,2.0,1,{'Chinese Named Entity Recognition'},
+MSRP,2013-10-01,1,3,3,3,3.0,2,2.0,2.0,2.0,1,{'Paraphrase Identification'},
+The ARRAU Corpus,2017-06-07,1,2,2,2,2.0,2,2.0,2.0,2.0,2,"{'Coreference Resolution', 'Abstract Anaphora Resolution'}",
+TREC-50,2016-01-01,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Text Classification'},
+The Pile,2019-02-14,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Language Modelling'},https://paperswithcode.com/dataset/the-pile
+TabFact,2019-09-05,1,3,3,3,3.0,2,2.0,2.0,2.0,1,{'Table-based Fact Verification'},https://paperswithcode.com/dataset/tabfact
+MemexQA,2018-06-05,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Memex Question Answering'},https://paperswithcode.com/dataset/memexqa
+MedSTS,2018-10-22,1,5,5,5,5.0,2,2.0,2.0,2.0,2,"{'Semantic Similarity Estimation', 'Sentence Embeddings For Biomedical Texts'}",
+Mathematics Dataset,2019-04-02,1,3,3,3,3.0,2,2.0,2.0,2.0,1,{'Question Answering'},https://paperswithcode.com/dataset/mathematics
+Switchboard dialogue act corpus,2018-04-20,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Dialog Act Classification'},
+WetLab,2019-04-01,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Named Entity Recognition'},
+Wiki Neutrality Corpus,2020-02-16,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Bias Detection'},
+TQA,2021-06-02,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Open-Domain Question Answering'},https://paperswithcode.com/dataset/tqa
+WMT2019 German-English,2019-11-01,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Machine Translation'},
+WMT2019 Finnish-English,2019-06-30,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Machine Translation'},
+WMT2019 English-Japanese,2020-05-13,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Machine Translation'},
+TAC-KBP 2010,2020-01-11,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Entity Linking'},
+Summarizing Source Code using a Neural Attention Model - SQL,2021-04-06,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Source Code Summarization'},
+en-it,2020-01-28,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Word Alignment'},
+WMT2017 Russian-English,2021-03-01,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Machine Translation'},
+WMT2017 Finnish-English,2019-06-30,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Machine Translation'},
+WMT2017 English-German,2021-03-01,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Machine Translation'},
+WMT2017 English-French,2021-03-01,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Machine Translation'},
+WMT2017 English-Finnish,2021-03-01,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Machine Translation'},
+WikiAnn,2021-05-28,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Cross-Lingual NER'},https://paperswithcode.com/dataset/wikiann-1
+Wiki-30K,2019-05-24,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Multi-Label Text Classification'},
+Webis-Snippet-20 Corpus,2020-02-25,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Text Summarization'},
+Wikipedia-Wikidata relations,2017-09-01,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Relation Extraction'},
+Youtube counterspeech dataset,2018-08-13,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Counter-speech Detection'},
+TRAC2-Benghali. Task 2.,2020-05-01,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Text Classification'},
+WebEdit,2020-07-02,1,5,5,5,5.0,1,1.0,1.0,1.0,1,{'Fact-based Text Editing'},https://paperswithcode.com/dataset/webedit
+ontontoes chinese v5,2019-09-23,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Named Entity Recognition'},
+"Waseem et al., 2018",2021-06-21,1,3,3,3,3.0,1,1.0,1.0,1.0,1,{'Hate Speech Detection'},
+TRAC2-English. Task2.,2020-05-01,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Text Classification'},
+WebNLG ru,2021-02-02,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Data-to-Text Generation'},
+Wikipedia Person and Animal Dataset,2018-09-06,1,2,2,2,2.0,1,1.0,1.0,1.0,2,"{'KB-to-Language Generation', 'Table-to-Text Generation'}",https://paperswithcode.com/dataset/wikipedia-person-and-animal-dataset
+WNUT-2020 Task 2,2020-10-09,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Text Classification'},https://paperswithcode.com/dataset/wnut-2020-task-2
+WSJ,2020-10-28,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Dependency Grammar Induction'},
+libri-trans,2020-12-18,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Speech-to-Text Translation'},
+WMT 2017 English-Latvian,2018-10-19,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Machine Translation'},
+commonsense-rl,2020-10-08,1,5,5,5,5.0,1,1.0,1.0,1.0,1,{'Commonsense Reasoning for RL'},
+WOS,2017-09-24,3,3,1,1,1.0,1,1.0,1.0,1.0,1,{'Document Classification'},https://paperswithcode.com/dataset/web-of-science-dataset
+SemEval 2014 Task 4 Subtask 4,2019-03-22,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Aspect-Based Sentiment Analysis'},
+Wizard of Wikipedia,2020-10-02,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Visual Dialog'},https://paperswithcode.com/dataset/wizard-of-wikipedia
+TweetQA,2021-05-28,1,3,3,3,3.0,1,1.0,1.0,1.0,1,{'Question Answering'},https://paperswithcode.com/dataset/tweetqa
+TURL,2021-04-14,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Paraphrase Identification'},https://paperswithcode.com/dataset/twitter-news-url-corpus
+ShARe/CLEF 2014: Task 2 Disorders,2020-08-05,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Weakly Supervised Classification'},https://paperswithcode.com/dataset/share-clef-2014-task-2-disorders
+ToLD-Br,2020-10-09,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Hate Speech Detection'},https://paperswithcode.com/dataset/told-br
+YouTube News dataset (No Noise),2017-08-16,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Spoken language identification'},
+Tobacco small-3482,2020-04-16,1,3,3,3,3.0,1,1.0,1.0,1.0,1,{'Document Text Classification'},
+UD2.5 test,2021-01-09,1,6,6,6,6.0,1,1.0,1.0,1.0,3,"{'Tokenization', 'Part-Of-Speech Tagging', 'Dependency Parsing'}",
+Tobacco-3482,2020-04-16,1,3,3,3,3.0,1,1.0,1.0,1.0,1,{'Document Text Classification'},
+YouTube News dataset (Crackling Noise),2017-08-16,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Spoken language identification'},
+Trump Midterm Elections 2018,2020-05-19,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Stance Detection'},
+Yelp-14,2019-04-17,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Document Classification'},
+YouTube News dataset (Background Music),2017-08-16,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Spoken language identification'},
+Turkish Elections 2018,2020-05-19,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Stance Detection'},
+TallyQA,2018-10-29,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Visual Question Answering'},https://paperswithcode.com/dataset/tallyqa
+SoSciSoCi,2020-03-24,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Named Entity Recognition'},
+Slashdot,2020-02-24,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Multi-Label Text Classification'},https://paperswithcode.com/dataset/slashdot
+Tweet,2021-03-24,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Short Text Clustering'},
+Twitter-US,2020-01-15,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Text Classification'},
+Twitter Stance Election 2020 - Stance Detection (US Election 2020,2021-05-26,1,2,2,2,2.0,1,1.0,1.0,1.0,2,"{'Trump)', 'Biden)'}",
+Twitter Dialogue (Tense),2016-06-02,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Dialog Generation'},
+Twitter Dialogue (Noun),2016-06-02,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Dialog Generation'},
+Shellcode_IA32,2021-04-27,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Code Generation'},https://paperswithcode.com/dataset/shellcode-ia32
+SighanNER,2018-10-01,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Chinese Named Entity Recognition'},
+THYME-2016,2020-08-05,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Weakly Supervised Classification'},https://paperswithcode.com/dataset/thyme-2016
+Untranscribed mixed-speech dataset,2015-09-23,1,4,4,4,4.0,1,1.0,1.0,1.0,1,{'Spoken language identification'},
+V-SNLI,2018-06-14,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Natural Language Inference'},
+VIST,2018-04-24,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Visual Storytelling'},https://paperswithcode.com/dataset/vist
+SimpleQuestions,2015-06-05,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Question Answering'},https://paperswithcode.com/dataset/simplequestions
+YouTube News dataset (White Noise),2017-08-16,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Spoken language identification'},
+Summarizing Source Code using a Neural Attention Model - Python,2021-04-06,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Source Code Summarization'},
+W-NUT 2020 Shared Task-3,2020-12-18,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Extracting COVID-19 Events from Twitter'},
+VoxForge,2019-10-09,2,9,4,5,4.5,1,1.0,1.0,1.0,1,{'Spoken language identification'},https://paperswithcode.com/dataset/voxforge
+Tatoeba (EL-to-EN),2021-03-28,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Machine Translation'},
+Tatoeba (EN-to-EL),2021-03-28,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Machine Translation'},
+enwiki8,2020-09-09,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Language Modelling'},
+Yahoo! Answers (800 Labels),2019-12-30,1,3,3,3,3.0,1,1.0,1.0,1.0,1,{'Semi-Supervised Text Classification'},
+Summarizing Source Code using a Neural Attention Model - C#,2021-04-06,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Source Code Summarization'},
+StereoSet,2020-04-20,1,8,8,8,8.0,1,1.0,1.0,1.0,1,{'Bias Detection'},https://paperswithcode.com/dataset/stereoset
+Species800,2020-11-12,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Named Entity Recognition'},
+V_C (trained on T_H),2021-02-12,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Machine Translation'},
+Terms of Service,2021-04-18,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Text Classification'},https://paperswithcode.com/dataset/terms-of-service
+V_B (trained on T_H),2021-02-12,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Machine Translation'},
+V_A (trained on T_H),2021-02-12,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Machine Translation'},
+VQG,2018-08-12,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Question Generation'},https://paperswithcode.com/dataset/vqg
+VOXLINGUA107,2020-11-25,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Spoken language identification'},
+VLSP-2016,2018-02-01,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Named Entity Recognition In Vietnamese'},
+USPTO-3M,2019-05-14,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Multi-Label Text Classification'},
+10 Monkey Species,2020-06-30,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Chatbot'},
+SberQuAD,2019-12-20,1,3,3,3,3.0,1,1.0,1.0,1.0,1,{'Question Answering'},https://paperswithcode.com/dataset/sberquad
+DDRel,2020-12-04,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Dialog Relation Extraction'},https://paperswithcode.com/dataset/ddrel
+EWALK,2020-03-02,1,3,3,3,3.0,1,1.0,1.0,1.0,1,{'Emotion Classification'},
+ETHOS,2020-06-11,2,10,5,5,5.0,1,1.0,1.0,1.0,1,{'Hate Speech Detection'},https://paperswithcode.com/dataset/ethos
+DynaSent,2017-08-19,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Sentiment Analysis'},https://paperswithcode.com/dataset/dynasent
+DuReader,2019-07-29,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Open-Domain Question Answering'},https://paperswithcode.com/dataset/dureader
+DuIE,2020-08-31,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Relation Extraction'},
+DeepTyper,2020-07-09,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Type prediction'},
+DebateSum,2020-11-14,1,3,3,3,3.0,1,1.0,1.0,1.0,1,{'Extractive Text Summarization'},https://paperswithcode.com/dataset/debatesum
+Dataset of Propaganda Techniques of the State-Sponsored Information Operation of the People's Republic of China,2021-06-14,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Multi-Label Text Classification'},https://paperswithcode.com/dataset/dataset-of-propaganda-techniques-of-the-state
+DSTC9 Track 3 - Task 2,2021-05-06,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Interactive Evaluation of Dialog'},
+DRI Corpus,2021-02-24,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Relation Classification'},https://paperswithcode.com/dataset/dr-inventor
+DODF Data,2020-03-02,1,5,5,5,5.0,1,1.0,1.0,1.0,1,{'Text Classification'},
+DART,2021-02-02,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Text Generation'},https://paperswithcode.com/dataset/dart
+EfficientQA test,2021-01-01,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Question Answering'},
+Czech restaurant information,2021-02-02,1,3,3,3,3.0,1,1.0,1.0,1.0,1,{'Text Generation'},https://paperswithcode.com/dataset/czech-restaurant-information
+CrowdSpeech,2021-07-02,2,6,3,3,3.0,1,1.0,1.0,1.0,1,{'Crowdsourced Text Aggregation'},https://paperswithcode.com/dataset/crowdspeech
+CrowdSource QA,2020-02-24,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Reading Comprehension'},
+ConvAI2,2020-10-02,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Visual Dialog'},https://paperswithcode.com/dataset/convai2
+Conll 2003 Spanish,2019-11-22,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Low Resource Named Entity Recognition'},
+Code-Switching English-Spanish NER,2019-09-18,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Named Entity Recognition'},
+CoNLL-Aida,2020-01-11,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Entity Linking'},
+CoDesc,2021-05-29,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Source Code Summarization'},https://paperswithcode.com/dataset/codesc
+ClinicalSTS,2020-10-20,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Semantic Similarity Estimation'},
+CliCR,2018-03-26,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Question Answering'},https://paperswithcode.com/dataset/clicr
+ChnSentiCorp,2019-06-19,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Sentiment Analysis'},
+EfficientQA dev,2021-01-01,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Question Answering'},
+EmotionLines,2020-02-18,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Emotion Recognition in Conversation'},https://paperswithcode.com/dataset/emotionlines
+CaseHOLD,2021-04-18,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Question Answering'},https://paperswithcode.com/dataset/casehold
+Financial PhraseBank,2019-08-27,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Sentiment Analysis'},
+GoogleNews-S,2021-03-24,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Short Text Clustering'},
+GoEmotions,2020-05-01,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Emotion Classification'},https://paperswithcode.com/dataset/goemotions
+GitHub-Python,2021-06-11,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Program Repair'},https://paperswithcode.com/dataset/github-python
+GigaWord-10k,2020-01-26,1,3,3,3,3.0,1,1.0,1.0,1.0,1,{'Text Summarization'},
+GeNeVA (i-CLEVR),2018-11-24,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Text-to-Image Generation'},
+GeNeVA (CoDraw),2018-11-24,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Text-to-Image Generation'},
+French Treebank,2019-11-10,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Named Entity Recognition'},
+Freecode,2020-10-10,1,5,5,5,5.0,1,1.0,1.0,1.0,1,{'Multi-Label Text Classification'},
+Freebase FIGER,2018-06-08,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Entity Typing'},
+Food-101,2020-12-17,1,3,3,3,3.0,1,1.0,1.0,1.0,2,"{'Multimodal Text and Image Classification', 'Document Text Classification'}",https://paperswithcode.com/dataset/food-101
+Fluent Speech Commands,2019-04-07,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Spoken Language Understanding'},https://paperswithcode.com/dataset/fluent-speech-commands
+FewRel,2019-05-17,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Relation Extraction'},https://paperswithcode.com/dataset/fewrel
+EmpatheticDialogues,2020-10-02,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Visual Dialog'},https://paperswithcode.com/dataset/empatheticdialogues
+Few-NERD,2021-05-16,3,3,1,1,1.0,1,1.0,1.0,1.0,2,"{'Few-shot NER', 'Named Entity Recognition'}",https://paperswithcode.com/dataset/few-nerd
+FarsTail,2020-09-18,1,8,8,8,8.0,1,1.0,1.0,1.0,1,{'Natural Language Inference'},https://paperswithcode.com/dataset/farstail
+Facebook Media,2020-01-15,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Text Classification'},
+FIQA,2021-04-17,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Question Answering'},https://paperswithcode.com/dataset/fiqa-1
+FIGER,2019-05-17,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Entity Linking'},https://paperswithcode.com/dataset/figer
+Extended XQuAD,2020-06-02,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Multilingual Machine Comprehension in English Hindi'},
+Expressive hands and faces dataset (EHF).,2018-04-16,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Multimodal Emotion Recognition'},
+Events2012 - Oct 11 to Oct 17,2019-06-01,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Twitter Event Detection'},
+Event2Mind,2018-05-17,2,4,2,2,2.0,1,1.0,1.0,1.0,1,{'Common Sense Reasoning'},https://paperswithcode.com/dataset/event2mind
+Europeana French,2019-11-14,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Cross-Lingual NER'},
+Epigenetics and Post-translational Modifications 2011 (EPI),2020-06-17,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Event Extraction'},
+Chinese Treebank,2020-10-10,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Dependency Parsing'},https://paperswithcode.com/dataset/chinese-treebank
+Cancer Genetics 2013 (CG),2020-06-17,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Event Extraction'},
+GoogleNews-TS,2021-03-24,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Short Text Clustering'},
+ASTD,2019-08-01,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Sentiment Analysis'},https://paperswithcode.com/dataset/astd
+Annotated corpus for semantic similarity of clinical trial outcomes (original corpus),2019-10-17,1,5,5,5,5.0,1,1.0,1.0,1.0,1,{'Semantic Similarity Estimation'},
+Annotated corpus for semantic similarity of clinical trial outcomes (expanded corpus),2019-10-17,1,5,5,5,5.0,1,1.0,1.0,1.0,1,{'Semantic Similarity Estimation'},
+Android Repos,2018-05-13,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Code Generation'},
+An Amharic News Text classification Dataset,2021-03-10,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Text Classification'},https://paperswithcode.com/dataset/an-amharic-news-text-classification-dataset
+Amazon-12K,2019-05-24,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Multi-Label Text Classification'},
+AlgoLisp,2021-04-06,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Program Synthesis'},
+AffCon 2020 Emotion Detection,2020-06-01,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Text Classification'},
+Advising Corpus,2019-01-09,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Conversational Response Selection'},https://paperswithcode.com/dataset/advising-corpus
+AdversarialQA,2020-02-02,1,3,3,3,3.0,1,1.0,1.0,1.0,1,{'Reading Comprehension'},https://paperswithcode.com/dataset/adversarialqa
+AbusEval,2020-10-23,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Hate Speech Detection'},
+AbstRCT - Neoplasm,2021-02-24,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Relation Classification'},https://paperswithcode.com/dataset/abstrct-neoplasm
+ASOS.com user intent,2019-12-16,1,3,3,3,3.0,1,1.0,1.0,1.0,1,{'Intent Detection'},
+B-T4SA,2021-02-16,1,7,7,7,7.0,1,1.0,1.0,1.0,1,{'Multimodal Sentiment Analysis'},https://paperswithcode.com/dataset/b-t4sa
+AS,2019-01-29,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Chinese Word Segmentation'},
+ARC,2020-05-28,2,2,1,1,1.0,1,1.0,1.0,1.0,1,{'Common Sense Reasoning'},https://paperswithcode.com/dataset/arc
+AMI,2021-04-15,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Text Summarization'},
+AJGT,2020-02-28,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Sentiment Analysis'},
+AIC-ICC,2021-03-11,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Image Captioning'},
+AI2 Kaggle Dataset,2017-08-01,1,4,4,4,4.0,1,1.0,1.0,1.0,1,{'Question Answering'},
+ACL Title and Abstract Dataset,2018-05-15,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Paper generation'},https://paperswithcode.com/dataset/acl-title-and-abstract-dataset
+ACCURAT balanced test corpus for under resourced languages Russian-Estonian,2018-05-01,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Machine Translation'},
+ACCURAT balanced test corpus for under resourced languages Estonian-Russian,2018-05-01,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Machine Translation'},
+2017_test set,2018-06-12,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Paraphrase Identification'},
+1B Words,2016-08-01,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Source Code Summarization'},
+ArSAS,2019-08-01,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Sentiment Analysis'},
+BVICTOR,2020-05-01,1,3,3,3,3.0,1,1.0,1.0,1.0,1,{'Multi-Label Text Classification'},
+CaRB OIE benchmark (Greek Use-case),2021-03-28,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Open Information Extraction'},
+CITYU,2019-01-29,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Chinese Word Segmentation'},
+CTB7,2020-08-09,1,3,3,3,3.0,1,1.0,1.0,1.0,1,{'Constituency Parsing'},
+CTB5,2020-08-09,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Constituency Parsing'},
+COVID-19 Fake News Dataset,2021-01-10,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Fake News Detection'},https://paperswithcode.com/dataset/covid-19-fake-news-dataset
+CONLL 2003 Dutch,2019-11-22,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Low Resource Named Entity Recognition'},
+CMeIE,2021-06-15,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Biomedical Relation Extraction'},https://paperswithcode.com/dataset/cmeie
+CMeEE,2021-06-15,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/cmeee
+CMUDict 0.7b,2019-04-06,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Text-To-Speech Synthesis'},
+CMU-SE,2018-08-27,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Text Generation'},
+CLUTRR (k=3),2020-07-13,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Relational Reasoning'},
+CLUE,2019-06-19,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Document Ranking'},https://paperswithcode.com/dataset/clue
+CL-SciSumm,2019-09-04,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Text Summarization'},https://paperswithcode.com/dataset/cl-scisumm
+CHIP-STS,2021-06-15,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Semantic Similarity Estimation'},https://paperswithcode.com/dataset/chip-sts
+BabelDomains,2021-01-07,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Domain Labelling'},
+CHIP-CTC,2021-06-15,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Sentence Classification'},https://paperswithcode.com/dataset/chip-ctc
+CDCP,2021-02-24,1,2,2,2,2.0,1,1.0,1.0,1.0,2,"{'Component Classification', 'Relation Classification'}",https://paperswithcode.com/dataset/cdcp
+CD18,2020-07-09,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Multimodal Text and Image Classification'},https://paperswithcode.com/dataset/cd18
+CANARD,2020-08-04,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Dialogue Rewriting'},https://paperswithcode.com/dataset/canard
+Business Scene Dialogue,2020-08-05,2,2,1,1,1.0,1,1.0,1.0,1.0,1,{'Machine Translation'},https://paperswithcode.com/dataset/business-scene-dialogue
+Blended Skill Talk,2020-10-02,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Visual Dialog'},https://paperswithcode.com/dataset/blended-skill-talk
+BioNLP13-CG,2020-11-12,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Named Entity Recognition'},
+BioASQ,2020-07-31,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Question Answering'},https://paperswithcode.com/dataset/bioasq
+BigPatent,2020-07-28,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Text Summarization'},https://paperswithcode.com/dataset/bigpatent
+BanglaLekhaImageCaptions,2021-02-14,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Image Captioning'},https://paperswithcode.com/dataset/banglalekhaimagecaptions
+BanglaLekha-Isolated,2020-08-29,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Handwriting Recognition'},https://paperswithcode.com/dataset/banglalekha-isolated
+SVICTOR (type),2020-05-01,1,5,5,5,5.0,1,1.0,1.0,1.0,1,{'Text Classification'},
+GoogleNews-T,2021-03-24,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Short Text Clustering'},
+HARD,2020-02-28,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Sentiment Analysis'},https://paperswithcode.com/dataset/hard
+HatEval,2020-10-23,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Hate Speech Detection'},
+Polyvore,2019-02-10,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Slot Filling'},https://paperswithcode.com/dataset/polyvore
+PolyAI OpenSubtitles,2019-04-13,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Conversational Response Selection'},
+Pathway Curation 2013 (PC),2020-06-17,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Event Extraction'},
+PathQuestion,2021-06-19,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'KG-to-Text Generation'},https://paperswithcode.com/dataset/pathquestion
+Patents,2020-07-28,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Text Classification'},
+Paralex,2021-05-31,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Paraphrase Generation'},https://paperswithcode.com/dataset/paralex
+Paper Field,2019-03-26,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Sentence Classification'},https://paperswithcode.com/dataset/paper-field
+PWC Leaderboards,2020-04-29,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Scientific Results Extraction'},https://paperswithcode.com/dataset/pwc-leaderboards
+PKU,2019-01-29,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Chinese Word Segmentation'},
+PIT,2021-04-14,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Paraphrase Identification'},https://paperswithcode.com/dataset/pit
+PIQA,2020-05-28,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Question Answering'},https://paperswithcode.com/dataset/piqa
+PCD,2019-05-07,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Poem meters classification'},https://paperswithcode.com/dataset/pcd
+PASCAL VOC 07+12,2021-04-06,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Active Object Detection'},
+Overruling,2021-04-18,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Text Classification'},https://paperswithcode.com/dataset/overruling
+OrangeSum,2020-10-23,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Text Summarization'},https://paperswithcode.com/dataset/orangesum
+OpenSubtitles,2021-02-11,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Language Identification'},https://paperswithcode.com/dataset/opensubtitles
+OffensEval 2019,2020-10-23,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Hate Speech Detection'},
+OKE-2016,2018-08-23,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Entity Linking'},
+OKE-2015,2018-08-23,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Entity Linking'},
+OIE2016,2019-01-30,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Open Information Extraction'},
+NoDaLiDa Norwegian Bokmål,2020-07-15,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Cross-Lingual NER'},
+NaturalQA,2019-07-24,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Question Answering'},
+NNE,2020-07-01,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Nested Named Entity Recognition'},https://paperswithcode.com/dataset/nne
+NLPCC-2019,2020-05-03,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Dependency Parsing'},
+NER,2020-10-24,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Cross-Lingual NER'},
+Py150,2020-03-30,1,2,2,2,2.0,1,1.0,1.0,1.0,2,"{'Type prediction', 'Value prediction'}",
+QASPER,2021-05-07,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Question Answering'},https://paperswithcode.com/dataset/qasper
+Query Wellformedness,2018-08-28,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Query Wellformedness'},
+SAMSum Corpus,2021-04-15,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Text Summarization'},https://paperswithcode.com/dataset/samsum-corpus
+SVICTOR (theme),2020-05-01,1,3,3,3,3.0,1,1.0,1.0,1.0,1,{'Multi-Label Text Classification'},
+SVAMP,2021-03-12,1,4,4,4,4.0,1,1.0,1.0,1.0,1,{'Math Word Problem Solving'},https://paperswithcode.com/dataset/svamp
+STM-corpus,2020-01-09,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Scientific Concept Extraction'},
+STM-coref,2021-01-04,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Coreference Resolution'},
+SQA,2020-04-05,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Semantic Parsing'},https://paperswithcode.com/dataset/sqa
+SLAM 2018,2018-06-01,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Language Acquisition'},
+SILICONE Benchmark,2020-09-23,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Text Classification'},https://paperswithcode.com/dataset/silicone-benchmark
+SIGHAN 2015,2021-05-26,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Chinese Spell Checking'},
+SGD,2021-02-02,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Task-Oriented Dialog Systems'},https://paperswithcode.com/dataset/sgd
+SCv1,2017-08-01,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Sarcasm Detection'},
+SCDE,2020-04-27,1,3,3,3,3.0,1,1.0,1.0,1.0,1,{'Question Answering'},https://paperswithcode.com/dataset/scde
+Russian Event2Mind,2020-06-17,1,7,7,7,7.0,1,1.0,1.0,1.0,1,{'Common Sense Reasoning'},https://paperswithcode.com/dataset/russian-event2mind
+RASG,2018-12-13,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Reader-Aware Summarization'},
+RusAge: Corpus for Age-Based Text Classification,2020-09-24,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Text Classification'},
+RotoEdit,2020-07-02,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Fact-based Text Editing'},https://paperswithcode.com/dataset/rotoedit
+Rewrite,2020-09-28,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Dialogue Rewriting'},
+Reuters En-De,2014-10-09,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Document Classification'},
+Reuters De-En,2014-10-09,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Document Classification'},
+RecipeQA,2021-01-12,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Question Answering'},https://paperswithcode.com/dataset/recipeqa
+ReCAM,2021-02-25,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Reading Comprehension'},https://paperswithcode.com/dataset/recam
+Rare Diseases Mentions in MIMIC-III (Text-to-UMLS),2021-05-05,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Entity Linking'},
+Rare Diseases Mentions in MIMIC-III,2021-05-05,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Entity Linking'},https://paperswithcode.com/dataset/rare-disease-annotation-from-mimic-iii
+RETWEET,2021-04-21,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Tweet-Reply Sentiment Analysis'},https://paperswithcode.com/dataset/retweet
+RECCON,2020-12-22,1,4,4,4,4.0,1,1.0,1.0,1.0,2,"{'Recognizing Emotion Cause in Conversations', 'Causal Emotion Entailment'}",https://paperswithcode.com/dataset/reccon
+N3-Reuters-128,2018-08-23,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Entity Linking'},
+MultiSubs,2021-03-02,4,4,1,1,1.0,1,1.0,1.0,1.0,2,"{'Multimodal Lexical Translation', 'Multimodal Text Prediction'}",https://paperswithcode.com/dataset/multisubs
+MultiNLI,2019-09-23,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Natural Language Inference'},https://paperswithcode.com/dataset/multinli
+LDC2020T02,2021-05-18,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'AMR Parsing'},https://paperswithcode.com/dataset/ldc2020t02
+LABR,2020-02-28,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Sentiment Analysis'},https://paperswithcode.com/dataset/labr
+Kvret,2020-01-28,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Goal-Oriented Dialog'},
+Kan-Shan Cup,2019-05-24,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Multi-Label Text Classification'},
+KUAKE-QTR,2021-06-15,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Natural Language Inference'},https://paperswithcode.com/dataset/kuake-qtr
+KUAKE-QQR,2021-06-15,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Natural Language Inference'},https://paperswithcode.com/dataset/kuake-qqr
+KUAKE-QIC,2021-06-15,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Intent Classification'},https://paperswithcode.com/dataset/kuake-qic
+KPTimes,2021-05-28,1,12,12,12,12.0,1,1.0,1.0,1.0,3,"{'Keyphrase Extraction', 'Phrase Ranking', 'Phrase Tagging'}",https://paperswithcode.com/dataset/kptimes
+KP20k,2021-05-28,1,14,14,14,14.0,1,1.0,1.0,1.0,3,"{'Keyphrase Extraction', 'Phrase Ranking', 'Phrase Tagging'}",https://paperswithcode.com/dataset/kp20k
+KALAKA-3,2020-11-25,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Spoken language identification'},
+JD Product Question Answer,2019-01-23,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Question Answering'},
+Infectious Diseases 2011 (ID),2020-06-17,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Event Extraction'},
+Image-Chat,2020-10-02,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Visual Dialog'},
+IWSLT2017 French-English,2019-10-29,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Machine Translation'},
+IWSLT2017 English-French,2019-10-29,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Machine Translation'},
+IWSLT2017 English-Arabic,2019-10-29,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Machine Translation'},
+IWSLT2017 Arabic-English,2019-10-29,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Machine Translation'},
+IWSLT2015 Thai-English,2016-06-25,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Machine Translation'},
+IWSLT2015 Chinese-English,2019-11-11,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Machine Translation'},
+Hyperpartisan,2020-07-28,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Text Classification'},
+HowmanyQA,2018-10-29,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Visual Question Answering'},
+Hostility Detection Dataset in Hindi,2021-01-14,1,2,2,2,2.0,1,1.0,1.0,1.0,2,"{'Hate Speech Detection', 'Fake News Detection'}",
+Helsinki Prosody Corpus,2019-08-06,1,4,4,4,4.0,1,1.0,1.0,1.0,1,{'Prosody Prediction'},https://paperswithcode.com/dataset/helsinki-prosody-corpus
+Hateful Memes,2020-12-23,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Meme Classification'},https://paperswithcode.com/dataset/hateful-memes
+HateXplain,2020-12-18,1,7,7,7,7.0,1,1.0,1.0,1.0,1,{'Hate Speech Detection'},https://paperswithcode.com/dataset/hatexplain
+Hate Speech and Offensive Language,2018-09-23,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Hate Speech Detection'},https://paperswithcode.com/dataset/hate-speech-and-offensive-language
+LDC2016E25,2018-05-07,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Text Generation'},
+LOCAL DATASET,2018-05-03,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Text Classification'},
+Multi-Level Event Extraction (MLEE),2020-06-17,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Event Extraction'},
+LRE07,2020-11-25,1,9,9,9,9.0,1,1.0,1.0,1.0,1,{'Spoken language identification'},
+MuST-C EN->FR,2020-12-18,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Speech-to-Text Translation'},
+MuST-C EN->ES,2020-12-18,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Speech-to-Text Translation'},
+MixSNIPS,2021-06-03,1,2,2,2,2.0,1,1.0,1.0,1.0,2,"{'Intent Detection', 'Slot Filling'}",
+MixATIS,2021-06-03,1,2,2,2,2.0,1,1.0,1.0,1.0,2,"{'Intent Detection', 'Slot Filling'}",
+MVICTOR (type),2020-05-01,1,5,5,5,5.0,1,1.0,1.0,1.0,1,{'Text Classification'},
+MVICTOR (theme),2020-05-01,1,3,3,3,3.0,1,1.0,1.0,1.0,1,{'Multi-Label Text Classification'},
+MUSE,2020-01-28,2,2,1,1,1.0,1,1.0,1.0,1.0,1,{'Word Alignment'},https://paperswithcode.com/dataset/muse
+MTS,2019-08-11,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Timeline Summarization'},
+MPED,2019-05-11,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Emotion Recognition'},
+MLSUM,2021-02-02,2,2,1,1,1.0,1,1.0,1.0,1.0,1,{'Abstractive Text Summarization'},https://paperswithcode.com/dataset/mlsum
+MLB Dataset (Relation Generation),2021-02-04,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Data-to-Text Generation'},
+review,2018-12-15,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Multi-Document Summarization'},
+MLB Dataset (Content Selection),2021-02-04,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Data-to-Text Generation'},
+MLB Dataset (Content Ordering),2021-02-04,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Data-to-Text Generation'},
+MLB Dataset,2021-02-04,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Data-to-Text Generation'},https://paperswithcode.com/dataset/mlb-dataset
+MED,2021-05-29,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Natural Language Inference'},https://paperswithcode.com/dataset/med
+MCTest,2016-03-29,2,3,1,2,1.5,1,1.0,1.0,1.0,1,{'Question Answering'},https://paperswithcode.com/dataset/mctest
+MATH,2021-03-05,1,12,12,12,12.0,1,1.0,1.0,1.0,2,"{'Math Word Problem Solving', 'Text Generation'}",https://paperswithcode.com/dataset/math
+Localized Narratives,2019-12-06,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Image Captioning'},https://paperswithcode.com/dataset/localized-narratives
+LeNER-Br,2018-09-24,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Named Entity Recognition'},https://paperswithcode.com/dataset/lener-br
+Latvian Twitter Eater Sentiment Dataset,2020-07-10,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Sentiment Analysis'},

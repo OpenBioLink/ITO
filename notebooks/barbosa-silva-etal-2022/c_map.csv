@@ -1,0 +1,116 @@
+superclass,Cluster,task_label,benchmark_label
+CVP,Cluster 1,1-Shot Learning - Few-Shot Image Classification,Mini-ImageNet
+CVP,Cluster 1,Domain Adaptation,VisDA2017
+CVP,Cluster 1,Domain Adaptation,SVNH-to-MNIST
+CVP,Cluster 1,Face Identification,MegaFace
+CVP,Cluster 1,Few-Shot Image Classification,CUB 200 5-way 5-shot
+CVP,Cluster 1,Few-Shot Image Classification,CUB 200 5-way 1-shot
+CVP,Cluster 1,Hand Gesture Recognition,VIVA Hand Gestures Dataset
+CVP,Cluster 1,Image Clustering,STL-10
+CVP,Cluster 1,Image Clustering,Extended Yale-B
+CVP,Cluster 1,Image Clustering,USPS
+CVP,Cluster 1,Image Clustering,Stanford Cars
+CVP,Cluster 1,Image-to-Image Translation,COCO-Stuff Labels-to-Photos
+CVP,Cluster 1,Multimodal Activity Recognition,EV-Action
+CVP,Cluster 1,Semi-Supervised Image Classification,"CIFAR-10, 250 Labels"
+CVP,Cluster 1,Semi-Supervised Image Classification,"STL-10, 1000 Labels"
+CVP,Cluster 1,Skeleton Based Action Recognition,Kinetics-Skeleton dataset
+CVP,Cluster 1,Synthetic-to-Real Translation,Syn2Real-C
+CVP,Cluster 1,Unsupervised Domain Adaptation,Office-Home
+CVP,Cluster 1,Visual Object Tracking,TrackingNet
+CVP,Cluster 2,Face Identification,Trillion Pairs Dataset
+CVP,Cluster 2,Face Verification,Trillion Pairs Dataset
+CVP,Cluster 2,Image Clustering,Tiny-ImageNet
+CVP,Cluster 2,Image Clustering,ImageNet-10
+CVP,Cluster 2,Image Clustering,Imagenet-dog-15
+CVP,Cluster 2,Image Clustering,CIFAR-100
+CVP,Cluster 2,Image Clustering,CIFAR-10
+CVP,Cluster 2,Image Clustering,Stanford Dogs
+CVP,Cluster 2,Image Clustering,CUB Birds
+CVP,Cluster 2,Skeleton Based Action Recognition,UWA3D
+CVP,Cluster 3,"1-Shot, 20-way - Few-Shot Image Classification",OMNIGLOT
+CVP,Cluster 3,"1-Shot, 5-way - Few-Shot Image Classification",OMNIGLOT
+CVP,Cluster 3,"5-Shot, 20-way - Few-Shot Image Classification",OMNIGLOT
+CVP,Cluster 3,6D Pose Estimation using RGB,LineMOD
+CVP,Cluster 3,Activity Recognition In Videos,DogCentric
+CVP,Cluster 3,Aesthetics Quality Assessment,AVA
+CVP,Cluster 3,Age-Invariant Face Recognition,CACDVS
+CVP,Cluster 3,Document Image Classification,RVL-CDIP
+CVP,Cluster 3,Domain Adaptation,MNIST-to-USPS
+CVP,Cluster 3,Domain Adaptation,SVHN-to-MNIST
+CVP,Cluster 3,Domain Adaptation,Office-Home
+CVP,Cluster 3,Domain Adaptation,MNIST-to-MNIST-M
+CVP,Cluster 3,Domain Adaptation,ImageCLEF-DA
+CVP,Cluster 3,Domain Adaptation,Synth Digits-to-SVHN
+CVP,Cluster 3,Domain Adaptation,UCF-to-HMDBfull
+CVP,Cluster 3,Domain Adaptation,Olympic-to-HMDBsmall
+CVP,Cluster 3,Domain Adaptation,HMDBsmall-to-UCF
+CVP,Cluster 3,Emotion Recognition in Conversation,IEMOCAP
+CVP,Cluster 3,Face Verification,MegaFace
+CVP,Cluster 3,Face Verification,YouTube Faces DB
+CVP,Cluster 3,Face Verification,Labeled Faces in the Wild
+CVP,Cluster 3,Face Verification,CFP-FP
+CVP,Cluster 3,Fine-Grained Image Classification,Stanford Cars
+CVP,Cluster 3,Fine-Grained Image Classification,Oxford-IIIT Pets
+CVP,Cluster 3,Fine-Grained Image Classification,Oxford 102 Flowers
+CVP,Cluster 3,Fine-Grained Image Classification,Stanford Dogs
+CVP,Cluster 3,Fine-Grained Image Classification,NABirds
+CVP,Cluster 3,Fine-Grained Image Classification,FGVC Aircraft
+CVP,Cluster 3,Fine-Grained Image Classification,CUB-200-2011
+CVP,Cluster 3,Group Activity Recognition,Volleyball
+CVP,Cluster 3,Group Activity Recognition,Collective Activity
+CVP,Cluster 3,Hand Gesture Recognition,EgoGesture
+CVP,Cluster 3,Human Interaction Recognition,BIT
+CVP,Cluster 3,Human Interaction Recognition,UT
+CVP,Cluster 3,Image Classification,Kuzushiji-MNIST
+CVP,Cluster 3,Image Classification,MNIST
+CVP,Cluster 3,Image Classification,ImageNet ReaL
+CVP,Cluster 3,Image Clustering,CMU-PIE
+CVP,Cluster 3,Image Clustering,MNIST-test
+CVP,Cluster 3,Image-to-Image Translation,ADE20K Labels-to-Photos
+CVP,Cluster 3,Image-to-Image Translation,ADE20K-Outdoor Labels-to-Photos
+CVP,Cluster 3,Lane Detection,TuSimple
+CVP,Cluster 3,Satellite Image Classification,SAT-4
+CVP,Cluster 3,Semi-Supervised Image Classification,"SVHN, 1000 labels"
+CVP,Cluster 3,Semi-Supervised Image Classification,"SVHN, 250 Labels"
+CVP,Cluster 3,Semi-Supervised Image Classification,"cifar-100, 10000 Labels"
+CVP,Cluster 3,Semi-Supervised Image Classification,"CIFAR-10, 4000 Labels"
+CVP,Cluster 3,Skeleton Based Action Recognition,N-UCLA
+CVP,Cluster 3,Skeleton Based Action Recognition,SYSU 3D
+CVP,Cluster 3,Skeleton Based Action Recognition,Florence 3D
+CVP,Cluster 3,Visual Question Answering,VQA v2 test-dev
+CVP,Cluster 3,Visual Question Answering,MSVD-QA
+CVP,Cluster 3,Visual Question Answering,MSRVTT-QA
+CVP,Cluster 3,Visual Question Answering,VQA v1 test-dev
+CVP,Cluster 3,Visual Question Answering,VQA v1 test-std
+NLP,Cluster 1,Common Sense Reasoning,CommonsenseQA
+NLP,Cluster 1,Cross-Lingual Document Classification,MLDoc Zero-Shot English-to-Spanish
+NLP,Cluster 1,Cross-Lingual Document Classification,MLDoc Zero-Shot English-to-French
+NLP,Cluster 1,Cross-Lingual Document Classification,MLDoc Zero-Shot English-to-Russian
+NLP,Cluster 2,Text Classification,Ohsumed
+NLP,Cluster 3,Cross-Lingual Document Classification,MLDoc Zero-Shot English-to-German
+NLP,Cluster 3,Cross-Lingual Document Classification,Reuters RCV1/RCV2 German-to-English
+NLP,Cluster 3,Cross-Lingual Document Classification,Reuters RCV1/RCV2 English-to-German
+NLP,Cluster 3,Dialog Act Classification,Switchboard corpus
+NLP,Cluster 3,Document Classification,Cora
+NLP,Cluster 3,Emotion Recognition in Conversation,IEMOCAP
+NLP,Cluster 3,Linguistic Acceptability Assessment,CoLA
+NLP,Cluster 3,Natural Language Inference,SciTail
+NLP,Cluster 3,Natural Language Inference,QNLI
+NLP,Cluster 3,Natural Language Inference,RTE
+NLP,Cluster 3,Paraphrase Identification,Quora Question Pairs
+NLP,Cluster 3,Semantic Parsing,ATIS
+NLP,Cluster 3,Semantic Textual Similarity,MRPC
+NLP,Cluster 3,Sentiment Analysis,SST-2 Binary classification
+NLP,Cluster 3,Sentiment Analysis,MPQA
+NLP,Cluster 3,Sentiment Analysis,MR
+NLP,Cluster 3,Sentiment Analysis,IMDb
+NLP,Cluster 3,Sentiment Analysis,SST-5 Fine-grained classification
+NLP,Cluster 3,Text Classification,Yahoo! Answers
+NLP,Cluster 3,Text Classification,R8
+NLP,Cluster 3,Text Classification,R52
+NLP,Cluster 3,Visual Question Answering,MSRVTT-QA
+NLP,Cluster 3,Visual Question Answering,MSVD-QA
+NLP,Cluster 3,Visual Question Answering,VQA v2 test-dev
+NLP,Cluster 3,Visual Question Answering,VQA v1 test-dev
+NLP,Cluster 3,Visual Question Answering,VQA v1 test-std

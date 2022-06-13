@@ -1,0 +1,20 @@
+benchmark_parent_label,first_date,n_variant,n_row_sum,n_row_min,n_row_max,n_row_mean,n_unique_paper_sum,n_paper_min,n_paper_max,n_paper_mean,n_tasks,tasks,url,cumsum
+R8,2018-06-08,1,9,9,9,9.0,7,7.0,7.0,7.0,1,{'Text Classification'},,208
+SemEval 2018 Task 10,2018-04-30,1,6,6,6,6.0,6,6.0,6.0,6.0,1,{'Relation Extraction'},,170
+CoNLL Spanish,2018-10-08,1,9,9,9,9.0,6,6.0,6.0,6.0,1,{'Cross-Lingual NER'},,176
+R52,2018-09-15,1,6,6,6,6.0,5,5.0,5.0,5.0,1,{'Text Classification'},,154
+CoNaLa-Ext,2018-10-05,1,6,6,6,6.0,4,4.0,4.0,4.0,1,{'Code Generation'},https://paperswithcode.com/dataset/conala-ext,124
+PSD,2018-07-03,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'Semantic Dependency Parsing'},,100
+SPIDER,2018-09-24,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'Semantic Parsing'},https://paperswithcode.com/dataset/spider-1,120
+CMU-MOSEI,2018-07-01,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'Multimodal Sentiment Analysis'},https://paperswithcode.com/dataset/cmu-mosei,128
+SemEval 2015 Task 13,2018-05-21,1,6,6,6,6.0,3,3.0,3.0,3.0,1,{'Word Sense Disambiguation'},,75
+Multi-News,2018-08-31,3,9,3,3,3.0,3,1.0,2.0,1.3333333333333333,2,"{'Multi-Document Summarization', 'Cross-Document Language Modeling'}",https://paperswithcode.com/dataset/multi-news,90
+PDP60,2018-10-11,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Natural Language Understanding'},,93
+NYT24,2018-11-09,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Relation Extraction'},,40
+QuAC,2018-10-06,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Question Answering'},https://paperswithcode.com/dataset/quac,38
+TREC-PM,2018-11-14,1,3,3,3,3.0,2,2.0,2.0,2.0,2,"{'Information Retrieval', 'Passage Re-Ranking'}",,60
+GCDC,2018-05-14,2,6,3,3,3.0,2,2.0,2.0,2.0,1,{'Coherence Evaluation'},https://paperswithcode.com/dataset/gcdc,48
+Geo,2018-05-12,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Semantic Parsing'},,64
+Query Wellformedness,2018-08-28,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Query Wellformedness'},,28
+2017_test set,2018-06-12,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Paraphrase Identification'},,32
+CliCR,2018-03-26,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'Question Answering'},https://paperswithcode.com/dataset/clicr,11

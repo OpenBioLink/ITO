@@ -1,0 +1,86 @@
+task_type,n
+Question Answering,12
+Named Entity Recognition,9
+Text Classification,7
+Relation Extraction,7
+Sentiment Analysis,6
+Machine Translation,6
+Language Modelling,5
+Text Summarization,5
+Question Generation,4
+Open-Domain Question Answering,4
+Dependency Parsing,3
+Natural Language Inference,3
+Unsupervised Machine Translation,3
+Visual Question Answering,3
+Coreference Resolution,3
+Nested Named Entity Recognition,3
+Common Sense Reasoning,3
+Part-Of-Speech Tagging,2
+Chunking,2
+Extractive Text Summarization,2
+Image Captioning,2
+Joint Entity and Relation Extraction,2
+Emotion Recognition in Conversation,2
+Word Sense Disambiguation,2
+Entity Disambiguation,2
+Topic modeling,2
+Text Generation,2
+Chinese Named Entity Recognition,2
+AMR Parsing,2
+Unsupervised Dependency Parsing,1
+Constituency Grammar Induction,1
+Constituency Parsing,1
+Paraphrase Identification,1
+Semantic Textual Similarity,1
+Linguistic Acceptability Assessment,1
+Paraphrase Generation,1
+Natural Language Understanding,1
+Document Summarization,1
+Abstractive Text Summarization,1
+Low Resource Named Entity Recognition,1
+Aspect Extraction,1
+Aspect-oriented  Opinion Extraction,1
+Aspect-Based Sentiment Analysis,1
+Active Object Detection,1
+Zero-Shot Text-to-Image Generation,1
+Text-to-Image Generation,1
+Entity Typing,1
+Semantic Role Labeling,1
+Short Text Clustering,1
+Semi-Supervised Text Classification,1
+Unsupervised semantic parsing,1
+Unsupervised KG-to-text,1
+Graph-to-Sequence,1
+KG-to-Text Generation,1
+Data-to-Text Generation,1
+Multimodal Emotion Recognition,1
+Speech Emotion Recognition,1
+Nested Mention Recognition,1
+Answer Selection,1
+Dialog Generation,1
+Conversational Response Selection,1
+Visual Dialog,1
+Event Extraction,1
+Relationship extraction using distant supervision,1
+Document Dating,1
+Text Simplification,1
+Language Identification,1
+Cross-lingual zero-shot dependency parsing,1
+Reading Comprehension,1
+Distractor Generation,1
+Entity Alignment,1
+Chinese Word Segmentation,1
+Cross-Lingual NER,1
+Entity Linking,1
+Semantic Parsing,1
+Intent Detection,1
+Slot Filling,1
+Predicate Detection,1
+Semantic Role Labeling (predicted predicates),1
+Multi-Document Summarization,1
+Sentence Classification,1
+Subjectivity Analysis,1
+Discourse Parsing,1
+Concept-To-Text Generation,1
+Ad-Hoc Information Retrieval,1

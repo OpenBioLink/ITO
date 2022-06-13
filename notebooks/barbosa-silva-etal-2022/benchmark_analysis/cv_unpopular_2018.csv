@@ -1,0 +1,37 @@
+benchmark_parent_label,first_date,n_variant,n_row_sum,n_row_min,n_row_max,n_row_mean,n_unique_paper_sum,n_paper_min,n_paper_max,n_paper_mean,n_tasks,tasks,url,cumsum
+Places,2018-01-24,3,5,1,2,1.6666666666666667,5,1.0,2.0,1.6666666666666667,2,"{'Image Inpainting', 'Image Classification'}",https://paperswithcode.com/dataset/places,282
+UCF-Crime,2018-01-12,1,5,5,5,5.0,5,5.0,5.0,5.0,1,{'Anomaly Detection In Surveillance Videos'},https://paperswithcode.com/dataset/ucf-crime,267
+pendigits,2018-05-25,1,9,9,9,9.0,5,5.0,5.0,5.0,2,"{'Image Clustering', 'Image/Document Clustering'}",,277
+RWTH-PHOENIX-Weather 2014 T,2018-06-01,1,5,5,5,5.0,4,4.0,4.0,4.0,2,"{'Sign Language Recognition', 'Sign Language Translation'}",,214
+VehicleID,2018-11-13,3,12,4,4,4.0,4,4.0,4.0,4.0,1,{'Vehicle Re-Identification'},https://paperswithcode.com/dataset/vehicleid,250
+FG-NET,2018-04-08,2,6,2,4,3.0,4,2.0,2.0,2.0,2,"{'Age Estimation', 'Age-Invariant Face Recognition'}",https://paperswithcode.com/dataset/fg-net,202
+PEMS-SF,2018-01-01,1,5,5,5,5.0,4,4.0,4.0,4.0,1,{'Multivariate Time Series Imputation'},,246
+DFW,2018-04-25,2,6,2,4,3.0,4,1.0,4.0,2.5,2,"{'Heterogeneous Face Recognition', 'Disguised Face Verification'}",https://paperswithcode.com/dataset/dfw,234
+NVGesture,2018-04-19,1,4,4,4,4.0,4,4.0,4.0,4.0,1,{'Hand Gesture Recognition'},https://paperswithcode.com/dataset/nvgesture-1,226
+VoxCeleb1,2018-09-01,4,8,2,2,2.0,3,1.0,2.0,1.75,2,"{'Video Reconstruction', 'Talking Head Generation'}",https://paperswithcode.com/dataset/voxceleb1,145
+Kodak24 Noise Level 50%,2018-03-12,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Salt-And-Pepper Noise Removal'},,157
+100 sleep nights of 8 caregivers,2018-10-29,1,3,3,3,3.0,3,3.0,3.0,3.0,3,"{'3D Action Recognition', 'Talking Head Generation', 'Visual Question Answering'}",,112
+2018 Data Science Bowl,2018-07-18,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Medical Image Segmentation'},https://paperswithcode.com/dataset/2018-data-science-bowl,127
+Diving-48,2018-12-10,1,5,5,5,5.0,3,3.0,3.0,3.0,1,{'Action Recognition'},,124
+CIFAR-20,2018-07-17,1,4,4,4,4.0,3,3.0,3.0,3.0,1,{'Unsupervised Image Classification'},,109
+R2R,2018-11-25,1,3,3,3,3.0,3,3.0,3.0,3.0,1,{'Vision-Language Navigation'},https://paperswithcode.com/dataset/room-to-room,142
+SunYs,2018-05-04,1,3,3,3,3.0,2,2.0,2.0,2.0,1,{'Pulmonary Artery–Vein Classification'},https://paperswithcode.com/dataset/sunys,78
+DukeTracklet,2018-09-08,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Person Re-Identification'},,64
+CINIC-10,2018-10-02,1,8,8,8,8.0,2,2.0,2.0,2.0,1,{'Image Classification'},https://paperswithcode.com/dataset/cinic-10,66
+Make3D,2018-06-04,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Monocular Depth Estimation'},https://paperswithcode.com/dataset/make3d,56
+DeepMind Control Suite,2018-11-12,3,6,2,2,2.0,2,2.0,2.0,2.0,1,{'Continuous Control'},https://paperswithcode.com/dataset/deepmind-control-suite,72
+IRD,2018-01-23,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Action Recognition'},,88
+BUS 2017 Dataset B,2018-10-18,1,4,4,4,4.0,2,2.0,2.0,2.0,1,{'Lesion Segmentation'},,70
+Expressive hands and faces dataset (EHF).,2018-04-16,1,2,2,2,2.0,2,2.0,2.0,2.0,2,"{'Multimodal Emotion Recognition', '3D Human Reconstruction'}",,62
+2017_test set,2018-02-02,1,2,2,2,2.0,2,2.0,2.0,2.0,2,"{'3D Facial Expression Recognition', 'Image-to-Image Translation'}",,92
+Noisy Bangla Characters,2018-06-21,1,2,2,2,2.0,2,2.0,2.0,2.0,1,{'Document Image Classification'},,60
+Kodak24 sigma10,2018-12-25,1,2,2,2,2.0,1,1.0,1.0,1.0,2,"{'Grayscale Image Denoising', 'Color Image Denoising'}",,45
+Cluttered Omniglot,2018-03-26,1,2,2,2,2.0,1,1.0,1.0,1.0,1,{'One-Shot Segmentation'},https://paperswithcode.com/dataset/cluttered-omniglot,34
+2D-3D-S,2018-07-24,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'3D Face Animation'},https://paperswithcode.com/dataset/2d-3d-s,18
+Kodak24 sigma70,2018-12-25,1,2,2,2,2.0,1,1.0,1.0,1.0,2,"{'Grayscale Image Denoising', 'Color Image Denoising'}",,43
+ARL Polarimetric Thermal Face Dataset,2018-04-17,1,2,2,2,2.0,1,1.0,1.0,1.0,2,"{'Image Clustering', 'Multi-view Subspace Clustering'}",,13
+EYEDIAP,2018-05-08,2,4,2,2,2.0,1,1.0,1.0,1.0,1,{'Gaze Estimation'},https://paperswithcode.com/dataset/eyediap,3
+ChaLearn 2013,2018-11-17,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Gesture Recognition'},,32
+GeNeVA (CoDraw),2018-11-24,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Text-to-Image Generation'},,47
+Potsdam-3,2018-07-17,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'Unsupervised Semantic Segmentation'},,36
+Faust,2018-06-13,1,1,1,1,1.0,1,1.0,1.0,1.0,1,{'3D Point Cloud Matching'},,5

@@ -1,0 +1,24 @@
+task_type,n
+Question Answering,5
+Named Entity Recognition,4
+Common Sense Reasoning,3
+Chinese Named Entity Recognition,3
+Coreference Resolution,2
+Grammatical Error Correction,2
+Natural Language Inference,1
+Word Sense Disambiguation,1
+Event Extraction,1
+UAS - Dependency Parsing,1
+LAS - Dependency Parsing,1
+Nested Named Entity Recognition,1
+Distractor Generation,1
+Reading Comprehension,1
+Grammatical Error Detection,1
+Emotion Recognition in Conversation,1
+Text Generation,1
+Visual Question Answering,1
+Generative Question Answering,1
+Text Classification,1
+Aspect-Based Sentiment Analysis,1
+Aspect Extraction,1
+Relation Extraction,1

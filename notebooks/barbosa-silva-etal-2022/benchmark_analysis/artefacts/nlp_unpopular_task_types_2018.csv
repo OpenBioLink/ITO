@@ -1,0 +1,19 @@
+task_type,n
+Entity Linking,4
+Sentiment Analysis,2
+Cross-Lingual NER,1
+Relation Extraction,1
+Intent Detection,1
+Multimodal Sentiment Analysis,1
+Common Sense Reasoning,1
+Sentence Classification,1
+Citation Intent Classification,1
+Program Repair,1
+DRS Parsing,1
+Word Sense Disambiguation,1
+Hate Speech Detection,1
+Knowledge Base Question Answering,1
+Semantic Similarity Estimation,1
+Sentence Embeddings For Biomedical Texts,1
+Data-to-Text Generation,1
+Machine Translation,1

@@ -1,0 +1,44 @@
+task_type,n
+Image Classification,2
+Image Clustering,2
+Talking Head Generation,2
+Action Recognition,2
+Grayscale Image Denoising,2
+Color Image Denoising,2
+Image Inpainting,1
+Anomaly Detection In Surveillance Videos,1
+Image/Document Clustering,1
+Sign Language Recognition,1
+Sign Language Translation,1
+Vehicle Re-Identification,1
+Age Estimation,1
+Age-Invariant Face Recognition,1
+Multivariate Time Series Imputation,1
+Heterogeneous Face Recognition,1
+Disguised Face Verification,1
+Hand Gesture Recognition,1
+Video Reconstruction,1
+Salt-And-Pepper Noise Removal,1
+3D Action Recognition,1
+Visual Question Answering,1
+Medical Image Segmentation,1
+Unsupervised Image Classification,1
+Vision-Language Navigation,1
+Pulmonary Artery–Vein Classification,1
+Person Re-Identification,1
+Monocular Depth Estimation,1
+Continuous Control,1
+Lesion Segmentation,1
+Multimodal Emotion Recognition,1
+3D Human Reconstruction,1
+3D Facial Expression Recognition,1
+Image-to-Image Translation,1
+Document Image Classification,1
+One-Shot Segmentation,1
+3D Face Animation,1
+Multi-view Subspace Clustering,1
+Gaze Estimation,1
+Gesture Recognition,1
+Text-to-Image Generation,1
+Unsupervised Semantic Segmentation,1
+3D Point Cloud Matching,1
