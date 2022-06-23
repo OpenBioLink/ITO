@@ -34,7 +34,7 @@ We also make light-weight JSON files containing an export of the curated hierarc
 
 ### Licensing
 
-The ontology file and JSON extract files are distributed under a [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license.
+The ontology file and JSON extract files are distributed under a [CC-BY-SA 3.0 AT](https://creativecommons.org/licenses/by-sa/3.0/at/) license.
 
 ITO includes data from the Papers With Code project (https://paperswithcode.com/). Papers With Code is licensed under the CC-BY-SA license. Data from Papers With Code are partially altered (manual curation to improve ontological structure and data quality).
 
