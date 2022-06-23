@@ -1,0 +1,206 @@
+id,Superclass_id,Superclass_label,Class_Label,Suggested_label
+1,https://identifiers.org/ito:ITO_01066x,Text summarization,Abstractive Text Summarization,Text summarization
+2,https://identifiers.org/ito:ITO_01431x,Information retrieval,Ad-hoc Information Retrieval,Information retrieval
+3,,,Arabic Text Diacritization,Other NLP task
+4,,,Aspect Term Extraction and Sentiment Classification,Sentiment analysis
+5,https://identifiers.org/ito:ITO_00795,Sentiment analysis,Aspect-based Sentiment Analysis,Pragmatics analysis
+6,https://identifiers.org/ito:ITO_01611,Pragmatics analysis,Bias Detection,Pragmatics analysis
+7,https://identifiers.org/ito:ITO_00811,Named entity recognition,Chinese Named Entity Recognition,Information extraction
+8,https://identifiers.org/ito:ITO_01603,Syntactic analysis,Chunking,Syntactic analysis
+9,https://identifiers.org/ito:ITO_01150,Text classification,Citation Intent Classification,Text classification
+10,https://identifiers.org/ito:ITO_00485,Computer code process,Code Generation,Computer code processing
+11,https://identifiers.org/ito:ITO_01688x,Reasoning (defined by data),Common Sense Reasoning,Inference and reasoning
+12,,,Constituency Grammar Induction,Syntactic analysis
+13,,,Constituency Parsing,Syntactic analysis
+14,https://identifiers.org/ito:ITO_01431x,Information retrieval,Conversational Response Selection,Information retrieval
+15,,,Coreference Resolution,Pragmatics analysis
+16,https://identifiers.org/ito:ITO_00968,Cross-lingual natural language processing,Cross-lingual Bitext Mining,Cross-lingual natural language processing
+17,https://identifiers.org/ito:ITO_00968,Cross-lingual natural language processing,Cross-lingual Document Classification,Cross-lingual natural language processing
+18,https://identifiers.org/ito:ITO_00968,Cross-lingual natural language processing,Cross-lingual Natural Language Inference,Cross-lingual natural language processing
+19,https://identifiers.org/ito:ITO_00530,Text generation,Data-to-text Generation,Text generation
+20,https://identifiers.org/ito:ITO_01603,Syntactic analysis,Dependency Parsing,Syntactic analysis
+21,https://identifiers.org/ito:ITO_00264,Dialog process,Dialog Act Classification,Dialog process
+22,https://identifiers.org/ito:ITO_00264,Dialog process,Dialog Generation,Dialog process
+23,https://identifiers.org/ito:ITO_00264,Dialog process,Dialog State Tracking,Dialog process
+24,https://identifiers.org/ito:ITO_01150,Text classification,Document Classification,Text classification
+25,,,Document Ranking,Information retrieval
+26,,,Document Summarization,Text summarization
+27,https://identifiers.org/ito:ITO_00737,Emotion recognition,Emotion Recognition in Conversation,Pragmatics analysis
+28,https://identifiers.org/ito:ITO_01606,Semantic analysis,Entity Disambiguation,Semantic analysis
+29,,,Entity Linking,Other NLP task
+30,https://identifiers.org/ito:ITO_01606,Semantic analysis,Entity Typing,Semantic analysis
+31,,,Extract Aspect,Information extraction
+32,https://identifiers.org/ito:ITO_01066x,Text summarization,Extractive Text Summarization,Text summarization
+33,https://identifiers.org/ito:ITO_01611,Pragmatics analysis,Fake News Detection,Pragmatics analysis
+34,https://identifiers.org/ito:ITO_00795,Sentiment analysis,Fine-grained Opinion Analysis,Pragmatics analysis
+35,https://identifiers.org/ito:ITO_00491x,Question answering,Generative Question Answering,Question answering
+36,https://identifiers.org/ito:ITO_01605,Grammar checking,Grammatical Error Correction,Syntactic analysis
+37,,,Grammatical Error Detection,Syntactic analysis
+38,https://identifiers.org/ito:ITO_01606,Semantic analysis,Hypernym Discovery,Semantic analysis
+39,http://edamontology.org/operation_3553,Image tagging,Image Captioning,Image captioning
+40,https://identifiers.org/ito:ITO_00478,Natural language analysis,Information Retrieval,Information retrieval
+41,https://identifiers.org/ito:ITO_01611,Pragmatics analysis,Intent Detection,Pragmatics analysis
+42,https://identifiers.org/ito:ITO_00709,Entity extraction,Joint Entity and Relation Extraction,Information extraction
+43,,,KB-to-Language Generation,Text generation
+44,https://identifiers.org/ito:ITO_01620,Natural language generation,Language Modelling,Natural language generation
+45,https://identifiers.org/ito:ITO_01605,Grammar checking,Linguistic Acceptability Assessment,Syntactic analysis
+46,https://identifiers.org/ito:ITO_01620,Natural language generation,Machine Translation,Natural language generation
+47,https://identifiers.org/ito:ITO_00530,Text generation,Multi-document Summarization,Text summarization
+48,,,Multi-Label Text Classification,Text classification
+49,https://identifiers.org/ito:ITO_00737,Emotion recognition,Multimodal Emotion Recognition,Pragmatics analysis
+50,,,Multimodal Sentiment Analysis,Sentiment analysis
+51,https://identifiers.org/ito:ITO_00705,Information extraction,Named Entity Recognition,Information extraction
+52,https://identifiers.org/ito:ITO_01619,Inference and reasoning,Natural Language Inference,Inference and reasoning
+53,https://identifiers.org/ito:ITO_00811,Named entity recognition,Nested Named Entity Recognition,Information extraction
+55,https://identifiers.org/ito:ITO_00530,Text generation,Paraphrase Generation,Text generation
+56,https://identifiers.org/ito:ITO_01611,Pragmatics analysis,Paraphrase Identification,Pragmatics analysis
+57,https://identifiers.org/ito:ITO_01603,Syntactic analysis,Part-of-speech Tagging,Syntactic analysis
+58,https://identifiers.org/ito:ITO_01431x,Information retrieval,Passage Re-ranking,Information retrieval
+59,https://identifiers.org/ito:ITO_00889,Image captioning,Phrase Grounding,Image captioning
+60,https://identifiers.org/ito:ITO_00758,Semantic role labeling,Predicate Detection,Semantic analysis
+61,https://identifiers.org/ito:ITO_00279,Text-to-speech synthesis,Prosody Prediction,Speech process
+62,https://identifiers.org/ito:ITO_01066x,Text summarization,Query-based Extractive Summarization,Text summarization
+63,,,Question Answering,Question answering
+64,https://identifiers.org/ito:ITO_01620,Natural language generation,Question Generation,Natural language generation
+65,https://identifiers.org/ito:ITO_00762,Semantic textual similarity,Question Similarity,Semantic analysis
+66,https://identifiers.org/ito:ITO_01619,Inference and reasoning,Reading Comprehension,Inference and reasoning
+67,https://identifiers.org/ito:ITO_00705,Information extraction,Relation Extraction,Information extraction
+68,,,Relationship extraction using distant supervision,Information extraction
+69,https://identifiers.org/ito:ITO_00811,Named entity recognition,Scientific Concept Extraction,Information extraction
+70,https://identifiers.org/ito:ITO_01606,Semantic analysis,Semantic Parsing,Semantic analysis
+71,https://identifiers.org/ito:ITO_01606,Semantic analysis,Semantic Role Labeling,Semantic analysis
+72,https://identifiers.org/ito:ITO_00629,Sentence pair modeling,Semantic Similarity Estimation,Semantic analysis
+73,https://identifiers.org/ito:ITO_01606,Semantic analysis,Semantic Textual Similarity,Semantic analysis
+74,https://identifiers.org/ito:ITO_01150,Text classification,Sentence Classification,Text classification
+75,https://identifiers.org/ito:ITO_00575,Sentence embedding,Sentence Compression,Sentence embedding
+76,https://identifiers.org/ito:ITO_01611,Pragmatics analysis,Sentiment Analysis,Pragmatics analysis
+77,https://identifiers.org/ito:ITO_01611,Pragmatics analysis,Slot Filling,Pragmatics analysis
+78,https://identifiers.org/ito:ITO_00252,Speech recognition,Speech Emotion Recognition,Speech process
+79,https://identifiers.org/ito:ITO_00530,Text generation,Table-to-text Generation,Text generation
+80,https://identifiers.org/ito:ITO_01606,Semantic analysis,Text Classification,Text classification
+81,https://identifiers.org/ito:ITO_01620,Natural language generation,Text Generation,Natural language generation
+82,https://identifiers.org/ito:ITO_01620,Natural language generation,Text Summarization,Natural language generation
+83,https://identifiers.org/ito:ITO_00253,Speech process,Text-to-speech Synthesis,Speech process
+84,,,Text-to-Image Generation,Other NLP task
+85,https://identifiers.org/ito:ITO_00333,Machine translation,Unsupervised Machine Translation,Machine translation
+86,https://identifiers.org/ito:ITO_00264,Dialog process,Visual Dialog,Dialog process
+87,,,Visual Question Answering,Question answering
+88,https://identifiers.org/ito:ITO_01688x,Reasoning (defined by data),Visual Reasoning,Inference and reasoning
+89,https://identifiers.org/ito:ITO_01606,Semantic analysis,Word Sense Disambiguation,Semantic analysis
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

@@ -1,0 +1,62 @@
+task_type,n
+Question Answering,6
+Code Generation,4
+Sentiment Analysis,4
+Relation Extraction,3
+Text Classification,3
+Entity Linking,3
+Multi-Label Text Classification,3
+Machine Translation,3
+Text Summarization,2
+Slot Filling,2
+Semantic Similarity Estimation,2
+Spoken language identification,2
+Cross-Domain Named Entity Recognition,1
+Biomedical Relation Extraction,1
+Drug–drug Interaction Extraction,1
+Graph Question Answering,1
+Visual Question Answering,1
+Dialog Act Classification,1
+Grammatical Error Correction,1
+Coreference Resolution,1
+Common Sense Reasoning,1
+Emotion Classification,1
+Semantic Parsing,1
+Document Summarization,1
+Clinical Assertion Status Detection,1
+Clinical Concept Extraction,1
+Sentence Compression,1
+Conversational Response Selection,1
+Relationship extraction using distant supervision,1
+Aspect-Based Sentiment Analysis,1
+Open-Domain Dialog,1
+Fact Verification,1
+Open-Domain Question Answering,1
+Named Entity Recognition,1
+Fake News Detection,1
+Language Modelling,1
+Part-Of-Speech Tagging,1
+Cross-Lingual Bitext Mining,1
+Text Generation,1
+Word Sense Disambiguation,1
+Short Text Clustering,1
+Cross-Lingual Question Answering,1
+Word Alignment,1
+Sentence Embeddings For Biomedical Texts,1
+UCCA Parsing,1
+Emotion Recognition,1
+Temporal Information Extraction,1
+Phrase Grounding,1
+Dialogue Rewriting,1
+Emotion Recognition in Conversation,1
+Chinese Named Entity Recognition,1
+Chatbot,1
+Speech-to-Text Translation,1
+Natural Language Inference,1
+Dependency Parsing,1
+Multimodal Sentiment Analysis,1
+Intent Detection,1
+Document Text Classification,1
+Bias Detection,1
+Active Object Detection,1
+Text-to-Image Generation,1

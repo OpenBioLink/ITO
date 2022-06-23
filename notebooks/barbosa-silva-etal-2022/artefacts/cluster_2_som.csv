@@ -1,0 +1,102 @@
+Benchmark,Task,Metric
+BSD100 - 2x upscaling - Image Super,Resolution ,PSNR
+BSD100 - 4x upscaling - Image Super,Resolution ,SSIM
+BSD100 - 4x upscaling - Image Super,Resolution ,PSNR
+CIFAR-10 , Image Classification ,Percentage\\ correct
+CIFAR-10 , Image Generation ,Inception\\ score
+CIFAR-10 , Image Generation ,FID
+CIFAR-10 , Image Clustering ,Accuracy
+CIFAR-10 , Conditional Image Generation ,Inception\\ score
+CIFAR-100 , Image Classification ,Percentage\\ correct
+CNN / Daily Mail , Document Summarization ,ROUGE\\-1
+CNN / Daily Mail , Document Summarization ,ROUGE\\-2
+CNN / Daily Mail , Document Summarization ,ROUGE\\-L
+CUB 200 5-way 5-shot - Few,Shot Image Classification ,Accuracy
+CUB-200-2011 - Fine,Grained Image Classification ,Accuracy
+Charades , Action Classification ,MAP
+CoNLL 2012 , Coreference Resolution ,Avg\\ F1
+Cora , Document Classification ,Accuracy
+E2E NLG Challenge - Data-to,Text Generation ,BLEU
+FCE , Grammatical Error Detection ,F0\\.5
+FDDB , Face Detection ,AP
+FFHQ 1024 x 1024 - 4x upscaling - Image Super,Resolution ,FID
+FGVC Aircraft - Fine,Grained Image Classification ,Accuracy
+Flickr30K 1K test , Image Retrieval ,R\\-at\\-1
+Flickr30K 1K test , Image Retrieval ,R\\-at\\-10
+Flickr30K 1K test , Image Retrieval ,R\\-at\\-5
+GTEA , Action Segmentation ,Acc
+GTEA , Action Segmentation ,F1@10%
+GTEA , Action Segmentation ,F1@25%
+GTEA , Action Segmentation ,F1@50%
+HICO-DET - Human,Object Interaction Detection ,mAP
+HMDB-51 , Action Recognition ,Average\\ accuracy\\ of\\ 3\\ splits
+IEMOCAP , Emotion Recognition in Conversation ,Accuracy
+IEMOCAP , Emotion Recognition in Conversation ,Weighted\\-F1
+IEMOCAP , Emotion Recognition in Conversation ,Macro\\-F1
+IJB-A , Face Verification ,TAR\\ at\\ FAR=0\\.01
+ImageNet , Image Classification ,Top\\ 1\\ Accuracy
+ImageNet , Image Classification ,Top\\ 5\\ Accuracy
+ImageNet ReaL , Image Classification ,Accuracy
+KITTI Cars Easy , 3D Object Detection ,AP
+KITTI Cars Hard , 3D Object Detection ,AP
+KITTI Cars Moderate , 3D Object Detection ,AP
+KITTI Cyclists Easy , 3D Object Detection ,AP
+KITTI Depth Completion , Depth Completion ,MAE
+KITTI Depth Completion , Depth Completion ,RMSE
+Kinetics-400 , Action Classification ,Vid\\ acc@1
+Kinetics-400 , Action Classification ,Vid\\ acc@5
+Kinetics-600 , Action Classification ,Top\\-1\\ Accuracy
+Labeled Faces in the Wild , Face Verification ,Accuracy
+LineMOD , 6D Pose Estimation using RGB ,Accuracy
+LineMOD , 6D Pose Estimation using RGB ,Mean\\ ADD
+MELD , Emotion Recognition in Conversation ,Weighted\\-F1
+MNIST , Image Classification ,Percentage\\ error
+MNIST-test , Image Clustering ,NMI
+MNIST-to-USPS , Domain Adaptation ,Accuracy
+Manga109 - 4x upscaling - Image Super,Resolution ,SSIM
+Manga109 - 4x upscaling - Image Super,Resolution ,PSNR
+ModelNet40 , 3D Point Cloud Classification ,Overall\\ Accuracy
+"OMNIGLOT - 1-Shot, 20-way - Few",Shot Image Classification ,Accuracy
+"OMNIGLOT - 1-Shot, 5-way - Few",Shot Image Classification ,Accuracy
+"OMNIGLOT - 5-Shot, 20-way - Few",Shot Image Classification ,Accuracy
+OntoNotes , Coreference Resolution ,F1
+Oxf105k , Image Retrieval ,MAP
+Oxford 102 Flowers - Fine,Grained Image Classification ,Accuracy
+PASCAL Face , Face Detection ,AP
+PASCAL-Part , Human Part Segmentation ,mIoU
+PTB , Constituency Grammar Induction ,Max\\ F1\\ \\(WSJ\\)
+Par106k , Image Retrieval ,mAP
+Par6k , Image Retrieval ,mAP
+Penn Treebank , Constituency Parsing ,F1\\ score
+QM9 , Formation Energy ,MAE
+SOP , Image Retrieval ,R\\-at\\-1
+STL-10 , Image Classification ,Percentage\\ correct
+STL-10 , Image Clustering ,Accuracy
+SVHN-to-MNIST , Domain Adaptation ,Accuracy
+ScanNetV2 , 3D Object Detection ,mAP\\-at\\-0\\.25
+SemEval 2014 Task 4 Sub Task 2 - Aspect,Based Sentiment Analysis ,Mean\\ Acc\\ \\(Restaurant\\ \\+\\ Laptop\\)
+SemEval 2014 Task 4 Sub Task 2 - Aspect,Based Sentiment Analysis ,Restaurant\\ \\(Acc\\)
+SemEval 2014 Task 4 Sub Task 2 - Aspect,Based Sentiment Analysis ,Laptop\\ \\(Acc\\)
+SemanticKITTI , 3D Semantic Segmentation ,mIoU
+Set14 - 2x upscaling - Image Super,Resolution ,PSNR
+Set14 - 4x upscaling - Image Super,Resolution ,PSNR
+Set14 - 4x upscaling - Image Super,Resolution ,SSIM
+Set5 - 2x upscaling - Image Super,Resolution ,PSNR
+ShapeNet-Part , 3D Part Segmentation ,Class\\ Average\\ IoU
+ShapeNet-Part , 3D Part Segmentation ,Instance\\ Average\\ IoU
+Something-Something V1 , Action Recognition ,Top\\ 1\\ Accuracy
+Sports-1M , Action Recognition ,Video\\ hit\\-at\\-5
+Sports-1M , Action Recognition ,Video\\ hit\\-at\\-1
+THUMOS’14 , Action Recognition ,mAP\\-at\\-0\\.3
+THUMOS’14 , Action Recognition ,mAP\\-at\\-0\\.4
+THUMOS’14 , Action Recognition ,mAP\\-at\\-0\\.5
+TREC Robust04 - Ad,Hoc Information Retrieval ,MAP
+TREC Robust04 - Ad,Hoc Information Retrieval ,P\\-at\\-20
+UCF101 , Action Recognition ,3\\-fold\\ Accuracy
+USPS , Image Clustering ,Accuracy
+USPS , Image Clustering ,NMI
+WFLW , Face Alignment ,AUC\\-at\\-0\\.1\\ \\(all\\)
+WikiSQL , Code Generation ,Exact\\ Match\\ Accuracy
+WikiSQL , Code Generation ,Execution\\ Accuracy
+YouTube Faces DB , Face Verification ,Accuracy
+cvusa - Cross-View Image-to,Image Translation ,SSIM
