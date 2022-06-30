@@ -6,6 +6,8 @@
 
 **/adriano_trajectories_notebooks:** Analyses of benchmark dynamics and AI performance trajectories
 
+**/barbosa-silva-etal-2022:** Analyses and visualizations of AI benchmark dynamics 
+
 ## Related analyses
 
 **/AI_datasets_and_benchmarks:** Analyses of a large, manually curated dataset of medical AI datasets and benchmarks, mapped to ITO classes
