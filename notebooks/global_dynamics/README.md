@@ -11,10 +11,12 @@ Requirements
 - data/polarities.csv (manually curated)
 - data/datasets.json (Downloaded from https://paperswithcode.com/media/about/datasets.json.gz)
 
-Run 
+1) Create and activate virtual environment (fe `python -m venv venv`, powershell `venv/Scripts/Activate.ps1`, bash `source venv/bin/activate`)
+2) Run 
 ```
 pip install -r requirements.txt
 ```
+3) Change (if needed) blazegraph endpoint in config.yml
 
 To run all notebooks
 
@@ -25,8 +27,7 @@ Linux
 ```
 
 Windows PS
-
-```bash
+```
 ./run_all
 ```
 

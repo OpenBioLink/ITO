@@ -1,0 +1,348 @@
+level_key,l1,l2,l3,task
+3D Point Cloud Linear Classification,3D Point Cloud Linear Classification,3D Point Cloud Linear Classification,3D Point Cloud Linear Classification,3D Point Cloud Linear Classification
+3D vision process // 3D Classification,3D vision process,3D Classification,Image-to-image translation,Image-to-image translation
+3D vision process // 3D Classification,3D vision process,3D Classification,Image-to-image translation,Multimodal unsupervised image-to-image translation
+3D vision process // 3D Classification,3D vision process,3D Classification,Image-to-image translation,Synthetic-to-real translation
+3D vision process // 3D Classification,3D vision process,3D Classification,Image-to-image translation,Unsupervised image-to-image translation
+3D vision process // 3D Classification,3D vision process,3D Classification,Image-to-image translation,Cross-view image-to-image translation
+3D vision process // 3D Classification,3D vision process,3D Classification,Image-to-image translation,Fundus to angiography generation
+3D vision process // 3D Depth Estimation,3D vision process,3D Depth Estimation,3D Depth Estimation,3D Depth Estimation
+3D vision process // 3D Shape Representation,3D vision process,3D Shape Representation,3D Dense Shape Correspondence,3D Dense Shape Correspondence
+3D vision process // 3D car instance understanding,3D vision process,3D car instance understanding,Hand gesture recognition,Skeleton based action recognition
+3D vision process // 3D car instance understanding,3D vision process,3D car instance understanding,Text-to-image generation,Text-to-image generation
+3D vision process // 3D car instance understanding,3D vision process,3D car instance understanding,Hand gesture recognition,Hand gesture recognition
+3D vision process // 3D human action recognition,3D vision process,3D human action recognition,Skeleton based action recognition,Skeleton based action recognition
+3D vision process // 3D human pose estimation,3D vision process,3D human pose estimation,3D human pose estimation,3D human pose estimation
+3D vision process // 3D human pose estimation // 3D absolute human pose estimation,3D vision process,3D human pose estimation,3D absolute human pose estimation,Image super-resolution
+3D vision process // 3D human pose estimation // 3D absolute human pose estimation,3D vision process,3D human pose estimation,3D absolute human pose estimation,Stereo Image Super-Resolution
+3D vision process // 3D human pose estimation // 3D absolute human pose estimation,3D vision process,3D human pose estimation,3D absolute human pose estimation,Multi-frame super-resolution
+3D vision process // 3D human pose estimation // 3D absolute human pose estimation,3D vision process,3D human pose estimation,3D absolute human pose estimation,Burst Image Super-Resolution
+3D vision process // 3D human pose estimation // 3D absolute human pose estimation,3D vision process,3D human pose estimation,3D absolute human pose estimation,Audio super-resolution
+3D vision process // 3D human pose estimation // 3D multi-person pose estimation,3D vision process,3D human pose estimation,3D multi-person pose estimation,3D multi-person pose estimation (absolute)
+3D vision process // 3D human pose estimation // 3D multi-person pose estimation,3D vision process,3D human pose estimation,3D multi-person pose estimation,3D multi-person pose estimation (root-relative)
+3D vision process // 3D human pose estimation // 3D multi-person pose estimation,3D vision process,3D human pose estimation,3D multi-person pose estimation,3D multi-person pose estimation
+3D vision process // 3D human pose estimation // Monocular 3D human pose estimation,3D vision process,3D human pose estimation,Monocular 3D human pose estimation,Monocular 3D human pose estimation
+3D vision process // 3D human pose estimation // Weakly-supervised 3D human pose estimation,3D vision process,3D human pose estimation,Weakly-supervised 3D human pose estimation,Weakly-supervised 3D human pose estimation
+3D vision process // 3D human reconstruction,3D vision process,3D human reconstruction,3D human reconstruction,3D human reconstruction
+3D vision process // 3D reconstruction,3D vision process,3D reconstruction,3D room layouts from a single rgb panorama,3D room layouts from a single rgb panorama
+3D vision process // 3D reconstruction,3D vision process,3D reconstruction,3D scene reconstruction,Face hallucination
+3D vision process // 3D reconstruction,3D vision process,3D reconstruction,Unsupervised 3D Human Pose Estimation,Unsupervised 3D Human Pose Estimation
+3D vision process // 3D reconstruction,3D vision process,3D reconstruction,3D reconstruction,3D reconstruction
+3D vision process // 3D reconstruction,3D vision process,3D reconstruction,3D Semantic Scene Completion,3D Semantic Scene Completion
+3D vision process // 3D reconstruction,3D vision process,3D reconstruction,3D Semantic Scene Completion,3D Semantic Scene Completion from a single RGB image
+3D vision process // 3D shape classification,3D vision process,3D shape classification,3D shape classification,3D shape classification
+3D vision process // 3D shape reconstruction,3D vision process,3D shape reconstruction,Image super-resolution,Image super-resolution
+3D vision process // 3D shape reconstruction,3D vision process,3D shape reconstruction,Image super-resolution,Stereo Image Super-Resolution
+3D vision process // 3D shape reconstruction,3D vision process,3D shape reconstruction,Image super-resolution,Multi-frame super-resolution
+3D vision process // 3D shape reconstruction,3D vision process,3D shape reconstruction,Image super-resolution,Audio super-resolution
+3D vision process // 3D shape reconstruction,3D vision process,3D shape reconstruction,Image super-resolution,Burst Image Super-Resolution
+3D vision process // Motion forecasting,3D vision process,Motion forecasting,Motion forecasting,Motion forecasting
+Action detection,Action detection,Skeleton based action recognition,Skeleton based action recognition,Skeleton based action recognition
+Action detection,Action detection,Online Action Detection,Online Action Detection,Online Action Detection
+Action detection,Action detection,Audio-visual active speaker detection,Audio-visual active speaker detection,Audio-visual active speaker detection
+Action detection,Action detection,Action detection,Action detection,Action detection
+Action localization // Action segmentation,Action localization,Action segmentation,Action segmentation,Action segmentation
+Action localization // Action segmentation,Action localization,Action segmentation,Weakly Supervised Action Segmentation (Transcript),Weakly Supervised Action Segmentation (Transcript)
+Action localization // Temporal action localization,Action localization,Temporal action localization,Temporal action localization,Temporal action localization
+Action localization // Temporal action localization // 3D human action recognition,Action localization,Temporal action localization,3D human action recognition,Skeleton based action recognition
+Action localization // Temporal action localization // Action recognition,Action localization,Temporal action localization,Action recognition,Action recognition
+Action localization // Temporal action localization // Action recognition,Action localization,Temporal action localization,Action recognition,Skeleton based action recognition
+Action localization // Temporal action localization // Action recognition,Action localization,Temporal action localization,Action recognition,3D semantic segmentation
+Action localization // Temporal action localization // Action recognition,Action localization,Temporal action localization,Action recognition,Deblurring
+Action localization // Temporal action localization // Action recognition,Action localization,Temporal action localization,Action recognition,Self-supervised action recognition
+Action localization // Temporal action localization // Action recognition,Action localization,Temporal action localization,Action recognition,Few Shot Action Recognition
+Action localization // Temporal action localization // Action recognition in videos,Action localization,Temporal action localization,Action recognition in videos,Self-supervised action recognition
+Action localization // Temporal action localization // Activity recognition in videos,Action localization,Temporal action localization,Activity recognition in videos,Activity recognition in videos
+Action localization // Temporal action localization // Temporal action proposal generation,Action localization,Temporal action localization,Temporal action proposal generation,Temporal action proposal generation
+Action localization // Temporal action localization // Weakly supervised action localization,Action localization,Temporal action localization,Weakly supervised action localization,Weakly supervised action localization
+Action quality assessment,Action quality assessment,Action quality assessment,Action quality assessment,Action quality assessment
+Activity recognition,Activity recognition,Action recognition,Action recognition,Action recognition
+Activity recognition,Activity recognition,Egocentric activity recognition,Egocentric activity recognition,Egocentric activity recognition
+Activity recognition,Activity recognition,Action recognition,Self-supervised action recognition,Self-supervised action recognition
+Activity recognition,Activity recognition,Multimodal activity recognition,Multimodal activity recognition,Multimodal activity recognition
+Activity recognition,Activity recognition,Group activity recognition,Group activity recognition,Group activity recognition
+Activity recognition,Activity recognition,Action recognition,Few Shot Action Recognition,Few Shot Action Recognition
+Activity recognition,Activity recognition,Action recognition,3D action recognition,Skeleton based action recognition
+Activity recognition,Activity recognition,Action recognition,3D action recognition,Deblurring
+Activity recognition,Activity recognition,Action recognition,3D action recognition,3D semantic segmentation
+Ad-hoc video search,Ad-hoc video search,Ad-hoc video search,Ad-hoc video search,Ad-hoc video search
+Anomaly detection,Anomaly detection,Anomaly detection,Anomaly detection,Anomaly detection
+Anomaly detection,Anomaly detection,Abnormal event detection in video,Semi-supervised anomaly detection,Semi-supervised anomaly detection
+Anomaly detection,Anomaly detection,Abnormal event detection in video,Anomaly detection in surveillance videos,Anomaly detection in surveillance videos
+Anomaly detection,Anomaly detection,Abnormal event detection in video,Abnormal event detection in video,Abnormal event detection in video
+Autonomous vehicle task,Autonomous vehicle task,Autonomous driving,Autonomous driving,Autonomous driving
+Autonomous vehicle task,Autonomous vehicle task,3D car instance understanding,Text-to-image generation,Text-to-image generation
+Autonomous vehicle task,Autonomous vehicle task,Autonomous driving,CARLA MAP Leaderboard,CARLA MAP Leaderboard
+Autonomous vehicle task,Autonomous vehicle task,Autonomous driving,Motion forecasting,Motion forecasting
+Autonomous vehicle task,Autonomous vehicle task,Pedestrian attribute recognition,Pedestrian attribute recognition,Pedestrian attribute recognition
+Autonomous vehicle task,Autonomous vehicle task,Pedestrian detection,Pedestrian detection,Pedestrian detection
+Autonomous vehicle task,Autonomous vehicle task,Lane detection,Lane detection,Lane detection
+Autonomous vehicle task,Autonomous vehicle task,3D car instance understanding,Hand gesture recognition,Skeleton based action recognition
+Autonomous vehicle task,Autonomous vehicle task,3D car instance understanding,Hand gesture recognition,Hand gesture recognition
+Biomedical vision process,Biomedical vision process,Medical image segmentation,Retinal vessel segmentation,Retinal vessel segmentation
+Biomedical vision process,Biomedical vision process,Medical image segmentation,Video Polyp Segmentation,Video Polyp Segmentation
+Biomedical vision process,Biomedical vision process,Medical image segmentation,Nuclear segmentation,Nuclear segmentation
+Biomedical vision process,Biomedical vision process,Medical image segmentation,Medical image segmentation,Medical image segmentation
+Biomedical vision process,Biomedical vision process,Medical image segmentation,Volumetric medical image segmentation,Skin cancer segmentation
+Biomedical vision process,Biomedical vision process,Multi-tissue nucleus segmentation,Multi-tissue nucleus segmentation,Multi-tissue nucleus segmentation
+Biomedical vision process,Biomedical vision process,Retinal OCT disease classification,Retinal OCT disease classification,Retinal OCT disease classification
+Biomedical vision process,Biomedical vision process,Surgical tool detection,Surgical tool detection,Surgical tool detection
+Biomedical vision process,Biomedical vision process,Medical image segmentation,Lesion segmentation,Lesion segmentation
+Biomedical vision process,Biomedical vision process,Medical image segmentation,Liver segmentation,Liver segmentation
+Biomedical vision process,Biomedical vision process,Medical image segmentation,Lung nodule segmentation,Lung nodule segmentation
+Biomedical vision process,Biomedical vision process,Breast tumour classification,Breast tumour classification,Breast tumour classification
+Biomedical vision process,Biomedical vision process,Medical image segmentation,Brain image segmentation,Brain tumor segmentation
+Biomedical vision process,Biomedical vision process,Medical image segmentation,Colorectal gland segmentation,Colorectal gland segmentation
+Blind face restoration,Blind face restoration,Blind face restoration,Blind face restoration,Blind face restoration
+Continual learning,Continual learning,Continual learning,Continual learning,Continual learning
+Continual learning,Continual learning,Class-incremental learning,Class-incremental learning,Class-incremental learning
+Crowds,Crowds,Crowd counting,Crowd counting,Crowd counting
+Deception detection,Deception detection,Face anti-spoofing,Face anti-spoofing,Face anti-spoofing
+Dehazing,Dehazing,Image dehazing,Real-time object detection,Real-time object detection
+Dehazing,Dehazing,Image dehazing,Image dehazing,Image dehazing
+Denoising,Denoising,Image denoising,Grayscale image denoising,Grayscale image denoising
+Denoising,Denoising,Image denoising,Image denoising,Image denoising
+Denoising,Denoising,Image denoising,Color image denoising,Color image denoising
+Denoising,Denoising,Denoising,Denoising,Denoising
+Depth completion,Depth completion,Depth completion,Depth completion,Depth completion
+Depth estimation,Depth estimation,Monocular depth estimation,Monocular depth estimation,Monocular depth estimation
+Depth estimation,Depth estimation,Stereo-lidar fusion,Stereo-lidar fusion,Stereo-lidar fusion
+Depth estimation,Depth estimation,Stereo depth estimation,Stereo depth estimation,Stereo depth estimation
+Depth estimation,Depth estimation,Depth estimation,Depth estimation,Depth estimation
+Depth estimation,Depth estimation,Depth And Camera Motion,Face anti-spoofing,Face anti-spoofing
+Depth estimation,Depth estimation,3D Depth Estimation,3D Depth Estimation,3D Depth Estimation
+Domain adaptation,Domain adaptation,Unsupervised domain adaptation,Unsupervised domain adaptation,Unsupervised domain adaptation
+Domain adaptation,Domain adaptation,Partial domain adaptation,Partial domain adaptation,Partial domain adaptation
+Domain adaptation,Domain adaptation,Domain adaptation,Domain adaptation,Domain adaptation
+Domain adaptation,Domain adaptation,Domain generalization,Domain generalization,Domain generalization
+Edge detection,Edge detection,Edge detection,Edge detection,Edge detection
+Emotion classification,Emotion classification,Emotion classification,Emotion classification,Emotion classification
+Emotion recognition,Emotion recognition,Emotion recognition in conversation,Emotion recognition in conversation,Emotion recognition in conversation
+Emotion recognition,Emotion recognition,Speech emotion recognition,Speech emotion recognition,Speech emotion recognition
+Emotion recognition,Emotion recognition,Emotion-cause pair extraction,Emotion-cause pair extraction,Emotion-cause pair extraction
+Emotion recognition,Emotion recognition,Emotion recognition,Emotion recognition,Emotion recognition
+Gesture recognition,Gesture recognition,Hand gesture recognition,Skeleton based action recognition,Skeleton based action recognition
+Gesture recognition,Gesture recognition,Hand gesture recognition,Hand gesture recognition,Hand gesture recognition
+Hand-related vision process,Hand-related vision process,Hand gesture recognition,Skeleton based action recognition,Skeleton based action recognition
+Hand-related vision process,Hand-related vision process,Hand pose estimation,Hand pose estimation,Hand pose estimation
+Hand-related vision process,Hand-related vision process,Hand pose estimation,3D hand pose estimation,3D hand pose estimation
+Hand-related vision process,Hand-related vision process,Hand gesture recognition,Hand gesture recognition,Hand gesture recognition
+Hand-related vision process,Hand-related vision process,Gesture-to-gesture translation,Gesture-to-gesture translation,Gesture-to-gesture translation
+Horizon line estimation,Horizon line estimation,Horizon line estimation,Horizon line estimation,Horizon line estimation
+Human interaction recognition,Human interaction recognition,Skeleton based action recognition,Skeleton based action recognition,Skeleton based action recognition
+Human interaction recognition,Human interaction recognition,One-shot 3D action recognition,One-shot 3D action recognition,One-shot 3D action recognition
+Human interaction recognition,Human interaction recognition,Human interaction recognition,Human interaction recognition,Human interaction recognition
+Human parsing,Human parsing,Multi-human parsing,Multi-human parsing,Multi-human parsing
+Human-object interaction detection,Human-object interaction detection,Human-object interaction detection,Human-object interaction detection,Human-object interaction detection
+Image classification,Image classification,Image classification,Image classification,Image classification
+Image classification // Document image classification,Image classification,Document image classification,Document image classification,Document image classification
+Image classification // Few-shot image classification,Image classification,Few-shot image classification,Generalized few-shot classification,Long-tail learning with class descriptors
+Image classification // Few-shot image classification,Image classification,Few-shot image classification,Few-shot image classification,Few-shot image classification
+Image classification // Few-shot image classification,Image classification,Few-shot image classification,Generalized few-shot classification,Long-tail learning
+Image classification // Fine-grained image classification,Image classification,Fine-grained image classification,Fine-grained image classification,Fine-grained image classification
+Image classification // Hyperspectral image classification,Image classification,Hyperspectral image classification,Hyperspectral image classification,Hyperspectral image classification
+Image classification // Learning with noisy labels,Image classification,Learning with noisy labels,Learning with noisy labels,Learning with noisy labels
+Image classification // Photo geolocation estimation,Image classification,Photo geolocation estimation,Photo geolocation estimation,Photo geolocation estimation
+Image classification // Satellite image classification,Image classification,Satellite image classification,Satellite image classification,Satellite image classification
+Image classification // Self-supervised image classification,Image classification,Self-supervised image classification,Self-supervised image classification,Self-supervised image classification
+Image classification // Semi-supervised image classification,Image classification,Semi-supervised image classification,Semi-supervised image classification,Semi-supervised image classification
+Image classification // Sequential image classification,Image classification,Sequential image classification,Sequential image classification,Sequential image classification
+Image classification // Superpixel image classification,Image classification,Superpixel image classification,Superpixel image classification,Superpixel image classification
+Image classification // Unsupervised image classification,Image classification,Unsupervised image classification,Unsupervised image classification,Unsupervised image classification
+Image clustering,Image clustering,Image clustering,Image clustering,Image clustering
+Image denoising,Image denoising,Grayscale image denoising,Grayscale image denoising,Grayscale image denoising
+Image denoising,Image denoising,Image denoising,Image denoising,Image denoising
+Image denoising,Image denoising,Color image denoising,Color image denoising,Color image denoising
+Image enhancement,Image enhancement,Image relighting,Image relighting,Image relighting
+Image enhancement,Image enhancement,Low-light image enhancement,Low-light image enhancement,Low-light image enhancement
+Image enhancement,Image enhancement,Image enhancement,Image enhancement,Image enhancement
+Image generation,Image generation,Image-to-image translation,Image-to-image translation,Image-to-image translation
+Image generation,Image generation,Image-to-image translation,Multimodal unsupervised image-to-image translation,Multimodal unsupervised image-to-image translation
+Image generation,Image generation,Image-to-image translation,Synthetic-to-real translation,Synthetic-to-real translation
+Image generation,Image generation,Text-to-image generation,Text-to-image generation,Text-to-image generation
+Image generation,Image generation,Pose transfer,Pose transfer,Pose transfer
+Image generation,Image generation,Layout-to-image generation,Layout-to-image generation,Layout-to-image generation
+Image generation,Image generation,Image-to-image translation,Unsupervised image-to-image translation,Unsupervised image-to-image translation
+Image generation,Image generation,Image-to-image translation,Cross-view image-to-image translation,Cross-view image-to-image translation
+Image generation,Image generation,Image generation,Image generation,Image generation
+Image generation,Image generation,Conditional image generation,Conditional image generation,Conditional image generation
+Image generation,Image generation,Face generation,Face hallucination,Face hallucination
+Image generation,Image generation,Image-to-image translation,Fundus to angiography generation,Fundus to angiography generation
+Image matching,Image matching,Semantic correspondence,Semantic correspondence,Semantic correspondence
+Image matching,Image matching,Image matching,Image matching,Image matching
+Image matting,Image matting,Image matting,Image matting,Image matting
+Image matting,Image matting,Semantic image matting,Semantic image matting,Semantic image matting
+Image quality assessment,Image quality assessment,Aesthetics quality assessment,Aesthetics quality assessment,Aesthetics quality assessment
+Image question answering,Image question answering,Image question answering,Image question answering,Image question answering
+Image recognition,Image recognition,Face recognition,Face recognition,Face recognition
+Image recognition,Image recognition,Face recognition,Age-invariant face recognition,Age-invariant face recognition
+Image reconstruction,Image reconstruction,Image reconstruction,Image reconstruction,Image reconstruction
+Image restoration,Image restoration,JPEG artifact correction,JPEG artifact correction,JPEG artifact correction
+Image restoration,Image restoration,Underwater Image Restoration,Underwater Image Restoration,Underwater Image Restoration
+Image retrieval,Image retrieval,Image retrieval with multi-modal query,Cross-modal retrieval,Cross-modal retrieval
+Image retrieval,Image retrieval,Image retrieval with multi-modal query,Image retrieval with multi-modal query,Image retrieval with multi-modal query
+Image retrieval,Image retrieval,Text-image retrieval,Text-image retrieval,Text-image retrieval
+Image retrieval,Image retrieval,Image retrieval,Image retrieval,Image retrieval
+Image tagging,Image tagging,Image captioning,Image captioning,Image captioning
+Image tagging,Image tagging,Image captioning,Phrase grounding,Phrase grounding
+Image/document clustering,Image/document clustering,Image/document clustering,Image/document clustering,Image/document clustering
+Instance segmentation,Instance segmentation,Referring expression segmentation,Referring expression segmentation,Referring expression segmentation
+Instance segmentation,Instance segmentation,Instance segmentation,Instance segmentation,Instance segmentation
+Instance segmentation,Instance segmentation,Image-level Supervised Instance Segmentation,Image-level Supervised Instance Segmentation,Image-level Supervised Instance Segmentation
+Instance segmentation,Instance segmentation,3D instance segmentation,3D instance segmentation,3D instance segmentation
+Instance segmentation,Instance segmentation,3D semantic instance segmentation,3D semantic instance segmentation,3D semantic instance segmentation
+Instance segmentation,Instance segmentation,Real-time instance segmentation,Real-time instance segmentation,Real-time instance segmentation
+Intelligent surveillance,Intelligent surveillance,Vehicle re-identification,Vehicle re-identification,Vehicle re-identification
+Interest point detection,Interest point detection,Homography estimation,Homography estimation,Homography estimation
+Keyword spotting,Keyword spotting,Keyword spotting,Keyword spotting,Keyword spotting
+Line segment detection,Line segment detection,Line segment detection,Line segment detection,Line segment detection
+Material property prediction,Material property prediction,Formation energy prediction,Formation energy prediction,Formation energy prediction
+Medical diagnosis,Medical diagnosis,Retinal OCT disease classification,Retinal OCT disease classification,Retinal OCT disease classification
+Meta-learning,Meta-learning,Few-shot learning,Few-shot image classification,Long-tail learning
+Meta-learning,Meta-learning,Few-shot learning,Few-shot image classification,Few-shot image classification
+Meta-learning,Meta-learning,Few-shot learning,Few-shot semantic segmentation,Few-shot semantic segmentation
+Meta-learning,Meta-learning,Few-shot learning,Few-shot image classification,Long-tail learning with class descriptors
+Multi-target domain adaptation,Multi-target domain adaptation,Multi-target domain adaptation,Multi-target domain adaptation,Multi-target domain adaptation
+Multimodal machine translation,Multimodal machine translation,Multimodal machine translation,Multimodal machine translation,Multimodal machine translation
+Multispectral Object Detection,Multispectral Object Detection,Multispectral Object Detection,Multispectral Object Detection,Multispectral Object Detection
+Natural Language Transduction,Natural Language Transduction,Lip reading,Lip reading,Lip reading
+Object counting,Object counting,Object counting,Object counting,Object counting
+Object detection,Object detection,Object detection,Object detection,Object detection
+Object detection // 2D object detection,Object detection,2D object detection,Image captioning,Image captioning
+Object detection // 2D object detection,Object detection,2D object detection,Image captioning,Phrase grounding
+Object detection // 2D object detection,Object detection,2D object detection,Open Vocabulary Object Detection,Open Vocabulary Object Detection
+Object detection // 3D object detection,Object detection,3D object detection,3D object detection,3D object detection
+Object detection // 3D object detection,Object detection,3D object detection,3D Object Detection From Stereo Images,3D Object Detection From Stereo Images
+Object detection // 3D object detection,Object detection,3D object detection,Monocular 3D object detection,Monocular 3D object detection
+Object detection // Birds eye view object detection,Object detection,Birds eye view object detection,Birds eye view object detection,Birds eye view object detection
+Object detection // Camouflaged object segmentation,Object detection,Camouflaged object segmentation,Camouflaged object segmentation,Camouflaged object segmentation
+Object detection // Dense object detection,Object detection,Dense object detection,Dense object detection,Dense object detection
+Object detection // Face detection,Object detection,Face detection,Face detection,Face detection
+Object detection // Few-shot object detection,Object detection,Few-shot object detection,Few-shot object detection,Few-shot object detection
+Object detection // Medical object detection,Object detection,Medical object detection,Medical object detection,Medical object detection
+Object detection // Object Detection In Indoor Scenes,Object detection,Object Detection In Indoor Scenes,Object Detection In Indoor Scenes,Object Detection In Indoor Scenes
+Object detection // Object detection in aerial images,Object detection,Object detection in aerial images,Object detection in aerial images,Object detection in aerial images
+Object detection // Object proposal generation,Object detection,Object proposal generation,Object proposal generation,Object proposal generation
+Object detection // RGB salient object detection,Object detection,RGB salient object detection,Video salient object detection,Video salient object detection
+Object detection // RGB salient object detection,Object detection,RGB salient object detection,Co-salient object detection,Co-salient object detection
+Object detection // RGB salient object detection,Object detection,RGB salient object detection,RGB salient object detection,RGB salient object detection
+Object detection // RGB-D salient object detection,Object detection,RGB-D salient object detection,RGB-D salient object detection,RGB-D salient object detection
+Object detection // Real-time object detection,Object detection,Real-time object detection,Real-time object detection,Real-time object detection
+Object detection // Salient object detection,Object detection,Salient object detection,Video salient object detection,Video salient object detection
+Object detection // Salient object detection,Object detection,Salient object detection,Salient object detection,Salient object detection
+Object detection // Surgical tool detection,Object detection,Surgical tool detection,Surgical tool detection,Surgical tool detection
+Object detection // Video object detection,Object detection,Video object detection,Video object detection,Video object detection
+Object detection // Weakly supervised object detection,Object detection,Weakly supervised object detection,Weakly supervised object detection,Weakly supervised object detection
+Object localization,Object localization,Weakly-supervised object localization,Weakly-supervised object localization,Weakly-supervised object localization
+Object reconstruction,Object reconstruction,3D object reconstruction,3D object reconstruction from a single image,3D object reconstruction from a single image
+Object reconstruction,Object reconstruction,3D object reconstruction,3D object reconstruction,3D object reconstruction
+Object segmentation,Object segmentation,Camouflaged object segmentation,Camouflaged object segmentation,Camouflaged object segmentation
+Optical character recognition,Optical character recognition,Optical character recognition,Optical character recognition,Optical character recognition
+Optical flow estimation,Optical flow estimation,Optical flow estimation,Optical flow estimation,Optical flow estimation
+Out-of-distribution detection,Out-of-distribution detection,Out-of-distribution detection,Out-of-distribution detection,Out-of-distribution detection
+Person re-identification,Person re-identification,Person re-identification,Person re-identification,Person re-identification
+Person re-identification,Person re-identification,Unsupervised person re-identification,Unsupervised person re-identification,Unsupervised person re-identification
+Person re-identification,Person re-identification,Self-Supervised Person Re-Identification,Self-Supervised Person Re-Identification,Self-Supervised Person Re-Identification
+Person re-identification,Person re-identification,Generalizable person re-identification,Generalizable person re-identification,Generalizable person re-identification
+Person search,Person search,Person search,Person search,Person search
+Point Cloud Segmentation,Point Cloud Segmentation,Point Cloud Segmentation,Point Cloud Segmentation,Point Cloud Segmentation
+Point cloud classification,Point cloud classification,3D point cloud classification,3D point cloud classification,3D point cloud classification
+Point cloud classification,Point cloud classification,Point cloud classification,Point cloud classification,Point cloud classification
+Point cloud generation,Point cloud generation,Point cloud completion,Point cloud completion,Point cloud completion
+Point cloud registration,Point cloud registration,Point cloud registration,Point cloud registration,Point cloud registration
+Point cloud super resolution,Point cloud super resolution,Point cloud super resolution,Point cloud super resolution,Point cloud super resolution
+Pose tracking,Pose tracking,Pose tracking,Pose tracking,Pose tracking
+Quantization,Quantization,Data Free Quantization,Data Free Quantization,Data Free Quantization
+Rain removal,Rain removal,Single image deraining,Single image deraining,Single image deraining
+Reconstruction,Reconstruction,Single-view 3D reconstruction,3D Semantic Scene Completion from a single RGB image,3D Semantic Scene Completion from a single RGB image
+Reconstruction,Reconstruction,3D human reconstruction,3D human reconstruction,3D human reconstruction
+Remote sensing,Remote sensing,Change detection for remote sensing images,Change detection for remote sensing images,Change detection for remote sensing images
+Robot navigation,Robot navigation,Robot navigation,Robot navigation,Robot navigation
+Saliency detection,Saliency detection,Co-salient object detection,Co-salient object detection,Co-salient object detection
+Saliency detection,Saliency detection,Video saliency detection,Video saliency detection,Video saliency detection
+Scene parsing,Scene parsing,Scene text recognition,Scene text recognition,Scene text recognition
+Scene parsing,Scene parsing,Scene understanding,3D room layouts from a single rgb panorama,3D room layouts from a single rgb panorama
+Scene parsing,Scene parsing,Scene graph generation,Panoptic Scene Graph Generation,Panoptic Scene Graph Generation
+Scene parsing,Scene parsing,Face parsing,Face parsing,Face parsing
+Scene parsing,Scene parsing,Scene graph generation,Scene graph generation,Scene graph generation
+Scene parsing,Scene parsing,Scene graph generation,Unbiased Scene Graph Generation,Unbiased Scene Graph Generation
+Scene text detection,Scene text detection,Scene text detection,Scene text detection,Scene text detection
+Scene text detection,Scene text detection,Curved text detection,Curved text detection,Curved text detection
+Semantic segmentation,Semantic segmentation,Semantic segmentation,Semantic segmentation,Semantic segmentation
+Semantic segmentation // 2D Semantic Segmentation,Semantic segmentation,2D Semantic Segmentation,Disjoint 15-5,Disjoint 15-5
+Semantic segmentation // 2D Semantic Segmentation,Semantic segmentation,2D Semantic Segmentation,Text style transfer,Text style transfer
+Semantic segmentation // 2D Semantic Segmentation,Semantic segmentation,2D Semantic Segmentation,Disjoint 15-1,Disjoint 15-1
+Semantic segmentation // 2D Semantic Segmentation,Semantic segmentation,2D Semantic Segmentation,Disjoint 10-1,Disjoint 10-1
+Semantic segmentation // 2D Semantic Segmentation,Semantic segmentation,2D Semantic Segmentation,2D Semantic Segmentation,2D Semantic Segmentation
+Semantic segmentation // 3D part segmentation,Semantic segmentation,3D part segmentation,3D part segmentation,3D part segmentation
+Semantic segmentation // 3D semantic segmentation,Semantic segmentation,3D semantic segmentation,3D semantic segmentation,3D semantic segmentation
+Semantic segmentation // Few-shot semantic segmentation,Semantic segmentation,Few-shot semantic segmentation,Few-shot semantic segmentation,Few-shot semantic segmentation
+Semantic segmentation // Human part segmentation,Semantic segmentation,Human part segmentation,Human part segmentation,Human part segmentation
+Semantic segmentation // LIDAR semantic segmentation,Semantic segmentation,LIDAR semantic segmentation,LIDAR semantic segmentation,LIDAR semantic segmentation
+Semantic segmentation // Panoptic segmentation,Semantic segmentation,Panoptic segmentation,Panoptic segmentation,Panoptic segmentation
+Semantic segmentation // Real-time semantic segmentation,Semantic segmentation,Real-time semantic segmentation,Real-time semantic segmentation,Real-time semantic segmentation
+Semantic segmentation // Scene segmentation,Semantic segmentation,Scene segmentation,Thermal Image Segmentation,Thermal Image Segmentation
+Semantic segmentation // Semi-supervised semantic segmentation,Semantic segmentation,Semi-supervised semantic segmentation,Semi-supervised semantic segmentation,Semi-supervised semantic segmentation
+Semantic segmentation // Unsupervised semantic segmentation,Semantic segmentation,Unsupervised semantic segmentation,Unsupervised semantic segmentation,Unsupervised semantic segmentation
+Semantic segmentation // Weakly-supervised semantic segmentation,Semantic segmentation,Weakly-supervised semantic segmentation,Weakly-supervised semantic segmentation,Weakly-supervised semantic segmentation
+Semi-supervised object detection,Semi-supervised object detection,Semi-supervised object detection,Semi-supervised object detection,Semi-supervised object detection
+Sign language recognition,Sign language recognition,Sign language recognition,Sign language recognition,Sign language recognition
+Sign language translation,Sign language translation,Sign language translation,Sign language translation,Sign language translation
+Single-object discovery,Single-object discovery,Single-object discovery,Single-object discovery,Single-object discovery
+Super-resolution,Super-resolution,3D Object Super-Resolution,Image super-resolution,Stereo Image Super-Resolution
+Super-resolution,Super-resolution,Super-resolution,Super-resolution,Super-resolution
+Super-resolution,Super-resolution,3D Object Super-Resolution,Image super-resolution,Image super-resolution
+Super-resolution,Super-resolution,3D Object Super-Resolution,Image super-resolution,Multi-frame super-resolution
+Super-resolution,Super-resolution,Video super-resolution,Video super-resolution,Video super-resolution
+Super-resolution,Super-resolution,3D Object Super-Resolution,Image super-resolution,Burst Image Super-Resolution
+Super-resolution,Super-resolution,3D Object Super-Resolution,Image super-resolution,Audio super-resolution
+Surface normals estimation,Surface normals estimation,Surface normals estimation,Surface normals estimation,Surface normals estimation
+Text based person retrieval,Text based person retrieval,Text based person retrieval,Text based person retrieval,Text based person retrieval
+Video process // Abnormal event detection in video,Video process,Abnormal event detection in video,Semi-supervised anomaly detection,Semi-supervised anomaly detection
+Video process // Abnormal event detection in video,Video process,Abnormal event detection in video,Anomaly detection in surveillance videos,Anomaly detection in surveillance videos
+Video process // Abnormal event detection in video,Video process,Abnormal event detection in video,Abnormal event detection in video,Abnormal event detection in video
+Video process // Action classification,Video process,Action classification,Skeleton based action recognition,Skeleton based action recognition
+Video process // Action classification,Video process,Action classification,Action classification,Action classification
+Video process // Action spotting,Video process,Action spotting,Action spotting,Action spotting
+Video process // Activity recognition in videos,Video process,Activity recognition in videos,Activity recognition in videos,Activity recognition in videos
+Video process // Object tracking,Video process,Object tracking,Visual object tracking,Visual object tracking
+Video process // Object tracking,Video process,Object tracking,Multi-object tracking,Multi-object tracking
+Video process // Object tracking,Video process,Object tracking,Online multi-object tracking,Online multi-object tracking
+Video process // Object tracking,Video process,Object tracking,Multiple object tracking,Multiple object tracking
+Video process // Video Enhancement,Video process,Video Enhancement,Video Enhancement,Video Enhancement
+Video process // Video Quality Assessment,Video process,Video Quality Assessment,Video Quality Assessment,Video Quality Assessment
+Video process // Video captioning,Video process,Video captioning,Video captioning,Video captioning
+Video process // Video captioning,Video process,Video captioning,Dense video captioning,Dense video captioning
+Video process // Video classification,Video process,Video classification,Action recognition,Self-supervised action recognition
+Video process // Video classification,Video process,Video classification,Action recognition,Skeleton based action recognition
+Video process // Video classification,Video process,Video classification,Action recognition,Deblurring
+Video process // Video classification,Video process,Video classification,Action recognition,Few Shot Action Recognition
+Video process // Video classification,Video process,Video classification,Video classification,Video classification
+Video process // Video classification,Video process,Video classification,Action recognition,Action recognition
+Video process // Video classification,Video process,Video classification,Action recognition,3D semantic segmentation
+Video process // Video denoising,Video process,Video denoising,Video denoising,Video denoising
+Video process // Video frame interpolation,Video process,Video frame interpolation,Video frame interpolation,Video frame interpolation
+Video process // Video generation,Video process,Video generation,Video generation,Video generation
+Video process // Video inpainting,Video process,Video inpainting,Video inpainting,Video inpainting
+Video process // Video instance segmentation,Video process,Video instance segmentation,Video instance segmentation,Video instance segmentation
+Video process // Video object segmentation // Interactive video object segmentation,Video process,Video object segmentation,Interactive video object segmentation,Interactive video object segmentation
+Video process // Video object segmentation // Semi-supervised video object segmentation,Video process,Video object segmentation,Semi-supervised video object segmentation,Semi-supervised video object segmentation
+Video process // Video object segmentation // Semi-supervised video object segmentation,Video process,Video object segmentation,Semi-supervised video object segmentation,One-shot visual object segmentation
+Video process // Video object segmentation // Unsupervised video object segmentation,Video process,Video object segmentation,Unsupervised video object segmentation,Unsupervised video object segmentation
+Video process // Video object segmentation // Video salient object detection,Video process,Video object segmentation,Video salient object detection,Video salient object detection
+Video process // Video prediction,Video process,Video prediction,Video prediction,Video prediction
+Video process // Video question answering,Video process,Video question answering,Video question answering,Video question answering
+Video process // Video retrieval,Video process,Video retrieval,Video retrieval,Video retrieval
+Video process // Video segmentation,Video process,Video segmentation,Camera shot boundary detection,Camera shot boundary detection
+Video process // Video semantic segmentation,Video process,Video semantic segmentation,Video semantic segmentation,Video semantic segmentation
+Video process // Video summarization,Video process,Video summarization,Unsupervised video summarization,Unsupervised video summarization
+Video process // Video summarization,Video process,Video summarization,Video summarization,Video summarization
+Video process // Video summarization,Video process,Video summarization,Supervised video summarization,Supervised video summarization
+Video process // Video super-resolution,Video process,Video super-resolution,Video super-resolution,Video super-resolution
+Visual Odometry,Visual Odometry,Face anti-spoofing,Face anti-spoofing,Face anti-spoofing
+Visual Relationship Detection,Visual Relationship Detection,Visual Relationship Detection,Visual Relationship Detection,Visual Relationship Detection
+Visual dialog,Visual dialog,Visual dialog,Visual dialog,Visual dialog
+Visual place recognition,Visual place recognition,Visual place recognition,Visual place recognition,Visual place recognition
+Visual reasoning,Visual reasoning,Visual reasoning,Visual reasoning,Visual reasoning
+Weakly-supervised instance segmentation,Weakly-supervised instance segmentation,Weakly-supervised instance segmentation,Weakly-supervised instance segmentation,Weakly-supervised instance segmentation
+Zero-Shot Action Recognition,Zero-Shot Action Recognition,Zero-Shot Action Recognition,Zero-Shot Action Recognition,Zero-Shot Action Recognition
