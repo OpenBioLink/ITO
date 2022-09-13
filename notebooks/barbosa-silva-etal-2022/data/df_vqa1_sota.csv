@@ -1,6 +1,0 @@
-,date,individual,class,benchmark_process_class_label,performance_measure,metricName,result,model_label
-3,2015-11-07,https://identifiers.org/ito:ITO_in2owp92BaxHj3MOw,https://identifiers.org/ito:ITO_27153,VQA v1 test-std - Visual Question Answering benchmarking,https://identifiers.org/ito:ITO_02411,Accuracy,58.9,SAN (VGG)
-1,2016-03-04,https://identifiers.org/ito:ITO_iXak9KJ8SkzUBeVq0,https://identifiers.org/ito:ITO_27153,VQA v1 test-std - Visual Question Answering benchmarking,https://identifiers.org/ito:ITO_02411,Accuracy,60.4,DMN+
-5,2016-05-31,https://identifiers.org/ito:ITO_iySUwggvw6tCY8uAx,https://identifiers.org/ito:ITO_27153,VQA v1 test-std - Visual Question Answering benchmarking,https://identifiers.org/ito:ITO_02411,Accuracy,62.1,HieCoAtt (ResNet)
-4,2016-06-12,https://identifiers.org/ito:ITO_iqpFnVAmwnyervNJq,https://identifiers.org/ito:ITO_27153,VQA v1 test-std - Visual Question Answering benchmarking,https://identifiers.org/ito:ITO_02411,Accuracy,63.2,RAU (ResNet)
-0,2017-04-11,https://identifiers.org/ito:ITO_ilGDWzDB8LWOzcZ6F,https://identifiers.org/ito:ITO_27153,VQA v1 test-std - Visual Question Answering benchmarking,https://identifiers.org/ito:ITO_02411,Accuracy,64.6,SAAA (ResNet)
