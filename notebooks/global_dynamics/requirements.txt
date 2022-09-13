@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+plotly
+kaleido
+seaborn
+pyyaml
+SPARQLWrapper
+tslearn
+minisom

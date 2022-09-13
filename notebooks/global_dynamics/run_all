@@ -1,0 +1,5 @@
+jupyter nbconvert --to notebook --inplace --execute create_csv.ipynb
+jupyter nbconvert --to notebook --inplace --execute global_map.ipynb
+jupyter nbconvert --to notebook --inplace --execute clustering.ipynb
+jupyter nbconvert --to notebook --inplace --execute qualitative_analysis.ipynb
+jupyter nbconvert --to notebook --inplace --execute benchmark_analysis.ipynb

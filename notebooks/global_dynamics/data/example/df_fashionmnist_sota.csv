@@ -1,0 +1,4 @@
+,date,individual,class,benchmark_process_class_label,performance_measure,metricName,result,model_label
+5,2012-08-25,https://identifiers.org/ito:ITO_ilmcact0V019TATUg,https://identifiers.org/ito:ITO_33753,Fashion-MNIST - Image Clustering benchmarking,https://identifiers.org/ito:ITO_02411,Accuracy,0.627,GDL
+1,2019-08-16,https://identifiers.org/ito:ITO_iEEbbW17yeAd18m4f,https://identifiers.org/ito:ITO_33753,Fashion-MNIST - Image Clustering benchmarking,https://identifiers.org/ito:ITO_02411,Accuracy,0.672,N2D (UMAP)
+4,2020-06-05,https://identifiers.org/ito:ITO_iZcPK13zLKux5sENT,https://identifiers.org/ito:ITO_33753,Fashion-MNIST - Image Clustering benchmarking,https://identifiers.org/ito:ITO_02411,Accuracy,0.856,AE+SNNL

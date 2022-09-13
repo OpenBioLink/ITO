@@ -1,0 +1,8 @@
+,date,individual,class,benchmark_process_class_label,performance_measure,metricName,result,model_label
+21,2016-12-02,https://identifiers.org/ito:ITO_imDtNOmpTI87fxSXk,https://identifiers.org/ito:ITO_27222,VQA v2 test-std - Visual Question Answering benchmarking,https://identifiers.org/ito:ITO_27059,overall,62.27,"MCB [11, 12]"
+20,2017-05-18,https://identifiers.org/ito:ITO_iZfBjcwfSDC8nt8Hh,https://identifiers.org/ito:ITO_27222,VQA v2 test-std - Visual Question Answering benchmarking,https://identifiers.org/ito:ITO_27059,overall,67.4,MUTAN
+26,2017-07-25,https://identifiers.org/ito:ITO_ixFzKdftDKO6vBVYS,https://identifiers.org/ito:ITO_27222,VQA v2 test-std - Visual Question Answering benchmarking,https://identifiers.org/ito:ITO_27059,overall,70.34,Up-Down
+14,2018-05-21,https://identifiers.org/ito:ITO_iMC8pqt7hg39MV6DR,https://identifiers.org/ito:ITO_27222,VQA v2 test-std - Visual Question Answering benchmarking,https://identifiers.org/ito:ITO_27059,overall,70.4,BAN+Glove+Counter
+28,2019-06-25,https://identifiers.org/ito:ITO_iyi6cTyvUMy0xWpsr,https://identifiers.org/ito:ITO_27222,VQA v2 test-std - Visual Question Answering benchmarking,https://identifiers.org/ito:ITO_27059,overall,70.9,MCANed-6
+30,2019-07-23,https://identifiers.org/ito:ITO_izrDjEwHwphgXuYxt,https://identifiers.org/ito:ITO_27222,VQA v2 test-std - Visual Question Answering benchmarking,https://identifiers.org/ito:ITO_27059,overall,75.92,"BGN, ensemble"
+15,2021-01-02,https://identifiers.org/ito:ITO_iTKldtjhkRQqAWcWm,https://identifiers.org/ito:ITO_27222,VQA v2 test-std - Visual Question Answering benchmarking,https://identifiers.org/ito:ITO_27059,overall,77.45,"MSR + MS Cog. Svcs., X10 models"

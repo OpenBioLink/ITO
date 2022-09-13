@@ -1,0 +1,2 @@
+blazegraph:
+  endpoint: "http://193.171.177.138:9999/blazegraph/namespace/ito/sparql"
