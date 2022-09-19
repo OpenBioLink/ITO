@@ -1,2 +1,40 @@
 blazegraph:
   endpoint: "http://193.171.177.138:9999/blazegraph/namespace/ito/sparql"
+
+
+# Filtering operations
+# Order 1) expand 2) remove 3) merge 4) shorten
+# expand when value in plot
+expand_list:
+- Natural language analysis // Pragmatics analysis
+- Natural language analysis // Semantic analysis
+# remove altogether
+remove_list:
+- Cross-lingual natural language processing
+- Dialog process
+- Natural Language Transduction
+- Natural language generation // Task-oriented dialog systems
+- Text-to-image generation
+# merge values to key
+merge_dict:
+  Natural language analysis // Pragmatics analysis // Fact verification, Fake news detection:
+  - Natural language analysis // Pragmatics analysis // Fact verification
+  - Natural language analysis // Pragmatics analysis // Fake news detection
+  Natural language analysis // Pragmatics analysis // Intent & humor detection:
+  - Natural language analysis // Pragmatics analysis // Humor detection
+  - Natural language analysis // Pragmatics analysis // Intent detection
+  Natural language analysis // Semantic analysis // Cross-lingual document classification & mining:
+  - Natural language analysis // Semantic analysis // Cross-lingual bitext mining
+  - Natural language analysis // Semantic analysis // Cross-lingual document classification
+  Natural language analysis // Semantic analysis // Dialog act classification & state tracking:
+  - Natural language analysis // Semantic analysis // Dialog act classification
+  - Natural language analysis // Semantic analysis // Dialog state tracking
+  Natural language analysis // Semantic analysis // Entity typing, alignment & linking:
+  - Natural language analysis // Semantic analysis // Entity alignment
+  - Natural language analysis // Semantic analysis // Entity disambiguation
+  - Natural language analysis // Semantic analysis // Entity linking
+  - Natural language analysis // Semantic analysis // Entity typing
+# rename values to key (text replacement across all labels)
+shortening_dict:
+  Analysis: Natural language analysis
+  Generation: Natural language generation
