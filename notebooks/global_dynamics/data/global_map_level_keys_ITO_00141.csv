@@ -96,17 +96,17 @@ Natural language generation // Machine translation,Natural language generation,M
 Natural language generation // Machine translation,Natural language generation,Machine translation,Machine translation,Machine translation
 Natural language generation // Machine translation,Natural language generation,Machine translation,Unsupervised machine translation,Unsupervised machine translation
 Natural language generation // Question answering,Natural language generation,Question answering,Question answering,Question answering
-Natural language generation // Question answering,Natural language generation,Question answering,Video question answering,Video question answering
-Natural language generation // Question answering,Natural language generation,Question answering,Image question answering,Image question answering
-Natural language generation // Question answering,Natural language generation,Question answering,Generative question answering,Generative question answering
-Natural language generation // Question answering,Natural language generation,Question answering,Open-domain question answering,Open-domain question answering
-Natural language generation // Question answering,Natural language generation,Question answering,Mathematical question answering,Math word problem solving
+Natural language generation // Question answering // Generative question answering,Natural language generation,Question answering,Generative question answering,Generative question answering
+Natural language generation // Question answering // Image question answering,Natural language generation,Question answering,Image question answering,Image question answering
+Natural language generation // Question answering // Mathematical question answering,Natural language generation,Question answering,Mathematical question answering,Math word problem solving
+Natural language generation // Question answering // Open-domain question answering,Natural language generation,Question answering,Open-domain question answering,Open-domain question answering
+Natural language generation // Question answering // Video question answering,Natural language generation,Question answering,Video question answering,Video question answering
 Natural language generation // Question generation,Natural language generation,Question generation,Question generation,Question generation
 Natural language generation // Task-oriented dialog systems,Natural language generation,Task-oriented dialog systems,Task-oriented dialog systems,Task-oriented dialog systems
-Natural language generation // Text generation,Natural language generation,Text generation,Data-to-text generation,Data-to-text generation
 Natural language generation // Text generation,Natural language generation,Text generation,Multi-document summarization,Multi-document summarization
 Natural language generation // Text generation,Natural language generation,Text generation,Dialog generation,Dialog generation
 Natural language generation // Text generation,Natural language generation,Text generation,Data-to-text generation,KG-to-text generation
+Natural language generation // Text generation,Natural language generation,Text generation,Data-to-text generation,Data-to-text generation
 Natural language generation // Text generation,Natural language generation,Text generation,Text generation,Text generation
 Natural language generation // Text generation,Natural language generation,Text generation,Text style transfer,Text style transfer
 Natural language generation // Text simplification,Natural language generation,Text simplification,Text simplification,Text simplification
