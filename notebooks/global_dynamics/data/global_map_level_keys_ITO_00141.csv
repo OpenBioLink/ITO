@@ -1,137 +1,122 @@
 level_key,l1,l2,l3,task
-Cross-lingual natural language processing,Cross-lingual natural language processing,Cross-lingual bitext mining,Cross-lingual bitext mining,Cross-lingual bitext mining
-Cross-lingual natural language processing,Cross-lingual natural language processing,Cross-lingual natural language inference,Cross-lingual natural language inference,Cross-lingual natural language inference
-Cross-lingual natural language processing,Cross-lingual natural language processing,Cross-lingual transfer,Cross-lingual NER,Cross-lingual NER
-Cross-lingual natural language processing,Cross-lingual natural language processing,Cross-lingual transfer,Zero-shot cross-lingual transfer,Zero-shot cross-lingual transfer
-Cross-lingual natural language processing,Cross-lingual natural language processing,Cross-lingual document classification,Cross-lingual document classification,Cross-lingual document classification
-Dialog process,Dialog process,Visual dialog,Visual dialog,Visual dialog
-Dialog process,Dialog process,Dialog understanding,Spoken language understanding,Spoken language understanding
-Dialog process,Dialog process,Dialog state tracking,Dialog state tracking,Dialog state tracking
-Dialog process,Dialog process,Dialog generation,Dialog generation,Dialog generation
-Dialog process,Dialog process,Dialog act classification,Dialog act classification,Dialog act classification
-Dialog process,Dialog process,Task-oriented dialog systems,Task-oriented dialog systems,Task-oriented dialog systems
-Dialog process,Dialog process,End-to-end dialogue modelling,End-to-end dialogue modelling,End-to-end dialogue modelling
-Natural Language Transduction,Natural Language Transduction,Lip reading,Lip reading,Lip reading
-Natural language analysis // Entity Resolution,Natural language analysis,Entity Resolution,Entity Resolution,Entity Resolution
-Natural language analysis // Information extraction,Natural language analysis,Information extraction,Relation extraction,Relation extraction
-Natural language analysis // Information extraction,Natural language analysis,Information extraction,Relation extraction,Relationship extraction using distant supervision
-Natural language analysis // Information extraction,Natural language analysis,Information extraction,Named entity recognition,Named entity recognition
-Natural language analysis // Information extraction,Natural language analysis,Information extraction,Named entity recognition,Chinese named entity recognition
-Natural language analysis // Information extraction,Natural language analysis,Information extraction,Entity extraction,Joint entity and relation extraction
-Natural language analysis // Information extraction,Natural language analysis,Information extraction,Named entity recognition,Medical named entity recognition
-Natural language analysis // Information extraction,Natural language analysis,Information extraction,Relation extraction,Dialog relation extraction
-Natural language analysis // Information extraction,Natural language analysis,Information extraction,Participant intervention comparison outcome extraction,Participant intervention comparison outcome extraction
-Natural language analysis // Information extraction,Natural language analysis,Information extraction,Named entity recognition,Nested named entity recognition
-Natural language analysis // Information extraction,Natural language analysis,Information extraction,Relation extraction,Relation classification
-Natural language analysis // Information retrieval,Natural language analysis,Information retrieval,Conversational response selection,Conversational response selection
-Natural language analysis // Information retrieval,Natural language analysis,Information retrieval,Passage Retrieval,Passage Retrieval
-Natural language analysis // Information retrieval,Natural language analysis,Information retrieval,Ad-hoc information retrieval,Ad-hoc information retrieval
-Natural language analysis // Morphological analysis,Natural language analysis,Morphological analysis,Lexical normalization,Lexical normalization
-Natural language analysis // Pragmatics analysis // Coreference resolution,Natural language analysis,Pragmatics analysis,Coreference resolution,Coreference resolution
-Natural language analysis // Pragmatics analysis // Emotion recognition,Natural language analysis,Pragmatics analysis,Emotion recognition,Emotion recognition in conversation
-Natural language analysis // Pragmatics analysis // Emotion recognition,Natural language analysis,Pragmatics analysis,Emotion recognition,Speech emotion recognition
-Natural language analysis // Pragmatics analysis // Emotion recognition,Natural language analysis,Pragmatics analysis,Emotion recognition,Emotion-cause pair extraction
-Natural language analysis // Pragmatics analysis // Emotion recognition,Natural language analysis,Pragmatics analysis,Emotion recognition,Emotion recognition
-Natural language analysis // Pragmatics analysis // Fact verification,Natural language analysis,Pragmatics analysis,Fact verification,Fact verification
-Natural language analysis // Pragmatics analysis // Fake news detection,Natural language analysis,Pragmatics analysis,Fake news detection,Fake news detection
-Natural language analysis // Pragmatics analysis // Humor detection,Natural language analysis,Pragmatics analysis,Humor detection,Humor detection
-Natural language analysis // Pragmatics analysis // Intent detection,Natural language analysis,Pragmatics analysis,Intent detection,Intent detection
-Natural language analysis // Pragmatics analysis // Paraphrase identification,Natural language analysis,Pragmatics analysis,Paraphrase identification,Paraphrase identification
-Natural language analysis // Pragmatics analysis // Sentiment analysis,Natural language analysis,Pragmatics analysis,Sentiment analysis,Sentiment analysis
-Natural language analysis // Pragmatics analysis // Sentiment analysis,Natural language analysis,Pragmatics analysis,Sentiment analysis,Multimodal sentiment analysis
-Natural language analysis // Pragmatics analysis // Sentiment analysis,Natural language analysis,Pragmatics analysis,Sentiment analysis,Aspect term extraction and sentiment classification
-Natural language analysis // Pragmatics analysis // Sentiment analysis,Natural language analysis,Pragmatics analysis,Sentiment analysis,Aspect-based sentiment analysis
-Natural language analysis // Pragmatics analysis // Sentiment analysis,Natural language analysis,Pragmatics analysis,Sentiment analysis,Aspect extraction
-Natural language analysis // Pragmatics analysis // Sentiment analysis,Natural language analysis,Pragmatics analysis,Sentiment analysis,Aspect sentiment triplet extraction
-Natural language analysis // Pragmatics analysis // Sentiment analysis,Natural language analysis,Pragmatics analysis,Sentiment analysis,Aspect-oriented  opinion extraction
-Natural language analysis // Semantic analysis // Cross-lingual bitext mining,Natural language analysis,Semantic analysis,Cross-lingual bitext mining,Cross-lingual bitext mining
-Natural language analysis // Semantic analysis // Cross-lingual document classification,Natural language analysis,Semantic analysis,Cross-lingual document classification,Cross-lingual document classification
-Natural language analysis // Semantic analysis // Dialog act classification,Natural language analysis,Semantic analysis,Dialog act classification,Dialog act classification
-Natural language analysis // Semantic analysis // Dialog state tracking,Natural language analysis,Semantic analysis,Dialog state tracking,Dialog state tracking
-Natural language analysis // Semantic analysis // Entity alignment,Natural language analysis,Semantic analysis,Entity alignment,Entity alignment
-Natural language analysis // Semantic analysis // Entity disambiguation,Natural language analysis,Semantic analysis,Entity disambiguation,Entity disambiguation
-Natural language analysis // Semantic analysis // Entity linking,Natural language analysis,Semantic analysis,Entity linking,Entity linking
-Natural language analysis // Semantic analysis // Entity typing,Natural language analysis,Semantic analysis,Entity typing,Entity typing
-Natural language analysis // Semantic analysis // Semantic parsing,Natural language analysis,Semantic analysis,Semantic parsing,Semantic parsing
-Natural language analysis // Semantic analysis // Semantic parsing,Natural language analysis,Semantic analysis,Semantic parsing,Semantic dependency parsing
-Natural language analysis // Semantic analysis // Semantic parsing,Natural language analysis,Semantic analysis,Semantic parsing,UCCA parsing
-Natural language analysis // Semantic analysis // Semantic parsing,Natural language analysis,Semantic analysis,Semantic parsing,AMR parsing
-Natural language analysis // Semantic analysis // Semantic parsing,Natural language analysis,Semantic analysis,Semantic parsing,DRS parsing
-Natural language analysis // Semantic analysis // Semantic role labeling,Natural language analysis,Semantic analysis,Semantic role labeling,Semantic role labeling
-Natural language analysis // Semantic analysis // Semantic textual similarity,Natural language analysis,Semantic analysis,Semantic textual similarity,Semantic textual similarity
-Natural language analysis // Semantic analysis // Semantic textual similarity,Natural language analysis,Semantic analysis,Semantic textual similarity,Paraphrase identification
-Natural language analysis // Semantic analysis // Text classification,Natural language analysis,Semantic analysis,Text classification,Text classification
-Natural language analysis // Semantic analysis // Text classification,Natural language analysis,Semantic analysis,Text classification,Sentence classification
-Natural language analysis // Semantic analysis // Text classification,Natural language analysis,Semantic analysis,Text classification,Learning with noisy labels
-Natural language analysis // Semantic analysis // Text classification,Natural language analysis,Semantic analysis,Text classification,Rumor Detection
-Natural language analysis // Semantic analysis // Text classification,Natural language analysis,Semantic analysis,Text classification,Emotion classification
-Natural language analysis // Semantic analysis // Text classification,Natural language analysis,Semantic analysis,Text classification,Document classification
-Natural language analysis // Semantic analysis // Text classification,Natural language analysis,Semantic analysis,Text classification,Coherence evaluation
-Natural language analysis // Semantic analysis // Text classification,Natural language analysis,Semantic analysis,Text classification,Citation intent classification
-Natural language analysis // Semantic analysis // Text classification,Natural language analysis,Semantic analysis,Text classification,Automated Essay Scoring
-Natural language analysis // Semantic analysis // Text classification,Natural language analysis,Semantic analysis,Text classification,Multi-label text classification
-Natural language analysis // Semantic analysis // Text clustering,Natural language analysis,Semantic analysis,Text clustering,Short text clustering
-Natural language analysis // Semantic analysis // Word sense disambiguation,Natural language analysis,Semantic analysis,Word sense disambiguation,Word sense disambiguation
-Natural language analysis // Semantic analysis // Word sense disambiguation,Natural language analysis,Semantic analysis,Word sense disambiguation,Word sense induction
-Natural language analysis // Sentence embedding,Natural language analysis,Sentence embedding,Sentence embeddings for biomedical texts,Sentence embeddings for biomedical texts
-Natural language analysis // Sentence embedding,Natural language analysis,Sentence embedding,Sentence compression,Sentence compression
-Natural language analysis // Syntactic analysis,Natural language analysis,Syntactic analysis,Text diacritization,Arabic text diacritization
-Natural language analysis // Syntactic analysis,Natural language analysis,Syntactic analysis,Grammar checking,Grammatical error detection
-Natural language analysis // Syntactic analysis,Natural language analysis,Syntactic analysis,Grammar checking,Grammatical error correction
-Natural language analysis // Syntactic analysis,Natural language analysis,Syntactic analysis,Dependency parsing,Dependency parsing
-Natural language analysis // Syntactic analysis,Natural language analysis,Syntactic analysis,Part-of-speech tagging,Part-of-speech tagging
-Natural language analysis // Syntactic analysis,Natural language analysis,Syntactic analysis,Grammar checking,Linguistic acceptability assessment
-Natural language analysis // Syntactic analysis,Natural language analysis,Syntactic analysis,Constituency parsing,Constituency grammar induction
-Natural language analysis // Syntactic analysis,Natural language analysis,Syntactic analysis,Chunking,Chunking
-Natural language analysis // Syntactic analysis,Natural language analysis,Syntactic analysis,Constituency parsing,Constituency parsing
-Natural language generation // Image captioning,Natural language generation,Image captioning,Image captioning,Image captioning
-Natural language generation // Image captioning,Natural language generation,Image captioning,Phrase grounding,Phrase grounding
-Natural language generation // Language modelling,Natural language generation,Language modelling,Speech recognition,Speech recognition
-Natural language generation // Language modelling,Natural language generation,Language modelling,Speech recognition,Speech emotion recognition
-Natural language generation // Language modelling,Natural language generation,Language modelling,Long-range modeling,Long-range modeling
-Natural language generation // Language modelling,Natural language generation,Language modelling,Speech recognition,Noisy speech recognition
-Natural language generation // Language modelling,Natural language generation,Language modelling,Speech recognition,Speech-to-text translation
-Natural language generation // Language modelling,Natural language generation,Language modelling,Language modelling,Language modelling
-Natural language generation // Machine translation,Natural language generation,Machine translation,Multimodal machine translation,Multimodal machine translation
-Natural language generation // Machine translation,Natural language generation,Machine translation,Machine translation,Machine translation
-Natural language generation // Machine translation,Natural language generation,Machine translation,Unsupervised machine translation,Unsupervised machine translation
-Natural language generation // Question answering,Natural language generation,Question answering,Question answering,Question answering
-Natural language generation // Question answering,Natural language generation,Question answering,Video question answering,Video question answering
-Natural language generation // Question answering,Natural language generation,Question answering,Image question answering,Image question answering
-Natural language generation // Question answering,Natural language generation,Question answering,Generative question answering,Generative question answering
-Natural language generation // Question answering,Natural language generation,Question answering,Open-domain question answering,Open-domain question answering
-Natural language generation // Question answering,Natural language generation,Question answering,Mathematical question answering,Math word problem solving
-Natural language generation // Question generation,Natural language generation,Question generation,Question generation,Question generation
-Natural language generation // Task-oriented dialog systems,Natural language generation,Task-oriented dialog systems,Task-oriented dialog systems,Task-oriented dialog systems
-Natural language generation // Text generation,Natural language generation,Text generation,Data-to-text generation,Data-to-text generation
-Natural language generation // Text generation,Natural language generation,Text generation,Multi-document summarization,Multi-document summarization
-Natural language generation // Text generation,Natural language generation,Text generation,Dialog generation,Dialog generation
-Natural language generation // Text generation,Natural language generation,Text generation,Data-to-text generation,KG-to-text generation
-Natural language generation // Text generation,Natural language generation,Text generation,Text generation,Text generation
-Natural language generation // Text generation,Natural language generation,Text generation,Text style transfer,Text style transfer
-Natural language generation // Text simplification,Natural language generation,Text simplification,Text simplification,Text simplification
-Natural language generation // Text summarization,Natural language generation,Text summarization,Text summarization,Text summarization
-Natural language generation // Text summarization,Natural language generation,Text summarization,Sentence summarization,Sentence compression
-Natural language generation // Text summarization,Natural language generation,Text summarization,Reasoning,Visual reasoning
-Natural language generation // Text summarization,Natural language generation,Text summarization,Reasoning,Type prediction
-Natural language generation // Text summarization,Natural language generation,Text summarization,Reasoning,Program repair
-Natural language generation // Text summarization,Natural language generation,Text summarization,Reasoning,Visual Entailment
-Natural language generation // Text summarization,Natural language generation,Text summarization,Reasoning,Natural language inference
-Natural language generation // Text summarization,Natural language generation,Text summarization,Extractive text summarization,Extractive text summarization
-Natural language generation // Text summarization,Natural language generation,Text summarization,Document summarization,Document summarization
-Natural language generation // Text summarization,Natural language generation,Text summarization,Reasoning,Common sense reasoning
-Natural language generation // Text summarization,Natural language generation,Text summarization,Reasoning,Automated theorem proving
-Natural language generation // Text summarization,Natural language generation,Text summarization,Multi-document summarization,Multi-document summarization
-Natural language generation // Text summarization,Natural language generation,Text summarization,Abstractive text summarization,Abstractive text summarization
-Natural language generation // Text summarization,Natural language generation,Text summarization,Reasoning,Cross-lingual natural language inference
-Natural language generation // Text summarization,Natural language generation,Text summarization,Reasoning,Math word problem solving
-Natural language generation // Text-to-speech synthesis,Natural language generation,Text-to-speech synthesis,Text-to-speech synthesis,Text-to-speech synthesis
+Analysis // Entity Resolution,Natural language analysis,Entity Resolution,Entity Resolution,Entity Resolution
+Analysis // Information extraction,Natural language analysis,Information extraction,Relation extraction,Relation extraction
+Analysis // Information extraction,Natural language analysis,Information extraction,Relation extraction,Relationship extraction using distant supervision
+Analysis // Information extraction,Natural language analysis,Information extraction,Named entity recognition,Named entity recognition
+Analysis // Information extraction,Natural language analysis,Information extraction,Named entity recognition,Chinese named entity recognition
+Analysis // Information extraction,Natural language analysis,Information extraction,Entity extraction,Joint entity and relation extraction
+Analysis // Information extraction,Natural language analysis,Information extraction,Named entity recognition,Medical named entity recognition
+Analysis // Information extraction,Natural language analysis,Information extraction,Relation extraction,Dialog relation extraction
+Analysis // Information extraction,Natural language analysis,Information extraction,Participant intervention comparison outcome extraction,Participant intervention comparison outcome extraction
+Analysis // Information extraction,Natural language analysis,Information extraction,Named entity recognition,Nested named entity recognition
+Analysis // Information extraction,Natural language analysis,Information extraction,Relation extraction,Relation classification
+Analysis // Information retrieval,Natural language analysis,Information retrieval,Conversational response selection,Conversational response selection
+Analysis // Information retrieval,Natural language analysis,Information retrieval,Passage Retrieval,Passage Retrieval
+Analysis // Information retrieval,Natural language analysis,Information retrieval,Ad-hoc information retrieval,Ad-hoc information retrieval
+Analysis // Morphological analysis,Natural language analysis,Morphological analysis,Lexical normalization,Lexical normalization
+Analysis // Pragmatics analysis // Coreference resolution,Natural language analysis,Pragmatics analysis,Coreference resolution,Coreference resolution
+Analysis // Pragmatics analysis // Emotion recognition,Natural language analysis,Pragmatics analysis,Emotion recognition,Speech emotion recognition
+Analysis // Pragmatics analysis // Emotion recognition,Natural language analysis,Pragmatics analysis,Emotion recognition,Emotion recognition in conversation
+Analysis // Pragmatics analysis // Emotion recognition,Natural language analysis,Pragmatics analysis,Emotion recognition,Emotion-cause pair extraction
+Analysis // Pragmatics analysis // Emotion recognition,Natural language analysis,Pragmatics analysis,Emotion recognition,Emotion recognition
+"Analysis // Pragmatics analysis // Fact verification, Fake news detection",Natural language analysis,Pragmatics analysis,Fake news detection,Fake news detection
+"Analysis // Pragmatics analysis // Fact verification, Fake news detection",Natural language analysis,Pragmatics analysis,Fact verification,Fact verification
+Analysis // Pragmatics analysis // Intent & humor detection,Natural language analysis,Pragmatics analysis,Intent detection,Intent detection
+Analysis // Pragmatics analysis // Intent & humor detection,Natural language analysis,Pragmatics analysis,Humor detection,Humor detection
+Analysis // Pragmatics analysis // Paraphrase identification,Natural language analysis,Pragmatics analysis,Paraphrase identification,Paraphrase identification
+Analysis // Pragmatics analysis // Sentiment analysis,Natural language analysis,Pragmatics analysis,Sentiment analysis,Sentiment analysis
+Analysis // Pragmatics analysis // Sentiment analysis,Natural language analysis,Pragmatics analysis,Sentiment analysis,Multimodal sentiment analysis
+Analysis // Pragmatics analysis // Sentiment analysis,Natural language analysis,Pragmatics analysis,Sentiment analysis,Aspect term extraction and sentiment classification
+Analysis // Pragmatics analysis // Sentiment analysis,Natural language analysis,Pragmatics analysis,Sentiment analysis,Aspect-based sentiment analysis
+Analysis // Pragmatics analysis // Sentiment analysis,Natural language analysis,Pragmatics analysis,Sentiment analysis,Aspect extraction
+Analysis // Pragmatics analysis // Sentiment analysis,Natural language analysis,Pragmatics analysis,Sentiment analysis,Aspect sentiment triplet extraction
+Analysis // Pragmatics analysis // Sentiment analysis,Natural language analysis,Pragmatics analysis,Sentiment analysis,Aspect-oriented  opinion extraction
+Analysis // Semantic analysis // Cross-lingual document classification & mining,Natural language analysis,Semantic analysis,Cross-lingual document classification,Cross-lingual document classification
+Analysis // Semantic analysis // Cross-lingual document classification & mining,Natural language analysis,Semantic analysis,Cross-lingual bitext mining,Cross-lingual bitext mining
+Analysis // Semantic analysis // Dialog act classification & state tracking,Natural language analysis,Semantic analysis,Dialog state tracking,Dialog state tracking
+Analysis // Semantic analysis // Dialog act classification & state tracking,Natural language analysis,Semantic analysis,Dialog act classification,Dialog act classification
+"Analysis // Semantic analysis // Entity typing, alignment & linking",Natural language analysis,Semantic analysis,Entity linking,Entity linking
+"Analysis // Semantic analysis // Entity typing, alignment & linking",Natural language analysis,Semantic analysis,Entity typing,Entity typing
+"Analysis // Semantic analysis // Entity typing, alignment & linking",Natural language analysis,Semantic analysis,Entity disambiguation,Entity disambiguation
+"Analysis // Semantic analysis // Entity typing, alignment & linking",Natural language analysis,Semantic analysis,Entity alignment,Entity alignment
+Analysis // Semantic analysis // Semantic parsing,Natural language analysis,Semantic analysis,Semantic parsing,Semantic parsing
+Analysis // Semantic analysis // Semantic parsing,Natural language analysis,Semantic analysis,Semantic parsing,Semantic dependency parsing
+Analysis // Semantic analysis // Semantic parsing,Natural language analysis,Semantic analysis,Semantic parsing,UCCA parsing
+Analysis // Semantic analysis // Semantic parsing,Natural language analysis,Semantic analysis,Semantic parsing,AMR parsing
+Analysis // Semantic analysis // Semantic parsing,Natural language analysis,Semantic analysis,Semantic parsing,DRS parsing
+Analysis // Semantic analysis // Semantic role labeling,Natural language analysis,Semantic analysis,Semantic role labeling,Semantic role labeling
+Analysis // Semantic analysis // Semantic textual similarity,Natural language analysis,Semantic analysis,Semantic textual similarity,Semantic textual similarity
+Analysis // Semantic analysis // Semantic textual similarity,Natural language analysis,Semantic analysis,Semantic textual similarity,Paraphrase identification
+Analysis // Semantic analysis // Text classification,Natural language analysis,Semantic analysis,Text classification,Text classification
+Analysis // Semantic analysis // Text classification,Natural language analysis,Semantic analysis,Text classification,Sentence classification
+Analysis // Semantic analysis // Text classification,Natural language analysis,Semantic analysis,Text classification,Rumor Detection
+Analysis // Semantic analysis // Text classification,Natural language analysis,Semantic analysis,Text classification,Learning with noisy labels
+Analysis // Semantic analysis // Text classification,Natural language analysis,Semantic analysis,Text classification,Emotion classification
+Analysis // Semantic analysis // Text classification,Natural language analysis,Semantic analysis,Text classification,Document classification
+Analysis // Semantic analysis // Text classification,Natural language analysis,Semantic analysis,Text classification,Coherence evaluation
+Analysis // Semantic analysis // Text classification,Natural language analysis,Semantic analysis,Text classification,Citation intent classification
+Analysis // Semantic analysis // Text classification,Natural language analysis,Semantic analysis,Text classification,Automated Essay Scoring
+Analysis // Semantic analysis // Text classification,Natural language analysis,Semantic analysis,Text classification,Multi-label text classification
+Analysis // Semantic analysis // Text clustering,Natural language analysis,Semantic analysis,Text clustering,Short text clustering
+Analysis // Semantic analysis // Word sense disambiguation,Natural language analysis,Semantic analysis,Word sense disambiguation,Word sense disambiguation
+Analysis // Semantic analysis // Word sense disambiguation,Natural language analysis,Semantic analysis,Word sense disambiguation,Word sense induction
+Analysis // Sentence embedding,Natural language analysis,Sentence embedding,Sentence embeddings for biomedical texts,Sentence embeddings for biomedical texts
+Analysis // Sentence embedding,Natural language analysis,Sentence embedding,Sentence compression,Sentence compression
+Analysis // Syntactic analysis,Natural language analysis,Syntactic analysis,Dependency parsing,Dependency parsing
+Analysis // Syntactic analysis,Natural language analysis,Syntactic analysis,Grammar checking,Grammatical error detection
+Analysis // Syntactic analysis,Natural language analysis,Syntactic analysis,Grammar checking,Grammatical error correction
+Analysis // Syntactic analysis,Natural language analysis,Syntactic analysis,Text diacritization,Arabic text diacritization
+Analysis // Syntactic analysis,Natural language analysis,Syntactic analysis,Part-of-speech tagging,Part-of-speech tagging
+Analysis // Syntactic analysis,Natural language analysis,Syntactic analysis,Grammar checking,Linguistic acceptability assessment
+Analysis // Syntactic analysis,Natural language analysis,Syntactic analysis,Constituency parsing,Constituency grammar induction
+Analysis // Syntactic analysis,Natural language analysis,Syntactic analysis,Chunking,Chunking
+Analysis // Syntactic analysis,Natural language analysis,Syntactic analysis,Constituency parsing,Constituency parsing
+Generation // Image captioning,Natural language generation,Image captioning,Image captioning,Image captioning
+Generation // Image captioning,Natural language generation,Image captioning,Phrase grounding,Phrase grounding
+Generation // Language modelling,Natural language generation,Language modelling,Speech recognition,Speech recognition
+Generation // Language modelling,Natural language generation,Language modelling,Speech recognition,Speech emotion recognition
+Generation // Language modelling,Natural language generation,Language modelling,Long-range modeling,Long-range modeling
+Generation // Language modelling,Natural language generation,Language modelling,Speech recognition,Noisy speech recognition
+Generation // Language modelling,Natural language generation,Language modelling,Speech recognition,Speech-to-text translation
+Generation // Language modelling,Natural language generation,Language modelling,Language modelling,Language modelling
+Generation // Machine translation,Natural language generation,Machine translation,Multimodal machine translation,Multimodal machine translation
+Generation // Machine translation,Natural language generation,Machine translation,Machine translation,Machine translation
+Generation // Machine translation,Natural language generation,Machine translation,Unsupervised machine translation,Unsupervised machine translation
+Generation // Question answering,Natural language generation,Question answering,Question answering,Question answering
+Generation // Question answering,Natural language generation,Question answering,Video question answering,Video question answering
+Generation // Question answering,Natural language generation,Question answering,Image question answering,Image question answering
+Generation // Question answering,Natural language generation,Question answering,Generative question answering,Generative question answering
+Generation // Question answering,Natural language generation,Question answering,Open-domain question answering,Open-domain question answering
+Generation // Question answering,Natural language generation,Question answering,Mathematical question answering,Math word problem solving
+Generation // Question generation,Natural language generation,Question generation,Question generation,Question generation
+Generation // Text generation,Natural language generation,Text generation,Multi-document summarization,Multi-document summarization
+Generation // Text generation,Natural language generation,Text generation,Dialog generation,Dialog generation
+Generation // Text generation,Natural language generation,Text generation,Data-to-text generation,KG-to-text generation
+Generation // Text generation,Natural language generation,Text generation,Data-to-text generation,Data-to-text generation
+Generation // Text generation,Natural language generation,Text generation,Text generation,Text generation
+Generation // Text generation,Natural language generation,Text generation,Text style transfer,Text style transfer
+Generation // Text simplification,Natural language generation,Text simplification,Text simplification,Text simplification
+Generation // Text summarization,Natural language generation,Text summarization,Text summarization,Text summarization
+Generation // Text summarization,Natural language generation,Text summarization,Sentence summarization,Sentence compression
+Generation // Text summarization,Natural language generation,Text summarization,Reasoning,Visual reasoning
+Generation // Text summarization,Natural language generation,Text summarization,Reasoning,Type prediction
+Generation // Text summarization,Natural language generation,Text summarization,Reasoning,Program repair
+Generation // Text summarization,Natural language generation,Text summarization,Reasoning,Visual Entailment
+Generation // Text summarization,Natural language generation,Text summarization,Reasoning,Natural language inference
+Generation // Text summarization,Natural language generation,Text summarization,Extractive text summarization,Extractive text summarization
+Generation // Text summarization,Natural language generation,Text summarization,Document summarization,Document summarization
+Generation // Text summarization,Natural language generation,Text summarization,Reasoning,Common sense reasoning
+Generation // Text summarization,Natural language generation,Text summarization,Reasoning,Automated theorem proving
+Generation // Text summarization,Natural language generation,Text summarization,Multi-document summarization,Multi-document summarization
+Generation // Text summarization,Natural language generation,Text summarization,Abstractive text summarization,Abstractive text summarization
+Generation // Text summarization,Natural language generation,Text summarization,Reasoning,Cross-lingual natural language inference
+Generation // Text summarization,Natural language generation,Text summarization,Reasoning,Math word problem solving
+Generation // Text-to-speech synthesis,Natural language generation,Text-to-speech synthesis,Text-to-speech synthesis,Text-to-speech synthesis
 Natural language understanding,Natural language understanding,Inference and reasoning,Natural language inference,Natural language inference
+Natural language understanding,Natural language understanding,Inference and reasoning,Reading comprehension,Reading comprehension
+Natural language understanding,Natural language understanding,Natural language understanding,Natural language understanding,Natural language understanding
 Natural language understanding,Natural language understanding,Inference and reasoning,Table-based fact verification,Table-based fact verification
 Natural language understanding,Natural language understanding,Inference and reasoning,Natural language inference,Visual Entailment
-Natural language understanding,Natural language understanding,Natural language understanding,Natural language understanding,Natural language understanding
-Natural language understanding,Natural language understanding,Inference and reasoning,Reading comprehension,Reading comprehension
-Natural language understanding,Natural language understanding,Inference and reasoning,Natural language inference,Cross-lingual natural language inference
 Natural language understanding,Natural language understanding,Discourse parsing,Discourse parsing,Discourse parsing
+Natural language understanding,Natural language understanding,Inference and reasoning,Natural language inference,Cross-lingual natural language inference
 Natural language understanding,Natural language understanding,Dialog understanding,Spoken language understanding,Spoken language understanding
-Text-to-image generation,Text-to-image generation,Text-to-image generation,Text-to-image generation,Text-to-image generation
