@@ -15,6 +15,7 @@ remove_list:
 - Natural Language Transduction
 - Natural language generation // Task-oriented dialog systems
 - Text-to-image generation
+- Natural language analysis // Entity Resolution
 # merge values to key
 merge_dict:
   Natural language analysis // Pragmatics analysis // Fact verification, Fake news detection:
