@@ -2,11 +2,11 @@
 
 ## Analysing ITO
 
+**/global-dynamics:** Analyses and visualizations for the ["Mapping global dynamics of benchmark creation and saturation in artificial intelligence"](https://arxiv.org/abs/2203.04592) manuscript. 
+
 **/descriptive_statistics_v0.92:** Generate basic descriptive statistics of the ontology and knowledge graph
 
 **/adriano_trajectories_notebooks:** Analyses of benchmark dynamics and AI performance trajectories
-
-**/barbosa-silva-etal-2022:** Analyses and visualizations of AI benchmark dynamics 
 
 ## Related analyses
 
